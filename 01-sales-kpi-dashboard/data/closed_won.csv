@@ -1,0 +1,30 @@
+deal_id,deal_name,owner,pipeline,product,quantity,amount,deal_source,stage,forecast_category,create_date,close_date,sales_cycle_days,region,weighted_amount,close_month,close_quarter
+D5004,Harbor Institute - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,5,2850.0,Inbound Organic,Closed Won,CLOSED,2026-08-01,2026-08-24,23,Europe,2850.0,2026-08,Q3
+D5015,Ridgeway Therapeutics - Neural Media Kit,Jordan Pike,Sales,Neural Media Kit,4,4320.0,Webinars,Closed Won,CLOSED,2026-03-16,2026-04-13,28,United States,4320.0,2026-04,Q2
+D5018,Summit Therapeutics - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,7,3780.0,Inside Sales,Closed Won,CLOSED,2026-09-30,2026-11-12,43,United States,3780.0,2026-11,Q4
+D5020,Granite Institute - Endothelial Cells 1x10^6,Avery Stone,Sales,Endothelial Cells 1x10^6,2,1500.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-13,2026-07-03,51,United States,1500.0,2026-07,Q3
+D5023,Willow Therapeutics - Expansion Medium Kit,Casey Lund,Sales,Expansion Medium Kit,5,945.25,Field Sales Prospecting,Closed Won,CLOSED,2026-07-05,2026-07-31,26,United States,945.25,2026-07,Q3
+D5028,Evergreen University - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,6,570.0,Webinars,Closed Won,CLOSED,2026-08-19,2026-09-25,37,United States,570.0,2026-09,Q3
+D5033,Ridgeway Institute - Expansion Medium Kit,Avery Stone,Sales,Expansion Medium Kit,1,189.05,Large Conferences,Closed Won,CLOSED,2026-05-17,2026-06-26,40,Canada,189.05,2026-06,Q2
+D5034,Atlas Therapeutics - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-24,2026-11-03,10,United States,3600.0,2026-11,Q4
+D5035,Evergreen Research Labs - Neural Media Kit,Avery Stone,Sales,Neural Media Kit,6,7200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-15,2026-09-10,26,United States,7200.0,2026-09,Q3
+D5036,Evergreen Biologics - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,5,1350.0,Inbound Organic,Closed Won,CLOSED,2026-04-05,2026-05-16,41,United States,1350.0,2026-05,Q2
+D5040,Bluestone Institute - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,3,810.0,Referral/Other,Closed Won,CLOSED,2026-03-17,2026-04-15,29,United States,810.0,2026-04,Q2
+D5041,Atlas University - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,4,2700.0,Large Conferences,Closed Won,CLOSED,2026-10-03,2026-10-31,28,Canada,2700.0,2026-10,Q4
+D5042,Summit Institute - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,3,270.0,Webinars,Closed Won,CLOSED,2026-08-03,2026-09-05,33,United States,270.0,2026-09,Q3
+D5053,Harbor University - Vascular Media Kit,Casey Lund,Sales,Vascular Media Kit,2,540.0,Inbound Organic,Closed Won,CLOSED,2026-06-18,2026-06-26,8,United States,540.0,2026-06,Q2
+D5060,Northbridge University - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,7,5250.0,Inside Sales,Closed Won,CLOSED,2026-06-10,2026-07-22,42,United States,5250.0,2026-07,Q3
+D5064,Cedar Research Labs - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,6,1134.3,Large Conferences,Closed Won,CLOSED,2026-09-12,2026-09-25,13,United States,1134.3,2026-09,Q3
+D5066,Bluestone Research Labs - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,1,100.0,Inside Sales,Closed Won,CLOSED,2026-01-08,2026-01-25,17,United States,100.0,2026-01,Q1
+D5078,Bluestone University - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,3,810.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-28,2026-11-22,25,United States,810.0,2026-11,Q4
+D5084,Cedar Institute - Expansion Medium Kit,Casey Lund,Sales,Expansion Medium Kit,5,945.25,Webinars,Closed Won,CLOSED,2026-01-31,2026-02-21,21,United States,945.25,2026-02,Q1
+D5088,Cedar University - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,7,4200.0,Large Conferences,Closed Won,CLOSED,2026-07-03,2026-07-26,23,United States,4200.0,2026-07,Q3
+D5091,Harbor Research Labs - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,4,2400.0,Referral/Other,Closed Won,CLOSED,2026-04-12,2026-05-21,39,United States,2400.0,2026-05,Q2
+D5100,Atlas Therapeutics - Expansion Medium Kit,Avery Stone,Sales,Expansion Medium Kit,4,756.2,Webinars,Closed Won,CLOSED,2026-08-02,2026-08-09,7,United States,756.2,2026-08,Q3
+D5102,Northbridge Institute - Progenitor Cells 1x10^6,Casey Lund,Sales,Progenitor Cells 1x10^6,7,3990.0,Inbound Organic,Closed Won,CLOSED,2026-01-23,2026-02-13,21,United States,3990.0,2026-02,Q1
+D5103,Summit Research Labs - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,6,4500.0,Large Conferences,Closed Won,CLOSED,2026-07-21,2026-08-13,23,United States,4500.0,2026-08,Q3
+D5105,Harbor Therapeutics - Endothelial Cells 1x10^6,Casey Lund,Sales,Endothelial Cells 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-06,2026-02-14,39,United States,3000.0,2026-02,Q1
+D5107,Willow Therapeutics - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,7,700.0,Large Conferences,Closed Won,CLOSED,2026-07-24,2026-08-28,35,United States,700.0,2026-08,Q3
+D5110,Atlas University - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,2,180.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-20,2026-10-18,28,United States,180.0,2026-10,Q4
+D5112,Harbor Research Labs - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,6,1074.6,Inbound Organic,Closed Won,CLOSED,2026-07-27,2026-08-29,33,United States,1074.6,2026-08,Q3
+D5113,Northbridge Research Labs - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,7,1795.5,Webinars,Closed Won,CLOSED,2026-08-15,2026-09-25,41,United States,1795.5,2026-09,Q3
