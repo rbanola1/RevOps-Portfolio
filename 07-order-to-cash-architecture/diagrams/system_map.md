@@ -19,12 +19,12 @@ flowchart TB
       BI[BI dashboards]
     end
     PDB -->|product ID| STORE
-    PDB -.->|in progress| CRM
+    PDB -->|catalogue| CRM
     STORE -->|web orders| ERP
     ERP -->|invoice generation| ACC
     ACC -->|invoice status| CRM
     CRM -->|read only| BI
-    STORE -.->|planned backup| CRM
+    STORE -->|backup| CRM
 ```
 
-Solid lines are live, dotted lines are in progress or planned. Syncs between the CRM and accounting for products and contacts are off by design.
+Syncs between the CRM and accounting for products and contacts are off by design.

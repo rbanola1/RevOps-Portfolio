@@ -1,6 +1,6 @@
-# Lane criteria (earlier design)
+# Lane criteria
 
-> Superseded in practice by the warm-lead model: inside sales qualifies and nurtures inbound leads and hands warm leads to the rep who owns the account. Kept here as a worked example of criteria-based routing.
+> Used together with the warm-lead model: inside sales qualifies and nurtures inbound leads and hands warm leads to the rep who owns the account.
 
 | Criterion | Inside sales | Outside sales | Business development | Why |
 |---|---|---|---|---|

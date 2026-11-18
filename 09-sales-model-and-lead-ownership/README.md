@@ -1,8 +1,8 @@
 # 09 | Lead Ownership Rules and the Inside-Sales Warm-Lead Model
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · **Status: Evolved** (the original inside/outside lane split was an early design; the model moved to inside sales warming leads for reps, then to outbound and channel GTM. The ownership rules below still apply.)
+**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
 
-> **How this evolved.** The first design split inbound work between inside and outside reps by fixed criteria. The practical model that followed was simpler: **inside sales qualifies and warms inbound leads, then hands warm leads to the reps who own the accounts.** The lane criteria below are kept as the earlier design and as a worked example of rules-based routing. The ownership and "research first" rules were the durable part. Growth later came from [outbound GTM](https://github.com/rbanola1/GTM-Strategy) and channel sales rather than from lane routing.
+> **The model in one line.** Inside sales qualifies and warms inbound leads, then hands warm leads to the reps who own the accounts. Fixed lane criteria route work, and ownership and "research first" rules keep reps from colliding. Outbound growth is covered in [GTM-Strategy](https://github.com/rbanola1/GTM-Strategy).
 
 ![Sales model overview](charts/sales_model_overview.png)
 
@@ -21,7 +21,7 @@ A sales model with three parts that work together.
 Inbound inboxes and forms also feed a **ticketing system** that assigns each request to a primary, secondary and last-resort owner by category ([docs/ticket_routing.md](docs/ticket_routing.md)).
 
 ## Results on the synthetic run (3,000 leads, 700 accounts)
-The simulation models the earlier lane criteria together with the ownership rules, so the conflict and response-time effects come mainly from the ownership check and clear routing, not from the specific lane split.
+The simulation models the lane criteria together with the ownership rules, so the conflict and response-time effects come mainly from the ownership check and clear routing, not from the specific lane split.
 
 | Metric | No rules | Rules + research first |
 |---|---|---|
@@ -43,7 +43,7 @@ The residual conflicts come from accounts that had no owner yet when the first l
 
 ## Diagrams
 - [diagrams/warm_lead_handoff.md](diagrams/warm_lead_handoff.md): the current model, inside sales warming leads for reps
-- [diagrams/routing_flow.md](diagrams/routing_flow.md): lead to lane (earlier design)
+- [diagrams/routing_flow.md](diagrams/routing_flow.md): lead to lane
 - [diagrams/research_first_flow.md](diagrams/research_first_flow.md): the ownership check
 - [diagrams/ownership_model.md](diagrams/ownership_model.md): account, contact and deal ownership
 

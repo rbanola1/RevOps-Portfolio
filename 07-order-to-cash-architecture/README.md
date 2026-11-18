@@ -1,6 +1,6 @@
 # 07 | Order-to-Cash Systems Architecture
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · **Status: In progress** (core connections live, product-catalogue sync under way)
+**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
 
 ![Architecture overview](charts/architecture_overview.png)
 
@@ -13,13 +13,13 @@ A connected order-to-cash chain with one rule per data object: one system owns i
 ```mermaid
 flowchart LR
     PDB[(Product database)] -->|product ID| STORE[Online store]
-    PDB -.->|catalogue, in progress| CRM
+    PDB -->|catalogue| CRM
     CRM[(CRM: contacts, deals, tickets)]
     STORE -->|web orders with field mapping| ERP[ERP: orders, inventory, shipping]
     ERP -->|orders for invoicing| ACC[Accounting: invoices]
     ACC -->|invoice status and paid date| CRM
     CRM -->|read only| BI[BI dashboards]
-    STORE -.->|customer and order backup, planned| CRM
+    STORE -->|customer and order backup| CRM
     CRM x--x|product and contact sync switched off by design| ACC
 ```
 
@@ -47,7 +47,7 @@ The numbers are simulated. The structure is the point: an inventory of connectio
 - [docs/integration_inventory.md](docs/integration_inventory.md): every connection, direction, key, status
 - [docs/data_ownership.md](docs/data_ownership.md): who owns which object and field
 - [docs/reconciliation_and_monitoring.md](docs/reconciliation_and_monitoring.md): checks, exception types, owners
-- [docs/decision_log.md](docs/decision_log.md): why each sync is on, off or planned
+- [docs/decision_log.md](docs/decision_log.md): why each sync is on or off
 - [diagrams/system_map.md](diagrams/system_map.md) · [diagrams/order_flow.md](diagrams/order_flow.md)
 
 ## Reproduce

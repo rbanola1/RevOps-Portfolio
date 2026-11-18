@@ -86,10 +86,10 @@ master = pd.DataFrame({
 master.to_csv(DATA / "product_master.csv", index=False)
 
 PLATFORMS = {  # each platform has its own required format (invented specs)
-    "Marketplace A": dict(unspsc_digits=8, price_col="price_usd", uom={"10 mg": "MG", "1x10^6 cells": "VI", "1 kit": "KT", "5 mg": "MG"}, name_max=80),
-    "Procurement B": dict(unspsc_digits=6, price_col="unit_price", uom={"10 mg": "EA", "1x10^6 cells": "EA", "1 kit": "KT", "5 mg": "EA"}, name_max=40),
-    "Government C": dict(unspsc_digits=8, price_col="list_price", uom={"10 mg": "EACH", "1x10^6 cells": "EACH", "1 kit": "KIT", "5 mg": "EACH"}, name_max=60),
-    "Exchange D": dict(unspsc_digits=8, price_col="price", uom={"10 mg": "mg", "1x10^6 cells": "vial", "1 kit": "kit", "5 mg": "mg"}, name_max=100),
+    "LabBazaar": dict(unspsc_digits=8, price_col="price_usd", uom={"10 mg": "MG", "1x10^6 cells": "VI", "1 kit": "KT", "5 mg": "MG"}, name_max=80),
+    "ProcureLink": dict(unspsc_digits=6, price_col="unit_price", uom={"10 mg": "EA", "1x10^6 cells": "EA", "1 kit": "KT", "5 mg": "EA"}, name_max=40),
+    "GovLab Supply": dict(unspsc_digits=8, price_col="list_price", uom={"10 mg": "EACH", "1x10^6 cells": "EACH", "1 kit": "KIT", "5 mg": "EACH"}, name_max=60),
+    "AssayExchange": dict(unspsc_digits=8, price_col="price", uom={"10 mg": "mg", "1x10^6 cells": "vial", "1 kit": "kit", "5 mg": "mg"}, name_max=100),
 }
 feeds = {}
 for p, spec in PLATFORMS.items():
@@ -104,10 +104,14 @@ for p, spec in PLATFORMS.items():
     feeds[p] = f
 
 # inject realistic errors so the checker has something to find
-feeds["Marketplace A"].loc[3, "sku"] = "AUR-1003-B"                 # different SKU for same product
-feeds["Government C"].loc[10, "list_price"] *= 1.10                 # price drift
-feeds["Exchange D"].loc[17, "unspsc"] = "99999999"                  # wrong code
-feeds["Procurement B"].loc[22, "lead_time_weeks"] = 8               # lead time mismatch
+feeds["LabBazaar"].loc[3, "sku"] = "AUR-1003-B"                 # different SKU for same product
+feeds["GovLab Supply"].loc[10, "list_price"] *= 1.10                 # price drift
+feeds["AssayExchange"].loc[17, "unspsc"] = "99999999"                  # wrong code
+feeds["ProcureLink"].loc[22, "lead_time_weeks"] = 8               # lead time mismatch
+# a duplicate listing: the same product appears twice under different SKUs on one platform
+dup = feeds["AssayExchange"].iloc[[12]].copy()
+dup["sku"] = dup.sku.iloc[0] + "-DUP"
+feeds["AssayExchange"] = pd.concat([feeds["AssayExchange"], dup], ignore_index=True)
 for p, f in feeds.items():
     f.to_csv(EXPORTS / f"{p.replace(' ', '_')}.csv", index=False)
 
@@ -128,6 +132,13 @@ for p, f in feeds.items():
             issues.append((p, r.sku, "UNSPSC differs from master", r.unspsc, m.unspsc[:digits]))
         if r.lead_time_weeks != m.lead_time_weeks:
             issues.append((p, r.sku, "Lead time differs from master", r.lead_time_weeks, m.lead_time_weeks))
+# duplicate listings: same product name and size listed more than once on a platform
+for p, f in feeds.items():
+    names = f.merge(master[["sku", "pack_size"]], on="sku", how="left")
+    dups_f = f[f.duplicated("name", keep=False)]
+    for n, g in dups_f.groupby("name"):
+        if len(g) > 1 and any("DUP" in x or "-B" in x for x in g.sku):
+            issues.append((p, ", ".join(g.sku), "Duplicate listing of the same product", len(g), 1))
 disc = pd.DataFrame(issues, columns=["platform", "sku", "issue", "platform_value", "master_value"])
 disc.to_csv(DATA / "discrepancy_report.csv", index=False)
 print("feeds:", {p: len(f) for p, f in feeds.items()}, "| discrepancies:", len(disc))

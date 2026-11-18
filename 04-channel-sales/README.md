@@ -1,6 +1,6 @@
 # 04 | Channel Sales: Distributors and B2B Marketplaces
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · **Status: In progress** (distributor outreach and marketplace onboarding running in parallel)
+**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
 
 ![Channel overview](charts/channel_overview.png)
 
@@ -12,8 +12,8 @@ Revenue came almost entirely from direct sales. International customers were har
 |---|---|
 | **Distributor scorecard** | Scores candidates on cold-chain capability, warehouse, reach, portfolio fit and financial health; subtracts for competitor overlap; knocks out anyone exclusive to a competitor; sorts into tiers |
 | **Outreach funnel** | Tier-first outreach with one decision-maker per partner, tracked from Outreach Sent to In Discussion, Agreement Review and Signed |
-| **Product master and platform feeds** | One master product sheet is the single source of truth; each marketplace gets its own feed in its own format (units, code lengths, text limits) |
-| **Cross-platform discrepancy check** | Compares every platform feed to the master and flags a different SKU, price, classification code or lead time for the same product |
+| **Product master and platform feeds** | One master product sheet is the single source of truth; each platform gets its own feed in its own format (units, code lengths, text limits). Example platforms (fictional): LabBazaar (research marketplace), ProcureLink (procurement network), GovLab Supply (government purchasing), AssayExchange (services and products exchange) |
+| **Cross-platform discrepancy check** | Compares every platform feed to the master and flags a different SKU, price, classification code or lead time for the same product, and finds duplicate listings of one product under two SKUs |
 | **Channel economics** | Compares contribution margin by route to market and models channel share over six quarters |
 
 ## Key design decisions
@@ -29,8 +29,8 @@ Revenue came almost entirely from direct sales. International customers were har
 |---|---|
 | Distributor candidates scored | 40 (10 Tier 1, 13 Tier 2, 17 Tier 3) |
 | Pipeline | 25 contacted, 10 in discussion, 1 in agreement review, 1 signed, 3 not pursued (competitor-exclusive) |
-| Product master | 36 SKUs fed to 4 marketplace formats |
-| Discrepancies caught | 4 (SKU, price, classification code, lead time), each traced to a platform and a SKU |
+| Product master | 36 SKUs fed to 4 platform formats (LabBazaar, ProcureLink, GovLab Supply, AssayExchange) |
+| Discrepancies caught | 5 (SKU, price, classification code, lead time, duplicate listing), each traced to a platform and a SKU |
 | Channel share plan | 2% to 21% of revenue over six quarters (60% distributors, 40% marketplaces) |
 
 ## Diagrams and documents

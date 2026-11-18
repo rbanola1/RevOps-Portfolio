@@ -1,5 +1,7 @@
 platform,sku,issue,platform_value,master_value
-Marketplace A,AUR-1003,SKU differs from master,AUR-1003-B,AUR-1003
-Procurement B,AUR-1022,Lead time differs from master,8,1
-Government C,AUR-1010,Price differs from master,218.9,199.0
-Exchange D,AUR-1017,UNSPSC differs from master,99999999,41106500
+LabBazaar,AUR-1003,SKU differs from master,AUR-1003-B,AUR-1003
+ProcureLink,AUR-1022,Lead time differs from master,8,1
+GovLab Supply,AUR-1010,Price differs from master,218.9,199.0
+AssayExchange,AUR-1017,UNSPSC differs from master,99999999,41106500
+AssayExchange,AUR-1012-DUP,SKU differs from master,AUR-1012-DUP,AUR-1012-DUP
+AssayExchange,"AUR-1012, AUR-1012-DUP",Duplicate listing of the same product,2,1

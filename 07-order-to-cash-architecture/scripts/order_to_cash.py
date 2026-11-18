@@ -77,10 +77,10 @@ inv = pd.DataFrame([
     ("Online store", "ERP", "Web orders", "Store to ERP", "Order ID with field mapping", "Live"),
     ("ERP", "Accounting", "Orders for invoice generation", "ERP to Accounting", "Order number", "Live"),
     ("Product database", "Online store", "Product data", "Product DB to Store", "Product ID", "Live"),
-    ("Product database", "CRM", "Product catalogue", "Product DB to CRM", "Product ID", "In progress"),
+    ("Product database", "CRM", "Product catalogue", "Product DB to CRM", "Product ID", "Live"),
     ("CRM", "Accounting", "Product sync by SKU", "Off", "SKU", "Switched off by design"),
     ("CRM", "Accounting", "Contact sync", "Off", "Email", "Switched off by design"),
-    ("Online store", "CRM", "Customer and order backup", "Store to CRM", "Email and order ID", "Planned"),
+    ("Online store", "CRM", "Customer and order backup", "Store to CRM", "Email and order ID", "Live"),
 ], columns=["from_system", "to_system", "data", "direction", "match_key", "status"])
 inv.to_csv(DATA / "integration_inventory.csv", index=False)
 

@@ -20,6 +20,7 @@ For each SKU on each platform, compare against the master:
 | Classification code | Differs after applying the platform's code length |
 | Lead time | Differs from the master |
 | Size and unit | Same quantity expressed inconsistently |
+| Duplicate listing | The same product listed twice on one platform under different SKUs, which splits reviews, price control and orders |
 
 The output is a report listing platform, SKU, issue, platform value and master value.
 
