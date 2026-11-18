@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+02-crm-cleanup-and-scoring/data/contacts_cleaned.csv
+02-crm-cleanup-and-scoring/data/change_log.csv

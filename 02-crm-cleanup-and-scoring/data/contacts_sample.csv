@@ -1,0 +1,1001 @@
+contact_id,email,job_title,region,created,industry_raw,source,marketing_contact,lifecycle,last_open_days,ever_clicked,sales_reply_days,sales_click_days,target_persona,engagement_score,action,consent_check_needed,marketing_contact_after,segment,segment_source
+C312630,user25415@example390.org,VP Research,US,2025-06-09,Non-profit,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C353367,user37504@example277.org,Postdoctoral Fellow,US,2026-04-30,Cell Therapy,List import,True,Lead,614,False,9999,9999,False,1,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C352956,user29253@example235.org,Clinical Researcher,Other,2023-02-27,Contract Research,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CRO,mapped from industry
+C308416,user4460@example338.org,Lab Manager,EU/UK/CH,2026-01-04,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C350222,user14021@example257.org,CGT Process Scientist,EU/UK/CH,2025-06-14,,List import,True,Lead,694,False,9999,9999,True,1,Keep,False,True,CGT Developer,inferred from title
+C340806,user12649@example7.org,Professor,US,2023-04-28,Hospitals & Health Care,Event scan,False,Lead,9999,False,240,9999,True,17,Keep,False,False,Hospital,mapped from industry
+C332087,user10461@example230.org,Graduate Student,EU/UK/CH,2023-12-16,Medical Center,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C325233,user41028@example390.org,Professor,Asia,2026-06-22,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C307734,user6703@example67.org,VP Research,EU/UK/CH,2024-08-27,University,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C301676,user21769@example128.org,Postdoctoral Fellow,US,2026-08-17,Life Sciences,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C317555,user54458@example43.org,Marketing Manager,US,2025-09-26,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C350274,user51773@example81.org,Lab Manager,US,2024-04-17,,List import,True,Lead,194,False,9999,9999,False,3,Keep,False,True,Academia,inferred from title
+C331618,user14168@example198.org,Consultant,EU/UK/CH,2025-02-14,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C326107,user6998@example203.org,Procurement Specialist,US,2024-02-25,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C316377,user12531@example156.org,Procurement Specialist,Asia,2025-08-18,Gene Therapy,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C331245,user9387@example358.org,CRO Project Lead,US,2026-09-16,,List import,True,MQL,9999,False,9999,9999,False,0,Keep,False,True,CRO,inferred from title
+C308722,user11114@example67.org,Lab Manager,US,2025-09-21,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C353667,user36225@example68.org,Postdoctoral Fellow,Other,2025-05-23,Medical Devices,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C355144,user11958@example398.org,Graduate Student,Canada,2025-10-26,Pharmaceuticals,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C316218,user53017@example213.org,Marketing Manager,EU/UK/CH,2025-07-07,Life Sciences,List import,True,Lead,337,False,9999,9999,False,2,Keep,False,True,Biotech,mapped from industry
+C301164,user24206@example32.org,Marketing Manager,EU/UK/CH,2025-11-14,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C334189,user45174@example110.org,Research Scientist,EU/UK/CH,2023-03-04,,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C317497,user52701@example37.org,VP Research,EU/UK/CH,2025-06-30,Biotech Research,Form,True,Lead,306,False,9999,9999,True,2,Keep,False,True,Biotech,mapped from industry
+C340107,user1187@example219.org,Marketing Manager,US,2024-09-18,Medical Devices,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C333711,user47222@example379.org,Professor,EU/UK/CH,2025-01-17,Research,List import,True,Lead,119,False,9999,9999,True,4,Keep,False,True,Academia,mapped from industry
+C338975,user55754@example285.org,VP Research,Other,2024-05-02,,List import,True,Lead,613,False,9999,9999,True,1,Keep,False,True,Biotech,inferred from title
+C357178,user225@example24.org,Unknown,US,2024-03-16,Government Administration,List import,True,Lead,61,False,9999,9999,False,4,Keep,False,True,Government,mapped from industry
+C312498,user38775@example40.org,Procurement Specialist,EU/UK/CH,2025-05-21,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C301113,user11433@example377.org,Professor,US,2025-01-07,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C355978,user34669@example366.org,CRO Project Lead,EU/UK/CH,2023-01-04,,List import,False,MQL,132,True,183,9999,False,30,Promote to marketing,True,False,CRO,inferred from title
+C327701,user3791@example328.org,Procurement Specialist,US,2024-05-31,,List import,True,Lead,349,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C345206,user14294@example221.org,Unknown,Canada,2024-12-03,Cell Therapy,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CGT Developer,mapped from industry
+C352313,user10462@example139.org,Research Scientist,Asia,2025-04-23,Higher Education,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C314628,user7673@example239.org,Clinical Researcher,US,2024-05-24,Distribution,Event scan,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C329868,user39338@example345.org,Professor,US,2026-03-21,Non-profit,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C357607,user23301@example29.org,VP Research,EU/UK/CH,2025-07-01,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C356815,user14109@example90.org,Clinical Researcher,US,2023-04-12,Pharma / Drug Dev,List import,True,Lead,436,False,9999,9999,False,2,Demote to non-marketing,False,False,Pharma,mapped from industry
+C336051,user17530@example221.org,Research Scientist,EU/UK/CH,2023-01-27,Higher Education,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C341494,user17089@example79.org,Director of R&D,US,2023-08-30,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C327079,user55478@example399.org,Consultant,US,2023-08-05,Gene Therapy,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C308252,user43165@example357.org,Marketing Manager,EU/UK/CH,2024-11-17,Biotech Research,List import,False,Lead,9999,False,9999,10,False,12,Promote to marketing,True,False,Biotech,mapped from industry
+C337646,user31236@example181.org,Postdoctoral Fellow,Asia,2023-10-12,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C313915,user3862@example103.org,Lab Manager,US,2023-05-30,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C332915,user37963@example58.org,CRO Project Lead,US,2026-04-29,,List import,False,Lead,559,False,9999,9999,False,1,Keep,False,False,CRO,inferred from title
+C352558,user11848@example271.org,Procurement Specialist,US,2023-09-02,Cell Therapy,List import,True,Opportunity,420,False,9999,9999,True,2,Keep,False,True,CGT Developer,mapped from industry
+C335938,user35926@example94.org,Director of R&D,US,2026-07-20,,Event scan,True,MQL,419,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C332358,user8815@example312.org,Research Scientist,US,2024-11-12,,Form,False,Lead,21,False,9999,9999,True,5,Keep,False,False,Biotech,inferred from title
+C335655,user10584@example169.org,Marketing Manager,EU/UK/CH,2025-11-22,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C329193,user38439@example366.org,Postdoctoral Fellow,US,2025-04-11,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C317448,user44996@example298.org,Research Scientist,US,2023-06-28,Gene Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C319848,user8243@example58.org,Consultant,EU/UK/CH,2023-11-02,,List import,True,Lead,181,False,9999,9999,False,3,Keep,False,True,Unclassified,unknown
+C319329,user45999@example195.org,Professor,US,2026-07-31,Non-profit,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C333595,user30413@example270.org,Graduate Student,US,2023-01-26,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C325813,user50311@example198.org,Postdoctoral Fellow,EU/UK/CH,2023-08-26,Biotechnology,List import,True,Lead,368,False,9999,9999,False,2,Demote to non-marketing,False,False,Biotech,mapped from industry
+C323425,user14575@example331.org,Professor,US,2024-09-25,,Form,False,Lead,9999,False,9999,250,True,6,Keep,False,False,Academia,inferred from title
+C329272,user54088@example81.org,Graduate Student,US,2024-11-08,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C346080,user46670@example163.org,Marketing Manager,Asia,2025-07-19,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C329692,user48458@example241.org,VP Research,US,2026-07-22,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C338557,user11540@example177.org,Postdoctoral Fellow,US,2025-12-19,Gene Therapy,List import,False,Customer,226,True,9999,9999,False,9,Keep,False,False,CGT Developer,mapped from industry
+C325756,user16878@example265.org,Postdoctoral Fellow,US,2024-07-06,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C324659,user26022@example174.org,CGT Process Scientist,US,2026-01-12,Contract Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CRO,mapped from industry
+C337821,user2638@example163.org,CGT Process Scientist,Canada,2023-07-11,Medical Devices,Form,False,Lead,9999,False,201,9999,True,18,Keep,False,False,Biotech,mapped from industry
+C321169,user26677@example359.org,Marketing Manager,US,2024-05-04,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C324262,user5616@example224.org,Postdoctoral Fellow,US,2026-05-03,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C340899,user15465@example159.org,CGT Process Scientist,Canada,2023-11-10,Higher Education,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C353557,user43569@example235.org,CGT Process Scientist,EU/UK/CH,2024-07-17,Government Administration,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Government,mapped from industry
+C329021,user21811@example189.org,Graduate Student,Canada,2023-01-30,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C354523,user1653@example54.org,Core Facility Manager,US,2023-02-19,,List import,True,Lead,419,True,9999,9999,False,5,Keep,False,True,Unclassified,unknown
+C315705,user8380@example28.org,Marketing Manager,US,2023-02-17,,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C316567,user18188@example74.org,Core Facility Manager,EU/UK/CH,2025-05-25,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C323866,user5220@example271.org,Core Facility Manager,US,2026-04-19,Cell Therapy,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CGT Developer,mapped from industry
+C331451,user49063@example197.org,Postdoctoral Fellow,Other,2023-12-06,Pharma / Drug Dev,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C336237,user4377@example263.org,Marketing Manager,US,2023-02-03,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C325041,user24710@example47.org,Core Facility Manager,Asia,2025-03-03,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C300956,user34509@example363.org,Research Scientist,US,2025-08-21,Non-profit,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C325592,user54023@example240.org,CGT Process Scientist,US,2023-04-27,Higher Education,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C307420,user20919@example98.org,VP Research,Asia,2026-01-22,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C356763,user33688@example136.org,VP Research,EU/UK/CH,2026-08-19,Biotech Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C306244,user15329@example213.org,CGT Process Scientist,US,2024-08-27,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C330006,user38109@example218.org,Graduate Student,Canada,2023-07-13,Biotechnology,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C337967,user20553@example63.org,Core Facility Manager,US,2025-07-07,,List import,True,Lead,170,False,9999,9999,False,3,Keep,False,True,Unclassified,unknown
+C315599,user42568@example88.org,VP Research,EU/UK/CH,2023-01-14,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C351221,user19712@example393.org,Research Scientist,US,2025-04-11,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C350922,user43784@example241.org,Director of R&D,EU/UK/CH,2023-08-15,Hospitals & Health Care,List import,True,Lead,92,False,9999,9999,True,4,Keep,False,True,Hospital,mapped from industry
+C309979,user38892@example234.org,Director of R&D,US,2023-06-19,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C355435,user48585@example50.org,Procurement Specialist,EU/UK/CH,2026-07-04,Medical Center,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Hospital,mapped from industry
+C343777,user16525@example277.org,Marketing Manager,EU/UK/CH,2026-01-07,Medical Devices,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C355736,user36925@example15.org,Marketing Manager,Canada,2023-01-03,Core Facility,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C339158,user41103@example94.org,Core Facility Manager,EU/UK/CH,2023-07-01,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C337828,user28184@example156.org,Marketing Manager,US,2023-05-05,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C319092,user31322@example319.org,Core Facility Manager,EU/UK/CH,2026-04-12,,List import,False,Lead,153,False,9999,9999,False,3,Keep,False,False,Unclassified,unknown
+C338988,user40107@example44.org,Research Scientist,EU/UK/CH,2023-08-11,Non-profit,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C303504,user31984@example229.org,Postdoctoral Fellow,US,2024-12-31,University,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C343393,user16906@example156.org,Professor,EU/UK/CH,2023-10-09,Gene Therapy,List import,True,MQL,533,False,9999,9999,True,1,Keep,False,True,CGT Developer,mapped from industry
+C309164,user10538@example236.org,CGT Process Scientist,US,2023-04-22,,Sales added,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CGT Developer,inferred from title
+C348402,user7639@example272.org,Professor,US,2025-07-16,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C315600,user26955@example206.org,Marketing Manager,Other,2026-01-14,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C344826,user20787@example255.org,Professor,US,2024-08-12,Gene Therapy,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C351109,user8445@example351.org,VP Research,US,2025-04-04,Research,List import,True,Lead,347,False,9999,9999,True,2,Keep,False,True,Academia,mapped from industry
+C302600,user37400@example170.org,Research Scientist,Other,2023-02-15,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C335731,user16462@example263.org,Procurement Specialist,US,2026-09-06,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C357769,user14190@example302.org,Marketing Manager,US,2026-08-06,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Pharma,mapped from industry
+C308678,user42448@example297.org,CRO Project Lead,US,2024-04-25,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C340474,user52617@example377.org,Lab Manager,US,2025-08-03,Pharmaceuticals,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C349476,user36032@example6.org,Procurement Specialist,Canada,2026-08-01,Higher Education,List import,True,SQL,146,False,9999,9999,True,3,Keep,False,True,Academia,mapped from industry
+C307120,user6391@example303.org,Procurement Specialist,US,2023-05-01,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C356838,user50812@example201.org,Director of R&D,US,2024-10-06,Gene Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C347261,user25162@example379.org,CGT Process Scientist,US,2026-08-07,,List import,True,SQL,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C309982,user1226@example390.org,Director of R&D,EU/UK/CH,2025-03-15,Life Sciences,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C323777,user51263@example16.org,Director of R&D,US,2023-09-10,,Sales added,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C355070,user636@example41.org,Procurement Specialist,US,2025-05-28,Medical Center,Event scan,False,Lead,9999,False,332,9999,True,13,Keep,False,False,Hospital,mapped from industry
+C354882,user32619@example136.org,Professor,US,2024-07-19,Medical Devices,List import,False,Lead,636,False,9999,185,True,9,Keep,False,False,Biotech,mapped from industry
+C325466,user31322@example26.org,Research Scientist,Asia,2024-01-17,,List import,True,Lead,681,False,9999,9999,True,1,Keep,False,True,Biotech,inferred from title
+C319333,user27755@example319.org,Marketing Manager,US,2026-04-16,,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C343171,user45132@example158.org,Procurement Specialist,US,2026-04-20,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C323931,user870@example211.org,CRO Project Lead,US,2024-09-22,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C343979,user13060@example174.org,Professor,EU/UK/CH,2026-06-05,Non-profit,List import,True,Lead,61,False,9999,9999,True,4,Keep,False,True,Nonprofit Foundation,mapped from industry
+C355347,user47743@example373.org,Postdoctoral Fellow,US,2024-07-05,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C357092,user30901@example93.org,VP Research,Other,2023-10-28,Gene Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C321593,user45120@example214.org,Graduate Student,Canada,2025-01-22,Core Facility,Sales added,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Core,mapped from industry
+C306188,user26162@example189.org,Clinical Researcher,US,2023-10-30,Higher Education,List import,True,Lead,416,False,9999,9999,False,2,Demote to non-marketing,False,False,Academia,mapped from industry
+C317333,user9125@example67.org,Professor,EU/UK/CH,2025-10-05,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C321975,user6303@example169.org,Research Scientist,EU/UK/CH,2024-11-26,,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C356639,user7436@example361.org,CGT Process Scientist,US,2023-02-27,Non-profit,Event scan,True,Lead,7,False,9999,9999,True,5,Keep,False,True,Nonprofit Foundation,mapped from industry
+C326539,user39533@example143.org,Procurement Specialist,US,2026-01-05,,Form,True,Lead,152,False,9999,275,True,9,Keep,False,True,Biotech,inferred from title
+C356567,user9594@example362.org,Marketing Manager,Asia,2025-10-07,Government Administration,List import,True,Lead,413,False,9999,9999,False,2,Demote to non-marketing,False,False,Government,mapped from industry
+C334962,user13638@example155.org,Consultant,Asia,2026-01-24,,List import,True,Lead,252,False,9999,9999,False,3,Keep,False,True,Unclassified,unknown
+C333827,user47908@example303.org,Director of R&D,US,2026-06-16,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C308646,user16538@example221.org,Research Scientist,US,2025-09-22,Life Sciences,List import,False,MQL,9999,False,9999,9999,True,0,Keep,False,False,Biotech,mapped from industry
+C315370,user41050@example300.org,Lab Manager,US,2024-01-20,Cell Therapy,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CGT Developer,mapped from industry
+C311711,user31648@example135.org,Research Scientist,EU/UK/CH,2023-08-15,Contract Research,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CRO,mapped from industry
+C356882,user4837@example226.org,CGT Process Scientist,US,2025-01-13,Core Facility,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C327324,user16172@example210.org,Director of R&D,US,2024-09-29,Distribution,List import,True,Lead,107,False,9999,9999,True,4,Keep,False,True,Distributor,mapped from industry
+C347360,user497@example324.org,Procurement Specialist,Other,2024-01-04,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C329973,user15190@example248.org,VP Research,Asia,2026-08-07,Higher Education,List import,True,Lead,475,False,9999,9999,True,2,Keep,False,True,Academia,mapped from industry
+C344638,user33797@example133.org,Postdoctoral Fellow,US,2024-02-13,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C326300,user14905@example52.org,CRO Project Lead,US,2024-12-29,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CRO,inferred from title
+C310233,user15809@example305.org,Research Scientist,US,2023-09-15,Gene Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C334998,user32211@example26.org,Marketing Manager,Asia,2024-09-10,Gene Therapy,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CGT Developer,mapped from industry
+C317292,user4093@example178.org,Clinical Researcher,EU/UK/CH,2024-02-01,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C327145,user53076@example330.org,Research Scientist,US,2025-11-21,Non-profit,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C305207,user25369@example273.org,Research Scientist,EU/UK/CH,2023-08-01,,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C330167,user3807@example282.org,Core Facility Manager,EU/UK/CH,2025-08-25,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C335051,user42587@example249.org,VP Research,US,2024-05-21,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C312733,user26094@example29.org,Unknown,US,2026-05-14,Higher Education,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,mapped from industry
+C305045,user47528@example301.org,CRO Project Lead,Canada,2025-07-23,Non-profit,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Nonprofit Foundation,mapped from industry
+C314878,user30310@example179.org,Unknown,US,2025-01-01,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C352033,user3838@example131.org,Marketing Manager,US,2025-07-18,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C343075,user13143@example264.org,Clinical Researcher,US,2023-08-08,,List import,True,MQL,110,False,9999,9999,False,4,Keep,False,True,Hospital,inferred from title
+C359443,user17123@example80.org,Core Facility Manager,US,2023-05-31,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C356636,user17198@example355.org,Postdoctoral Fellow,US,2023-05-04,Life Sciences,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C319119,user43017@example58.org,CGT Process Scientist,US,2025-09-04,Core Facility,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C306476,user23122@example42.org,Postdoctoral Fellow,EU/UK/CH,2025-05-23,University,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C323115,user10000@example359.org,Postdoctoral Fellow,US,2026-03-28,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C333776,user26011@example132.org,Postdoctoral Fellow,US,2025-11-06,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C331836,user17526@example47.org,Lab Manager,US,2025-11-28,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C347463,user22210@example371.org,CGT Process Scientist,US,2023-02-22,,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CGT Developer,inferred from title
+C315453,user15521@example305.org,Procurement Specialist,US,2024-07-09,Hospitals & Health Care,List import,True,Lead,212,False,9999,9999,True,3,Keep,False,True,Hospital,mapped from industry
+C359226,user24395@example81.org,Core Facility Manager,Other,2024-02-24,,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C310211,user40586@example194.org,Professor,Canada,2026-04-22,Pharma / Drug Dev,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C306593,user49710@example287.org,Procurement Specialist,US,2024-11-28,University,List import,False,Lead,480,False,9999,9999,True,2,Keep,False,False,Academia,mapped from industry
+C301183,user27774@example352.org,Director of R&D,US,2023-12-07,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C340037,user20775@example318.org,CGT Process Scientist,US,2024-02-29,Core Facility,Sales added,False,Lead,9999,False,135,9999,True,21,Keep,False,False,Core,mapped from industry
+C329385,user47883@example110.org,Core Facility Manager,Asia,2026-01-29,,List import,True,Lead,258,False,9999,9999,False,3,Keep,False,True,Unclassified,unknown
+C330608,user43676@example304.org,Professor,US,2023-04-11,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C317658,user1079@example330.org,Director of R&D,EU/UK/CH,2025-02-24,University,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C318347,user14807@example118.org,Unknown,EU/UK/CH,2026-07-03,Biotechnology,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C319211,user46478@example384.org,Core Facility Manager,US,2026-07-11,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C315055,user5756@example13.org,Core Facility Manager,US,2026-07-24,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CGT Developer,mapped from industry
+C321640,user19165@example11.org,Graduate Student,EU/UK/CH,2023-11-13,Government Administration,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Government,mapped from industry
+C329287,user24957@example362.org,Clinical Researcher,Canada,2026-02-02,Non-profit,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Nonprofit Foundation,mapped from industry
+C317816,user23500@example99.org,Unknown,EU/UK/CH,2026-07-08,,Form,True,MQL,560,False,9999,9999,False,1,Keep,False,True,Unclassified,unknown
+C317088,user16953@example118.org,Unknown,US,2025-12-01,,List import,False,Lead,328,False,9999,9999,False,2,Keep,False,False,Unclassified,unknown
+C347903,user48297@example302.org,Research Scientist,EU/UK/CH,2024-07-12,Pharma / Drug Dev,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C318331,user44473@example278.org,Director of R&D,EU/UK/CH,2024-08-29,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C324178,user44519@example331.org,Procurement Specialist,US,2026-09-16,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C306051,user48527@example372.org,Graduate Student,EU/UK/CH,2024-05-04,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C304035,user45546@example305.org,Consultant,Asia,2024-06-27,Non-profit,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Nonprofit Foundation,mapped from industry
+C345688,user50660@example364.org,CGT Process Scientist,EU/UK/CH,2026-04-23,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C314843,user12009@example305.org,Lab Manager,Asia,2025-05-15,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C346405,user49017@example218.org,Graduate Student,EU/UK/CH,2023-07-05,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C304335,user51422@example349.org,Marketing Manager,US,2025-09-16,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C312816,user32119@example113.org,CGT Process Scientist,EU/UK/CH,2023-03-08,Higher Education,Form,True,SQL,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C300503,user16564@example115.org,Procurement Specialist,US,2024-04-07,Gene Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C349518,user34749@example67.org,VP Research,EU/UK/CH,2024-06-22,Medical Center,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C334739,user17309@example163.org,Director of R&D,US,2026-06-15,,List import,True,SQL,325,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C358328,user6649@example283.org,CRO Project Lead,US,2025-12-26,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C316376,user9067@example179.org,CRO Project Lead,US,2023-05-18,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C305057,user49965@example217.org,Clinical Researcher,US,2024-07-27,,Form,True,MQL,9999,False,9999,9999,False,0,Keep,False,True,Hospital,inferred from title
+C347826,user16505@example294.org,Research Scientist,EU/UK/CH,2026-06-19,Government Administration,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Government,mapped from industry
+C359572,user41153@example56.org,Unknown,US,2024-09-30,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C326932,user37523@example26.org,Postdoctoral Fellow,US,2026-09-06,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,mapped from industry
+C336399,user25052@example356.org,VP Research,US,2023-07-15,Core Facility,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Core,mapped from industry
+C323964,user40645@example371.org,Core Facility Manager,Asia,2023-09-22,,List import,False,Lead,315,False,9999,9999,False,2,Keep,False,False,Unclassified,unknown
+C300283,user31051@example133.org,CGT Process Scientist,Canada,2024-04-17,,List import,True,Lead,285,False,9999,9999,True,2,Keep,False,True,CGT Developer,inferred from title
+C308479,user16536@example25.org,CGT Process Scientist,US,2025-10-18,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C355141,user16619@example104.org,Director of R&D,Asia,2026-08-05,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C304012,user25309@example257.org,Unknown,EU/UK/CH,2025-02-11,,Form,True,Lead,663,True,9999,9999,False,3,Keep,False,True,Unclassified,unknown
+C346459,user10248@example273.org,Research Scientist,US,2025-09-29,Research,List import,True,Lead,518,False,9999,9999,True,1,Keep,False,True,Academia,mapped from industry
+C340305,user36384@example326.org,Procurement Specialist,US,2026-09-22,,List import,True,Lead,301,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C325600,user10640@example360.org,CRO Project Lead,US,2026-04-08,,List import,False,Lead,320,False,9999,9999,False,2,Keep,False,False,CRO,inferred from title
+C321454,user28795@example7.org,Procurement Specialist,US,2026-02-11,Pharma / Drug Dev,List import,True,Lead,264,False,9999,9999,True,3,Keep,False,True,Pharma,mapped from industry
+C338882,user39267@example218.org,Marketing Manager,US,2023-06-10,Non-profit,Form,True,Lead,544,False,9999,9999,False,1,Keep,False,True,Nonprofit Foundation,mapped from industry
+C353664,user35126@example176.org,Professor,US,2024-03-27,Gene Therapy,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C354793,user11877@example309.org,Graduate Student,US,2024-09-11,Hospitals & Health Care,List import,True,Lead,377,False,9999,9999,False,2,Demote to non-marketing,False,False,Hospital,mapped from industry
+C346642,user54893@example130.org,CRO Project Lead,EU/UK/CH,2025-05-10,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C327433,user48790@example303.org,Consultant,US,2026-06-25,Research,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C316098,user21270@example240.org,Core Facility Manager,US,2024-11-12,Medical Center,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,mapped from industry
+C355195,user51336@example179.org,Lab Manager,EU/UK/CH,2024-12-30,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C325432,user9006@example55.org,VP Research,Asia,2023-10-29,Pharma / Drug Dev,List import,True,Lead,29,False,9999,9999,True,5,Keep,False,True,Pharma,mapped from industry
+C324043,user1778@example300.org,Lab Manager,US,2023-07-12,Medical Devices,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C330642,user24590@example223.org,Unknown,Asia,2023-06-28,Pharma / Drug Dev,Form,True,Lead,590,False,9999,9999,False,1,Keep,False,True,Pharma,mapped from industry
+C303491,user37636@example224.org,CGT Process Scientist,Asia,2025-09-20,Biotechnology,List import,True,Lead,42,False,9999,9999,True,5,Keep,False,True,Biotech,mapped from industry
+C319631,user45272@example234.org,Graduate Student,EU/UK/CH,2024-12-01,Cell Therapy,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C318391,user50347@example257.org,Consultant,US,2026-03-25,,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C310838,user20528@example193.org,Director of R&D,Other,2025-06-02,,List import,True,Lead,94,False,9999,9999,True,4,Keep,False,True,Biotech,inferred from title
+C348430,user52849@example118.org,Research Scientist,Other,2023-01-11,Contract Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CRO,mapped from industry
+C312708,user18090@example114.org,VP Research,EU/UK/CH,2025-08-14,Medical Center,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C313188,user4814@example395.org,Core Facility Manager,EU/UK/CH,2024-07-28,University,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C355801,user19279@example298.org,Professor,US,2025-01-21,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C318225,user54635@example343.org,VP Research,US,2023-06-07,Hospitals & Health Care,Form,True,Lead,214,False,9999,9999,True,3,Keep,False,True,Hospital,mapped from industry
+C352375,user22741@example20.org,Unknown,US,2025-03-08,Pharmaceuticals,List import,True,Lead,450,False,9999,9999,False,2,Demote to non-marketing,False,False,Pharma,mapped from industry
+C301173,user11405@example120.org,Core Facility Manager,EU/UK/CH,2026-08-28,Hospitals & Health Care,Event scan,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,mapped from industry
+C304691,user48353@example352.org,Procurement Specialist,EU/UK/CH,2026-01-20,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C358317,user44012@example88.org,Graduate Student,US,2024-11-30,University,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C315262,user27638@example354.org,VP Research,US,2025-07-16,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C300975,user21051@example49.org,CRO Project Lead,Asia,2024-05-22,Medical Devices,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C340418,user32865@example180.org,CRO Project Lead,US,2025-11-03,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C310732,user27048@example85.org,Core Facility Manager,US,2025-12-06,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C341562,user14790@example365.org,Director of R&D,US,2025-06-27,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C333922,user25906@example36.org,VP Research,Other,2025-05-01,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C301055,user54810@example46.org,CRO Project Lead,EU/UK/CH,2023-12-16,University,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C321600,user49643@example117.org,Lab Manager,EU/UK/CH,2025-01-29,,List import,True,Lead,475,False,9999,9999,False,2,Demote to non-marketing,False,False,Academia,inferred from title
+C350224,user10359@example249.org,Postdoctoral Fellow,Other,2025-01-18,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C325713,user6077@example390.org,Graduate Student,US,2026-02-11,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C309515,user45229@example303.org,Professor,US,2024-08-26,,List import,True,Lead,534,False,9999,9999,True,1,Keep,False,True,Academia,inferred from title
+C349028,user17858@example201.org,Unknown,US,2023-01-11,Biotechnology,List import,True,Lead,38,False,9999,9999,False,5,Keep,False,True,Biotech,mapped from industry
+C333655,user31757@example246.org,CRO Project Lead,EU/UK/CH,2024-01-30,University,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,mapped from industry
+C348614,user2162@example388.org,Core Facility Manager,Asia,2026-06-28,Pharmaceuticals,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Pharma,mapped from industry
+C312162,user35321@example55.org,Lab Manager,EU/UK/CH,2023-03-07,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C358816,user39178@example241.org,VP Research,Asia,2024-05-21,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C342658,user37505@example161.org,Research Scientist,EU/UK/CH,2025-08-01,Biotechnology,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C344334,user48424@example264.org,CRO Project Lead,Asia,2023-11-16,Medical Center,List import,True,Lead,135,False,9999,9999,False,4,Keep,False,True,Hospital,mapped from industry
+C342709,user50280@example65.org,Marketing Manager,EU/UK/CH,2025-11-24,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C352972,user53029@example372.org,Director of R&D,EU/UK/CH,2023-05-08,,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C324239,user14944@example240.org,Procurement Specialist,Asia,2025-08-14,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C339390,user25725@example283.org,Unknown,EU/UK/CH,2026-02-04,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C301840,user54581@example165.org,Postdoctoral Fellow,US,2024-05-23,Cell Therapy,Sales added,True,Lead,513,False,9999,396,False,6,Keep,False,True,CGT Developer,mapped from industry
+C311881,user15282@example32.org,Core Facility Manager,US,2024-02-02,Higher Education,List import,True,Lead,193,False,9999,9999,False,3,Keep,False,True,Academia,mapped from industry
+C341275,user25418@example262.org,Unknown,Other,2024-03-21,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C335904,user10958@example310.org,Postdoctoral Fellow,Asia,2023-07-22,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C329671,user47599@example273.org,Professor,US,2024-01-30,,Form,True,Lead,672,False,9999,9999,True,1,Keep,False,True,Academia,inferred from title
+C335304,user23194@example127.org,Unknown,US,2026-07-13,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C348244,user17375@example195.org,Professor,US,2024-08-07,,List import,True,Lead,367,False,9999,9999,True,2,Keep,False,True,Academia,inferred from title
+C305095,user30301@example320.org,VP Research,US,2023-08-01,Medical Devices,Sales added,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,mapped from industry
+C340661,user45447@example278.org,Graduate Student,US,2024-06-18,,Form,True,Lead,42,False,9999,9999,False,5,Keep,False,True,Academia,inferred from title
+C323258,user11049@example150.org,Unknown,US,2024-05-07,Life Sciences,List import,True,Lead,176,False,9999,9999,False,3,Keep,False,True,Biotech,mapped from industry
+C306763,user5399@example134.org,Graduate Student,US,2025-11-26,Pharma / Drug Dev,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C327528,user9809@example282.org,Clinical Researcher,US,2026-07-03,Non-profit,List import,True,MQL,9999,False,9999,9999,False,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C358861,user25396@example344.org,Graduate Student,Canada,2024-06-26,Biotech Research,Event scan,True,Opportunity,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C323477,user33775@example323.org,VP Research,Asia,2024-08-30,,List import,True,Lead,502,True,9999,9999,True,4,Keep,False,True,Biotech,inferred from title
+C307147,user47842@example318.org,VP Research,US,2024-08-19,Non-profit,Form,True,Opportunity,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C337625,user52469@example325.org,VP Research,US,2025-12-01,,List import,True,Lead,672,False,9999,9999,True,1,Keep,False,True,Biotech,inferred from title
+C301463,user29245@example314.org,Graduate Student,US,2023-06-20,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C314607,user19546@example119.org,Consultant,US,2025-10-18,Research,Form,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C300387,user46464@example286.org,Core Facility Manager,EU/UK/CH,2024-11-13,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C339222,user3164@example256.org,CRO Project Lead,US,2024-02-28,Distribution,Event scan,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Distributor,mapped from industry
+C314283,user42488@example328.org,VP Research,US,2025-06-20,,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C332235,user3875@example102.org,Marketing Manager,EU/UK/CH,2023-02-01,Contract Research,List import,True,Lead,9999,False,9999,10,False,12,Demote to non-marketing,False,False,CRO,mapped from industry
+C334958,user24876@example201.org,Clinical Researcher,US,2025-10-05,Medical Devices,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C330097,user24683@example75.org,Graduate Student,US,2025-08-18,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C332142,user8271@example115.org,Core Facility Manager,EU/UK/CH,2023-04-07,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C324006,user17022@example359.org,Professor,US,2026-04-23,,Event scan,False,Lead,379,False,9999,9999,True,2,Keep,False,False,Academia,inferred from title
+C354391,user11772@example69.org,Postdoctoral Fellow,EU/UK/CH,2025-02-26,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C345529,user38025@example214.org,Core Facility Manager,US,2026-07-05,Government Administration,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Government,mapped from industry
+C322477,user45559@example263.org,Professor,Asia,2025-11-20,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C344119,user21144@example202.org,Marketing Manager,Asia,2025-06-29,,Event scan,False,Lead,599,True,9999,9999,False,3,Keep,False,False,Unclassified,unknown
+C307552,user22853@example305.org,CGT Process Scientist,US,2023-05-16,Research,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C301039,user33452@example379.org,Postdoctoral Fellow,US,2023-08-02,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C348327,user31742@example115.org,CRO Project Lead,US,2025-04-16,Research,Event scan,False,Lead,99,False,9999,9999,False,4,Keep,False,False,Academia,mapped from industry
+C303588,user24060@example254.org,Procurement Specialist,US,2026-04-12,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C324967,user3214@example43.org,Graduate Student,US,2026-02-02,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C322264,user21307@example38.org,Procurement Specialist,Other,2023-07-10,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C329493,user47849@example158.org,VP Research,US,2026-02-10,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C327403,user5492@example280.org,Core Facility Manager,US,2025-07-10,Biotech Research,Form,True,Lead,184,False,9999,9999,False,3,Keep,False,True,Biotech,mapped from industry
+C326038,user30390@example259.org,Consultant,Asia,2023-12-08,,List import,False,Lead,510,False,9999,9999,False,1,Keep,False,False,Unclassified,unknown
+C333677,user50424@example282.org,Procurement Specialist,EU/UK/CH,2023-08-03,Government Administration,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Government,mapped from industry
+C306975,user37696@example192.org,Postdoctoral Fellow,US,2023-03-20,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C326180,user53823@example232.org,Professor,US,2024-09-23,Pharma / Drug Dev,List import,True,MQL,684,False,9999,9999,True,1,Keep,False,True,Pharma,mapped from industry
+C332478,user15588@example92.org,Professor,US,2024-12-19,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C358809,user5162@example163.org,Graduate Student,US,2024-04-08,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C348464,user28641@example327.org,Research Scientist,US,2026-03-15,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C329003,user37874@example362.org,Professor,EU/UK/CH,2024-05-01,Cell Therapy,List import,True,Lead,178,False,9999,9999,True,3,Keep,False,True,CGT Developer,mapped from industry
+C348398,user28901@example144.org,CRO Project Lead,Canada,2023-03-19,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CRO,inferred from title
+C336048,user2697@example373.org,Marketing Manager,EU/UK/CH,2025-05-23,Higher Education,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C357275,user17162@example329.org,Consultant,EU/UK/CH,2023-09-19,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C349490,user47112@example95.org,Core Facility Manager,US,2025-07-29,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C340300,user41998@example41.org,Lab Manager,Canada,2026-05-03,Biotech Research,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C331106,user9707@example260.org,Postdoctoral Fellow,EU/UK/CH,2024-09-30,Medical Devices,Form,True,Lead,409,False,9999,9999,False,2,Keep,False,True,Biotech,mapped from industry
+C338365,user6782@example188.org,Unknown,US,2025-10-18,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C344237,user20340@example310.org,Lab Manager,US,2024-02-22,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C315640,user27060@example352.org,VP Research,Other,2024-01-26,Medical Devices,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C306413,user33280@example184.org,Procurement Specialist,US,2026-03-13,Life Sciences,Event scan,False,Lead,218,False,9999,9999,True,3,Keep,False,False,Biotech,mapped from industry
+C328762,user25618@example288.org,Core Facility Manager,US,2026-09-06,,List import,True,Lead,389,False,9999,9999,False,2,Keep,False,True,Unclassified,unknown
+C319956,user27118@example244.org,VP Research,Asia,2024-10-31,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C357878,user52588@example256.org,Core Facility Manager,US,2026-08-23,Core Facility,Event scan,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Core,mapped from industry
+C351748,user36577@example264.org,Procurement Specialist,US,2026-04-22,Non-profit,List import,True,Lead,684,False,9999,9999,True,1,Keep,False,True,Nonprofit Foundation,mapped from industry
+C349814,user2549@example226.org,VP Research,Canada,2026-03-20,,Event scan,True,SQL,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C310012,user42530@example65.org,CGT Process Scientist,US,2024-07-09,Contract Research,List import,True,Lead,9999,False,9999,149,True,8,Keep,False,True,CRO,mapped from industry
+C324065,user38281@example113.org,Procurement Specialist,Canada,2024-05-05,,List import,True,Lead,146,False,9999,9999,True,3,Keep,False,True,Biotech,inferred from title
+C331703,user39288@example65.org,Postdoctoral Fellow,Asia,2023-01-04,Gene Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C337970,user55474@example216.org,Procurement Specialist,US,2023-09-14,,List import,True,Lead,180,False,9999,9999,True,3,Keep,False,True,Biotech,inferred from title
+C345150,user43837@example231.org,CGT Process Scientist,US,2024-04-09,Life Sciences,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C302417,user33023@example328.org,Professor,US,2025-06-30,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C322913,user3335@example219.org,Marketing Manager,EU/UK/CH,2025-04-13,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C301419,user45222@example4.org,Clinical Researcher,US,2023-03-20,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C344819,user8855@example170.org,VP Research,US,2024-10-02,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C332659,user53405@example295.org,Clinical Researcher,US,2023-11-19,Government Administration,List import,True,Lead,367,False,9999,9999,False,2,Demote to non-marketing,False,False,Government,mapped from industry
+C348344,user2212@example182.org,VP Research,Asia,2023-01-18,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C304357,user53215@example285.org,Director of R&D,Canada,2025-12-14,Hospitals & Health Care,List import,True,Lead,60,False,9999,9999,True,4,Keep,False,True,Hospital,mapped from industry
+C341479,user42996@example317.org,Graduate Student,US,2025-08-16,,List import,True,Lead,216,False,9999,9999,False,3,Keep,False,True,Academia,inferred from title
+C316519,user20399@example323.org,Consultant,US,2025-09-19,Cell Therapy,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CGT Developer,mapped from industry
+C358298,user49634@example137.org,Marketing Manager,US,2026-08-03,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C313790,user26528@example293.org,Director of R&D,US,2023-05-30,,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C319108,user55335@example182.org,Research Scientist,Canada,2024-12-29,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C349105,user46624@example362.org,Postdoctoral Fellow,US,2024-02-11,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C353208,user22646@example367.org,Postdoctoral Fellow,US,2024-04-07,,List import,True,Lead,427,False,9999,220,False,9,Demote to non-marketing,False,False,Academia,inferred from title
+C332437,user52063@example170.org,Professor,EU/UK/CH,2023-09-20,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C343596,user25737@example196.org,Lab Manager,US,2023-07-20,,List import,True,MQL,600,False,9999,9999,False,1,Demote to non-marketing,False,False,Academia,inferred from title
+C334766,user5764@example204.org,Procurement Specialist,EU/UK/CH,2025-11-09,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C307035,user54622@example211.org,Postdoctoral Fellow,US,2026-08-31,,List import,False,Lead,9999,False,9999,381,False,5,Keep,False,False,Academia,inferred from title
+C330606,user311@example75.org,Director of R&D,EU/UK/CH,2026-01-16,Hospitals & Health Care,Sales added,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C320752,user545@example397.org,Unknown,US,2024-08-26,Core Facility,List import,True,Lead,289,False,9999,9999,False,2,Keep,False,True,Core,mapped from industry
+C318000,user54911@example264.org,Marketing Manager,EU/UK/CH,2023-06-15,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C347235,user17129@example193.org,CRO Project Lead,US,2025-02-19,,Form,False,Lead,237,False,9999,9999,False,3,Keep,False,False,CRO,inferred from title
+C341111,user10421@example361.org,Core Facility Manager,US,2025-08-03,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C320681,user19716@example30.org,Graduate Student,US,2023-04-24,Biotechnology,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C354078,user47761@example196.org,VP Research,US,2026-07-02,,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C317967,user22424@example283.org,Procurement Specialist,US,2024-09-12,Medical Center,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Hospital,mapped from industry
+C311742,user13685@example101.org,Procurement Specialist,US,2025-03-29,,List import,True,Lead,151,False,9999,9999,True,3,Keep,False,True,Biotech,inferred from title
+C314951,user48608@example105.org,CGT Process Scientist,EU/UK/CH,2025-04-29,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C322066,user28817@example184.org,Graduate Student,US,2023-02-26,Pharmaceuticals,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C320050,user44548@example325.org,Marketing Manager,US,2026-02-28,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C335948,user22614@example21.org,Marketing Manager,US,2023-10-11,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C308756,user7592@example369.org,Lab Manager,US,2024-07-17,,List import,True,Lead,680,False,9999,9999,False,1,Demote to non-marketing,False,False,Academia,inferred from title
+C359034,user42295@example125.org,Director of R&D,Asia,2024-06-03,Biotech Research,Form,False,Lead,288,False,9999,9999,True,2,Keep,False,False,Biotech,mapped from industry
+C310238,user39230@example273.org,VP Research,US,2025-07-31,Biotech Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C353278,user28624@example296.org,Consultant,US,2025-07-02,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C355182,user38266@example396.org,Unknown,US,2025-09-09,Distribution,Form,False,Lead,360,False,344,9999,False,15,Keep,False,False,Distributor,mapped from industry
+C347255,user5051@example212.org,Consultant,US,2024-10-03,Non-profit,List import,True,Lead,330,False,9999,9999,False,2,Keep,False,True,Nonprofit Foundation,mapped from industry
+C309834,user3037@example344.org,CRO Project Lead,Asia,2024-07-29,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C330190,user32584@example112.org,Lab Manager,EU/UK/CH,2025-03-09,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C313422,user22801@example105.org,Graduate Student,EU/UK/CH,2026-03-02,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C311751,user8023@example162.org,Director of R&D,EU/UK/CH,2023-03-02,,Sales added,True,Lead,81,False,9999,9999,True,4,Keep,False,True,Biotech,inferred from title
+C325097,user5627@example255.org,VP Research,US,2026-05-07,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C356702,user4679@example82.org,CRO Project Lead,US,2025-02-15,Gene Therapy,List import,True,Lead,483,False,9999,9999,False,2,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C352249,user45850@example368.org,Procurement Specialist,US,2026-03-04,Government Administration,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Government,mapped from industry
+C333125,user3203@example130.org,VP Research,US,2023-01-07,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C327390,user18491@example65.org,Director of R&D,EU/UK/CH,2023-10-30,Non-profit,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C325920,user37592@example279.org,VP Research,EU/UK/CH,2023-04-10,University,List import,False,Lead,2,False,9999,9999,True,5,Keep,False,False,Academia,mapped from industry
+C337571,user55094@example67.org,Unknown,EU/UK/CH,2025-04-13,Hospitals & Health Care,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,mapped from industry
+C332084,user14737@example390.org,Postdoctoral Fellow,US,2023-04-27,Cell Therapy,Event scan,True,Lead,487,False,9999,9999,False,1,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C338669,user36563@example254.org,Consultant,Asia,2026-07-28,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C318274,user32418@example50.org,Unknown,US,2025-02-19,Hospitals & Health Care,List import,False,Lead,491,False,9999,9999,False,1,Keep,False,False,Hospital,mapped from industry
+C321596,user24093@example102.org,Professor,EU/UK/CH,2025-11-13,,List import,True,Lead,571,False,9999,9999,True,1,Keep,False,True,Academia,inferred from title
+C324451,user44820@example87.org,Professor,Asia,2024-01-29,Medical Devices,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C334538,user11312@example111.org,CGT Process Scientist,US,2023-04-14,,Sales added,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CGT Developer,inferred from title
+C338202,user55561@example34.org,Marketing Manager,US,2024-07-06,Medical Devices,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C311210,user42276@example21.org,Research Scientist,US,2025-02-08,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C300067,user7882@example239.org,Professor,Canada,2025-05-15,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C339709,user6202@example216.org,Director of R&D,US,2026-05-31,Hospitals & Health Care,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C329750,user27000@example108.org,Clinical Researcher,US,2023-02-17,Contract Research,List import,True,Lead,442,False,9999,9999,False,2,Demote to non-marketing,False,False,CRO,mapped from industry
+C357554,user23546@example389.org,Core Facility Manager,US,2025-12-27,,List import,True,Lead,505,False,9999,150,False,10,Demote to non-marketing,False,False,Unclassified,unknown
+C308013,user17054@example232.org,Graduate Student,US,2026-06-11,Government Administration,List import,True,Lead,9999,False,9999,279,False,6,Keep,False,True,Government,mapped from industry
+C330036,user54291@example218.org,Postdoctoral Fellow,EU/UK/CH,2023-05-31,,List import,True,MQL,664,False,9999,9999,False,1,Demote to non-marketing,False,False,Academia,inferred from title
+C313580,user11953@example42.org,Professor,Canada,2023-08-23,,Form,False,MQL,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C313941,user3521@example48.org,CGT Process Scientist,US,2026-08-13,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C324248,user21173@example104.org,Postdoctoral Fellow,EU/UK/CH,2025-04-13,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C320532,user47157@example213.org,CGT Process Scientist,EU/UK/CH,2025-10-30,,List import,True,MQL,180,False,9999,9999,True,3,Keep,False,True,CGT Developer,inferred from title
+C340698,user34390@example98.org,Postdoctoral Fellow,US,2025-02-08,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C348566,user28726@example35.org,Graduate Student,US,2025-12-29,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C318966,user20433@example26.org,Director of R&D,US,2025-08-10,,Event scan,False,Lead,654,False,9999,9999,True,1,Keep,False,False,Biotech,inferred from title
+C332464,user47837@example69.org,Procurement Specialist,EU/UK/CH,2025-08-05,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C319486,user3255@example234.org,Postdoctoral Fellow,US,2026-01-26,Pharma / Drug Dev,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Pharma,mapped from industry
+C311393,user4227@example35.org,Director of R&D,Asia,2024-09-30,Pharmaceuticals,List import,True,Lead,25,False,9999,9999,True,5,Keep,False,True,Pharma,mapped from industry
+C332195,user4640@example273.org,CRO Project Lead,EU/UK/CH,2024-12-22,Biotechnology,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C359154,user45712@example334.org,Procurement Specialist,US,2025-08-15,Life Sciences,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C329098,user19301@example4.org,Graduate Student,EU/UK/CH,2026-09-30,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C350431,user51412@example118.org,Marketing Manager,US,2024-11-27,,Event scan,True,Lead,364,False,9999,9999,False,2,Keep,False,True,Unclassified,unknown
+C327982,user11151@example128.org,Lab Manager,Asia,2025-01-29,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C319499,user38008@example238.org,Director of R&D,US,2024-05-04,Higher Education,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C323638,user37047@example331.org,Clinical Researcher,US,2024-11-07,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C322664,user31834@example276.org,Consultant,EU/UK/CH,2025-06-22,,List import,True,Lead,376,False,9999,9999,False,2,Demote to non-marketing,False,False,Unclassified,unknown
+C350955,user24763@example300.org,Procurement Specialist,US,2023-10-14,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C336421,user26835@example167.org,Procurement Specialist,EU/UK/CH,2026-06-15,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C303798,user23101@example224.org,CRO Project Lead,US,2025-02-22,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C312486,user50410@example271.org,Professor,Canada,2025-02-27,,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C331846,user4021@example238.org,Graduate Student,US,2026-06-23,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,mapped from industry
+C352020,user30727@example240.org,Consultant,US,2024-04-06,,List import,True,Lead,675,False,9999,9999,False,1,Demote to non-marketing,False,False,Unclassified,unknown
+C305922,user33335@example332.org,Director of R&D,US,2026-05-18,,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C334067,user26943@example166.org,CGT Process Scientist,US,2026-04-23,,List import,True,Lead,584,False,9999,9999,True,1,Keep,False,True,CGT Developer,inferred from title
+C300557,user23889@example355.org,CGT Process Scientist,EU/UK/CH,2024-04-01,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C337669,user51187@example240.org,Core Facility Manager,US,2025-01-20,Core Facility,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Core,mapped from industry
+C326762,user45018@example321.org,Research Scientist,US,2026-03-02,Government Administration,Sales added,False,Lead,366,False,9999,9999,True,2,Keep,False,False,Government,mapped from industry
+C347607,user17342@example206.org,Graduate Student,US,2026-01-31,,List import,True,Lead,138,False,9999,9999,False,4,Keep,False,True,Academia,inferred from title
+C327160,user42489@example56.org,VP Research,US,2024-01-28,Medical Devices,List import,True,Lead,199,False,9999,9999,True,3,Keep,False,True,Biotech,mapped from industry
+C301578,user27867@example90.org,Postdoctoral Fellow,EU/UK/CH,2026-02-09,,List import,False,Lead,203,False,9999,9999,False,3,Keep,False,False,Academia,inferred from title
+C339359,user11740@example97.org,Core Facility Manager,US,2025-06-09,Pharma / Drug Dev,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Pharma,mapped from industry
+C334699,user47028@example394.org,Professor,EU/UK/CH,2025-02-03,,List import,True,Lead,212,False,9999,9999,True,3,Keep,False,True,Academia,inferred from title
+C340684,user8657@example303.org,Professor,US,2024-08-10,Core Facility,Event scan,True,MQL,31,False,9999,9999,True,5,Keep,False,True,Core,mapped from industry
+C314519,user40854@example28.org,Postdoctoral Fellow,US,2024-11-17,Contract Research,List import,True,SQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C354263,user42361@example108.org,CRO Project Lead,US,2024-10-18,,List import,True,Lead,240,False,9999,9999,False,3,Keep,False,True,CRO,inferred from title
+C313712,user14148@example280.org,CGT Process Scientist,US,2026-08-21,Higher Education,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C306236,user47210@example300.org,CRO Project Lead,US,2025-01-31,Distribution,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C301609,user51892@example24.org,VP Research,EU/UK/CH,2024-05-20,Higher Education,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C349897,user22551@example259.org,Postdoctoral Fellow,US,2025-12-06,Pharma / Drug Dev,List import,True,Lead,9999,False,41,9999,False,27,Keep,False,True,Pharma,mapped from industry
+C355543,user22437@example341.org,Lab Manager,Canada,2024-12-06,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C335074,user31338@example343.org,Lab Manager,EU/UK/CH,2023-05-29,Medical Devices,List import,True,Lead,385,False,9999,9999,False,2,Demote to non-marketing,False,False,Biotech,mapped from industry
+C300778,user20753@example93.org,Postdoctoral Fellow,US,2026-06-02,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C322764,user19874@example395.org,Postdoctoral Fellow,US,2025-04-12,Biotech Research,Sales added,False,MQL,174,False,9999,9999,False,3,Keep,False,False,Biotech,mapped from industry
+C306104,user26915@example143.org,Unknown,EU/UK/CH,2024-01-13,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C339862,user53005@example178.org,VP Research,US,2024-07-15,,Sales added,False,MQL,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C328967,user48122@example48.org,Lab Manager,US,2023-03-21,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C346315,user4721@example157.org,Consultant,US,2025-06-19,Hospitals & Health Care,List import,True,Lead,188,False,9999,9999,False,3,Keep,False,True,Hospital,mapped from industry
+C345626,user29390@example108.org,CRO Project Lead,US,2025-04-02,,List import,True,Lead,545,False,9999,9999,False,1,Demote to non-marketing,False,False,CRO,inferred from title
+C310419,user48910@example206.org,Graduate Student,US,2025-07-12,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C336975,user36902@example98.org,Clinical Researcher,US,2023-06-17,Medical Devices,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C323134,user6063@example180.org,Research Scientist,US,2024-09-30,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C334611,user35873@example316.org,Core Facility Manager,US,2023-05-18,,Form,True,Lead,368,True,9999,9999,False,6,Keep,False,True,Unclassified,unknown
+C311438,user52754@example57.org,CGT Process Scientist,US,2026-05-06,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C304356,user22290@example178.org,Lab Manager,US,2024-08-14,Hospitals & Health Care,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C348579,user9046@example380.org,Lab Manager,Canada,2024-05-13,Distribution,List import,True,Lead,682,False,9999,9999,False,1,Demote to non-marketing,False,False,Distributor,mapped from industry
+C325957,user23588@example153.org,CRO Project Lead,Other,2024-10-19,,Sales added,True,Lead,461,False,9999,9999,False,2,Keep,False,True,CRO,inferred from title
+C341366,user49977@example162.org,Postdoctoral Fellow,Asia,2024-12-21,Research,List import,True,Opportunity,9999,False,9999,9999,False,0,Keep,False,True,Academia,mapped from industry
+C342146,user44692@example138.org,Research Scientist,US,2024-06-02,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C316748,user22013@example73.org,Procurement Specialist,US,2023-08-03,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C304286,user17512@example99.org,Marketing Manager,US,2026-09-18,,Sales added,False,MQL,539,False,9999,9999,False,1,Keep,False,False,Unclassified,unknown
+C321874,user8314@example243.org,Research Scientist,EU/UK/CH,2023-03-02,,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C309396,user45137@example43.org,Graduate Student,Canada,2023-09-06,,List import,True,Lead,68,False,9999,9999,False,4,Keep,False,True,Academia,inferred from title
+C307526,user479@example236.org,Postdoctoral Fellow,EU/UK/CH,2023-10-17,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C347457,user34337@example91.org,Core Facility Manager,EU/UK/CH,2024-06-13,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C330647,user12599@example67.org,Marketing Manager,US,2023-09-15,,List import,True,Lead,528,False,9999,9999,False,1,Demote to non-marketing,False,False,Unclassified,unknown
+C333686,user20656@example294.org,VP Research,US,2023-10-09,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C314065,user2307@example216.org,Consultant,US,2025-11-19,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C330733,user45287@example237.org,Core Facility Manager,US,2023-07-27,,List import,True,Lead,692,False,9999,9999,False,1,Demote to non-marketing,False,False,Unclassified,unknown
+C331528,user31195@example160.org,Clinical Researcher,Asia,2023-08-25,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C343503,user30106@example138.org,Marketing Manager,US,2025-08-17,Pharmaceuticals,List import,True,Lead,670,False,9999,9999,False,1,Demote to non-marketing,False,False,Pharma,mapped from industry
+C302449,user15713@example189.org,Lab Manager,US,2025-08-08,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C314829,user31593@example117.org,Director of R&D,US,2026-05-02,,List import,True,Lead,418,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C301503,user21657@example191.org,Lab Manager,Asia,2023-11-10,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C339791,user31391@example330.org,Postdoctoral Fellow,Other,2024-03-04,Contract Research,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CRO,mapped from industry
+C334064,user52366@example352.org,CRO Project Lead,US,2025-10-01,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C308121,user36844@example250.org,Unknown,US,2025-01-31,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C339425,user40202@example326.org,Marketing Manager,US,2024-06-08,Distribution,List import,True,SQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C324124,user43567@example8.org,Research Scientist,Canada,2023-03-08,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C322289,user12952@example358.org,Unknown,EU/UK/CH,2023-09-26,,List import,True,Lead,331,True,9999,9999,False,7,Keep,False,True,Unclassified,unknown
+C313398,user43156@example159.org,Postdoctoral Fellow,US,2023-12-28,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C347790,user35714@example3.org,Procurement Specialist,Canada,2024-08-21,Cell Therapy,List import,False,Lead,416,False,9999,9999,True,2,Keep,False,False,CGT Developer,mapped from industry
+C338899,user46070@example230.org,Procurement Specialist,EU/UK/CH,2026-01-09,Medical Center,List import,True,Lead,491,False,9999,9999,True,1,Keep,False,True,Hospital,mapped from industry
+C305989,user6612@example9.org,Professor,Canada,2026-02-08,Gene Therapy,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CGT Developer,mapped from industry
+C318340,user24688@example346.org,Professor,EU/UK/CH,2023-05-21,,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C324634,user6084@example238.org,CRO Project Lead,US,2024-10-13,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C352163,user21276@example1.org,Consultant,US,2023-06-21,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C348664,user16249@example198.org,Postdoctoral Fellow,US,2026-09-02,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C307034,user54874@example284.org,CRO Project Lead,US,2025-11-28,,List import,True,SQL,13,False,9999,9999,False,5,Keep,False,True,CRO,inferred from title
+C344988,user10303@example206.org,CGT Process Scientist,US,2024-02-19,,List import,True,SQL,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C342324,user37186@example27.org,Unknown,Asia,2023-11-29,Life Sciences,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C335196,user44782@example113.org,Consultant,US,2024-03-29,Gene Therapy,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CGT Developer,mapped from industry
+C315650,user10848@example101.org,Postdoctoral Fellow,US,2023-02-02,,Sales added,True,Lead,306,False,9999,9999,False,2,Keep,False,True,Academia,inferred from title
+C345850,user50671@example96.org,CGT Process Scientist,US,2026-09-06,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CGT Developer,inferred from title
+C343278,user29772@example375.org,Research Scientist,US,2024-12-04,Contract Research,Form,True,Lead,123,False,9999,9999,True,4,Keep,False,True,CRO,mapped from industry
+C329929,user14418@example104.org,VP Research,US,2026-08-04,Government Administration,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Government,mapped from industry
+C358558,user32206@example175.org,CRO Project Lead,EU/UK/CH,2024-10-19,Pharmaceuticals,Event scan,True,Lead,179,False,9999,9999,False,3,Keep,False,True,Pharma,mapped from industry
+C303772,user42302@example370.org,Clinical Researcher,EU/UK/CH,2025-03-14,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C331920,user28555@example259.org,Lab Manager,EU/UK/CH,2026-07-05,Higher Education,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,mapped from industry
+C302880,user52916@example71.org,Lab Manager,US,2023-12-20,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C324042,user16157@example59.org,Consultant,EU/UK/CH,2025-10-13,Hospitals & Health Care,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,mapped from industry
+C301675,user16315@example89.org,Research Scientist,US,2023-01-23,,List import,True,Lead,9999,False,191,9999,True,19,Keep,False,True,Biotech,inferred from title
+C336030,user40181@example244.org,Marketing Manager,Asia,2024-06-10,Distribution,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C305344,user2676@example48.org,Core Facility Manager,Asia,2024-03-31,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C352424,user14928@example77.org,Graduate Student,US,2026-01-07,Contract Research,Event scan,True,SQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C323390,user15949@example290.org,Research Scientist,US,2026-02-16,University,List import,False,Lead,518,False,9999,9999,True,1,Keep,False,False,Academia,mapped from industry
+C340739,user12595@example37.org,CGT Process Scientist,US,2023-09-13,,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C343456,user33578@example43.org,Core Facility Manager,US,2025-01-07,Government Administration,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Government,mapped from industry
+C350461,user37749@example47.org,Graduate Student,US,2024-08-29,Gene Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C345920,user37461@example374.org,Unknown,EU/UK/CH,2024-12-24,Higher Education,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C353975,user52288@example28.org,Professor,EU/UK/CH,2023-11-19,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C352474,user88@example6.org,CRO Project Lead,US,2025-07-10,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C303999,user13222@example158.org,Clinical Researcher,EU/UK/CH,2026-06-21,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,inferred from title
+C353375,user10064@example25.org,CRO Project Lead,EU/UK/CH,2024-01-09,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CRO,inferred from title
+C303723,user30676@example170.org,Director of R&D,Asia,2026-02-11,Medical Devices,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C344268,user43369@example359.org,Core Facility Manager,EU/UK/CH,2026-08-04,Hospitals & Health Care,List import,True,Lead,144,False,9999,9999,False,3,Keep,False,True,Hospital,mapped from industry
+C349335,user50583@example37.org,Graduate Student,Other,2024-07-28,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C332242,user9312@example127.org,Research Scientist,US,2024-06-03,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C332818,user13703@example252.org,Consultant,US,2024-02-18,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C316092,user17239@example61.org,CRO Project Lead,Asia,2026-07-20,Medical Devices,List import,True,Lead,384,True,9999,9999,False,6,Keep,False,True,Biotech,mapped from industry
+C300388,user24903@example317.org,Unknown,US,2024-03-04,Biotechnology,Form,False,SQL,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C337201,user43970@example340.org,Research Scientist,US,2024-07-18,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C353998,user43630@example237.org,CRO Project Lead,US,2023-09-01,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C303666,user4317@example273.org,Clinical Researcher,EU/UK/CH,2025-01-31,,List import,True,Lead,395,False,9999,9999,False,2,Demote to non-marketing,False,False,Hospital,inferred from title
+C310863,user12013@example369.org,Postdoctoral Fellow,US,2023-06-11,Distribution,Form,True,Lead,628,False,9999,9999,False,1,Keep,False,True,Distributor,mapped from industry
+C338248,user48251@example55.org,Graduate Student,US,2024-01-24,,List import,False,MQL,550,False,9999,9999,False,1,Keep,False,False,Academia,inferred from title
+C310919,user5273@example348.org,Director of R&D,US,2024-05-18,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C359436,user40028@example54.org,CRO Project Lead,EU/UK/CH,2025-06-02,Government Administration,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Government,mapped from industry
+C328780,user53864@example87.org,Graduate Student,EU/UK/CH,2026-08-02,Core Facility,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Core,mapped from industry
+C338497,user9015@example80.org,Professor,US,2025-04-26,Non-profit,List import,True,Lead,695,False,9999,9999,True,1,Keep,False,True,Nonprofit Foundation,mapped from industry
+C324831,user12697@example344.org,VP Research,Asia,2025-06-10,Government Administration,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Government,mapped from industry
+C331975,user51796@example365.org,Unknown,EU/UK/CH,2026-02-08,,Event scan,False,Lead,259,False,9999,9999,False,3,Keep,False,False,Unclassified,unknown
+C338227,user39049@example264.org,Research Scientist,US,2023-09-22,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C336909,user6384@example258.org,CGT Process Scientist,Other,2023-04-19,Medical Center,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C311894,user4944@example356.org,Consultant,US,2024-04-25,Pharma / Drug Dev,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Pharma,mapped from industry
+C349432,user55234@example249.org,Clinical Researcher,EU/UK/CH,2026-02-21,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C320470,user52206@example14.org,Clinical Researcher,Asia,2025-01-11,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C307666,user27296@example247.org,CGT Process Scientist,Other,2024-01-30,Hospitals & Health Care,List import,True,Lead,545,True,9999,9999,True,4,Keep,False,True,Hospital,mapped from industry
+C306138,user6219@example208.org,Graduate Student,US,2025-12-21,,List import,True,Lead,408,False,9999,162,False,10,Demote to non-marketing,False,False,Academia,inferred from title
+C357070,user53179@example55.org,Procurement Specialist,US,2023-07-22,Higher Education,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C355045,user31191@example220.org,Lab Manager,US,2025-07-24,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C325423,user51269@example176.org,Core Facility Manager,EU/UK/CH,2026-02-05,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C304757,user20060@example156.org,VP Research,Canada,2026-06-03,Contract Research,Form,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,CRO,mapped from industry
+C319060,user41089@example357.org,Lab Manager,Other,2025-01-05,Distribution,List import,True,Lead,356,False,9999,9999,False,2,Keep,False,True,Distributor,mapped from industry
+C308164,user49314@example85.org,Research Scientist,Asia,2026-03-01,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C332711,user47343@example242.org,Consultant,US,2026-07-11,Biotech Research,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C303732,user9138@example373.org,Marketing Manager,Asia,2026-06-30,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C301568,user24241@example265.org,Core Facility Manager,US,2024-12-23,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C313090,user45161@example52.org,Director of R&D,Asia,2026-07-11,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C325865,user1693@example54.org,Lab Manager,EU/UK/CH,2023-08-25,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C349279,user15855@example65.org,Marketing Manager,US,2024-04-05,Research,List import,True,Lead,228,False,9999,9999,False,3,Keep,False,True,Academia,mapped from industry
+C327483,user1598@example237.org,Professor,Asia,2025-03-03,Biotechnology,Event scan,True,Lead,95,False,9999,9999,True,4,Keep,False,True,Biotech,mapped from industry
+C337398,user4482@example168.org,Procurement Specialist,EU/UK/CH,2025-01-03,,List import,True,MQL,76,False,9999,9999,True,4,Keep,False,True,Biotech,inferred from title
+C323583,user35970@example341.org,Postdoctoral Fellow,EU/UK/CH,2024-10-23,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C304127,user36532@example54.org,Core Facility Manager,EU/UK/CH,2025-03-13,Research,List import,True,Lead,479,False,9999,9999,False,2,Demote to non-marketing,False,False,Academia,mapped from industry
+C344749,user10227@example24.org,Clinical Researcher,EU/UK/CH,2025-08-12,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C313334,user29596@example248.org,Core Facility Manager,US,2024-09-30,Biotechnology,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C346295,user29132@example388.org,Director of R&D,US,2025-02-28,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C315415,user30990@example20.org,Lab Manager,US,2024-12-27,,Sales added,True,Lead,580,False,9999,9999,False,1,Keep,False,True,Academia,inferred from title
+C354869,user30722@example318.org,Consultant,US,2023-12-25,Medical Devices,List import,True,Lead,686,False,9999,9999,False,1,Demote to non-marketing,False,False,Biotech,mapped from industry
+C309659,user10751@example343.org,Unknown,US,2024-12-24,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C329254,user10577@example97.org,Unknown,Canada,2026-07-20,Distribution,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Distributor,mapped from industry
+C333290,user2695@example369.org,Director of R&D,Asia,2024-08-31,Pharma / Drug Dev,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Pharma,mapped from industry
+C357591,user40667@example252.org,Consultant,EU/UK/CH,2024-03-02,Biotechnology,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C340484,user5105@example207.org,Postdoctoral Fellow,Asia,2024-06-28,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C328500,user50952@example354.org,Marketing Manager,US,2023-04-25,,List import,True,Lead,99,False,9999,9999,False,4,Keep,False,True,Unclassified,unknown
+C356671,user52576@example275.org,Research Scientist,EU/UK/CH,2026-01-17,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C345930,user11115@example254.org,Core Facility Manager,US,2024-12-31,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C339603,user24256@example26.org,Procurement Specialist,Asia,2025-03-01,Research,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C306183,user11695@example384.org,Procurement Specialist,US,2024-12-12,Distribution,List import,True,Lead,73,False,9999,9999,True,4,Keep,False,True,Distributor,mapped from industry
+C351958,user35583@example252.org,Clinical Researcher,Other,2025-07-14,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C342317,user4737@example73.org,Core Facility Manager,US,2024-07-22,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C353716,user1619@example299.org,CGT Process Scientist,EU/UK/CH,2024-05-06,,List import,True,Lead,257,False,9999,9999,True,3,Keep,False,True,CGT Developer,inferred from title
+C356072,user19691@example265.org,Marketing Manager,US,2024-10-28,Distribution,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C343362,user3740@example207.org,Professor,US,2024-06-01,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C351920,user50060@example238.org,Procurement Specialist,US,2025-01-23,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C306033,user2849@example240.org,Professor,Canada,2026-05-03,,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C317862,user30060@example145.org,Director of R&D,Asia,2026-04-26,Non-profit,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C338144,user12152@example217.org,Clinical Researcher,US,2026-04-15,Research,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C337688,user28357@example315.org,CGT Process Scientist,EU/UK/CH,2025-11-11,,List import,True,Lead,526,False,9999,9999,True,1,Keep,False,True,CGT Developer,inferred from title
+C318973,user18026@example202.org,Marketing Manager,US,2025-03-23,Biotechnology,Sales added,True,MQL,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C302450,user35848@example55.org,Research Scientist,US,2026-03-16,University,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C353316,user19676@example36.org,CGT Process Scientist,Asia,2024-10-14,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C323773,user53976@example119.org,Director of R&D,US,2024-09-22,Life Sciences,List import,True,Lead,677,False,9999,9999,True,1,Keep,False,True,Biotech,mapped from industry
+C349591,user4230@example83.org,Professor,EU/UK/CH,2026-08-20,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C329256,user38977@example163.org,Postdoctoral Fellow,US,2025-04-19,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C304901,user39168@example200.org,Professor,US,2024-11-25,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C301967,user21640@example141.org,Graduate Student,US,2026-07-12,University,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C311247,user30822@example272.org,Clinical Researcher,Asia,2023-12-18,Contract Research,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CRO,mapped from industry
+C340770,user45381@example320.org,Lab Manager,US,2023-10-16,Gene Therapy,Sales added,True,Lead,320,False,9999,9999,False,2,Keep,False,True,CGT Developer,mapped from industry
+C343168,user48098@example43.org,Director of R&D,EU/UK/CH,2026-09-29,,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C357795,user41859@example296.org,Consultant,US,2023-06-21,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C300209,user15606@example211.org,Core Facility Manager,EU/UK/CH,2025-05-29,,List import,False,Lead,251,False,9999,9999,False,3,Keep,False,False,Unclassified,unknown
+C340681,user53375@example370.org,Director of R&D,Asia,2026-06-29,Life Sciences,List import,True,Lead,495,False,9999,9999,True,1,Keep,False,True,Biotech,mapped from industry
+C349066,user48394@example324.org,Research Scientist,US,2023-10-10,Biotechnology,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C316194,user3653@example337.org,CRO Project Lead,EU/UK/CH,2023-06-24,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C329748,user52502@example356.org,Unknown,US,2025-08-01,Biotech Research,List import,False,Lead,187,False,9999,9999,False,3,Keep,False,False,Biotech,mapped from industry
+C313798,user2420@example24.org,Director of R&D,Asia,2026-03-31,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C324026,user52062@example86.org,VP Research,US,2025-11-16,Government Administration,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Government,mapped from industry
+C351741,user43869@example82.org,Research Scientist,US,2023-05-24,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C320237,user19522@example163.org,Professor,EU/UK/CH,2025-04-27,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C352091,user13568@example89.org,Graduate Student,US,2025-04-03,,List import,True,Lead,364,False,9999,183,False,10,Keep,False,True,Academia,inferred from title
+C323431,user21705@example146.org,VP Research,Canada,2025-08-23,Gene Therapy,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C304124,user54424@example162.org,Clinical Researcher,US,2025-08-23,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C350356,user23848@example113.org,Lab Manager,EU/UK/CH,2024-11-22,Higher Education,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C329336,user44304@example339.org,Postdoctoral Fellow,US,2024-07-26,Research,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C306464,user24357@example289.org,Procurement Specialist,US,2025-07-30,Biotech Research,Form,True,Lead,353,False,9999,9999,True,2,Keep,False,True,Biotech,mapped from industry
+C342804,user11054@example26.org,Consultant,US,2024-08-11,Cell Therapy,List import,True,Lead,677,False,9999,9999,False,1,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C311169,user48871@example297.org,Graduate Student,US,2025-08-13,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C332335,user1859@example234.org,Core Facility Manager,US,2024-01-09,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C354454,user34024@example384.org,Lab Manager,US,2023-03-17,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C326390,user22231@example324.org,Unknown,US,2024-01-21,,List import,False,Lead,197,True,9999,9999,False,9,Keep,False,False,Unclassified,unknown
+C349044,user28317@example156.org,Unknown,US,2023-08-21,Hospitals & Health Care,Event scan,True,Opportunity,9999,False,9999,9999,False,0,Keep,False,True,Hospital,mapped from industry
+C321209,user4299@example169.org,CRO Project Lead,US,2026-07-28,Research,List import,True,MQL,9999,False,9999,9999,False,0,Keep,False,True,Academia,mapped from industry
+C322353,user45264@example9.org,Clinical Researcher,US,2024-05-03,Core Facility,List import,True,Lead,180,False,9999,9999,False,3,Keep,False,True,Core,mapped from industry
+C326742,user16808@example40.org,Director of R&D,EU/UK/CH,2024-07-11,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C320324,user21734@example163.org,CRO Project Lead,US,2024-08-23,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C356545,user6229@example154.org,Professor,Asia,2025-01-25,Biotech Research,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C354998,user23145@example297.org,Graduate Student,EU/UK/CH,2024-03-31,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C341642,user26948@example319.org,Clinical Researcher,EU/UK/CH,2025-01-03,Gene Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C353074,user50306@example84.org,Marketing Manager,US,2025-11-29,,Form,False,Lead,547,False,9999,9999,False,1,Keep,False,False,Unclassified,unknown
+C350007,user3444@example97.org,Unknown,US,2024-04-07,Higher Education,List import,False,Lead,337,False,9999,9999,False,2,Keep,False,False,Academia,mapped from industry
+C316602,user21588@example317.org,Consultant,US,2025-05-07,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C321952,user15339@example85.org,Professor,US,2025-10-17,Hospitals & Health Care,Form,True,Lead,208,False,9999,9999,True,3,Keep,False,True,Hospital,mapped from industry
+C330537,user42104@example391.org,CGT Process Scientist,US,2026-08-09,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C354101,user20042@example89.org,Marketing Manager,Asia,2024-10-12,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C326176,user38026@example268.org,Professor,US,2025-02-27,Medical Devices,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C357073,user1648@example382.org,Core Facility Manager,Asia,2025-03-01,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C327467,user17307@example277.org,Graduate Student,US,2026-04-26,,List import,True,Lead,73,False,9999,9999,False,4,Keep,False,True,Academia,inferred from title
+C324031,user43257@example132.org,Research Scientist,US,2025-01-21,,List import,True,Lead,327,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C350367,user50183@example138.org,Graduate Student,EU/UK/CH,2023-11-29,Government Administration,Sales added,True,Lead,147,False,9999,9999,False,3,Keep,False,True,Government,mapped from industry
+C315321,user50671@example221.org,VP Research,US,2025-12-03,Pharmaceuticals,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C340186,user13598@example98.org,Professor,EU/UK/CH,2025-06-04,Non-profit,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Nonprofit Foundation,mapped from industry
+C314660,user27585@example134.org,CGT Process Scientist,EU/UK/CH,2026-07-26,University,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C313219,user13138@example75.org,Research Scientist,US,2023-09-01,,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C347082,user25123@example12.org,Professor,US,2025-12-08,,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C310780,user39933@example24.org,CRO Project Lead,Asia,2025-03-02,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CRO,inferred from title
+C339918,user40732@example321.org,CRO Project Lead,US,2024-05-24,Government Administration,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Government,mapped from industry
+C315805,user51169@example386.org,Professor,Asia,2025-11-20,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C308286,user4078@example5.org,Consultant,US,2025-04-15,,List import,False,Lead,681,False,9999,9999,False,1,Keep,False,False,Unclassified,unknown
+C336095,user38691@example80.org,Graduate Student,US,2023-08-30,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C319327,user39349@example384.org,Graduate Student,US,2024-09-19,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C303135,user1513@example311.org,Director of R&D,US,2023-06-10,University,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C304543,user39089@example328.org,Research Scientist,US,2023-12-21,Life Sciences,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,mapped from industry
+C344455,user40261@example394.org,CRO Project Lead,US,2023-04-05,,List import,True,Lead,25,False,9999,9999,False,5,Keep,False,True,CRO,inferred from title
+C320939,user26717@example14.org,Marketing Manager,US,2025-06-16,Gene Therapy,List import,True,Lead,327,False,9999,9999,False,2,Keep,False,True,CGT Developer,mapped from industry
+C314334,user4774@example240.org,Core Facility Manager,EU/UK/CH,2023-11-27,Government Administration,List import,True,MQL,436,False,9999,9999,False,2,Demote to non-marketing,False,False,Government,mapped from industry
+C313325,user30223@example9.org,Research Scientist,US,2023-04-08,,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C350982,user10194@example288.org,Graduate Student,EU/UK/CH,2026-08-29,Research,Event scan,True,SQL,9999,False,9999,9999,False,0,Keep,False,True,Academia,mapped from industry
+C341722,user712@example47.org,Research Scientist,EU/UK/CH,2024-08-29,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C310107,user47684@example25.org,Procurement Specialist,EU/UK/CH,2025-11-05,,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C310212,user14566@example359.org,Research Scientist,US,2024-06-24,Distribution,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C330792,user496@example152.org,VP Research,US,2026-04-30,,List import,True,Lead,9999,False,9999,166,True,8,Keep,False,True,Biotech,inferred from title
+C340298,user51901@example117.org,Research Scientist,Canada,2024-10-05,Cell Therapy,List import,True,Lead,427,False,9999,9999,True,2,Keep,False,True,CGT Developer,mapped from industry
+C300696,user2037@example64.org,Marketing Manager,US,2025-01-09,,List import,True,Lead,328,False,9999,9999,False,2,Keep,False,True,Unclassified,unknown
+C357938,user52124@example305.org,Graduate Student,Asia,2026-01-23,,List import,False,Lead,673,False,9999,9999,False,1,Keep,False,False,Academia,inferred from title
+C326636,user14017@example21.org,Postdoctoral Fellow,EU/UK/CH,2025-02-12,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C342089,user53982@example91.org,CGT Process Scientist,US,2024-09-29,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C338781,user42899@example163.org,CRO Project Lead,US,2024-09-18,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C345901,user40663@example54.org,Lab Manager,US,2025-12-03,University,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C321633,user16935@example393.org,Core Facility Manager,US,2025-07-12,Government Administration,Event scan,True,Lead,347,False,9999,9999,False,2,Keep,False,True,Government,mapped from industry
+C306738,user27582@example377.org,CRO Project Lead,EU/UK/CH,2024-11-17,Biotech Research,Event scan,True,Lead,352,False,9999,9999,False,2,Keep,False,True,Biotech,mapped from industry
+C337382,user4540@example271.org,Research Scientist,US,2026-05-21,,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C358486,user20924@example276.org,Marketing Manager,US,2023-04-19,Higher Education,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C320449,user50640@example295.org,CRO Project Lead,EU/UK/CH,2025-04-25,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CRO,inferred from title
+C310814,user23733@example81.org,Director of R&D,EU/UK/CH,2025-02-25,Higher Education,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C354056,user22051@example324.org,Consultant,US,2026-08-27,Distribution,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Distributor,mapped from industry
+C332797,user29397@example126.org,Consultant,EU/UK/CH,2025-04-18,Government Administration,Event scan,False,Lead,357,True,9999,9999,False,6,Keep,False,False,Government,mapped from industry
+C350138,user32819@example260.org,Director of R&D,US,2025-01-09,Biotechnology,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C325472,user52989@example340.org,Postdoctoral Fellow,US,2025-06-07,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C329651,user48321@example125.org,Professor,US,2026-07-03,Core Facility,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C350441,user21297@example352.org,Consultant,US,2023-11-01,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C331949,user46044@example217.org,Core Facility Manager,US,2026-06-05,University,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C348027,user44023@example386.org,Unknown,US,2024-04-12,Medical Devices,List import,True,Lead,361,False,9999,9999,False,2,Keep,False,True,Biotech,mapped from industry
+C346900,user34507@example36.org,Professor,EU/UK/CH,2026-02-13,,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C315717,user14528@example215.org,Graduate Student,US,2025-09-04,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C335010,user4644@example89.org,Marketing Manager,US,2025-08-20,Hospitals & Health Care,Event scan,False,Lead,334,False,9999,9999,False,2,Keep,False,False,Hospital,mapped from industry
+C311545,user55621@example197.org,Consultant,US,2025-09-29,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C347538,user44969@example261.org,CRO Project Lead,EU/UK/CH,2025-07-13,Core Facility,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C317978,user23020@example270.org,Postdoctoral Fellow,US,2026-06-28,Non-profit,List import,True,Lead,403,True,9999,9999,False,6,Keep,False,True,Nonprofit Foundation,mapped from industry
+C306322,user4144@example67.org,Graduate Student,Asia,2025-12-14,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C347337,user3166@example263.org,Unknown,US,2024-08-08,Contract Research,List import,True,MQL,587,False,9999,9999,False,1,Demote to non-marketing,False,False,CRO,mapped from industry
+C324168,user2105@example283.org,Clinical Researcher,US,2025-11-28,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,inferred from title
+C305700,user20542@example103.org,Postdoctoral Fellow,US,2024-04-07,Contract Research,List import,False,Opportunity,592,False,9999,9999,False,1,Keep,False,False,CRO,mapped from industry
+C352217,user35747@example181.org,Core Facility Manager,US,2023-11-08,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C358392,user30747@example331.org,Unknown,US,2025-01-28,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C340975,user42989@example306.org,Marketing Manager,US,2025-05-06,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C342274,user10405@example375.org,Postdoctoral Fellow,EU/UK/CH,2024-12-07,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C334468,user3798@example19.org,VP Research,US,2023-10-06,,Form,False,Lead,583,False,9999,9999,True,1,Keep,False,False,Biotech,inferred from title
+C338834,user42756@example137.org,Unknown,EU/UK/CH,2023-11-14,,List import,True,Lead,360,False,9999,9999,False,2,Keep,False,True,Unclassified,unknown
+C309068,user30236@example265.org,VP Research,US,2025-06-15,Distribution,List import,True,Lead,406,False,9999,9999,True,2,Keep,False,True,Distributor,mapped from industry
+C311498,user17199@example8.org,Director of R&D,Canada,2023-08-09,Medical Center,Form,True,Lead,403,False,9999,9999,True,2,Keep,False,True,Hospital,mapped from industry
+C359399,user37474@example122.org,Clinical Researcher,US,2026-01-01,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C308577,user11727@example365.org,VP Research,US,2025-03-18,Life Sciences,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C338542,user17316@example43.org,Consultant,US,2023-06-17,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C345072,user5327@example158.org,CRO Project Lead,US,2023-12-10,Biotechnology,List import,False,MQL,9999,False,9999,162,False,8,Keep,False,False,Biotech,mapped from industry
+C358326,user15638@example222.org,Lab Manager,US,2024-04-06,,Event scan,False,SQL,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C344487,user24140@example170.org,Unknown,US,2024-05-13,Life Sciences,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C329124,user4555@example103.org,Core Facility Manager,EU/UK/CH,2023-02-03,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C356900,user10653@example399.org,Consultant,US,2026-09-21,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C340665,user37985@example265.org,Core Facility Manager,US,2024-09-23,Medical Devices,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C358611,user51870@example92.org,Clinical Researcher,EU/UK/CH,2026-03-25,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C322931,user31410@example369.org,Procurement Specialist,US,2025-07-21,,List import,True,Lead,228,False,9999,9999,True,3,Keep,False,True,Biotech,inferred from title
+C341126,user28381@example391.org,Unknown,US,2023-07-05,Biotech Research,List import,True,Lead,7,False,9999,9999,False,5,Keep,False,True,Biotech,mapped from industry
+C310684,user37216@example329.org,Core Facility Manager,US,2026-05-14,Higher Education,List import,True,Lead,237,False,9999,9999,False,3,Keep,False,True,Academia,mapped from industry
+C309880,user13870@example134.org,Core Facility Manager,Asia,2023-10-07,Cell Therapy,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CGT Developer,mapped from industry
+C324387,user55570@example9.org,Unknown,US,2025-12-21,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C307092,user20903@example74.org,Consultant,US,2024-05-24,Pharmaceuticals,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C348703,user42778@example314.org,Professor,US,2024-02-19,Pharmaceuticals,List import,True,MQL,195,False,9999,9999,True,3,Keep,False,True,Pharma,mapped from industry
+C350842,user15023@example370.org,Procurement Specialist,US,2024-06-10,Non-profit,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C353818,user31906@example127.org,Lab Manager,US,2026-04-12,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C306936,user34520@example94.org,Consultant,US,2023-10-28,Medical Devices,List import,True,Lead,239,True,9999,9999,False,8,Keep,False,True,Biotech,mapped from industry
+C343123,user55594@example124.org,CRO Project Lead,Other,2023-02-25,Hospitals & Health Care,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,mapped from industry
+C353419,user32082@example114.org,Unknown,US,2024-10-26,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C322029,user41716@example11.org,VP Research,US,2025-09-20,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C313491,user50155@example10.org,Procurement Specialist,EU/UK/CH,2026-08-10,Cell Therapy,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C329131,user11602@example101.org,Research Scientist,US,2026-08-20,Hospitals & Health Care,Sales added,True,Lead,320,False,9999,9999,True,2,Keep,False,True,Hospital,mapped from industry
+C311407,user29591@example185.org,VP Research,US,2023-02-14,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C330068,user903@example103.org,Postdoctoral Fellow,EU/UK/CH,2023-10-29,Pharma / Drug Dev,Event scan,False,Lead,511,False,9999,9999,False,1,Keep,False,False,Pharma,mapped from industry
+C333768,user1883@example82.org,Research Scientist,US,2026-08-21,Gene Therapy,List import,True,Lead,277,True,9999,9999,True,8,Keep,False,True,CGT Developer,mapped from industry
+C321144,user47018@example39.org,Lab Manager,US,2026-06-02,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C336867,user1074@example17.org,Graduate Student,US,2024-10-28,,List import,True,Lead,65,False,9999,9999,False,4,Keep,False,True,Academia,inferred from title
+C355570,user54888@example266.org,Research Scientist,US,2025-07-03,Higher Education,Event scan,False,Lead,698,False,9999,9999,True,1,Keep,False,False,Academia,mapped from industry
+C355778,user45025@example272.org,Research Scientist,EU/UK/CH,2024-04-23,Research,Form,False,Lead,155,True,9999,9999,True,10,Keep,False,False,Academia,mapped from industry
+C348144,user30895@example343.org,Lab Manager,US,2024-09-05,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C333429,user49914@example302.org,Unknown,US,2023-05-02,Gene Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C313155,user55198@example139.org,Marketing Manager,EU/UK/CH,2025-03-19,,List import,True,Lead,197,True,9999,9999,False,9,Keep,False,True,Unclassified,unknown
+C349305,user36590@example293.org,Marketing Manager,US,2024-09-21,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C326305,user41741@example75.org,CGT Process Scientist,EU/UK/CH,2025-04-13,,Sales added,False,MQL,150,False,9999,9999,True,3,Keep,False,False,CGT Developer,inferred from title
+C357257,user33505@example138.org,Marketing Manager,US,2023-06-09,,List import,True,SQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C343071,user25713@example308.org,CRO Project Lead,US,2023-04-27,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C326105,user42201@example196.org,Professor,US,2024-12-04,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C351364,user42696@example392.org,Core Facility Manager,US,2026-03-17,Biotechnology,Sales added,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C318802,user17677@example102.org,Unknown,US,2024-11-01,,Event scan,False,Lead,606,True,9999,9999,False,3,Keep,False,False,Unclassified,unknown
+C349774,user52160@example46.org,Clinical Researcher,Asia,2026-09-11,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Pharma,mapped from industry
+C321794,user5440@example266.org,Lab Manager,US,2024-03-22,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C332970,user55685@example198.org,Core Facility Manager,Asia,2023-05-13,Cell Therapy,List import,True,Lead,526,False,9999,9999,False,1,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C315819,user24774@example88.org,Core Facility Manager,EU/UK/CH,2026-03-18,Medical Center,Form,True,Lead,323,True,9999,9999,False,7,Keep,False,True,Hospital,mapped from industry
+C305807,user39787@example4.org,Professor,US,2024-01-09,Core Facility,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C317535,user11835@example262.org,Unknown,US,2023-01-19,Non-profit,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Nonprofit Foundation,mapped from industry
+C318854,user33201@example61.org,Professor,US,2023-04-22,,List import,True,Lead,319,False,9999,9999,True,2,Keep,False,True,Academia,inferred from title
+C327888,user34039@example164.org,Postdoctoral Fellow,US,2024-07-04,Non-profit,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C330091,user24078@example194.org,Marketing Manager,EU/UK/CH,2024-05-10,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C349775,user20977@example389.org,Director of R&D,Other,2024-05-21,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C327547,user25592@example75.org,Core Facility Manager,US,2024-12-29,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C347034,user24787@example303.org,Marketing Manager,EU/UK/CH,2026-01-24,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C358078,user3161@example174.org,Postdoctoral Fellow,US,2025-09-27,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C355653,user2428@example375.org,Postdoctoral Fellow,US,2025-01-24,Distribution,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Distributor,mapped from industry
+C321029,user9318@example39.org,Director of R&D,US,2026-05-29,,Form,True,SQL,31,False,9999,9999,True,5,Keep,False,True,Biotech,inferred from title
+C343427,user54683@example116.org,Unknown,US,2023-04-10,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C336575,user20247@example38.org,Director of R&D,Canada,2025-04-21,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C343759,user42227@example289.org,Clinical Researcher,Asia,2025-02-09,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C331701,user73@example38.org,Consultant,US,2024-02-26,University,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C330976,user46861@example285.org,Research Scientist,US,2023-12-12,,List import,True,Lead,300,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C332845,user34579@example267.org,Clinical Researcher,EU/UK/CH,2023-02-27,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C350796,user18459@example72.org,CGT Process Scientist,US,2024-06-12,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C304894,user48134@example114.org,VP Research,US,2023-09-12,,Sales added,False,Lead,484,False,9999,9999,True,2,Keep,False,False,Biotech,inferred from title
+C350386,user29150@example12.org,Clinical Researcher,US,2026-07-25,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,inferred from title
+C333616,user4882@example372.org,Procurement Specialist,EU/UK/CH,2026-03-08,Gene Therapy,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C300143,user19306@example320.org,Marketing Manager,Asia,2023-05-17,,Form,False,Lead,525,False,9999,9999,False,1,Keep,False,False,Unclassified,unknown
+C334919,user19287@example121.org,VP Research,US,2023-02-11,,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C347556,user38921@example121.org,Professor,EU/UK/CH,2026-05-20,Core Facility,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C303264,user23693@example159.org,Lab Manager,EU/UK/CH,2025-10-28,Pharmaceuticals,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C332403,user53523@example284.org,Clinical Researcher,US,2025-02-07,Distribution,List import,True,Lead,343,False,9999,9999,False,2,Keep,False,True,Distributor,mapped from industry
+C334623,user18967@example285.org,Research Scientist,US,2024-09-18,Life Sciences,Form,True,Lead,620,False,9999,9999,True,1,Keep,False,True,Biotech,mapped from industry
+C333110,user53495@example11.org,Director of R&D,EU/UK/CH,2023-07-21,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C334060,user9217@example323.org,Unknown,US,2025-02-05,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C306865,user48603@example157.org,Core Facility Manager,Asia,2023-05-19,Non-profit,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Nonprofit Foundation,mapped from industry
+C305511,user37637@example283.org,CGT Process Scientist,EU/UK/CH,2024-03-12,Higher Education,List import,True,Lead,126,False,9999,9999,True,4,Keep,False,True,Academia,mapped from industry
+C336116,user21404@example149.org,VP Research,EU/UK/CH,2023-04-01,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C309004,user25272@example228.org,VP Research,Asia,2026-04-06,,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C337531,user23541@example324.org,Postdoctoral Fellow,EU/UK/CH,2023-01-16,Distribution,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C359247,user7314@example361.org,Postdoctoral Fellow,US,2024-01-07,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C352484,user2091@example132.org,Core Facility Manager,US,2025-07-07,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C351882,user36275@example347.org,Consultant,US,2023-08-29,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C344100,user49366@example54.org,Graduate Student,US,2025-11-30,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C302735,user53544@example249.org,Procurement Specialist,EU/UK/CH,2023-03-27,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C325708,user20486@example399.org,VP Research,US,2024-06-18,Medical Devices,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C326211,user53439@example66.org,VP Research,US,2026-07-19,Distribution,List import,True,Lead,256,False,9999,9999,True,3,Keep,False,True,Distributor,mapped from industry
+C334988,user44799@example312.org,Professor,US,2026-02-28,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C304643,user40761@example102.org,Research Scientist,US,2025-10-11,Medical Center,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C302528,user20837@example231.org,Core Facility Manager,Canada,2025-09-10,Pharmaceuticals,List import,True,Lead,321,False,9999,390,False,7,Keep,False,True,Pharma,mapped from industry
+C348500,user36740@example309.org,Graduate Student,EU/UK/CH,2025-01-19,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C357138,user18071@example364.org,Director of R&D,US,2025-06-12,,List import,True,Lead,325,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C304740,user53729@example4.org,Research Scientist,Canada,2025-01-29,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C312229,user28304@example195.org,Clinical Researcher,US,2026-05-17,Biotechnology,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Biotech,mapped from industry
+C325856,user18494@example290.org,Research Scientist,US,2024-07-17,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C303500,user7056@example394.org,Postdoctoral Fellow,EU/UK/CH,2023-11-18,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C352839,user9584@example173.org,Professor,US,2025-12-16,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C336063,user12696@example385.org,Graduate Student,US,2026-04-17,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C336333,user13436@example292.org,Core Facility Manager,EU/UK/CH,2024-01-03,Core Facility,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Core,mapped from industry
+C334209,user28555@example280.org,Core Facility Manager,EU/UK/CH,2023-03-09,,List import,False,Lead,247,False,9999,9999,False,3,Keep,False,False,Unclassified,unknown
+C347227,user25240@example390.org,Core Facility Manager,US,2024-06-10,Pharmaceuticals,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C354800,user5726@example177.org,Lab Manager,US,2025-02-22,,List import,False,Lead,140,False,9999,9999,False,4,Keep,False,False,Academia,inferred from title
+C326695,user32764@example139.org,CRO Project Lead,US,2023-10-22,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C318212,user32938@example98.org,VP Research,Asia,2026-05-24,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C329197,user38698@example341.org,Graduate Student,US,2026-08-15,Medical Devices,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C302415,user45601@example228.org,Director of R&D,US,2023-04-24,,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C356617,user2196@example83.org,Lab Manager,US,2024-05-02,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C354475,user9196@example81.org,Core Facility Manager,Asia,2024-09-03,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C351269,user52325@example209.org,Unknown,US,2024-03-09,,Event scan,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C324975,user17252@example108.org,Consultant,US,2023-05-23,Hospitals & Health Care,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,mapped from industry
+C335369,user14108@example126.org,Procurement Specialist,US,2025-02-11,Pharma / Drug Dev,List import,True,Lead,588,True,9999,9999,True,3,Keep,False,True,Pharma,mapped from industry
+C307937,user50323@example130.org,CRO Project Lead,US,2025-03-29,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C324141,user49325@example118.org,CRO Project Lead,US,2024-01-19,Higher Education,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C349592,user39009@example393.org,CGT Process Scientist,US,2025-02-09,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C328966,user6596@example376.org,Core Facility Manager,US,2023-08-18,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C340237,user257@example174.org,Consultant,US,2023-01-19,Gene Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C306798,user13812@example330.org,VP Research,US,2026-06-15,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C308489,user29534@example168.org,Professor,Asia,2024-12-13,,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C358924,user10454@example155.org,Graduate Student,US,2023-03-06,,Event scan,False,Lead,526,False,9999,9999,False,1,Keep,False,False,Academia,inferred from title
+C349812,user44745@example73.org,VP Research,US,2023-11-08,Contract Research,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CRO,mapped from industry
+C345304,user40239@example366.org,Procurement Specialist,EU/UK/CH,2025-08-10,Core Facility,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C310654,user22414@example34.org,Clinical Researcher,US,2025-01-18,,List import,False,Lead,667,False,9999,9999,False,1,Keep,False,False,Hospital,inferred from title
+C310536,user42584@example397.org,Lab Manager,EU/UK/CH,2026-08-18,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C347654,user36363@example237.org,Unknown,EU/UK/CH,2023-12-29,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C331625,user39947@example385.org,Marketing Manager,Other,2023-06-11,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C326650,user29992@example299.org,Core Facility Manager,US,2024-01-09,Higher Education,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C300108,user30389@example399.org,Professor,Asia,2023-07-06,,List import,True,Lead,128,False,9999,9999,True,4,Keep,False,True,Academia,inferred from title
+C303578,user15951@example225.org,Consultant,EU/UK/CH,2025-12-15,Government Administration,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Government,mapped from industry
+C329834,user40331@example381.org,Clinical Researcher,US,2025-05-10,,List import,True,Lead,304,False,9999,9999,False,2,Keep,False,True,Hospital,inferred from title
+C317800,user40679@example253.org,Director of R&D,Asia,2024-06-25,Medical Center,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Hospital,mapped from industry
+C353791,user23691@example11.org,Director of R&D,US,2024-12-02,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C301613,user16370@example211.org,Professor,US,2026-02-02,Distribution,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Distributor,mapped from industry
+C314564,user14786@example210.org,Professor,EU/UK/CH,2023-05-17,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C347336,user29086@example145.org,Graduate Student,US,2024-01-31,Gene Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C349328,user25352@example227.org,VP Research,Canada,2024-07-24,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C358394,user15887@example63.org,CGT Process Scientist,Other,2024-09-09,,List import,True,MQL,537,False,9999,9999,True,1,Keep,False,True,CGT Developer,inferred from title
+C303637,user44989@example358.org,CGT Process Scientist,US,2026-07-19,Biotech Research,Form,False,Lead,393,False,9999,9999,True,2,Keep,False,False,Biotech,mapped from industry
+C317607,user11848@example292.org,Director of R&D,US,2023-06-30,Contract Research,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CRO,mapped from industry
+C302648,user19641@example96.org,Director of R&D,US,2023-12-01,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C349648,user46605@example158.org,Unknown,EU/UK/CH,2024-01-18,,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C352663,user52376@example239.org,CGT Process Scientist,EU/UK/CH,2026-01-06,Research,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C321761,user10679@example264.org,Graduate Student,US,2024-12-25,Medical Center,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C327546,user29603@example79.org,Postdoctoral Fellow,EU/UK/CH,2023-11-27,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C324801,user49808@example277.org,Clinical Researcher,Asia,2025-05-23,Gene Therapy,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CGT Developer,mapped from industry
+C329775,user4176@example92.org,Professor,US,2024-01-26,Pharma / Drug Dev,Form,True,Lead,564,False,9999,9999,True,1,Keep,False,True,Pharma,mapped from industry
+C349502,user11897@example369.org,VP Research,US,2025-06-21,Life Sciences,Event scan,False,Lead,227,True,9999,9999,True,9,Keep,False,False,Biotech,mapped from industry
+C344816,user7301@example63.org,Core Facility Manager,US,2025-02-01,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C310847,user40568@example285.org,Consultant,Asia,2024-11-11,,Sales added,False,Lead,83,True,9999,9999,False,12,Keep,False,False,Unclassified,unknown
+C307851,user54397@example376.org,Consultant,US,2024-03-18,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C350609,user29949@example307.org,Professor,US,2023-02-13,,List import,False,Lead,404,False,9999,9999,True,2,Keep,False,False,Academia,inferred from title
+C329163,user28751@example336.org,Unknown,US,2026-04-11,Life Sciences,List import,True,MQL,247,False,101,9999,False,26,Keep,False,True,Biotech,mapped from industry
+C351676,user8028@example66.org,Graduate Student,US,2024-08-04,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C359330,user31152@example200.org,VP Research,US,2024-07-08,Gene Therapy,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C352097,user15601@example70.org,Research Scientist,US,2023-07-25,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C304752,user49101@example84.org,Postdoctoral Fellow,US,2023-05-20,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C345575,user31559@example132.org,Research Scientist,US,2025-04-12,,List import,True,Lead,699,False,9999,9999,True,1,Keep,False,True,Biotech,inferred from title
+C351061,user47061@example288.org,Graduate Student,US,2023-08-09,,Form,False,Lead,670,False,9999,9999,False,1,Keep,False,False,Academia,inferred from title
+C327065,user54278@example212.org,Lab Manager,EU/UK/CH,2025-07-11,,List import,True,Lead,680,False,9999,9999,False,1,Demote to non-marketing,False,False,Academia,inferred from title
+C326963,user51694@example231.org,Consultant,EU/UK/CH,2024-12-05,,Event scan,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C359633,user202@example32.org,Core Facility Manager,US,2025-09-30,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C311333,user45361@example197.org,CGT Process Scientist,US,2024-10-27,Medical Center,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Hospital,mapped from industry
+C310445,user44479@example35.org,Lab Manager,Asia,2025-11-09,Higher Education,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C305195,user20007@example151.org,Professor,US,2023-01-19,,List import,True,Lead,694,False,9999,9999,True,1,Keep,False,True,Academia,inferred from title
+C315396,user33247@example11.org,Research Scientist,US,2025-12-19,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C315228,user23940@example288.org,Postdoctoral Fellow,US,2024-09-02,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C359745,user22152@example360.org,Clinical Researcher,EU/UK/CH,2023-05-29,Life Sciences,List import,True,MQL,316,False,9999,9999,False,2,Keep,False,True,Biotech,mapped from industry
+C349973,user981@example242.org,Unknown,US,2025-04-30,Medical Center,List import,True,Lead,93,False,9999,9999,False,4,Keep,False,True,Hospital,mapped from industry
+C356077,user8994@example336.org,Procurement Specialist,US,2025-11-20,,List import,True,Lead,297,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C313906,user30616@example351.org,Consultant,EU/UK/CH,2025-11-27,Higher Education,List import,True,Lead,320,False,9999,9999,False,2,Keep,False,True,Academia,mapped from industry
+C357117,user45130@example153.org,CRO Project Lead,Asia,2025-11-23,Core Facility,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Core,mapped from industry
+C304852,user32502@example340.org,Graduate Student,Asia,2023-08-28,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C332162,user52051@example220.org,Clinical Researcher,US,2026-09-02,Cell Therapy,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,CGT Developer,mapped from industry
+C321274,user50263@example288.org,Consultant,EU/UK/CH,2023-07-07,Biotechnology,Event scan,True,Lead,672,False,9999,9999,False,1,Demote to non-marketing,False,False,Biotech,mapped from industry
+C343628,user33507@example267.org,Graduate Student,US,2026-05-05,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C302852,user2472@example39.org,CRO Project Lead,EU/UK/CH,2026-08-27,,List import,True,Lead,367,False,9999,9999,False,2,Keep,False,True,CRO,inferred from title
+C353368,user8840@example13.org,Consultant,EU/UK/CH,2025-09-30,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C347258,user47803@example320.org,Core Facility Manager,US,2024-08-21,Contract Research,Event scan,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,CRO,mapped from industry
+C308702,user43407@example98.org,Marketing Manager,US,2023-05-15,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C307898,user14214@example135.org,Marketing Manager,US,2026-01-20,Gene Therapy,Form,True,Lead,9999,False,266,9999,False,16,Keep,False,True,CGT Developer,mapped from industry
+C330065,user2334@example259.org,Professor,Asia,2026-05-03,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C357612,user4633@example389.org,Procurement Specialist,EU/UK/CH,2024-03-04,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C300418,user32628@example351.org,Graduate Student,EU/UK/CH,2025-07-13,University,List import,True,Lead,305,False,9999,9999,False,2,Keep,False,True,Academia,mapped from industry
+C313901,user52105@example396.org,Postdoctoral Fellow,US,2025-09-27,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C351951,user15141@example152.org,VP Research,US,2023-01-02,Contract Research,List import,True,Lead,199,False,9999,9999,True,3,Keep,False,True,CRO,mapped from industry
+C340368,user15042@example391.org,Professor,Canada,2023-09-23,,Form,False,Lead,469,False,9999,9999,True,2,Keep,False,False,Academia,inferred from title
+C303589,user47403@example37.org,Research Scientist,US,2026-07-13,Contract Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CRO,mapped from industry
+C322611,user42714@example23.org,Unknown,EU/UK/CH,2025-05-17,,List import,True,Lead,476,False,9999,9999,False,2,Demote to non-marketing,False,False,Unclassified,unknown
+C343881,user25751@example306.org,VP Research,US,2025-09-19,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C309628,user54250@example3.org,Professor,EU/UK/CH,2024-08-21,Government Administration,Event scan,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Government,mapped from industry
+C357829,user9072@example33.org,Consultant,Asia,2026-03-25,Pharmaceuticals,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Pharma,mapped from industry
+C348992,user15520@example256.org,Unknown,US,2025-09-24,Non-profit,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Nonprofit Foundation,mapped from industry
+C312149,user38325@example218.org,Procurement Specialist,US,2026-02-06,,Sales added,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C358547,user28273@example276.org,Procurement Specialist,US,2025-01-14,,List import,True,Lead,401,True,9999,9999,True,6,Keep,False,True,Biotech,inferred from title
+C310853,user1889@example300.org,Procurement Specialist,US,2025-09-21,Medical Center,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Hospital,mapped from industry
+C311493,user32768@example392.org,Lab Manager,US,2025-04-16,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C309016,user29652@example264.org,Unknown,US,2023-01-29,Pharma / Drug Dev,Event scan,True,Lead,362,False,9999,9999,False,2,Keep,False,True,Pharma,mapped from industry
+C313449,user55503@example206.org,CGT Process Scientist,US,2023-03-03,University,List import,True,MQL,457,False,9999,9999,True,2,Keep,False,True,Academia,mapped from industry
+C314209,user13806@example93.org,CRO Project Lead,US,2024-08-18,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,inferred from title
+C317022,user38687@example253.org,Core Facility Manager,US,2025-01-01,Research,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,mapped from industry
+C307921,user8834@example355.org,VP Research,EU/UK/CH,2025-09-28,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C338166,user7183@example290.org,Unknown,US,2026-06-15,,List import,True,Lead,112,False,9999,9999,False,4,Keep,False,True,Unclassified,unknown
+C351988,user11041@example348.org,Consultant,US,2025-03-25,Contract Research,List import,False,Lead,100,False,9999,9999,False,4,Keep,False,False,CRO,mapped from industry
+C335441,user5313@example240.org,Postdoctoral Fellow,US,2025-09-09,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C338190,user33475@example393.org,CGT Process Scientist,US,2023-10-14,Pharma / Drug Dev,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C300311,user54881@example237.org,Director of R&D,Canada,2026-04-11,Gene Therapy,List import,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C306025,user49987@example192.org,Marketing Manager,EU/UK/CH,2025-10-17,Distribution,List import,True,Lead,484,False,9999,9999,False,2,Demote to non-marketing,False,False,Distributor,mapped from industry
+C327289,user45206@example143.org,Consultant,EU/UK/CH,2023-01-20,,List import,True,Lead,161,False,9999,9999,False,3,Keep,False,True,Unclassified,unknown
+C352346,user13960@example69.org,Lab Manager,EU/UK/CH,2024-04-16,,List import,True,Lead,398,False,9999,9999,False,2,Demote to non-marketing,False,False,Academia,inferred from title
+C340098,user44969@example341.org,Lab Manager,US,2023-05-09,,List import,True,Lead,98,False,9999,9999,False,4,Keep,False,True,Academia,inferred from title
+C319165,user42009@example385.org,Unknown,US,2024-01-05,Non-profit,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Nonprofit Foundation,mapped from industry
+C314885,user52710@example95.org,Graduate Student,US,2024-12-24,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C357254,user33954@example12.org,CRO Project Lead,US,2025-08-16,,List import,False,Lead,10,False,9999,9999,False,5,Keep,False,False,CRO,inferred from title
+C326062,user9561@example145.org,Postdoctoral Fellow,US,2025-11-17,Medical Center,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C313288,user47763@example91.org,Professor,US,2023-05-26,Government Administration,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Government,mapped from industry
+C343115,user22331@example123.org,CRO Project Lead,US,2024-12-08,Biotech Research,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C348669,user40601@example39.org,Lab Manager,US,2025-08-22,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C337478,user51763@example113.org,Graduate Student,EU/UK/CH,2025-11-19,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C340468,user34920@example139.org,Procurement Specialist,EU/UK/CH,2023-03-11,Pharma / Drug Dev,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Pharma,mapped from industry
+C342200,user40944@example116.org,Professor,US,2024-11-27,Pharmaceuticals,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Pharma,mapped from industry
+C314785,user45427@example398.org,Lab Manager,US,2024-01-31,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C345718,user48827@example50.org,Consultant,US,2023-07-23,Medical Center,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C317613,user49499@example232.org,Clinical Researcher,Other,2025-03-01,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C326635,user28603@example258.org,Unknown,US,2026-06-01,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C321679,user1342@example139.org,Clinical Researcher,US,2025-05-01,Non-profit,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Nonprofit Foundation,mapped from industry
+C333692,user42533@example293.org,Graduate Student,Asia,2026-01-05,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C323393,user19622@example297.org,Marketing Manager,Asia,2026-05-19,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CGT Developer,mapped from industry
+C306806,user43161@example43.org,Research Scientist,US,2025-07-04,Life Sciences,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C345872,user45553@example381.org,Lab Manager,US,2024-05-03,,Form,True,SQL,9999,False,9999,9999,False,0,Keep,False,True,Academia,inferred from title
+C340888,user15546@example267.org,Director of R&D,US,2023-04-19,,Event scan,True,MQL,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C355888,user41055@example359.org,CGT Process Scientist,US,2024-01-11,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C344718,user15010@example34.org,Clinical Researcher,Other,2026-10-01,,Form,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,inferred from title
+C322473,user34941@example98.org,Director of R&D,EU/UK/CH,2025-04-03,Cell Therapy,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C305245,user33594@example279.org,Graduate Student,US,2025-08-05,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C344497,user40854@example192.org,Consultant,US,2026-01-30,,List import,True,Lead,392,False,9999,9999,False,2,Demote to non-marketing,False,False,Unclassified,unknown
+C314613,user46874@example333.org,Core Facility Manager,EU/UK/CH,2024-02-13,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C346110,user45178@example121.org,Unknown,US,2023-06-02,Medical Center,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,mapped from industry
+C333577,user9834@example158.org,Graduate Student,US,2023-04-03,,List import,True,Lead,179,False,9999,9999,False,3,Keep,False,True,Academia,inferred from title
+C300706,user4321@example298.org,Clinical Researcher,EU/UK/CH,2024-01-28,Pharmaceuticals,List import,True,Lead,395,True,9999,9999,False,6,Keep,False,True,Pharma,mapped from industry
+C329065,user39353@example300.org,Core Facility Manager,US,2026-07-12,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C324622,user22957@example324.org,Marketing Manager,US,2023-06-25,Gene Therapy,List import,True,Lead,9999,False,9999,154,False,8,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C340642,user43175@example139.org,Marketing Manager,EU/UK/CH,2024-04-19,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C359495,user19743@example237.org,CGT Process Scientist,US,2026-02-19,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C352727,user4104@example255.org,Procurement Specialist,Other,2024-12-01,Gene Therapy,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,mapped from industry
+C317892,user44159@example218.org,Director of R&D,Asia,2024-03-02,,List import,True,Lead,442,False,9999,9999,True,2,Keep,False,True,Biotech,inferred from title
+C309315,user38797@example102.org,Postdoctoral Fellow,US,2026-09-02,Contract Research,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CRO,mapped from industry
+C339285,user36297@example331.org,Core Facility Manager,US,2026-05-16,,List import,True,Lead,9999,False,302,9999,False,14,Keep,False,True,Unclassified,unknown
+C319964,user42244@example149.org,Clinical Researcher,US,2025-10-07,,List import,True,MQL,437,False,9999,9999,False,2,Demote to non-marketing,False,False,Hospital,inferred from title
+C343063,user25679@example153.org,Marketing Manager,US,2024-01-17,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C334159,user2835@example185.org,Core Facility Manager,EU/UK/CH,2026-04-22,Medical Devices,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C344477,user43407@example96.org,Clinical Researcher,US,2023-05-10,Pharma / Drug Dev,List import,True,Lead,51,False,9999,9999,False,4,Keep,False,True,Pharma,mapped from industry
+C322999,user54507@example133.org,Unknown,US,2025-03-10,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C318698,user37125@example21.org,Core Facility Manager,Asia,2024-01-07,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C326775,user43820@example90.org,Core Facility Manager,US,2024-06-15,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C321909,user36142@example168.org,CRO Project Lead,US,2026-06-24,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CRO,inferred from title
+C356113,user55671@example137.org,Lab Manager,EU/UK/CH,2024-08-03,,Event scan,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C337378,user15674@example358.org,VP Research,US,2023-07-31,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,inferred from title
+C326242,user22552@example124.org,Professor,US,2023-07-10,,List import,True,Lead,499,True,9999,9999,True,4,Keep,False,True,Academia,inferred from title
+C327001,user53732@example281.org,Marketing Manager,US,2026-09-20,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C306008,user11358@example298.org,Consultant,EU/UK/CH,2025-12-06,Cell Therapy,List import,True,Lead,108,False,9999,9999,False,4,Keep,False,True,CGT Developer,mapped from industry
+C322395,user53171@example105.org,Procurement Specialist,US,2024-03-03,Research,List import,True,MQL,380,False,9999,9999,True,2,Keep,False,True,Academia,mapped from industry
+C319767,user12437@example55.org,Clinical Researcher,US,2025-08-12,Government Administration,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Government,mapped from industry
+C324625,user43687@example298.org,Unknown,EU/UK/CH,2025-03-13,Government Administration,List import,True,Lead,291,False,9999,9999,False,2,Keep,False,True,Government,mapped from industry
+C354628,user4751@example64.org,Research Scientist,US,2024-12-31,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C309180,user47016@example342.org,Consultant,Other,2024-03-17,Distribution,List import,False,Lead,83,False,9999,9999,False,4,Keep,False,False,Distributor,mapped from industry
+C319160,user23762@example339.org,Lab Manager,EU/UK/CH,2024-03-29,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C328736,user49671@example322.org,Postdoctoral Fellow,Asia,2024-12-25,Core Facility,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Core,mapped from industry
+C316269,user43467@example7.org,Postdoctoral Fellow,US,2026-01-08,Hospitals & Health Care,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,mapped from industry
+C314284,user32138@example322.org,Professor,US,2023-05-04,,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,inferred from title
+C311317,user34380@example5.org,Director of R&D,Canada,2026-01-31,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C316631,user53281@example350.org,Graduate Student,US,2026-08-11,,Form,True,Lead,40,False,9999,9999,False,5,Keep,False,True,Academia,inferred from title
+C329176,user20250@example56.org,Unknown,US,2025-12-06,,List import,True,Lead,16,False,9999,9999,False,5,Keep,False,True,Unclassified,unknown
+C310346,user30033@example60.org,CGT Process Scientist,EU/UK/CH,2024-06-25,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C350911,user38950@example261.org,Lab Manager,US,2025-05-20,,Event scan,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C334877,user28436@example181.org,Graduate Student,US,2024-10-20,Government Administration,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Government,mapped from industry
+C355126,user30045@example348.org,VP Research,US,2025-06-29,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C327687,user1508@example176.org,Graduate Student,EU/UK/CH,2023-06-11,Government Administration,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Government,mapped from industry
+C344906,user21982@example177.org,Lab Manager,US,2025-03-19,,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Academia,inferred from title
+C319478,user22755@example75.org,Core Facility Manager,Canada,2025-05-24,,List import,True,SQL,545,False,9999,9999,False,1,Demote to non-marketing,False,False,Unclassified,unknown
+C345745,user35432@example190.org,Marketing Manager,US,2025-07-09,,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C346897,user1577@example22.org,Graduate Student,US,2025-07-01,Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,mapped from industry
+C341975,user38032@example61.org,VP Research,EU/UK/CH,2023-12-15,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C326721,user27646@example347.org,Marketing Manager,US,2024-05-20,Gene Therapy,List import,True,Lead,247,False,9999,9999,False,3,Keep,False,True,CGT Developer,mapped from industry
+C337567,user3477@example308.org,CRO Project Lead,US,2026-02-13,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry
+C328107,user7710@example10.org,Core Facility Manager,EU/UK/CH,2025-02-20,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C357191,user20522@example118.org,Core Facility Manager,EU/UK/CH,2026-01-26,Cell Therapy,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CGT Developer,mapped from industry
+C356699,user25@example348.org,Marketing Manager,Asia,2023-12-08,Core Facility,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Core,mapped from industry
+C304908,user26147@example193.org,Procurement Specialist,EU/UK/CH,2026-04-12,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C335959,user8992@example367.org,Core Facility Manager,EU/UK/CH,2024-06-11,,Event scan,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Unclassified,unknown
+C327432,user25221@example96.org,Clinical Researcher,EU/UK/CH,2026-07-19,,List import,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Hospital,inferred from title
+C339044,user18579@example362.org,Professor,US,2023-09-16,Life Sciences,Form,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,mapped from industry
+C320272,user33492@example369.org,Clinical Researcher,US,2024-01-26,Life Sciences,Form,True,Lead,491,False,9999,9999,False,1,Keep,False,True,Biotech,mapped from industry
+C349893,user12490@example243.org,Director of R&D,Other,2025-05-24,Core Facility,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C325552,user5657@example139.org,Professor,US,2025-04-07,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C307907,user18203@example323.org,Procurement Specialist,US,2024-02-16,Non-profit,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C346804,user36033@example103.org,Postdoctoral Fellow,Asia,2024-06-06,Medical Devices,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C359614,user35101@example158.org,Research Scientist,US,2023-10-21,Higher Education,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C304824,user20959@example344.org,Clinical Researcher,US,2024-02-01,,Event scan,False,MQL,9999,False,9999,9999,False,0,Keep,False,False,Hospital,inferred from title
+C346180,user11301@example47.org,Procurement Specialist,Canada,2025-10-20,Biotechnology,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Biotech,mapped from industry
+C359121,user381@example66.org,Research Scientist,EU/UK/CH,2024-08-19,,List import,True,Lead,144,False,9999,9999,True,3,Keep,False,True,Biotech,inferred from title
+C309587,user2514@example332.org,Graduate Student,US,2026-03-05,Pharmaceuticals,Form,False,Lead,117,False,9999,9999,False,4,Keep,False,False,Pharma,mapped from industry
+C331025,user41055@example335.org,Professor,EU/UK/CH,2025-01-16,Higher Education,Form,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,Academia,mapped from industry
+C347742,user34286@example306.org,Marketing Manager,Other,2025-08-21,Biotechnology,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C320805,user30210@example156.org,Graduate Student,US,2023-05-09,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C357758,user51525@example236.org,Procurement Specialist,US,2026-09-12,Research,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,mapped from industry
+C355249,user21909@example343.org,Unknown,US,2024-05-22,Biotechnology,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C353118,user6603@example44.org,Clinical Researcher,US,2023-08-14,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Hospital,inferred from title
+C350998,user22991@example340.org,Consultant,EU/UK/CH,2024-12-17,Non-profit,List import,True,Customer,9999,False,9999,9999,False,0,Keep,False,True,Nonprofit Foundation,mapped from industry
+C357589,user55761@example22.org,Consultant,US,2025-11-21,Cell Therapy,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,CGT Developer,mapped from industry
+C358098,user36908@example147.org,Postdoctoral Fellow,US,2024-05-18,Distribution,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Distributor,mapped from industry
+C335181,user3874@example231.org,CGT Process Scientist,US,2024-07-21,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,CGT Developer,inferred from title
+C344438,user1164@example59.org,VP Research,US,2026-08-05,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C314029,user4711@example183.org,Professor,Asia,2023-02-20,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Academia,inferred from title
+C351209,user29687@example134.org,Lab Manager,US,2024-07-31,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Academia,inferred from title
+C334597,user35666@example157.org,VP Research,US,2026-07-05,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C353553,user9471@example162.org,Procurement Specialist,Canada,2023-01-05,Hospitals & Health Care,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Hospital,mapped from industry
+C345522,user20426@example85.org,Consultant,US,2023-09-15,,List import,True,MQL,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C301422,user11797@example128.org,Consultant,US,2026-06-22,,Form,True,Lead,9999,False,9999,9999,False,0,Keep,False,True,Unclassified,unknown
+C323662,user18151@example121.org,Core Facility Manager,US,2026-01-20,,List import,True,Lead,303,False,9999,9999,False,2,Keep,False,True,Unclassified,unknown
+C315605,user33062@example377.org,Graduate Student,US,2023-06-12,Medical Center,Sales added,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Hospital,mapped from industry
+C331423,user224@example69.org,Core Facility Manager,EU/UK/CH,2024-01-11,,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Unclassified,unknown
+C328866,user30@example200.org,Postdoctoral Fellow,US,2025-11-23,,List import,True,Lead,474,False,9999,9999,False,2,Demote to non-marketing,False,False,Academia,inferred from title
+C326274,user48128@example42.org,Director of R&D,US,2025-05-29,,List import,True,Lead,513,False,9999,9999,True,1,Keep,False,True,Biotech,inferred from title
+C310159,user40036@example67.org,CGT Process Scientist,US,2024-06-13,Core Facility,Event scan,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C306501,user53895@example60.org,Marketing Manager,EU/UK/CH,2023-07-05,Biotechnology,List import,False,Lead,9999,False,9999,9999,False,0,Keep,False,False,Biotech,mapped from industry
+C356401,user13263@example255.org,VP Research,US,2024-06-12,,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Biotech,inferred from title
+C333323,user53033@example390.org,VP Research,Canada,2026-07-08,Core Facility,List import,True,Lead,9999,False,9999,9999,True,0,Keep,False,True,Core,mapped from industry
+C345325,user23468@example269.org,Lab Manager,US,2024-03-17,Medical Center,List import,True,Lead,126,False,9999,9999,False,4,Keep,False,True,Hospital,mapped from industry
+C334487,user14351@example90.org,Clinical Researcher,US,2025-07-25,Life Sciences,List import,True,Lead,189,False,9999,9999,False,3,Keep,False,True,Biotech,mapped from industry
+C338842,user19126@example334.org,Postdoctoral Fellow,EU/UK/CH,2023-09-12,Contract Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,CRO,mapped from industry
+C336882,user8788@example213.org,Procurement Specialist,US,2024-02-16,Contract Research,List import,False,Lead,9999,False,9999,9999,True,0,Keep,False,False,CRO,mapped from industry
+C343530,user14927@example44.org,Director of R&D,Asia,2025-09-26,Hospitals & Health Care,List import,True,Lead,9999,False,9999,65,True,10,Keep,False,True,Hospital,mapped from industry
+C316487,user29045@example118.org,Postdoctoral Fellow,US,2023-11-13,Biotech Research,List import,True,Lead,9999,False,9999,9999,False,0,Demote to non-marketing,False,False,Biotech,mapped from industry

@@ -7,7 +7,7 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | # | Project | Status |
 |---|---|---|
 | 01 | [Sales Performance & Ops KPI Dashboard](01-sales-kpi-dashboard) | Done |
-| 02 | CRM cleanup, lifecycle and lead scoring | Planned |
+| 02 | [CRM cleanup, segmentation and lead scoring](02-crm-cleanup-and-scoring) | Done |
 | 03 | Lead generation and list building | Planned |
 | 04 | Channel sales: distributors and B2B marketplaces | Planned |
 | 05 | Service Hub ticketing and automation guardrails | Planned |
