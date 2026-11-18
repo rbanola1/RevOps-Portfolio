@@ -1,0 +1,4 @@
+metric,before,after
+Deals associated to company AND contact,0.62,0.971
+"Contact, deal and company owner all set",0.55,0.96
+"Duplicate company records per 1,000",38.0,6.0
