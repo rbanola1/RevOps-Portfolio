@@ -1,0 +1,41 @@
+distributor,territory,region,cold_chain_capable,own_warehouse,reach_1_5,portfolio_fit_1_5,financial_health_1_5,competitor_overlap,exclusive_to_competitor,score,tier,status
+Dorvik Research Supply,Canada,Americas,True,True,2,5,5,False,False,91.0,Tier 1,Outreach Sent
+Halcyon Biolabs,Korea,Asia,True,True,5,3,4,False,False,86.0,Tier 1,Outreach Sent
+Quillon Lab Direct,UK/IE,EU,True,True,1,4,5,False,False,83.0,Tier 1,In Discussion
+Quillon Scientific,Taiwan,Asia,True,True,4,3,4,False,False,83.0,Tier 1,Outreach Sent
+Ivermoor Life Science Supply,Italy,EU,True,True,2,4,4,False,False,82.0,Tier 1,Outreach Sent
+Brenmar Biolabs,Singapore,Asia,True,True,5,3,3,False,False,82.0,Tier 1,Outreach Sent
+Garrow Scientific,France,EU,True,True,4,4,2,False,False,80.0,Tier 1,Outreach Sent
+Oakridge Life Science Supply,Korea,Asia,True,True,4,4,4,True,False,78.0,Tier 1,In Discussion
+Kestrel Scientific,Nordics,EU,True,True,3,2,4,False,False,75.0,Tier 1,Outreach Sent
+Alder Life Science Supply,UK/IE,EU,True,True,1,4,3,False,False,75.0,Tier 1,Outreach Sent
+Fenwick Research Supply,Taiwan,Asia,True,True,2,1,5,False,False,71.0,Tier 2,Outreach Sent
+Norvane Biolabs,Korea,Asia,True,True,3,2,3,False,False,71.0,Tier 2,In Discussion
+Marlow Scientific,Korea,Asia,True,False,4,1,5,False,False,67.0,Tier 2,Outreach Sent
+Tavistock Bio Partners,Japan,Asia,True,False,4,1,5,False,False,67.0,Tier 2,Outreach Sent
+Jandell Research Supply,Nordics,EU,True,True,1,3,2,False,False,66.0,Tier 2,In Discussion
+Lindqvist Biolabs,Italy,EU,True,True,5,1,4,True,False,66.0,Tier 2,Outreach Sent
+Sterling Scientific,Singapore,Asia,True,True,3,1,3,False,False,66.0,Tier 2,Agreement Review
+Halcyon Bio Partners,Singapore,Asia,True,True,3,2,4,True,False,65.0,Tier 2,Outreach Sent
+Elmstead Scientific,Singapore,Asia,False,True,4,5,4,False,False,63.0,Tier 2,Signed
+Rowan Research Supply,France,EU,True,True,1,1,3,False,False,60.0,Tier 2,In Discussion
+Norvane Bio Partners,Switzerland,EU,False,True,4,5,3,False,False,59.0,Tier 2,In Discussion
+Pelham Bio Partners,Singapore,Asia,True,True,2,1,4,True,False,57.0,Tier 2,In Discussion
+Rowan Biolabs,Singapore,Asia,False,True,3,4,4,False,False,55.0,Tier 2,In Discussion
+Ivermoor Lab Direct,Switzerland,EU,False,True,3,4,3,False,False,51.0,Tier 3,Outreach Sent
+Lindqvist Research Supply,Canada,Americas,False,True,4,3,3,False,False,49.0,Tier 3,Outreach Sent
+Brenmar Bio Partners,Benelux,EU,False,True,3,1,5,False,False,44.0,Tier 3,Outreach Sent
+Pelham Research Supply,Germany,EU,False,True,4,3,4,True,False,43.0,Tier 3,Outreach Sent
+Kestrel Lab Direct,UK/IE,EU,False,True,2,1,5,False,False,41.0,Tier 3,Outreach Sent
+Jandell Bio Partners,France,EU,False,True,4,1,3,False,False,39.0,Tier 3,Outreach Sent
+Fenwick Biolabs,Japan,Asia,False,True,2,3,2,False,False,39.0,Tier 3,Outreach Sent
+Tavistock Biolabs,Nordics,EU,False,False,5,3,2,False,False,38.0,Tier 3,In Discussion
+Dorvik Bio Partners,Nordics,EU,False,False,4,4,3,True,False,34.0,Tier 3,Outreach Sent
+Oakridge Lab Direct,Taiwan,Asia,False,True,3,3,2,True,False,32.0,Tier 3,Outreach Sent
+Calden Lab Direct,Italy,EU,False,False,4,2,2,False,False,30.0,Tier 3,Outreach Sent
+Calden Life Science Supply,Japan,Asia,False,True,3,1,4,True,False,30.0,Tier 3,Outreach Sent
+Alder Scientific,France,EU,False,True,2,1,3,True,False,23.0,Tier 3,In Discussion
+Marlow Life Science Supply,France,EU,False,True,1,1,2,True,False,16.0,Tier 3,Outreach Sent
+Elmstead Lab Direct,Nordics,EU,False,True,3,4,3,False,True,0.0,Tier 3,Not pursued
+Garrow Life Science Supply,Nordics,EU,True,False,5,3,3,False,True,0.0,Tier 3,Not pursued
+Sterling Life Science Supply,Spain,EU,True,True,2,1,5,True,True,0.0,Tier 3,Not pursued
