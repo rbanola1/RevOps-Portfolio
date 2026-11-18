@@ -1,0 +1,5 @@
+method,avg_courier_cost,plus_fixed_costs
+Expert estimate (courier only),125.0,205.0
+Historical average (courier only),131.58,211.58
+"Monte Carlo, 1,000 runs (courier only)",130.84,210.84
+Normal model mean (courier only),130.84,210.84

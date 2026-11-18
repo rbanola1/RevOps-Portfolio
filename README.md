@@ -10,8 +10,9 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | 02 | [CRM cleanup, segmentation and lead scoring](02-crm-cleanup-and-scoring) | Done |
 | 03 | Lead generation and list building | Planned |
 | 04 | [Channel sales: distributors and B2B marketplaces](04-channel-sales) | In progress |
-| 05 | Service Hub ticketing and automation guardrails | Planned |
-| 06 | Order-to-cash systems architecture | Planned |
-| 07 | P&L and demand planning | Planned |
+| 05 | [Shipping cost optimization (Monte Carlo pricing analysis)](05-shipping-cost-simulation) | Done |
+| 06 | Service Hub ticketing and automation guardrails | Planned |
+| 07 | Order-to-cash systems architecture | Planned |
+| 08 | Budgeting, forecasting and P&L | Planned |
 
 Each project has a README (problem, approach, result), diagrams, synthetic data and a script that regenerates it.
