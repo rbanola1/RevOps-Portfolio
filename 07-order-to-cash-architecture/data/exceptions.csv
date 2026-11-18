@@ -1,0 +1,180 @@
+order_id,exception,phase
+SO-20010,Product ID missing or mismatched,Manual
+SO-20022,Product ID missing or mismatched,Manual
+SO-20039,Product ID missing or mismatched,Manual
+SO-20064,Product ID missing or mismatched,Manual
+SO-20106,Product ID missing or mismatched,Manual
+SO-20127,Product ID missing or mismatched,Manual
+SO-20208,Product ID missing or mismatched,Manual
+SO-20319,Product ID missing or mismatched,Integrated
+SO-20343,Product ID missing or mismatched,Integrated
+SO-20374,Product ID missing or mismatched,Manual
+SO-20376,Product ID missing or mismatched,Manual
+SO-20378,Product ID missing or mismatched,Manual
+SO-20429,Product ID missing or mismatched,Manual
+SO-20436,Product ID missing or mismatched,Manual
+SO-20460,Product ID missing or mismatched,Manual
+SO-20477,Product ID missing or mismatched,Integrated
+SO-20487,Product ID missing or mismatched,Integrated
+SO-20488,Product ID missing or mismatched,Integrated
+SO-20502,Product ID missing or mismatched,Manual
+SO-20516,Product ID missing or mismatched,Manual
+SO-20517,Product ID missing or mismatched,Integrated
+SO-20520,Product ID missing or mismatched,Integrated
+SO-20560,Product ID missing or mismatched,Manual
+SO-20563,Product ID missing or mismatched,Integrated
+SO-20615,Product ID missing or mismatched,Manual
+SO-20627,Product ID missing or mismatched,Integrated
+SO-20650,Product ID missing or mismatched,Manual
+SO-20694,Product ID missing or mismatched,Manual
+SO-20708,Product ID missing or mismatched,Manual
+SO-20793,Product ID missing or mismatched,Manual
+SO-20796,Product ID missing or mismatched,Integrated
+SO-20811,Product ID missing or mismatched,Manual
+SO-20858,Product ID missing or mismatched,Manual
+SO-20868,Product ID missing or mismatched,Manual
+SO-20883,Product ID missing or mismatched,Manual
+SO-20910,Product ID missing or mismatched,Manual
+SO-20921,Product ID missing or mismatched,Manual
+SO-20937,Product ID missing or mismatched,Manual
+SO-20984,Product ID missing or mismatched,Manual
+SO-21016,Product ID missing or mismatched,Manual
+SO-21047,Product ID missing or mismatched,Integrated
+SO-21066,Product ID missing or mismatched,Manual
+SO-21072,Product ID missing or mismatched,Manual
+SO-21118,Product ID missing or mismatched,Manual
+SO-21129,Product ID missing or mismatched,Manual
+SO-21152,Product ID missing or mismatched,Manual
+SO-21174,Product ID missing or mismatched,Manual
+SO-21181,Product ID missing or mismatched,Integrated
+SO-21233,Product ID missing or mismatched,Integrated
+SO-21238,Product ID missing or mismatched,Integrated
+SO-21255,Product ID missing or mismatched,Manual
+SO-21269,Product ID missing or mismatched,Manual
+SO-21307,Product ID missing or mismatched,Manual
+SO-21357,Product ID missing or mismatched,Manual
+SO-21414,Product ID missing or mismatched,Manual
+SO-21443,Product ID missing or mismatched,Manual
+SO-21474,Product ID missing or mismatched,Manual
+SO-21481,Product ID missing or mismatched,Manual
+SO-21490,Product ID missing or mismatched,Manual
+SO-20013,Tax-exempt flag not carried over,Manual
+SO-20019,Tax-exempt flag not carried over,Integrated
+SO-20042,Tax-exempt flag not carried over,Manual
+SO-20067,Tax-exempt flag not carried over,Manual
+SO-20229,Tax-exempt flag not carried over,Manual
+SO-20238,Tax-exempt flag not carried over,Manual
+SO-20347,Tax-exempt flag not carried over,Manual
+SO-20449,Tax-exempt flag not carried over,Manual
+SO-20501,Tax-exempt flag not carried over,Manual
+SO-20529,Tax-exempt flag not carried over,Manual
+SO-20531,Tax-exempt flag not carried over,Manual
+SO-20535,Tax-exempt flag not carried over,Manual
+SO-20539,Tax-exempt flag not carried over,Integrated
+SO-20663,Tax-exempt flag not carried over,Manual
+SO-20680,Tax-exempt flag not carried over,Manual
+SO-20703,Tax-exempt flag not carried over,Manual
+SO-20732,Tax-exempt flag not carried over,Manual
+SO-20743,Tax-exempt flag not carried over,Manual
+SO-20784,Tax-exempt flag not carried over,Manual
+SO-20786,Tax-exempt flag not carried over,Integrated
+SO-20792,Tax-exempt flag not carried over,Manual
+SO-20888,Tax-exempt flag not carried over,Manual
+SO-20889,Tax-exempt flag not carried over,Manual
+SO-20905,Tax-exempt flag not carried over,Manual
+SO-20932,Tax-exempt flag not carried over,Manual
+SO-20940,Tax-exempt flag not carried over,Manual
+SO-20977,Tax-exempt flag not carried over,Manual
+SO-21012,Tax-exempt flag not carried over,Manual
+SO-21024,Tax-exempt flag not carried over,Manual
+SO-21032,Tax-exempt flag not carried over,Integrated
+SO-21049,Tax-exempt flag not carried over,Manual
+SO-21060,Tax-exempt flag not carried over,Manual
+SO-21205,Tax-exempt flag not carried over,Manual
+SO-21280,Tax-exempt flag not carried over,Manual
+SO-21281,Tax-exempt flag not carried over,Manual
+SO-21306,Tax-exempt flag not carried over,Manual
+SO-21355,Tax-exempt flag not carried over,Manual
+SO-21462,Tax-exempt flag not carried over,Manual
+SO-21484,Tax-exempt flag not carried over,Manual
+SO-20009,Duplicate customer record,Integrated
+SO-20088,Duplicate customer record,Manual
+SO-20201,Duplicate customer record,Manual
+SO-20251,Duplicate customer record,Manual
+SO-20258,Duplicate customer record,Integrated
+SO-20269,Duplicate customer record,Integrated
+SO-20334,Duplicate customer record,Integrated
+SO-20404,Duplicate customer record,Manual
+SO-20424,Duplicate customer record,Integrated
+SO-20439,Duplicate customer record,Manual
+SO-20541,Duplicate customer record,Integrated
+SO-20574,Duplicate customer record,Manual
+SO-20593,Duplicate customer record,Integrated
+SO-20643,Duplicate customer record,Manual
+SO-20668,Duplicate customer record,Manual
+SO-20719,Duplicate customer record,Manual
+SO-20733,Duplicate customer record,Manual
+SO-20759,Duplicate customer record,Manual
+SO-20785,Duplicate customer record,Manual
+SO-20854,Duplicate customer record,Integrated
+SO-20863,Duplicate customer record,Integrated
+SO-20864,Duplicate customer record,Manual
+SO-20915,Duplicate customer record,Integrated
+SO-20960,Duplicate customer record,Manual
+SO-21003,Duplicate customer record,Manual
+SO-21015,Duplicate customer record,Manual
+SO-21074,Duplicate customer record,Manual
+SO-21127,Duplicate customer record,Manual
+SO-21144,Duplicate customer record,Manual
+SO-21202,Duplicate customer record,Manual
+SO-21238,Duplicate customer record,Integrated
+SO-21250,Duplicate customer record,Manual
+SO-21263,Duplicate customer record,Manual
+SO-21386,Duplicate customer record,Manual
+SO-21404,Duplicate customer record,Manual
+SO-21476,Duplicate customer record,Manual
+SO-20078,Amount differs between systems,Manual
+SO-20152,Amount differs between systems,Manual
+SO-20160,Amount differs between systems,Integrated
+SO-20292,Amount differs between systems,Manual
+SO-20359,Amount differs between systems,Manual
+SO-20478,Amount differs between systems,Integrated
+SO-20493,Amount differs between systems,Manual
+SO-20552,Amount differs between systems,Manual
+SO-20589,Amount differs between systems,Integrated
+SO-20603,Amount differs between systems,Integrated
+SO-20630,Amount differs between systems,Manual
+SO-20805,Amount differs between systems,Manual
+SO-20835,Amount differs between systems,Manual
+SO-20884,Amount differs between systems,Manual
+SO-20977,Amount differs between systems,Manual
+SO-21050,Amount differs between systems,Manual
+SO-21129,Amount differs between systems,Manual
+SO-21191,Amount differs between systems,Manual
+SO-21206,Amount differs between systems,Integrated
+SO-21208,Amount differs between systems,Integrated
+SO-21237,Amount differs between systems,Manual
+SO-21241,Amount differs between systems,Manual
+SO-20051,Order stuck in sync queue,Integrated
+SO-20156,Order stuck in sync queue,Manual
+SO-20215,Order stuck in sync queue,Manual
+SO-20234,Order stuck in sync queue,Manual
+SO-20366,Order stuck in sync queue,Manual
+SO-20388,Order stuck in sync queue,Manual
+SO-20414,Order stuck in sync queue,Manual
+SO-20471,Order stuck in sync queue,Integrated
+SO-20479,Order stuck in sync queue,Manual
+SO-20528,Order stuck in sync queue,Integrated
+SO-20548,Order stuck in sync queue,Manual
+SO-20615,Order stuck in sync queue,Manual
+SO-20634,Order stuck in sync queue,Integrated
+SO-20660,Order stuck in sync queue,Integrated
+SO-20676,Order stuck in sync queue,Manual
+SO-20710,Order stuck in sync queue,Integrated
+SO-20818,Order stuck in sync queue,Integrated
+SO-21049,Order stuck in sync queue,Manual
+SO-21053,Order stuck in sync queue,Manual
+SO-21240,Order stuck in sync queue,Manual
+SO-21348,Order stuck in sync queue,Manual
+SO-21428,Order stuck in sync queue,Manual
+SO-21462,Order stuck in sync queue,Manual

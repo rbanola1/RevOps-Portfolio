@@ -1,0 +1,7 @@
+,value
+orders,1500.0
+avg_days_won_to_invoice_manual,7.8
+avg_days_won_to_invoice_integrated,4.4
+cycle_reduction_pct,0.432
+orders_with_exception_manual,0.189
+orders_with_exception_integrated,0.051

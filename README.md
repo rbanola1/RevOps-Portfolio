@@ -12,7 +12,7 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | 04 | [Channel sales: distributors and B2B marketplaces](04-channel-sales) | In progress |
 | 05 | [Shipping cost optimization (Monte Carlo pricing analysis)](05-shipping-cost-simulation) | Done |
 | 06 | Service Hub ticketing and automation guardrails | Planned |
-| 07 | Order-to-cash systems architecture | Planned |
+| 07 | [Order-to-cash systems architecture](07-order-to-cash-architecture) | In progress |
 | 08 | Budgeting, forecasting and P&L | Planned |
 
 Each project has a README (problem, approach, result), diagrams, synthetic data and a script that regenerates it.
