@@ -1,0 +1,12 @@
+channel,deal_to_win,capacity,headroom,within_capacity
+Large conferences,0.29,0.32000000000000006,0.03,True
+Tabletop / regional,0.29,0.32000000000000006,0.03,True
+Field prospecting,0.29,0.32000000000000006,0.03,True
+Webinars,0.14,0.32000000000000006,0.18,True
+Launch campaigns,0.28,0.32000000000000006,0.04,True
+Inbound organic,0.27,0.32000000000000006,0.05,True
+Distributor channel,0.27,0.32000000000000006,0.05,True
+Inside sales (warm-up),0.27,0.32000000000000006,0.05,True
+Paid media,0.6,0.32000000000000006,-0.28,False
+Beta programs,0.2,0.32000000000000006,0.12,True
+Small-product OEM,0.47,0.32000000000000006,-0.15,False
