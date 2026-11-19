@@ -12,7 +12,7 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | 04 | [Channel sales: distributors and B2B marketplaces](04-channel-sales) |
 | 05 | [Shipping cost optimization (Monte Carlo pricing analysis)](05-shipping-cost-simulation) |
 | 06 | [Service Hub ticketing, phone lines and AI support agents](06-service-hub-and-support-agents) |
-| 07 | [Order-to-cash systems architecture](07-order-to-cash-architecture) |
+| 07 | [Commercial systems architecture: lead to cash](07-commercial-systems-architecture) |
 | 08 | [Budgeting, forecasting and P&L](08-budget-forecast-pnl) |
 | 09 | [Lead ownership rules and the inside-sales warm-lead model](09-sales-model-and-lead-ownership) |
 

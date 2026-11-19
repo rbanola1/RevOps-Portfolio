@@ -1,0 +1,13 @@
+from_system,to_system,data,direction,match_key,status
+Lead sources and verifier,CRM,Verified contacts with lead source tag,Reviewed import,Email and name after suppression check,Live
+CRM,BI dashboards,"All objects, read only",CRM to BI,Object IDs,Live
+Product data hub,CRM,Products,"Hub to CRM, about 1 minute",Product ID,Live
+Product data hub,CRM,Tax-exempt documents (backup),Hub to CRM,Company ID,Live
+Product data hub,Online store,Product data,"Hub to store, about 5 minutes",Product ID,Live
+Online store,ERP,Web orders,Store to ERP,Order ID with field mapping,Live
+Order desk (templates),ERP,Marketplace purchase orders and distributor orders,Manual entry from approved template,PO number,Live
+ERP,Accounting,Orders for invoice generation,ERP to accounting,Order number,Live
+Accounting,CRM,Invoice status and paid date,Accounting to CRM,Order number,Live
+CRM,Accounting,Product sync,Off,SKU,Off by design
+Accounting,CRM,Contact sync,Off,Email,Off by design
+Online store,CRM,Product sync,Off,Product ID,Off by design

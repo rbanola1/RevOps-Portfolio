@@ -72,15 +72,18 @@ orders.to_csv(DATA / "orders.csv", index=False)
 
 # integration inventory (the architecture as data)
 inv = pd.DataFrame([
-    ("CRM", "Accounting", "Invoice status and paid date", "Accounting to CRM", "Order number", "Live"),
-    ("CRM", "BI", "All objects, read only", "CRM to BI", "Object IDs", "Live"),
+    ("Lead sources and verifier", "CRM", "Verified contacts with lead source tag", "Reviewed import", "Email and name after suppression check", "Live"),
+    ("CRM", "BI dashboards", "All objects, read only", "CRM to BI", "Object IDs", "Live"),
+    ("Product data hub", "CRM", "Products", "Hub to CRM, about 1 minute", "Product ID", "Live"),
+    ("Product data hub", "CRM", "Tax-exempt documents (backup)", "Hub to CRM", "Company ID", "Live"),
+    ("Product data hub", "Online store", "Product data", "Hub to store, about 5 minutes", "Product ID", "Live"),
     ("Online store", "ERP", "Web orders", "Store to ERP", "Order ID with field mapping", "Live"),
-    ("ERP", "Accounting", "Orders for invoice generation", "ERP to Accounting", "Order number", "Live"),
-    ("Product database", "Online store", "Product data", "Product DB to Store", "Product ID", "Live"),
-    ("Product database", "CRM", "Product catalogue", "Product DB to CRM", "Product ID", "Live"),
-    ("CRM", "Accounting", "Product sync by SKU", "Off", "SKU", "Switched off by design"),
-    ("CRM", "Accounting", "Contact sync", "Off", "Email", "Switched off by design"),
-    ("Online store", "CRM", "Customer and order backup", "Store to CRM", "Email and order ID", "Live"),
+    ("Order desk (templates)", "ERP", "Marketplace purchase orders and distributor orders", "Manual entry from approved template", "PO number", "Live"),
+    ("ERP", "Accounting", "Orders for invoice generation", "ERP to accounting", "Order number", "Live"),
+    ("Accounting", "CRM", "Invoice status and paid date", "Accounting to CRM", "Order number", "Live"),
+    ("CRM", "Accounting", "Product sync", "Off", "SKU", "Off by design"),
+    ("Accounting", "CRM", "Contact sync", "Off", "Email", "Off by design"),
+    ("Online store", "CRM", "Product sync", "Off", "Product ID", "Off by design"),
 ], columns=["from_system", "to_system", "data", "direction", "match_key", "status"])
 inv.to_csv(DATA / "integration_inventory.csv", index=False)
 
@@ -103,7 +106,7 @@ BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
 fig.suptitle("Aurelis Life Sciences | Order-to-cash integration (synthetic data)", fontsize=13, weight="bold")
 st = inv.status.value_counts()
-ax[0].barh(st.index[::-1], st.values[::-1], color=[GOLD, GREY, BLUE, TEAL][: len(st)][::-1])
+ax[0].barh(st.index[::-1], st.values[::-1], color=[GREY, TEAL][: len(st)][::-1])
 ax[0].set(title="Integration inventory by status", xlabel="connections")
 stages = ["days_won_to_erp", "days_erp_to_ship", "days_ship_to_invoice"]
 lab = ["Won to ERP", "ERP to ship", "Ship to invoice"]
