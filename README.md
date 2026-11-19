@@ -15,5 +15,6 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | 07 | [Commercial systems architecture: lead to cash](07-commercial-systems-architecture) |
 | 08 | [Budgeting, forecasting and P&L](08-budget-forecast-pnl) |
 | 09 | [Lead ownership rules and the inside-sales warm-lead model](09-sales-model-and-lead-ownership) |
+| 10 | [Voice of customer program: capture, tag and visualise after trade shows](10-voice-of-customer-program) |
 
 Each project has a README (problem, approach, result), diagrams, synthetic data and a script that regenerates it.
