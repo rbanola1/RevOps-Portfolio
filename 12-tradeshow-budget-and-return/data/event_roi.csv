@@ -1,0 +1,9 @@
+event,booth,audience_fit,registration,booth_build,shipping,travel,pre_event_marketing,staff_time,total_cost,badge_scans,qualified_leads,deals,first_year_revenue,cost_per_qualified_lead,cost_per_deal,return_on_spend,payback_months,gross_profit_return,score,decision
+Stem Cell Research Summit,10x20,0.95,20984,5249,3133,6669,3105,8640,47780,259,114,14,155419,419.0,3413.0,3.25,3.7,2.02,100.0,Repeat
+Cell Therapy Forum,10x10,0.9,10545,2325,1303,3223,2975,4800,25170,123,53,6,77736,475.0,4195.0,3.09,3.9,1.91,94.0,Repeat
+Neuroscience Annual Meeting,20x20,0.85,42703,8635,4202,9416,3444,13440,81839,321,135,19,223079,606.0,4307.0,2.73,4.4,1.69,84.0,Repeat
+Toxicology Congress,10x20,0.7,22252,4973,2521,6336,3213,8640,47935,192,75,8,84638,639.0,5992.0,1.77,6.8,1.09,59.0,Change
+Regional Biotech Showcase,10x10,0.65,11174,2804,1671,2839,3394,3840,25722,76,29,4,44219,887.0,6430.0,1.72,7.0,1.07,53.0,Change
+Drug Discovery Conference,10x20,0.6,20511,6233,3239,6164,2888,8640,47676,148,55,6,69768,867.0,7946.0,1.46,8.2,0.91,46.0,Change
+Core Facilities Meeting,tabletop,0.55,3429,615,396,3109,3087,4800,15437,19,7,1,17704,2205.0,15437.0,1.15,10.5,0.71,21.0,Drop
+Lab Automation Expo,10x10,0.45,10561,2549,1322,3273,2242,4800,24747,26,9,1,15151,2750.0,24747.0,0.61,19.6,0.38,0.0,Drop

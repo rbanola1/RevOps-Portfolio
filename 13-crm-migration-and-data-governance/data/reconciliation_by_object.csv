@@ -1,0 +1,7 @@
+object,source_records,duplicates_merged,junk_removed,loaded,missing_found,reloaded,final_in_target,reconciled,match_rate
+Companies,9200,392,406,8396,6,6,8402,True,1.0
+Contacts,41800,1781,622,39257,140,140,39397,True,1.0
+Deals,6100,0,265,5817,18,18,5835,True,1.0
+"Activities (emails, calls, notes)",188000,0,4134,183795,71,71,183866,True,1.0
+Products,420,0,0,420,0,0,420,True,1.0
+Quotes,5300,0,103,5182,15,15,5197,True,1.0

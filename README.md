@@ -16,5 +16,9 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | 08 | [Budgeting, forecasting and P&L](08-budget-forecast-pnl) |
 | 09 | [Lead ownership rules and the inside-sales warm-lead model](09-sales-model-and-lead-ownership) |
 | 10 | [Voice of customer program: capture, tag and visualise after trade shows](10-voice-of-customer-program) |
+| 11 | [Pipeline health analysis and the CRM-as-a-factory utilisation model](11-pipeline-health-analysis) |
+| 12 | [Trade show budget and return: cost per lead, payback, repeat or drop](12-tradeshow-budget-and-return) |
+| 13 | [CRM migration, backup and data governance](13-crm-migration-and-data-governance) |
+| 14 | [Partner onboarding and pricing governance](14-partner-onboarding-and-pricing-governance) |
 
 Each project has a README (problem, approach, result), diagrams, synthetic data and a script that regenerates it.

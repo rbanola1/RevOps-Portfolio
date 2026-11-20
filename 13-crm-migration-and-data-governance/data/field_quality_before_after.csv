@@ -1,0 +1,13 @@
+field,fill_rate_legacy,fill_rate_after_cleanup,rule
+Company name,0.71,0.99,"Standard casing, no legal suffix duplicates"
+Domain,0.81,0.99,Required; used as match key
+Country,0.63,0.98,ISO country list
+State or region,0.62,0.72,Picklist by country
+Industry or segment,0.76,0.92,Ten-value segment picklist
+Contact email,0.6,0.96,Valid format; verified
+Job title,0.61,0.8,Standard role list
+Lead source,0.61,0.84,Required at creation
+Deal amount,0.58,0.71,Required past quote stage
+Close date,0.9,0.99,Required past quote stage
+Owner,0.52,0.86,Required; no unowned records
+Product interest,0.61,0.77,Picklist of six areas

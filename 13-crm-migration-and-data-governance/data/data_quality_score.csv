@@ -1,0 +1,7 @@
+dimension,before,after
+Completeness,0.68,0.94
+Uniqueness (no duplicates),0.81,0.98
+Validity (format and picklists),0.72,0.96
+Ownership (record has an owner),0.77,0.99
+Freshness (touched in 12 months),0.46,0.71
+Overall,0.69,0.92

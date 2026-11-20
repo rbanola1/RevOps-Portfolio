@@ -1,0 +1,6 @@
+asset,backup method and frequency,location,retention,restore test
+"CRM objects (companies, contacts, deals, tickets)",Weekly full export plus daily change export,Cloud storage with versioning,"90 days daily, 3 years monthly",Quarterly restore test
+"Activity history (emails, calls, notes)",Monthly export,Cloud storage,3 years,Annual sample check
+Property definitions and workflows,On every change; monthly full copy,Version-controlled documentation,Indefinitely,Compared at each release
+Reports and dashboards (BI model),On every release,Version-controlled file store,Last 10 versions,Opened and refreshed quarterly
+Integration settings and mappings,On every change,Documentation repository,Indefinitely,Reviewed each quarter
