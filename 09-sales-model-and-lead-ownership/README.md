@@ -53,5 +53,8 @@ pip install pandas numpy matplotlib
 python scripts/lead_routing.py     # writes data/*.csv and charts/sales_model_overview.png
 ```
 
+## Related projects
+- **Territory balance, quota and pay** are in [project 15](../15-territory-and-quota-design). This project covers who owns a lead or account and which lane it goes to; project 15 covers how territories are sized and how reps are paid.
+
 ## Skills shown
 Sales operations design · territory and lead management · CRM ownership model · account hierarchy design · ticket-based routing · SLA design · workflow automation · change management

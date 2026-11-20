@@ -45,5 +45,8 @@ pip install pandas numpy matplotlib
 python scripts/channel_model.py    # writes data/*.csv, data/platform_exports/*.csv, charts/channel_overview.png
 ```
 
+## Related projects
+- Partner onboarding steps, scorecard and the master pricing sheet standard are in [project 14](../14-partner-onboarding-and-pricing-governance). This project covers channel economics, marketplace feeds and the duplicate-listing check.
+
 ## Skills shown
 Channel strategy · partner selection and onboarding · distributor and marketplace programs · product data governance · multi-platform data QA · channel economics and forecasting · Python

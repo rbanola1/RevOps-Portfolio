@@ -73,6 +73,8 @@ Tier A replies at about 8% against about 5.5% for tier B, so the score sorts lea
 6. **Measure against the old way** on the same metrics: overlap with the CRM, bounce rate, replies, meetings and cost per meeting.
 
 ## Where it fits
+This project is the tool layer for the method in [GTM-Strategy 04, net-new lead generation pilot](https://github.com/rbanola1/GTM-Strategy/tree/main/04-net-new-lead-gen-pilot) (suppress first, tier first, enrich last) and the signal logic in [GTM-Strategy 01](https://github.com/rbanola1/GTM-Strategy/tree/main/01-outbound-gtm-engine). It shows how an AI assistant over MCP carries out those steps; the budget and credit model is in GTM 04.
+
 This is the lead-generation layer of the lead-to-cash architecture in [project 07](../07-commercial-systems-architecture), and it applies the suppress-first, tier-first rules of the net-new pilot in [GTM-Strategy](https://github.com/rbanola1/GTM-Strategy).
 
 Tools behind the roles: a scientific lead database, an AI assistant (Claude) connected over MCP, a CRM, and an email verifier.

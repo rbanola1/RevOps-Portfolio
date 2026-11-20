@@ -32,6 +32,10 @@ Reps had territories drawn by geography alone, quotas handed down from the reven
 4. **Write rules once.** Territory, routing, quota and pay rules live in documents so they survive staff changes.
 5. **Review each year, adjust mid-year only for real change** such as a new product, partner or hire.
 
+## Related projects
+- **Lead and account ownership rules, lanes and ticket routing** are in [project 09](../09-sales-model-and-lead-ownership). This project covers how territories are balanced, how international leads are routed, and quota and pay.
+- **Pipeline coverage** used in quota checks is defined in [project 11](../11-pipeline-health-analysis).
+
 ## Documents
 - [docs/territory_design.md](docs/territory_design.md) · [docs/quota_setting.md](docs/quota_setting.md) · [docs/compensation_plan.md](docs/compensation_plan.md)
 - [diagrams/territory_quota_flow.md](diagrams/territory_quota_flow.md)

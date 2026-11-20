@@ -29,3 +29,5 @@ A single reporting tool is a single point of failure. A failed refresh or a tool
 - Failover dashboards are checked monthly against the main report; differences above 2% are investigated.
 - Every number on a failover dashboard uses the same definition as the main report.
 - The owner and a named deputy know how to switch to the failover view.
+
+The data flow into the BI model, its owners and failure points are in the [CRM to BI runbook](../../07-commercial-systems-architecture/docs/crm_to_bi_runbook.md); this page covers only the failover layers and the clean-up checklist.

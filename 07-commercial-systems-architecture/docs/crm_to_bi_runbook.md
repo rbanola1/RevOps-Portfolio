@@ -36,3 +36,5 @@ flowchart LR
 - Every change is recorded with the date, the reason and the person.
 - The owner and a named deputy can run every step in this runbook.
 - After any failure, a short note records cause, fix and prevention.
+
+Failover dashboards and the performance clean-up checklist are described in [project 01 resilience](../../01-sales-kpi-dashboard/docs/resilience.md); they are not repeated here.

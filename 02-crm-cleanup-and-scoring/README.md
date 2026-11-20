@@ -15,7 +15,7 @@ Four connected pieces, each with written rules so the work is repeatable and exp
 | **Marketing-tier audit and cleanup** | Finds contacts that cost money but never engage and moves them to non-marketing, without deleting anything |
 | **Promotion list** | Finds non-marketing contacts who engaged with sales email and promotes them, holding EU/UK/CH contacts for a consent check |
 | **Segment field** | Replaces a messy industry picklist with one clean Segment field using 10 market segments, filled from a mapping table and then job-title rules |
-| **Engagement score with decay** | Scores replies, sales clicks and opens, decaying 20% per quarter so old activity stops counting |
+| **Engagement score with decay** | The starting point: scores replies, sales clicks and opens, decaying 20% per quarter so old activity stops counting. Its limits, and the replacement that adds fit and intent, are covered in [GTM-Strategy 02](https://github.com/rbanola1/GTM-Strategy/tree/main/02-lead-scoring-redesign) |
 
 ## Results on the synthetic CRM (60,000 contacts)
 | Metric | Before | After |

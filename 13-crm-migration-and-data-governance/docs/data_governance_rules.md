@@ -24,3 +24,5 @@
 | Records without an owner | 0 |
 | Valid emails | 95% or more |
 | Records touched in the last 12 months | 70% or more, with the rest reviewed for reactivation or archiving |
+
+System-level data ownership between tools (which system owns which field) is in [project 07](../../07-commercial-systems-architecture/docs/data_ownership.md); this page covers record ownership, quality checks and change control.

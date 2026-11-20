@@ -11,7 +11,7 @@ Channel growth meant more partners, each with its own forms, price sheets and ca
 1. **A five-step onboarding process** with a time measure per step: due diligence, agreement, vendor registration, catalog and pricing sheet, training and launch ([docs/onboarding_checklist.md](docs/onboarding_checklist.md)).
 2. **A partner scorecard** combining revenue, sell-through, catalog accuracy, order errors and response time, with three tiers: grow, maintain, review ([docs/partner_scorecard.md](docs/partner_scorecard.md)).
 3. **A pricing and catalog standard**: one master sheet is the source of truth for SKU, price, pack size and lead time; each partner's sheet follows that partner's own format guide ([docs/pricing_sheet_standard.md](docs/pricing_sheet_standard.md)).
-4. **A catalog audit** that compares every partner listing with the master and lists each mismatch for correction. This is the same duplicate and mismatch check used in [project 04](../04-channel-sales).
+4. **A catalog audit** that compares every partner listing with the master and lists each mismatch for correction. This extends the duplicate-listing check in [project 04](../04-channel-sales) from one marketplace to every partner.
 
 ## What the synthetic data shows (ten partners, 64 listings)
 | Finding | Evidence |
