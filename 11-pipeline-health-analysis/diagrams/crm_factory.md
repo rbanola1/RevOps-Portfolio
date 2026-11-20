@@ -5,7 +5,7 @@ The problem was not bad material. The CRM held plenty of good records, but most 
 ## Before: material on the floor
 ```mermaid
 flowchart LR
-    IN["1,600 records in"] --> FL["On the floor<br>60% have 0 or 1 touch<br>average 2.3 touches"]
+    IN["1,600 records in"] --> FL["On the floor<br>60% have 0 or 1 touch<br>85% have 3 or fewer; average 2.8"]
     IN --> W["Worked<br>40%"]
     W --> Q["Qualified 11%"] --> D["Deals 6%"] --> X["Won 2%"]
     FL -.->|"no owner, no alert, no touch target"| LOST["Bought, never used"]

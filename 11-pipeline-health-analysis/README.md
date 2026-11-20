@@ -41,13 +41,13 @@ The weekly view sits on a defined lifecycle and four deal pipelines, written dow
 | Coverage looks fine but falls short | Open pipeline of about $128K is 2.4x next-quarter quota against a 3x target; removing stalled deals drops it to 2.1x |
 | The funnel leaks evenly | About 70% of deals move up at each stage; overall win rate is 29% of closed deals (26 wins) |
 | Source decides the outcome | Existing customers win 85% of the time; distributor referrals 40%; trade shows 19%; outbound sequences 14%; inbound web 11% |
-| Material lies on the floor | Of 1,600 records, 25% were never touched and 35% were touched once; only 12% got six or more touches; the average is 2.3 touches against the six or more that usually move a record to qualified |
+| Material lies on the floor | Of 1,600 records, 25% were never touched and 35% were touched once; 85% have three or fewer touches and only 11% reach six or more; effort climbs with the result: about 2 touches on an idle record, about 16 on a record that became a deal and about 31 on one that was won |
 | Few records reach the end of the line | 40% worked, 11% qualified, 6% became deals, 2% were won |
 
 ## The CRM as a factory
 The core problem: the CRM was full of good raw material that was lying on the floor. Records were accurate and plentiful, but most never received enough touches to move anywhere. I treated the CRM like a production line: records are raw material, stages are stations, wins are finished goods, and an idle record is inventory that was bought and never used.
 
-In the synthetic data, 1,600 records entered the CRM in a year. A quarter were never touched, and another 35% were touched once. Only 12% received six or more touches, and the average was 2.3. At the end of the line, 40% were worked, 11% qualified, 6% became deals and 2% were won. Trade-show records were the most idle.
+In the synthetic data, 1,600 records entered the CRM in a year. A quarter were never touched, and another 35% were touched once. 85% of records had three or fewer touches, and only 11% reached six or more. The proof that touches matter: an idle record averaged about 2 touches, a record that became a deal about 16, and a closed-won record about 31. The signal is real; it was just not acted on early enough. At the end of the line, 40% were worked, 11% qualified, 6% became deals and 2% were won. Trade-show records were the most idle.
 
 ![CRM factory utilisation](charts/crm_factory_utilization.png)
 

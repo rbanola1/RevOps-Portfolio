@@ -33,11 +33,11 @@ Two Power BI reports fed from the CRM, with one shared set of definitions:
 | View | What it answers |
 |---|---|
 | Revenue closed so far, by month | What have we closed this year |
-| Where the year may end: low, base and high | What range should leadership expect at year end |
+| Where the year may end: commit, best case, pipeline | What leadership can expect at year end under three simple scenarios |
 | Weighted open pipeline by forecast category | How much of the forecast is commit, best case or early pipeline |
 | Product by region, by quarter and by rep (heatmaps) | Which products sell where, when and through whom, so gaps and concentration are visible |
 
-**Forecast method:** base = weighted open pipeline (category probabilities) plus 80% of the recent three-month run rate for deals not yet created; low = 65% of base (deals slip); high = 135% of base (best-case deals close faster). Overdue open deals roll into the next month and are flagged for the owner.
+**Forecast method:** commit = closed so far plus commit-stage deals; best case adds best-case deals; pipeline adds early-stage deals, each weighted by its stage probability. Overdue open deals roll into the next month and are flagged for the owner.
 
 ## Design decisions
 1. **One definition per metric** (see [docs/kpi_definitions.md](docs/kpi_definitions.md)). Every visual states its data source and filter.

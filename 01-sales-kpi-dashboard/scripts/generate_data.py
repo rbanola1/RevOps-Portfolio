@@ -202,12 +202,14 @@ a[0, 0].tick_params(axis="x", labelsize=8)
 a[0, 0].set(title="Revenue closed so far, by month", ylabel="$K")
 a[0, 0].legend(fontsize=8)
 tot_closed = actual.sum() / 1000
-ye = {"Closed so far": tot_closed, "Low": tot_closed + fc.low.sum() / 1000, "Base": tot_closed + fc.base.sum() / 1000, "High": tot_closed + fc.high.sum() / 1000}
-a[0, 1].bar(list(ye), list(ye.values()), color=[BLUE, GREY, GOLD, TEAL])
+wc = open_.groupby("forecast_category").weighted_amount.sum() / 1000
+ye = {"Closed so far": tot_closed, "Commit": tot_closed + wc.get("COMMIT", 0), "Commit + best case": tot_closed + wc.get("COMMIT", 0) + wc.get("BEST_CASE", 0),
+      "All pipeline": tot_closed + wc.sum()}
+a[0, 1].bar(list(ye), list(ye.values()), color=[BLUE, TEAL, GOLD, GREY])
 for i_, v_ in enumerate(ye.values()):
     a[0, 1].text(i_, v_ + 1.5, f"${v_:,.0f}K", ha="center", weight="bold")
-a[0, 1].set(title="Where the year may end: low, base and high", ylabel="$K")
-a[0, 1].text(.5, -.16, f"Forecast for {fm[0]} and {fm[1]}: base = weighted pipeline + 80% of recent run rate; low = base x 0.65; high = base x 1.35", transform=a[0, 1].transAxes, ha="center", fontsize=7.5, color="#444")
+a[0, 1].set(title="Where the year may end: commit, best case, pipeline", ylabel="$K")
+a[0, 1].text(.5, -.2, "Commit = closed so far + commit-stage deals; best case adds best-case deals; pipeline adds early-stage deals (all weighted by stage probability)", transform=a[0, 1].transAxes, ha="center", fontsize=7.5, color="#444")
 bot = np.zeros(len(w_by_cat))
 for col_, c_ in [("COMMIT", TEAL), ("BEST_CASE", GOLD), ("PIPELINE", GREY)]:
     if col_ in w_by_cat:

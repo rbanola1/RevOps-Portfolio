@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["No single view of plan against actual"] --> B["Budget, driver-based forecast and five forecast types"] --> C["Forecasts leaders can explain and act on"]
+    A["No single view of plan against actual"] --> B["Budget, driver-based forecast, sales scenarios and product demand"] --> C["Forecasts leaders can explain and act on"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -45,18 +45,15 @@ Scale: a small company with a revenue plan of about $245K for the year, so the P
 **Won to invoiced:** invoices differ from CRM closed-won because shipping and tax are billed but not in deal amounts, partly offset by orders won but not yet shipped; the bridge in the chart reconciles the two.
 **Scenarios:** if the pipeline converts 15% worse, full-year operating profit drops to about -$75K; a 10% hiring increase costs about $5K more.
 
-## Forecast suite: five forecasts, five questions
-![Forecast suite](charts/forecast_suite.png)
+## Simple forecasts: sales scenarios and product demand
+![Simple forecasts](charts/forecast_scenarios_and_demand.png)
 
-| Forecast | Question | Equation in one line |
+| Forecast | Question | How it works |
 |---|---|---|
-| Inbound lead forecast | How many leads will arrive each month? | Visitors x rate + webinar attendees x rate + event scans x rate, times seasonality |
-| Deal and revenue plan | Which channels must deliver the target? | Deals needed = target / average deal; qualified leads = deals / close rate |
-| Revenue recognition forecast | When do won orders become revenue? | Recognised = share of each month's orders recognised over the following months |
-| Product forecast | Which products drive revenue, including launches? | Base x price x seasonality x growth, with a launch ramp |
-| Demand forecast | How many units, and what should operations order? | Recent average x seasonality x growth; reorder when months of cover run low |
+| Sales scenarios | What could the next three months bring? | Each open deal sits in a forecast category with a probability: closed won 100%, commit 60%, best case 30%, pipeline 15%. Three scenarios add one category at a time: commit only, commit plus best case, and all pipeline |
+| Product demand | How many units will customers order, and when must operations reorder? | Recent monthly average, times seasonality and growth, compared with stock on hand to give months of cover and a reorder flag |
 
-Equations, inputs, owners and accuracy tracking are in [docs/forecast_types_and_equations.md](docs/forecast_types_and_equations.md).
+Keeping to two simple forecasts is deliberate: leaders can read a scenario in seconds, and operations gets one number per product.
 
 ## Design decisions
 1. **Budget by route to market**, not just by total, so channel ramp assumptions are explicit and testable.
@@ -67,13 +64,13 @@ Equations, inputs, owners and accuracy tracking are in [docs/forecast_types_and_
 6. **Scenarios for decisions**, not just reporting: what happens if conversion drops, costs rise or hiring goes ahead.
 
 ## Documents and diagrams
-- [docs/forecast_types_and_equations.md](docs/forecast_types_and_equations.md) · [docs/budget_method.md](docs/budget_method.md) · [docs/forecast_method.md](docs/forecast_method.md) · [docs/monthly_close_and_review.md](docs/monthly_close_and_review.md)
+- [docs/budget_method.md](docs/budget_method.md) · [docs/forecast_method.md](docs/forecast_method.md) · [docs/monthly_close_and_review.md](docs/monthly_close_and_review.md)
 - [diagrams/planning_cycle.md](diagrams/planning_cycle.md) · [diagrams/revenue_bridge.md](diagrams/revenue_bridge.md)
 
 ## Reproduce
 ```bash
 pip install pandas numpy matplotlib
-python scripts/forecast_suite.py          # the five forecasts
+python scripts/forecast_scenarios_and_demand.py   # sales scenarios and product demand
 python scripts/budget_forecast_pnl.py   # writes data/*.csv and charts/budget_forecast_overview.png
 ```
 
