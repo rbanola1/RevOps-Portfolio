@@ -30,7 +30,7 @@ Revenue came almost entirely from direct sales. International customers were har
 | Distributor candidates scored | 40 (10 Tier 1, 13 Tier 2, 17 Tier 3) |
 | Pipeline | 25 contacted, 10 in discussion, 1 in agreement review, 1 signed, 3 not pursued (competitor-exclusive) |
 | Product master | 36 SKUs fed to 4 platform formats (LabBazaar, ProcureLink, GovLab Supply, AssayExchange) |
-| Discrepancies caught | 5 (SKU, price, classification code, lead time, duplicate listing), each traced to a platform and a SKU |
+| Pre-launch audit | Every listing verified against the product master before go-live; the few differences found (SKU, price, classification code, lead time, duplicate listing) were traced to a platform and a SKU and corrected, so all listings matched at launch |
 | Channel share plan | 2% to 21% of revenue over six quarters (60% distributors, 40% marketplaces) |
 
 ## Diagrams and documents

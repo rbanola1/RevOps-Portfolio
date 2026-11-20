@@ -31,6 +31,19 @@ Leadership needed one view of how the year was going against budget, a forecast 
 **Won to invoiced:** invoices exceed CRM closed-won by about 3.7% because shipping and tax are billed but not in deal amounts, partly offset by orders won but not yet shipped.
 **Scenarios:** if the pipeline converts 15% worse, full-year operating profit drops to about -$46K; a 10% hiring increase costs about $11K more.
 
+## Forecast suite: five forecasts, five questions
+![Forecast suite](charts/forecast_suite.png)
+
+| Forecast | Question | Equation in one line |
+|---|---|---|
+| Inbound lead forecast | How many leads will arrive each month? | Visitors x rate + webinar attendees x rate + event scans x rate, times seasonality |
+| Deal and revenue plan | Which channels must deliver the target? | Deals needed = target / average deal; qualified leads = deals / close rate |
+| Revenue recognition forecast | When do won orders become revenue? | Recognised = share of each month's orders recognised over the following months |
+| Product forecast | Which products drive revenue, including launches? | Base x price x seasonality x growth, with a launch ramp |
+| Demand forecast | How many units, and what should operations order? | Recent average x seasonality x growth; reorder when months of cover run low |
+
+Equations, inputs, owners and accuracy tracking are in [docs/forecast_types_and_equations.md](docs/forecast_types_and_equations.md).
+
 ## Design decisions
 1. **Budget by route to market**, not just by total, so channel ramp assumptions are explicit and testable.
 2. **Forecast from drivers**, not from last month: blend recent run-rate with weighted pipeline, then apply seasonality.
@@ -40,12 +53,13 @@ Leadership needed one view of how the year was going against budget, a forecast 
 6. **Scenarios for decisions**, not just reporting: what happens if conversion drops, costs rise or hiring goes ahead.
 
 ## Documents and diagrams
-- [docs/budget_method.md](docs/budget_method.md) · [docs/forecast_method.md](docs/forecast_method.md) · [docs/monthly_close_and_review.md](docs/monthly_close_and_review.md)
+- [docs/forecast_types_and_equations.md](docs/forecast_types_and_equations.md) · [docs/budget_method.md](docs/budget_method.md) · [docs/forecast_method.md](docs/forecast_method.md) · [docs/monthly_close_and_review.md](docs/monthly_close_and_review.md)
 - [diagrams/planning_cycle.md](diagrams/planning_cycle.md) · [diagrams/revenue_bridge.md](diagrams/revenue_bridge.md)
 
 ## Reproduce
 ```bash
 pip install pandas numpy matplotlib
+python scripts/forecast_suite.py          # the five forecasts
 python scripts/budget_forecast_pnl.py   # writes data/*.csv and charts/budget_forecast_overview.png
 ```
 

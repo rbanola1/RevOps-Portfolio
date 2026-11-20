@@ -20,8 +20,8 @@ Two Power BI reports fed from the CRM, with one shared set of definitions:
 
 | View | What it answers |
 |---|---|
-| Monthly revenue, actual and forecast with a low-to-high range | What have we closed, and what range should leadership expect for the rest of the year |
-| Year-end outlook (cumulative) | Where the year lands under low, base and high cases |
+| Revenue closed so far, by month | What have we closed this year |
+| Where the year may end: low, base and high | What range should leadership expect at year end |
 | Weighted open pipeline by forecast category | How much of the forecast is commit, best case or early pipeline |
 | Product by region, by quarter and by rep (heatmaps) | Which products sell where, when and through whom, so gaps and concentration are visible |
 

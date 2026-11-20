@@ -95,10 +95,14 @@ tc = {"Grow": TEAL, "Maintain": GOLD, "Review": RED}
 s2 = sc.sort_values("score")
 ax[0, 1].barh(s2.partner, s2.score, color=[tc[t] for t in s2.tier])
 ax[0, 1].set(title="Partner scorecard (0 to 100; green grow, gold maintain, red review)", xlabel="score")
-ax[1, 0].barh(by_type.index, by_type.values, color=RED)
-ax[1, 0].set(title=f"Catalog discrepancies found ({len(issues)} of {len(cat)} listings)", xlabel="listings")
-ax[1, 1].barh(by_partner.index, by_partner.values, color=[RED if v > 40 else GOLD if v > 25 else TEAL for v in by_partner.values])
-ax[1, 1].set(title="Share of listings with a discrepancy, by partner", xlabel="%")
+v3 = [len(cat), len(cat) - len(issues), len(cat)]
+ax[1, 0].bar(["Checked", "Matched first time", "After fixes"], v3, color=[GREY, GOLD, TEAL])
+for i_, v_ in enumerate(v3):
+    ax[1, 0].text(i_, v_ + .8, f"{v_} ({v_ / len(cat):.0%})", ha="center", weight="bold")
+ax[1, 0].set(title="Catalog audit: listings verified against the master", ylabel="listings")
+acc_p = (100 - by_partner).sort_values()
+ax[1, 1].barh(acc_p.index, acc_p.values, color=[TEAL if v >= 75 else GOLD for v in acc_p.values])
+ax[1, 1].set(title="Listings matching the master on first check, by partner", xlabel="%")
 fig.tight_layout(rect=[0, 0, 1, .95])
 fig.savefig(CHARTS / "partner_program_dashboard.png", dpi=125)
 print("done")

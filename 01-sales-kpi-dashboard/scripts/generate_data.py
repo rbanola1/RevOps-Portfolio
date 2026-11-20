@@ -196,21 +196,19 @@ heat_region.to_csv(DATA / "product_by_region.csv"); heat_qtr.to_csv(DATA / "prod
 
 fig2, a = plt.subplots(2, 3, figsize=(16, 8.8))
 fig2.suptitle("RB Tech | Forecast and product performance (synthetic data)", fontsize=14, weight="bold")
-xs = [str(x)[-5:] for x in list(actual.index) + list(months_ahead)]
-a[0, 0].bar(xs[:len(actual)], actual.values / 1000, color=BLUE, label="Actual closed-won")
-a[0, 0].bar(xs[len(actual):], fc.base.values / 1000, color=GOLD, label="Base forecast")
-a[0, 0].errorbar(xs[len(actual):], fc.base.values / 1000, yerr=[(fc.base - fc.low) / 1000, (fc.high - fc.base) / 1000], fmt="none", ecolor="k", capsize=4, label="Low to high range")
-a[0, 0].tick_params(axis="x", rotation=45)
-a[0, 0].legend(fontsize=7)
-a[0, 0].set(title="Monthly revenue: actual and forecast with range", ylabel="$K")
-tot_a = actual.sum()
-a[0, 1].plot(range(len(cum_actual)), cum_actual.values / 1000, color=BLUE, lw=2.2, label="Actual (cumulative)")
-for col_, c_, lab in [("low", GREY, "Low"), ("base", GOLD, "Base"), ("high", TEAL, "High")]:
-    path = [cum_actual.iloc[-1]] + list(cum_actual.iloc[-1] + fc[col_].cumsum())
-    a[0, 1].plot(range(len(cum_actual) - 1, len(cum_actual) + len(fc)), np.array(path) / 1000, color=c_, ls="--", marker="o", ms=3, label=f"{lab}: ${path[-1]/1000:,.0f}K")
-a[0, 1].set_xticks(range(len(xs)), xs, rotation=45)
-a[0, 1].legend(fontsize=7, loc="upper left")
-a[0, 1].set(title="Year-end outlook (cumulative)", ylabel="$K")
+am = [m.strftime("%b") for m in actual.index]
+fm = [m.strftime("%b") for m in months_ahead]
+a[0, 0].bar(am, actual.values / 1000, color=BLUE, label="Actual (closed-won)")
+a[0, 0].tick_params(axis="x", labelsize=8)
+a[0, 0].set(title="Revenue closed so far, by month", ylabel="$K")
+a[0, 0].legend(fontsize=8)
+tot_closed = actual.sum() / 1000
+ye = {"Closed so far": tot_closed, "Low": tot_closed + fc.low.sum() / 1000, "Base": tot_closed + fc.base.sum() / 1000, "High": tot_closed + fc.high.sum() / 1000}
+a[0, 1].bar(list(ye), list(ye.values()), color=[BLUE, GREY, GOLD, TEAL])
+for i_, v_ in enumerate(ye.values()):
+    a[0, 1].text(i_, v_ + 1.5, f"${v_:,.0f}K", ha="center", weight="bold")
+a[0, 1].set(title="Where the year may end: low, base and high", ylabel="$K")
+a[0, 1].text(.5, -.16, f"Forecast for {fm[0]} and {fm[1]}: base = weighted pipeline + 80% of recent run rate; low = base x 0.65; high = base x 1.35", transform=a[0, 1].transAxes, ha="center", fontsize=7.5, color="#444")
 bot = np.zeros(len(w_by_cat))
 for col_, c_ in [("COMMIT", TEAL), ("BEST_CASE", GOLD), ("PIPELINE", GREY)]:
     if col_ in w_by_cat:

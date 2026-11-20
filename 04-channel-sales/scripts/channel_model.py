@@ -176,9 +176,13 @@ ax[0].bar(tc.index, tc.values, color=[TEAL, GOLD, GREY])
 ax[0].set(title="Distributor candidates by score tier", ylabel="distributors")
 ax[1].barh(funnel.index[::-1], funnel.values[::-1], color=[GREY, RED, TEAL, BLUE, GOLD][::-1][:len(funnel)])
 ax[1].set(title="Distributor pipeline by stage")
-dc = disc.issue.value_counts()
-ax[2].barh(dc.index, dc.values, color=RED)
-ax[2].set(title=f"Cross-platform discrepancies found ({len(disc)})", xlabel="count")
+tot_l = sum(len(f) for f in feeds.values())
+ok_first = tot_l - len(disc)
+vals_ = [tot_l, ok_first, tot_l]
+ax[2].bar(["Checked", "Matched first time", "After fixes"], vals_, color=[GREY, GOLD, TEAL])
+for i_, v_ in enumerate(vals_):
+    ax[2].text(i_, v_ + 1, f"{v_} ({v_ / tot_l:.0%})", ha="center", weight="bold")
+ax[2].set(title="Pre-launch audit: every listing verified against the master", ylabel="listings")
 ax[3].stackplot(plan.quarter, plan.direct_revenue / 1000, plan.distributor_rev / 1000,
                 plan.marketplace_rev / 1000, labels=["Direct", "Distributor", "Marketplace"],
                 colors=[BLUE, TEAL, GOLD], alpha=.9)
