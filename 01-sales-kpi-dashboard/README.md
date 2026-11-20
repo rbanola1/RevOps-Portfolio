@@ -39,7 +39,7 @@ I directed a database engineer and connected the reporting tool to the CRM throu
 ## Open deal age by product
 ![Open deal age](charts/dashboard_open_deal_age.png)
 
-Every open deal shows how many days it has been open and which product it carries. In the synthetic data, 22 of 28 open deals are more than 90 days old, which turns the chart into an audit list: the owners review each one in the weekly meeting and either move it forward or close it. The product view shows which products carry the oldest deals.
+Every open deal shows how many days it has been open and which product it carries. In the synthetic data, 307 of 445 open deals (69%) are more than 90 days old, which turns the chart into an audit list: the owners review each one in the weekly meeting and either move it forward or close it. The product view shows which products carry the oldest deals.
 
 ## Forecast and product views (page 2)
 ![Forecast and product performance](charts/dashboard_forecast_and_products.png)

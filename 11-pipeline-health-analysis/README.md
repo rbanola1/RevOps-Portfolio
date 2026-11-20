@@ -21,7 +21,7 @@ flowchart LR
 - **Situation:** The pipeline report showed one total, hiding idle deals and a CRM full of records nobody worked.
 - **Task:** Show whether deals and records are moving, define the sales funnel and its factors, and check whether next quarter's quota is covered.
 - **Action:** Used the Six Sigma DMAIC method: defined the funnel stages and what drives each one, measured conversion, speed and touches, found the root causes, built conversion, ageing, coverage and stalled-deal views, and set weekly controls.
-- **Result:** Coverage is 2.4x against a 3x target; 85% of records have three or fewer touches, and average touches climb from about 2 (idle) to 16 (deal) to 31 (won).
+- **Result:** Coverage is 2.4x against a 3x target; 84% of records have three or fewer touches, and average touches climb from about 2 (idle) to 16 (deal) to 31 (won).
 
 ## The problem
 The pipeline report showed one number: total open value. It said nothing about whether deals were moving, which sources produced wins, or whether next quarter's quota was actually covered. Leadership saw a healthy total while several deals had not been touched for weeks.
@@ -44,23 +44,23 @@ The funnel is Lead, MQL, SQL, Opportunity, Customer. Each step has its own facto
 ## Sales pipeline structure (how the CRM is set up)
 The weekly view sits on a defined lifecycle and four deal pipelines, written down in [docs/lifecycle_and_pipelines.md](docs/lifecycle_and_pipelines.md) and drawn in [diagrams/lifecycle_and_pipelines.md](diagrams/lifecycle_and_pipelines.md):
 - **Lifecycle stages:** Lead, MQL, SQL, Opportunity, Customer. A new contact becomes a Lead automatically, a created deal makes its contact an Opportunity, and a closed-won deal makes it a Customer. MQL and SQL come from a combined score that uses **fit, intent and engagement**, not engagement alone, so the old engagement-only cut-offs of 15 and 30 no longer apply.
-- **Four pipelines:** Sales, Samples (non-revenue), E-commerce and Custom project, each with its own closed-won stage, all counted in the funnel.
+- **Three separate pipelines:** Catalogue products (low ticket), Custom projects (high ticket) and Free samples (no revenue), each with its own stages and closed-won point, all counted in the funnel.
 - **Funnel history:** Lead, MQL and SQL are counted per contact from their stage-entry dates; Opportunity and Customer are counted per deal, so a deal with several contacts is not counted several times.
 - **Qualified SQL:** an SQL that a rep has contacted and verified.
 
-## What the synthetic data shows (110 deals and 1,600 records in one year)
+## What the synthetic data shows (720 deals and 12,000 records in one year)
 | Finding | Evidence |
 |---|---|
-| Coverage looks fine but falls short | Open pipeline of about $128K is 2.4x next-quarter quota against a 3x target; removing stalled deals drops it to 2.1x |
-| The funnel leaks evenly | About 70% of deals move up at each stage; overall win rate is 29% of closed deals (26 wins) |
-| Source decides the outcome | Existing customers win 85% of the time; distributor referrals 40%; trade shows 19%; outbound sequences 14%; inbound web 11% |
-| Material lies on the floor | Of 1,600 records, 25% were never touched and 35% were touched once; 85% have three or fewer touches and only 11% reach six or more; effort climbs with the result: about 2 touches on an idle record, about 16 on a record that became a deal and about 31 on one that was won |
-| Few records reach the end of the line | 40% worked, 11% qualified, 6% became deals, 2% were won |
+| Coverage looks fine but falls short | Open pipeline of about $633K is 2.4x next-quarter quota ($264K) against a 3x target; removing stalled deals drops it to 2.3x |
+| The funnel leaks evenly | About 70% to 80% of deals move up at each stage; overall win rate is 32% of closed deals (201 wins) |
+| Source decides the outcome | Existing customers win 77% of the time; distributor referrals 45%; trade shows 28%; outbound sequences 17%; inbound web 15% |
+| Material lies on the floor | Of 12,000 records, 25% were never touched and 33% were touched once; 84% have three or fewer touches and only 13% reach six or more; effort climbs with the result: about 2 touches on an idle record, about 16 on a record that became a deal and about 31 on one that was won |
+| Few records reach the end of the line | 41% worked, 13% qualified, 8% became deals, 2% were won |
 
 ## The CRM as a factory
 The core problem: the CRM was full of good raw material that was lying on the floor. Records were accurate and plentiful, but most never received enough touches to move anywhere. I treated the CRM like a production line: records are raw material, stages are stations, wins are finished goods, and an idle record is inventory that was bought and never used.
 
-In the synthetic data, 1,600 records entered the CRM in a year. A quarter were never touched, and another 35% were touched once. 85% of records had three or fewer touches, and only 11% reached six or more. The proof that touches matter: an idle record averaged about 2 touches, a record that became a deal about 16, and a closed-won record about 31. The signal is real; it was just not acted on early enough. At the end of the line, 40% were worked, 11% qualified, 6% became deals and 2% were won. Trade-show records were the most idle.
+In the synthetic data, 12,000 records entered the CRM in a year. A quarter were never touched, and another third were touched once. 84% of records had three or fewer touches, and only 13% reached six or more. The proof that touches matter: an idle record averaged about 2 touches, a record that became a deal about 16, and a closed-won record about 31. The signal is real; it was just not acted on early enough. At the end of the line, 41% were worked, 13% qualified, 8% became deals and 2% were won. Trade-show records were the most idle.
 
 ![CRM factory utilisation](charts/crm_factory_utilization.png)
 

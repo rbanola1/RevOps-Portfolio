@@ -1,6 +1,6 @@
 stage,deals_reached,conversion_from_prior
-Qualified,110,
-Needs confirmed,77,0.7
-Quote sent,51,0.66
-Negotiation,36,0.71
-Won,26,0.72
+Qualified,720,
+Needs confirmed,491,0.68
+Quote sent,336,0.68
+Negotiation,256,0.76
+Won,201,0.79

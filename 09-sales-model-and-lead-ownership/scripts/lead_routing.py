@@ -21,7 +21,7 @@ rng = np.random.default_rng(5)
 
 REPS = {"Inside A": "Inside", "Inside B": "Inside", "Outside A": "Outside", "Outside B": "Outside",
         "BD A": "BD"}
-N_ACC, N_LEADS = 400, 1600
+N_ACC, N_LEADS = 700, 3000
 
 # ---------------- accounts with parent/child structure ----------------
 acc = pd.DataFrame({"account_id": [f"A{i:04d}" for i in range(N_ACC)],

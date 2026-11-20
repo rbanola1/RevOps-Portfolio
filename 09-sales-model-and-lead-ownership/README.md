@@ -23,7 +23,7 @@ flowchart LR
 - **Situation:** Reps were contacting the same customers and arguing over who owned trade-show leads.
 - **Task:** Create clear lanes and clear ownership.
 - **Action:** Wrote lane criteria, a research-first rule, mandatory owners with association labels, parent and child accounts, and ticket routing.
-- **Result:** Accounts touched by two or more reps in 30 days fell from 210 to 50, and responses within the time limit rose from 76% to 94%.
+- **Result:** Accounts touched by two or more reps in 30 days fell from 417 to 128, and responses within the time limit rose from 77% to 94%.
 
 ## The problem
 As the commercial team grew in a niche market, reps started contacting the same customers: two reps emailing the same lab, different reps quoting the same project, a new division of an existing customer with no clear owner, duplicate company records, and disputes over who owned a trade-show lead. Customers got a confusing experience and the CRM could not say who owned what.
@@ -39,14 +39,14 @@ A sales model with three parts that work together.
 
 Inbound inboxes and forms also feed a **ticketing system** that assigns each request to a primary, secondary and last-resort owner by category ([docs/ticket_routing.md](docs/ticket_routing.md)).
 
-## Results on the synthetic run (1,600 leads, 400 accounts)
+## Results on the synthetic run (3,000 leads, 700 accounts)
 The simulation models the lane criteria together with the ownership rules, so the conflict and response-time effects come mainly from the ownership check and clear routing, not from the specific lane split.
 
 | Metric | No rules | Rules + research first |
 |---|---|---|
-| Accounts touched by 2+ reps within 30 days | 210 | 50 |
-| Responses within the lane's time limit | 76% | 94% |
-| Leads by lane | | Inside 1,144, Outside 350, BD 106 |
+| Accounts touched by 2+ reps within 30 days | 417 | 128 |
+| Responses within the lane's time limit | 77% | 94% |
+| Leads by lane | | Inside 2,110, Outside 702, BD 188 |
 
 The "ownership data completeness" panel (deals linked to company and contact, all three owners set) uses **assumed** before and after values to show the target. They are not simulated. Routing, conflicts and response times are simulated.
 

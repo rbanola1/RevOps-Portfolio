@@ -1,5 +1,5 @@
 stage,deals,value,weighted,stalled
-Qualified,3,19100.0,1910.0,0
-Needs confirmed,9,58600.0,14650.0,1
-Quote sent,6,31450.0,15725.0,0
-Negotiation,2,18850.0,14138.0,0
+Qualified,24,58800.0,5880.0,4
+Needs confirmed,37,166850.0,41712.0,4
+Quote sent,23,205550.0,102775.0,3
+Negotiation,15,201300.0,150975.0,2

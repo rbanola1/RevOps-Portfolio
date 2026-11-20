@@ -21,7 +21,7 @@ flowchart LR
 - **Situation:** Leadership could not see plan against actual: CRM and accounting disagreed and forecasts were extrapolated from last month.
 - **Task:** Give one view of budget, forecast and cash.
 - **Action:** Built the budget by sales route, tracked monthly variance, built a pipeline-based forecast, reconciled CRM to invoices, and added simple scenario and product demand forecasts.
-- **Result:** The year is forecast at $203K against a $245K budget, the cause (a slow distributor ramp) is visible, and operations gets reorder flags.
+- **Result:** The year is forecast at $3.2M against a $3.9M budget, the cause (a slow distributor ramp) is visible, and operations gets reorder flags.
 
 ## The problem
 Leadership needed one view of how the year was going against budget, a forecast they could trust, and cash visibility. Three things made that hard: sales numbers from the CRM did not match accounting invoices, the budget lived in spreadsheets with no variance tracking, and forecasts were extrapolated from last month rather than built from the pipeline.
@@ -37,20 +37,20 @@ Leadership needed one view of how the year was going against budget, a forecast 
 | **Scenarios** | Pipeline converts lower or higher, shipping and COGS up, extra hiring, each with full-year revenue and operating profit |
 
 ## Results on the synthetic run (actuals Jan to Sep, forecast Oct to Dec)
-Scale: a small company with a revenue plan of about $245K for the year, so the P&L is a loss-making start-up profile.
+Scale: a company with a revenue plan of about $3.9M for the year, made up of catalogue products (low ticket) and custom projects (high ticket).
 
 | Metric | Budget | Actual / forecast |
 |---|---|---|
-| YTD revenue | $161K | $145K (-10%) |
-| YTD gross profit | $96K | $86K (-11%) |
-| YTD operating expenses | $140K | $140K (on budget) |
-| YTD operating profit | -$44K | -$54K |
-| Full-year revenue | $245K | $203K forecast (-17%) |
-| Full-year operating profit | -$46K | -$69K forecast |
+| YTD revenue | $2.55M | $2.29M (-10%) |
+| YTD gross profit | $1.52M | $1.36M (-11%) |
+| YTD operating expenses | $1.52M | $1.52M (on budget) |
+| YTD operating profit | +$6K | -$158K |
+| Full-year revenue | $3.87M | $3.21M forecast (-17%) |
+| Full-year operating profit | +$220K | -$152K forecast |
 
 **Why the gap:** the distributor channel ramps slower than budgeted, so revenue lags while costs stay on plan. The budget assumed the channel would contribute from midyear.
-**Won to invoiced:** invoices differ from CRM closed-won because shipping and tax are billed but not in deal amounts, partly offset by orders won but not yet shipped; the bridge in the chart reconciles the two.
-**Scenarios:** if the pipeline converts 15% worse, full-year operating profit drops to about -$75K; a 10% hiring increase costs about $5K more.
+**Won to invoiced:** invoices differ from CRM closed-won because shipping and tax are billed but not in deal amounts, partly offset by orders won but not yet shipped; the bridge in the chart reconciles the two ($2.29M closed-won to $2.37M invoiced).
+**Scenarios:** if the pipeline converts 15% worse, full-year operating profit drops to about -$233K; a 10% hiring increase costs about $54K more.
 
 ## Simple forecasts: sales scenarios and product demand
 ![Simple forecasts](charts/forecast_scenarios_and_demand.png)

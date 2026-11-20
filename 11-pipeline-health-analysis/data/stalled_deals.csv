@@ -1,2 +1,14 @@
 deal_id,source,segment,stage,amount,days_in_stage,idle_days
-D-1067,Trade show,Pharma,Needs confirmed,13750.0,22,70
+D-1412,Trade show,Biotech,Qualified,8550.0,12,23
+D-1250,Outbound sequence,Pharma,Quote sent,5900.0,57,5
+D-1114,Trade show,Academia,Needs confirmed,3450.0,15,31
+D-1598,Distributor referral,Core facility,Needs confirmed,3200.0,2,32
+D-1370,Trade show,Academia,Quote sent,2750.0,99,18
+D-1436,Existing customer,Academia,Negotiation,1800.0,30,2
+D-1317,Existing customer,Academia,Negotiation,1500.0,4,45
+D-1166,Inbound web,Academia,Qualified,1500.0,33,0
+D-1608,Existing customer,CGT developer,Qualified,1400.0,48,13
+D-1483,Outbound sequence,Biotech,Qualified,1250.0,11,25
+D-1027,Outbound sequence,Pharma,Needs confirmed,1150.0,57,8
+D-1354,Inbound web,Core facility,Needs confirmed,1050.0,49,6
+D-1187,Trade show,Academia,Quote sent,750.0,59,10

@@ -16,16 +16,15 @@ flowchart LR
     class Q y
 ```
 
-## Four pipelines, one funnel
+## Three separate pipelines, one funnel
 ```mermaid
 flowchart LR
-    P1["Sales pipeline"] --> F["One funnel<br>Opportunity and Customer counted per deal"]
-    P2["Samples pipeline<br>non-revenue"] --> F
-    P3["E-commerce pipeline"] --> F
-    P4["Custom project pipeline"] --> F
+    P1["Catalogue products<br>low ticket"] --> F["One funnel<br>Opportunity and Customer counted per deal"]
+    P2["Free samples<br>no revenue"] --> F
+    P4["Custom projects<br>high ticket"] --> F
     F --> R["Live funnel, entry-based funnel by quarter, conversion cards"]
     classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef g fill:#CFE9E3,stroke:#2A9D8F,color:#222
-    class P1,P2,P3,P4 a
+    class P1,P2,P4 a
     class F,R g
 ```

@@ -1,4 +1,4 @@
 scenario,next_3_months
-Commit only,27800.0
-Commit + best case,41300.0
-All pipeline,53600.0
+Commit only,834000.0
+Commit + best case,1239000.0
+All pipeline,1608000.0

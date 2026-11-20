@@ -1,7 +1,9 @@
-product,Canada,Europe,United States
-Cell Line A 1x10^6,2700.0,0.0,14250.0
-Cell Line B 1x10^6,0.0,2850.0,17970.0
-Compound Set 10mg,0.0,0.0,1820.0
-Growth Medium Kit,189.05,0.0,4855.6
-Media Kit C,0.0,0.0,11520.0
-Media Kit D,0.0,0.0,5305.5
+product,Asia,Canada,Europe,United States
+,0.0,0.0,0.0,2458.8
+Cell Line A 1x10^6,10725.0,15750.0,28050.0,217800.0
+Cell Line B 1x10^6,13680.0,21450.0,22020.0,281100.0
+Compound Set 10mg,1235.0,1290.0,4675.0,31880.0
+Custom Project,0.0,210000.0,390000.0,660000.0
+Growth Medium Kit,2139.25,2587.0,7124.2,42337.25
+Media Kit C,8400.0,33360.0,25320.0,213540.0
+Media Kit D,3996.0,2997.0,10516.5,66960.0

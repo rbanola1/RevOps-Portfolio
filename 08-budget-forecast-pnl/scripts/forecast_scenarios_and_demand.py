@@ -21,8 +21,8 @@ rng = np.random.default_rng(809)
 # ---------- 1. sales scenarios by forecast category ----------
 PROB = {"Closed won": 1.0, "Commit": .60, "Best case": .30, "Pipeline": .15}
 MONTHS = ["Nov", "Dec", "Jan"]
-open_value = pd.DataFrame({"Closed won": [9_000, 2_000, 0], "Commit": [17_000, 8_000, 3_000],
-                           "Best case": [21_000, 15_000, 9_000], "Pipeline": [28_000, 30_000, 24_000]}, index=MONTHS)
+open_value = pd.DataFrame({"Closed won": [270_000, 60_000, 0], "Commit": [510_000, 240_000, 90_000],
+                           "Best case": [630_000, 450_000, 270_000], "Pipeline": [840_000, 900_000, 720_000]}, index=MONTHS)
 weighted = open_value * pd.Series(PROB)
 scen = pd.DataFrame({"scenario": ["Commit only", "Commit + best case", "All pipeline"],
                      "next_3_months": [weighted[["Closed won", "Commit"]].sum().sum(), weighted[["Closed won", "Commit", "Best case"]].sum().sum(),
@@ -34,8 +34,8 @@ scen.to_csv(DATA / "forecast_scenarios.csv", index=False)
 # ---------- 2. product demand and stock cover ----------
 M6 = ["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]
 SEAS = np.array([1.0, .8, .85, 1.0, 1.1, 1.2])
-BASE = {"Cell Line A": 9, "Cell Line B": 8, "Media Kit C": 3, "Compound Set": 55}
-STOCK = {"Cell Line A": 70, "Cell Line B": 30, "Media Kit C": 36, "Compound Set": 420}
+BASE = {"Cell Line A": 72, "Cell Line B": 64, "Media Kit C": 24, "Compound Set": 440}
+STOCK = {"Cell Line A": 560, "Cell Line B": 240, "Media Kit C": 290, "Compound Set": 3400}
 dm = pd.DataFrame({"month": M6})
 for p, u in BASE.items():
     dm[p] = (u * SEAS * (1 + .012 * np.arange(6)) * rng.uniform(.95, 1.05, 6)).round()

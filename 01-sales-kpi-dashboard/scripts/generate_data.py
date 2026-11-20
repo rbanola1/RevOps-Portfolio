@@ -57,26 +57,26 @@ leads["lifecycle_stage"] = np.select(
 leads["in_sequence"] = rng.random(N_LEADS) < 0.38
 
 # ---------- deals ----------
-N_DEALS = 130
+N_DEALS = 1900
 d_created = pd.to_datetime("2026-01-05") + pd.to_timedelta(rng.integers(0, 300, N_DEALS), unit="D")
 src = rng.choice(list(SOURCES), N_DEALS, p=[v[0] for v in SOURCES.values()])
 rows = []
 for i in range(N_DEALS):
-    prod = rng.choice(list(PRODUCTS), p=[.20, .14, .10, .12, .16, .10, .18])
+    prod = rng.choice(list(PRODUCTS), p=[.24, .17, .12, .15, .19, .11, .02])
     qty = int(rng.integers(1, 9)) if prod != "Custom Project" else 1
     amount = qty * PRODUCTS[prod] * (1 - rng.choice([0, 0, .05, .10]))
-    pipeline = ("Custom Project" if prod == "Custom Project"
-                else "Non-Revenue (Free Sample)" if rng.random() < .12 else "Sales")
-    win_p = 0.30 * SOURCES[src[i]][1] if prod != "Custom Project" else 0.0
+    pipeline = ("Custom projects" if prod == "Custom Project"
+                else "Free samples" if rng.random() < .12 else "Catalogue products")
+    win_p = 0.30 * SOURCES[src[i]][1] if prod != "Custom Project" else 0.28
     r = rng.random()
     stage = ("Closed Won" if r < win_p else "Closed Lost" if r < win_p + .45
              else str(rng.choice([s for s, _ in STAGES[:3]], p=[.4, .4, .2])))
-    cycle = int(np.clip(rng.normal(35 if pipeline == "Sales" else 25, 12), 3, 120))
+    cycle = int(np.clip(rng.normal(35 if pipeline == "Catalogue products" else 25, 12), 3, 120))
     close = d_created[i] + pd.Timedelta(days=cycle)
-    if pipeline.startswith("Non-Revenue"):
+    if pipeline == "Free samples":
         amount = 0
     if prod == "Custom Project":  # large, slow deals: stay in open pipeline or are lost
-        amount = float(rng.choice([150000, 200000, 250000]))
+        amount = float(rng.choice([90000, 120000, 150000, 180000, 210000]))
     rows.append(dict(
         deal_id=f"D{5000 + i}", deal_name=f"{rng.choice(CUSTOMERS)} - {prod}",
         owner=rng.choice(REPS, p=[.42, .36, .22]), pipeline=pipeline, product=prod, quantity=qty,
@@ -88,7 +88,7 @@ deals = pd.DataFrame(rows)
 deals["weighted_amount"] = deals.amount * deals.stage.map(dict(STAGES))
 # a few deliberately incomplete records so the data-quality check has something to catch
 deals.loc[rng.choice(N_DEALS, 4, replace=False), "product"] = ""
-won = deals[(deals.stage == "Closed Won") & (deals.pipeline != "Non-Revenue (Free Sample)")].copy()
+won = deals[(deals.stage == "Closed Won") & (deals.pipeline != "Free samples")].copy()
 won["close_month"] = pd.to_datetime(won.close_date).dt.to_period("M").astype(str)
 won["close_quarter"] = "Q" + pd.to_datetime(won.close_date).dt.quarter.astype(str)
 
@@ -124,7 +124,7 @@ n_opp, n_cust = len(deals), len(won)
 kpi = {
     "revenue_ytd": round(won.amount.sum(), 2), "orders": n_cust,
     "avg_order_value": round(won.amount.mean(), 2),
-    "avg_sales_cycle_days": round(deals[deals.pipeline == "Sales"].sales_cycle_days.mean(), 1),
+    "avg_sales_cycle_days": round(deals[deals.pipeline == "Catalogue products"].sales_cycle_days.mean(), 1),
     "win_rate": round(n_cust / max((deals.stage.isin(["Closed Won", "Closed Lost"])).sum(), 1), 3),
     "open_pipeline": round(deals[~deals.stage.isin(["Closed Won", "Closed Lost"])].amount.sum(), 2),
     "weighted_forecast": round(deals[~deals.stage.isin(["Closed Won", "Closed Lost"])].weighted_amount.sum(), 2),
@@ -177,7 +177,7 @@ won["m"] = pd.to_datetime(won.close_date).dt.to_period("M")
 actual = won.groupby("m").amount.sum()
 actual = actual.reindex(pd.period_range("2026-01", pd.Period(AS_OF, "M"), freq="M"), fill_value=0)
 months_ahead = pd.period_range(pd.Period(AS_OF, "M") + 1, periods=2, freq="M")
-open_ = deals[~deals.stage.isin(["Closed Won", "Closed Lost"]) & (deals.pipeline != "Non-Revenue (Free Sample)") & (deals.pipeline != "Custom Project")].copy()
+open_ = deals[~deals.stage.isin(["Closed Won", "Closed Lost"]) & (deals.pipeline != "Free samples")].copy()
 open_["m"] = pd.to_datetime(open_.close_date).dt.to_period("M").clip(lower=months_ahead[0])   # overdue deals roll into next month
 open_ = open_[open_.m <= months_ahead[-1]]
 w_by_cat = open_.pivot_table(index="m", columns="forecast_category", values="weighted_amount", aggfunc="sum", fill_value=0).reindex(months_ahead, fill_value=0)
@@ -234,7 +234,7 @@ fig2.savefig(CHARTS / "dashboard_forecast_and_products.png", dpi=130)
 print("forecast", fc.to_dict("list"))
 # ---------- page 3: how long deals have been open, by product ----------
 RED = "#D1495B"
-oa = deals[~deals.stage.isin(["Closed Won", "Closed Lost"]) & (deals.pipeline != "Non-Revenue (Free Sample)") & (deals.pipeline != "Custom Project")].copy()
+oa = deals[~deals.stage.isin(["Closed Won", "Closed Lost"]) & (deals.pipeline != "Free samples")].copy()
 oa["days_open"] = (AS_OF - pd.to_datetime(oa.create_date)).dt.days
 oa["product_name"] = oa["product"].replace("", "(product missing)")
 bins_ = [-1, 30, 60, 90, 180, 10000]

@@ -1,6 +1,6 @@
 """Pipeline health analysis for RB Tech (fictional): stage conversion, ageing, coverage, stalled deals.
 
-Builds ~110 synthetic deals over the past year, then produces the weekly pipeline-health view:
+Builds ~720 synthetic deals over the past year, then produces the weekly pipeline-health view:
 stage conversion, deal ageing against benchmark, coverage versus quota, stalled-deal list, win rate by source,
 and weighted versus unweighted pipeline.  All data is invented.
 Run: python scripts/pipeline_health.py     Needs: pandas, numpy, matplotlib
@@ -28,11 +28,11 @@ CONT = {"Inbound web": .62, "Trade show": .70, "Outbound sequence": .60, "Distri
 TODAY = pd.Timestamp("2026-10-31")
 
 rows = []
-for i in range(110):
+for i in range(720):
     src = rng.choice(list(SOURCES), p=list(SOURCES.values()))
     seg = rng.choice(list(SEG), p=list(SEG.values()))
     created = TODAY - pd.Timedelta(days=int(rng.integers(5, 330)))
-    amount = float(np.round(np.exp(rng.normal(8.5, .6)) / 50) * 50)
+    amount = float(np.round(np.exp(rng.normal(7.4, .8)) / 50) * 50) if rng.random() > .03 else float(np.round(rng.uniform(90_000, 220_000) / 1000) * 1000)
     status, reached, t = "Open", 0, created
     days_in_stage = 0
     for k in range(4):
@@ -137,7 +137,7 @@ print("done")
 # ---------- CRM as a factory: raw material in, how much was actually worked? ----------
 # 4,000 synthetic records enter the CRM in a year. Nothing is "wasted" (no bad data); the loss is material that was never used.
 rng2 = np.random.default_rng(1102)
-N = 1600
+N = 12000
 lead_src = rng2.choice(list(SOURCES), size=N, p=list(SOURCES.values()))
 touch_p = {"Inbound web": .80, "Trade show": .55, "Outbound sequence": .70, "Distributor referral": .85, "Existing customer": .95}
 touched = np.array([rng2.random() < touch_p[s] for s in lead_src])

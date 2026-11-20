@@ -21,7 +21,7 @@ flowchart LR
 - **Situation:** Trade shows were the largest marketing line, but cost and return were never linked.
 - **Task:** Judge each show on full cost and return.
 - **Action:** Modelled every cost line, linked events to leads, deals and gross profit, scored shows as repeat, change or drop, and tested a budget reallocation.
-- **Result:** The best shows return $1.7 to $2.0 per $1 against $0.4 to $0.7 for the weakest; reallocating lifts expected gross profit from $76K to $83K.
+- **Result:** The best shows return $1.7 to $2.0 per $1 against $0.4 to $0.7 for the weakest; reallocating lifts expected gross profit from $839K to $908K.
 
 ## The problem
 Trade shows were the largest marketing line and the hardest to judge. Costs sat in several places (registration, booth, shipping, travel, staff time) and results sat in the CRM. Nobody could say, for a given show, what it cost per qualified lead or whether it paid back, so shows were repeated out of habit.
@@ -33,14 +33,14 @@ Trade shows were the largest marketing line and the hardest to judge. Costs sat 
 4. **A budget reallocation** that moves spend from the two weakest shows to the strongest, with a 30% haircut on the extra return for diminishing returns.
 5. **A tie to the voice-of-customer program** ([project 10](../10-voice-of-customer-program)): the intelligence an event produces counts alongside leads when a close call comes up.
 
-## What the synthetic data shows (eight events, about $57K in total)
+## What the synthetic data shows (eight events, about $630K in total)
 | Finding | Evidence |
 |---|---|
 | Audience fit predicts return | The three best-fit shows return $1.7 to $2.0 of gross profit per $1 spent; the weakest-fit shows return $0.4 to $0.7 |
-| Cost per lead alone misleads | One expo has a cost per qualified lead near $500, among the lowest, yet returns only $0.4 per $1 because its leads rarely become deals |
+| The weakest shows are also the costliest per lead | The two weakest-fit shows have the highest cost per qualified lead (about $1,300 and $2,800 against $400 to $600 for the best), and return only $0.4 to $0.7 per $1 |
 | Three lines make up most of the cost | Registration (32%), travel (27%) and staff time (23%); a travel-only budget would miss a quarter of the cost |
 | The big show earns its cost | The largest booth returns $1.69 per $1 and brings the most deals |
-| Reallocating helps | Moving the budget of the two weakest shows to the best three lifts expected gross profit from $76K to $83K on the same spend |
+| Reallocating helps | Moving the budget of the two weakest shows to the best three lifts expected gross profit from $839K to $908K on the same spend |
 
 ## How the data is used
 - **Annual events plan:** shows are chosen from the ranking before registration deadlines.

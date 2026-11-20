@@ -19,7 +19,7 @@ CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(1301)
 
 # ---------- 1. record reconciliation by object ----------
-OBJ = {"Companies": 2400, "Contacts": 11000, "Deals": 700, "Activities (emails, calls, notes)": 45000, "Products": 60, "Quotes": 600}
+OBJ = {"Companies": 9200, "Contacts": 60000, "Deals": 6100, "Activities (emails, calls, notes)": 188000, "Products": 420, "Quotes": 5300}
 rec = []
 for o, n in OBJ.items():
     dup = int(n * rng.uniform(.04, .13)) if o in ("Companies", "Contacts") else 0
@@ -72,7 +72,7 @@ ax[0, 0].bar(x, r.source_records, color=GREY, label="Source records")
 ax[0, 0].bar(x, r.final_in_target, color=BLUE, label="Loaded in new CRM")
 ax[0, 0].set_xticks(x, [o[:12] for o in r.object])
 ax[0, 0].legend()
-ax[0, 0].set(title="Record reconciliation by object (activities not shown: 45K)", ylabel="records")
+ax[0, 0].set(title="Record reconciliation by object (activities not shown: 188K)", ylabel="records")
 d = dq.iloc[:-1]
 y = np.arange(len(d))
 ax[0, 1].barh(y + .2, d.before * 100, .4, color=RED, label="Before")

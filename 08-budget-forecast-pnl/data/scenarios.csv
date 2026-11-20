@@ -1,6 +1,6 @@
 scenario,full_year_revenue,full_year_operating_profit,vs_budget_revenue
-Base forecast,202530,-69385,-42206.0
-Pipeline converts 15% lower,193831,-74519,-50905.0
-Pipeline converts 10% higher,208330,-65963,-36406.0
-Shipping and COGS +8%,202530,-71287,-42206.0
-Hiring: opex +10%,202530,-74340,-42206.0
+Base forecast,3206318,-151889,-668669.0
+Pipeline converts 15% lower,3068645,-233142,-806342.0
+Pipeline converts 10% higher,3298100,-97720,-576887.0
+Shipping and COGS +8%,3206318,-181979,-668669.0
+Hiring: opex +10%,3206318,-205464,-668669.0

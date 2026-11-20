@@ -1,7 +1,7 @@
 object,source_records,duplicates_merged,junk_removed,loaded,missing_found,reloaded,final_in_target,reconciled,match_rate
-Companies,2400,102,105,2192,1,1,2193,True,1.0
-Contacts,11000,468,163,10332,37,37,10369,True,1.0
-Deals,700,0,30,668,2,2,670,True,1.0
-"Activities (emails, calls, notes)",45000,0,989,43994,17,17,44011,True,1.0
-Products,60,0,0,60,0,0,60,True,1.0
-Quotes,600,0,11,588,1,1,589,True,1.0
+Companies,9200,392,406,8396,6,6,8402,True,1.0
+Contacts,60000,2557,893,56348,202,202,56550,True,1.0
+Deals,6100,0,265,5817,18,18,5835,True,1.0
+"Activities (emails, calls, notes)",188000,0,4134,183795,71,71,183866,True,1.0
+Products,420,0,0,420,0,0,420,True,1.0
+Quotes,5300,0,103,5182,15,15,5197,True,1.0

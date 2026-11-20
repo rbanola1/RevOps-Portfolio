@@ -1,8 +1,8 @@
 ,value
-tickets,600.0
-auto_routed_share,0.933
-accuracy_auto_routed,0.995
-accuracy_review_queue_before_human,0.4
+tickets,2400.0
+auto_routed_share,0.92
+accuracy_auto_routed,0.994
+accuracy_review_queue_before_human,0.352
 overall_accuracy_with_human_review,0.995
-spam_caught_rate,0.968
+spam_caught_rate,0.958
 confidence_threshold,0.7

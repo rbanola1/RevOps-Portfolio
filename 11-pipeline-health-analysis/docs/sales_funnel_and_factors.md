@@ -16,22 +16,22 @@ Lead, MQL and SQL are counted per contact. Opportunity and Customer are counted 
 | Across all stages | **Touches per record**, record data quality, owner assigned, hand-off between inside sales and reps | Average touches; share of records idle; stalled deals |
 
 ## Why touches matter (the proof)
-In the synthetic run, an idle record averages about 2 touches, a record that became a deal about 16, and a closed-won record about 31. 85% of records have three or fewer touches. The signal was there, but effort was not routed toward records showing it.
+In the synthetic run, an idle record averages about 2 touches, a record that became a deal about 16, and a closed-won record about 31. 84% of records have three or fewer touches. The signal was there, but effort was not routed toward records showing it.
 
 ## Funnel results in the synthetic run
 | Step | Records | Share of input |
 |---|---|---|
-| Records in the CRM | 1,600 | 100% |
-| Touched at least once | 1,193 | 75% |
-| Worked with follow-up | 635 | 40% |
-| Qualified | 180 | 11% |
-| Deal created | 99 | 6% |
-| Won | 25 | 2% |
+| Records in the CRM | 12,000 | 100% |
+| Touched at least once | 8,980 | 75% |
+| Worked with follow-up | 4,970 | 41% |
+| Qualified | 1,548 | 13% |
+| Deal created | 970 | 8% |
+| Won | 276 | 2% |
 
 ## The Six Sigma method (DMAIC) applied to the funnel
 | Phase | What was done |
 |---|---|
-| **Define** | Problem: very few records become customers. Critical-to-quality measures: conversion at each stage, days in stage, touches per record, cost per win. Scope: all four pipelines, lead to customer |
+| **Define** | Problem: very few records become customers. Critical-to-quality measures: conversion at each stage, days in stage, touches per record, cost per win. Scope: all three pipelines, lead to customer |
 | **Measure** | Counted records at every stage, conversion between stages, touches per record, days in stage and win rate by source, to set the baseline |
 | **Analyse** | Looked for the vital few causes: records idle on the floor, low touches, weak fit rules, unclear ownership, low awareness of some products, and stale deals. Win rate by source and touches by outcome showed where effort pays back |
 | **Improve** | Redesigned scoring (fit, intent, engagement), routed records by lane, capped sends and added a stop rule, set a touch target and a stalled-deal alert, and clarified ownership |

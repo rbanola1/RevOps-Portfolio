@@ -17,12 +17,11 @@ The first rules used an engagement-only score: MQL at 15 points and SQL at 30. O
 ## Pipelines
 | Pipeline | Used for | Closed-won stage |
 |---|---|---|
-| Sales | Quoted orders and direct deals | Closed won |
-| Samples (non-revenue) | Free samples sent for evaluation and validation data | Sample delivered and feedback logged |
-| E-commerce | Web-store orders | Order paid |
-| Custom project | Services and contract projects with milestones | Contract signed |
+| Catalogue products (low ticket) | Standard catalogue orders, quoted or web | Closed won |
+| Free samples (no revenue) | Free samples sent for evaluation and validation data | Sample delivered and feedback logged |
+| Custom projects (high ticket) | Custom differentiation and contract projects, with a deposit and milestone deals | Deposit received, then each milestone invoiced |
 
-All four feed one funnel; each deal carries a deal source and a free-sample flag.
+All three feed one funnel; each deal carries a deal source and a free-sample flag.
 
 ## Deal sources (twelve channels, aligned to the lead generation plan)
 Large conferences · tabletop and regional shows · field prospecting · launch campaigns · distributor and channel sales · inside sales · OEM products · webinars · inbound organic · paid media and third party · beta testing · referral and other.

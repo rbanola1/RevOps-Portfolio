@@ -1,5 +1,5 @@
 product,stock_on_hand,avg_monthly_demand,months_of_cover,action
-Cell Line A,70,9.3,6,OK
-Cell Line B,30,8.3,3,Reorder soon
-Media Kit C,36,3.0,6,OK
-Compound Set,420,55.7,6,OK
+Cell Line A,560,73.5,6,OK
+Cell Line B,240,65.3,4,Reorder soon
+Media Kit C,290,24.7,6,OK
+Compound Set,3400,446.0,6,OK

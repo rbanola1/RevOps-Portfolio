@@ -14,13 +14,13 @@
 - Above the threshold: route to the category owner and apply tags. Below: human review queue.
 - Always log the agent's decision and confidence so accuracy can be audited.
 
-## Synthetic results (600 tickets)
+## Synthetic results (2,400 tickets)
 | Metric | Value |
 |---|---|
-| Share routed automatically | 93% |
+| Share routed automatically | 92% |
 | Accuracy of automatically routed tickets | 99% |
-| Accuracy on the review queue before a human | 40% (which is why it goes to a human) |
-| Spam caught | 97% |
+| Accuracy on the review queue before a human | 35% (which is why it goes to a human) |
+| Spam caught | 96% |
 
 ## Guardrails
 1. Agents never send external replies without a human, except fixed acknowledgements protected by loop rules.

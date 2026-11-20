@@ -156,7 +156,7 @@ ROUTES["revenue_per_list_$"] = ROUTES.price_realization
 ROUTES.to_csv(DATA / "channel_economics.csv", index=False)
 
 quarters = ["Q1", "Q2", "Q3", "Q4", "Q1 next", "Q2 next"]
-total = np.array([1.00, 1.04, 1.09, 1.15, 1.22, 1.30]) * 250_000
+total = np.array([1.00, 1.04, 1.09, 1.15, 1.22, 1.30]) * 900_000
 channel_share = np.array([0.02, 0.05, 0.09, 0.13, 0.17, 0.21])
 plan = pd.DataFrame({"quarter": quarters, "total_revenue": total.round(0),
                      "channel_share": channel_share,

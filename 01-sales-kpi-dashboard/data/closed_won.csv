@@ -1,30 +1,506 @@
 deal_id,deal_name,owner,pipeline,product,quantity,amount,deal_source,stage,forecast_category,create_date,close_date,sales_cycle_days,region,weighted_amount,close_month,close_quarter
-D5004,Harbor Institute - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,5,2850.0,Inbound Organic,Closed Won,CLOSED,2026-08-01,2026-08-24,23,Europe,2850.0,2026-08,Q3
-D5015,Ridgeway Therapeutics - Media Kit C,Jordan Pike,Sales,Media Kit C,4,4320.0,Webinars,Closed Won,CLOSED,2026-03-16,2026-04-13,28,United States,4320.0,2026-04,Q2
-D5018,Summit Therapeutics - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,7,3780.0,Inside Sales,Closed Won,CLOSED,2026-09-30,2026-11-12,43,United States,3780.0,2026-11,Q4
-D5020,Granite Institute - Cell Line A 1x10^6,Avery Stone,Sales,Cell Line A 1x10^6,2,1500.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-13,2026-07-03,51,United States,1500.0,2026-07,Q3
-D5023,Willow Therapeutics - Growth Medium Kit,Casey Lund,Sales,Growth Medium Kit,5,945.25,Field Sales Prospecting,Closed Won,CLOSED,2026-07-05,2026-07-31,26,United States,945.25,2026-07,Q3
-D5028,Evergreen University - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,6,570.0,Webinars,Closed Won,CLOSED,2026-08-19,2026-09-25,37,United States,570.0,2026-09,Q3
-D5033,Ridgeway Institute - Growth Medium Kit,Avery Stone,Sales,Growth Medium Kit,1,189.05,Large Conferences,Closed Won,CLOSED,2026-05-17,2026-06-26,40,Canada,189.05,2026-06,Q2
-D5034,Atlas Therapeutics - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-24,2026-11-03,10,United States,3600.0,2026-11,Q4
-D5035,Evergreen Research Labs - Media Kit C,Avery Stone,Sales,Media Kit C,6,7200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-15,2026-09-10,26,United States,7200.0,2026-09,Q3
-D5036,Evergreen Biologics - Media Kit D,Jordan Pike,Sales,Media Kit D,5,1350.0,Inbound Organic,Closed Won,CLOSED,2026-04-05,2026-05-16,41,United States,1350.0,2026-05,Q2
-D5040,Bluestone Institute - Media Kit D,Jordan Pike,Sales,Media Kit D,3,810.0,Referral/Other,Closed Won,CLOSED,2026-03-17,2026-04-15,29,United States,810.0,2026-04,Q2
-D5041,Atlas University - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,4,2700.0,Large Conferences,Closed Won,CLOSED,2026-10-03,2026-10-31,28,Canada,2700.0,2026-10,Q4
-D5042,Summit Institute - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,3,270.0,Webinars,Closed Won,CLOSED,2026-08-03,2026-09-05,33,United States,270.0,2026-09,Q3
-D5053,Harbor University - Media Kit D,Casey Lund,Sales,Media Kit D,2,540.0,Inbound Organic,Closed Won,CLOSED,2026-06-18,2026-06-26,8,United States,540.0,2026-06,Q2
-D5060,Northbridge University - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,7,5250.0,Inside Sales,Closed Won,CLOSED,2026-06-10,2026-07-22,42,United States,5250.0,2026-07,Q3
-D5064,Cedar Research Labs - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,6,1134.3,Large Conferences,Closed Won,CLOSED,2026-09-12,2026-09-25,13,United States,1134.3,2026-09,Q3
-D5066,Bluestone Research Labs - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,1,100.0,Inside Sales,Closed Won,CLOSED,2026-01-08,2026-01-25,17,United States,100.0,2026-01,Q1
-D5078,Bluestone University - Media Kit D,Jordan Pike,Sales,Media Kit D,3,810.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-28,2026-11-22,25,United States,810.0,2026-11,Q4
-D5084,Cedar Institute - Growth Medium Kit,Casey Lund,Sales,Growth Medium Kit,5,945.25,Webinars,Closed Won,CLOSED,2026-01-31,2026-02-21,21,United States,945.25,2026-02,Q1
-D5088,Cedar University - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,7,4200.0,Large Conferences,Closed Won,CLOSED,2026-07-03,2026-07-26,23,United States,4200.0,2026-07,Q3
-D5091,Harbor Research Labs - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,4,2400.0,Referral/Other,Closed Won,CLOSED,2026-04-12,2026-05-21,39,United States,2400.0,2026-05,Q2
-D5100,Atlas Therapeutics - Growth Medium Kit,Avery Stone,Sales,Growth Medium Kit,4,756.2,Webinars,Closed Won,CLOSED,2026-08-02,2026-08-09,7,United States,756.2,2026-08,Q3
-D5102,Northbridge Institute - Cell Line B 1x10^6,Casey Lund,Sales,Cell Line B 1x10^6,7,3990.0,Inbound Organic,Closed Won,CLOSED,2026-01-23,2026-02-13,21,United States,3990.0,2026-02,Q1
-D5103,Summit Research Labs - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,6,4500.0,Large Conferences,Closed Won,CLOSED,2026-07-21,2026-08-13,23,United States,4500.0,2026-08,Q3
-D5105,Harbor Therapeutics - Cell Line A 1x10^6,Casey Lund,Sales,Cell Line A 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-06,2026-02-14,39,United States,3000.0,2026-02,Q1
-D5107,Willow Therapeutics - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,7,700.0,Large Conferences,Closed Won,CLOSED,2026-07-24,2026-08-28,35,United States,700.0,2026-08,Q3
-D5110,Atlas University - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,2,180.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-20,2026-10-18,28,United States,180.0,2026-10,Q4
-D5112,Harbor Research Labs - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,6,1074.6,Inbound Organic,Closed Won,CLOSED,2026-07-27,2026-08-29,33,United States,1074.6,2026-08,Q3
-D5113,Northbridge Research Labs - Media Kit D,Jordan Pike,Sales,Media Kit D,7,1795.5,Webinars,Closed Won,CLOSED,2026-08-15,2026-09-25,41,United States,1795.5,2026-09,Q3
+D5002,Meridian Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,6,1620.0,Large Conferences,Closed Won,CLOSED,2026-06-22,2026-06-25,3,United States,1620.0,2026-06,Q2
+D5003,Summit Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2160.0,Large Conferences,Closed Won,CLOSED,2026-03-06,2026-03-27,21,United States,2160.0,2026-03,Q1
+D5006,Atlas University - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,3,3600.0,Inbound Organic,Closed Won,CLOSED,2026-07-21,2026-08-04,14,United States,3600.0,2026-08,Q3
+D5007,Bluestone Biologics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,1,100.0,Launch Campaigns,Closed Won,CLOSED,2026-06-15,2026-07-13,28,United States,100.0,2026-07,Q3
+D5009,Evergreen Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,3,597.0,Webinars,Closed Won,CLOSED,2026-01-11,2026-02-15,35,United States,597.0,2026-02,Q1
+D5017,Granite Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-10,2026-11-11,32,United States,3600.0,2026-11,Q4
+D5018,Cedar Therapeutics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,5,500.0,Inside Sales,Closed Won,CLOSED,2026-09-30,2026-10-13,13,United States,500.0,2026-10,Q4
+D5019,Lakeshore University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,3,3240.0,Referral/Other,Closed Won,CLOSED,2026-04-25,2026-05-29,34,United States,3240.0,2026-05,Q2
+D5022,Evergreen University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,750.0,Inbound Organic,Closed Won,CLOSED,2026-04-16,2026-06-12,57,Europe,750.0,2026-06,Q2
+D5024,Lakeshore Biologics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,1,1200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-02,2026-10-23,21,Europe,1200.0,2026-10,Q4
+D5031,Northbridge Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,2700.0,Large Conferences,Closed Won,CLOSED,2026-02-22,2026-04-20,57,United States,2700.0,2026-04,Q2
+D5033,Atlas Biologics - Custom Project,Avery Stone,Custom projects,Custom Project,1,120000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-17,2026-06-11,25,Canada,120000.0,2026-06,Q2
+D5038,Meridian University - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,4,380.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-10,2026-05-29,19,United States,380.0,2026-05,Q2
+D5039,Lakeshore Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,3,270.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-09,2026-01-15,6,United States,270.0,2026-01,Q1
+D5040,Harbor Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-17,2026-04-08,22,United States,600.0,2026-04,Q2
+D5045,Atlas Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,570.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-08,2026-06-11,34,Asia,570.0,2026-06,Q2
+D5046,Willow Research Labs - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,4,2400.0,Inbound Organic,Closed Won,CLOSED,2026-01-29,2026-02-25,27,Canada,2400.0,2026-02,Q1
+D5055,Atlas Therapeutics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,3,567.15,Launch Campaigns,Closed Won,CLOSED,2026-07-03,2026-08-13,41,United States,567.15,2026-08,Q3
+D5056,Harbor Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,4,4560.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-24,2026-08-25,32,United States,4560.0,2026-08,Q3
+D5059,Cedar Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-23,2026-08-05,43,United States,1800.0,2026-08,Q3
+D5060,Atlas Research Labs - Custom Project,Avery Stone,Custom projects,Custom Project,1,120000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-10,2026-07-01,21,Europe,120000.0,2026-07,Q3
+D5061,Lakeshore Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,3000.0,Launch Campaigns,Closed Won,CLOSED,2026-04-28,2026-05-26,28,United States,3000.0,2026-05,Q2
+D5065,Lakeshore Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,3,597.0,Webinars,Closed Won,CLOSED,2026-03-30,2026-04-30,31,United States,597.0,2026-04,Q2
+D5067,Evergreen Therapeutics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,2,378.1,Inside Sales,Closed Won,CLOSED,2026-10-22,2026-11-11,20,United States,378.1,2026-11,Q4
+D5070,Cedar Biologics - Media Kit D,Casey Lund,Catalogue products,Media Kit D,4,1080.0,Referral/Other,Closed Won,CLOSED,2026-06-15,2026-06-18,3,United States,1080.0,2026-06,Q2
+D5071,Atlas University - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,7,4987.5,Field Sales Prospecting,Closed Won,CLOSED,2026-08-09,2026-09-07,29,Canada,4987.5,2026-09,Q3
+D5073,Atlas Therapeutics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,5,500.0,Referral/Other,Closed Won,CLOSED,2026-03-29,2026-04-21,23,United States,500.0,2026-04,Q2
+D5078,Ridgeway Therapeutics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2250.0,Inside Sales,Closed Won,CLOSED,2026-10-28,2026-11-20,23,Europe,2250.0,2026-11,Q4
+D5081,Ridgeway Research Labs - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,4,4800.0,Webinars,Closed Won,CLOSED,2026-02-10,2026-03-11,29,Canada,4800.0,2026-03,Q1
+D5088,Meridian Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,5,2850.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-03,2026-07-29,26,United States,2850.0,2026-07,Q3
+D5089,Northbridge Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,750.0,Large Conferences,Closed Won,CLOSED,2026-04-21,2026-06-05,45,United States,750.0,2026-06,Q2
+D5090,Evergreen Biologics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,600.0,Inside Sales,Closed Won,CLOSED,2026-10-21,2026-12-06,46,United States,600.0,2026-12,Q4
+D5093,Granite Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,1,570.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-13,2026-10-01,49,United States,570.0,2026-10,Q4
+D5097,Cedar Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,5,1215.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-25,2026-07-28,33,United States,1215.0,2026-07,Q3
+D5099,Cedar Research Labs - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,600.0,Referral/Other,Closed Won,CLOSED,2026-10-18,2026-11-13,26,United States,600.0,2026-11,Q4
+D5100,Granite Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,7,4725.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-02,2026-09-29,58,United States,4725.0,2026-09,Q3
+D5102,Summit Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,,8,1432.8,Field Sales Prospecting,Closed Won,CLOSED,2026-01-23,2026-02-22,30,United States,1432.8,2026-02,Q1
+D5103,Summit Research Labs - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,8,1432.8,Field Sales Prospecting,Closed Won,CLOSED,2026-07-21,2026-08-26,36,United States,1432.8,2026-08,Q3
+D5111,Ridgeway University - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,4,380.0,Inbound Organic,Closed Won,CLOSED,2026-08-10,2026-09-08,29,Canada,380.0,2026-09,Q3
+D5114,Bluestone Research Labs - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,8,1592.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-28,2026-11-25,28,United States,1592.0,2026-11,Q4
+D5118,Granite Research Labs - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,3,1710.0,Inbound Organic,Closed Won,CLOSED,2026-05-22,2026-07-07,46,United States,1710.0,2026-07,Q3
+D5119,Bluestone Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4560.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-27,2026-06-05,39,United States,4560.0,2026-06,Q2
+D5126,Willow Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,5,3750.0,Launch Campaigns,Closed Won,CLOSED,2026-09-08,2026-10-07,29,United States,3750.0,2026-10,Q4
+D5127,Granite Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,7,3780.0,Referral/Other,Closed Won,CLOSED,2026-06-23,2026-07-30,37,United States,3780.0,2026-07,Q3
+D5128,Summit Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-15,2026-08-14,30,United States,3000.0,2026-08,Q3
+D5131,Willow University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1080.0,Webinars,Closed Won,CLOSED,2026-02-21,2026-04-13,51,United States,1080.0,2026-04,Q2
+D5133,Meridian Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,2,200.0,Inbound Organic,Closed Won,CLOSED,2026-03-31,2026-04-29,29,United States,200.0,2026-04,Q2
+D5135,Harbor Research Labs - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,8,800.0,Large Conferences,Closed Won,CLOSED,2026-07-01,2026-08-15,45,United States,800.0,2026-08,Q3
+D5136,Atlas Therapeutics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,8,1432.8,Large Conferences,Closed Won,CLOSED,2026-10-15,2026-12-19,65,United States,1432.8,2026-12,Q4
+D5140,Granite Therapeutics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,2,486.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-28,2026-10-22,24,Europe,486.0,2026-10,Q4
+D5145,Bluestone Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-13,2026-07-12,29,United States,3000.0,2026-07,Q3
+D5146,Cedar Research Labs - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,2,200.0,Inbound Organic,Closed Won,CLOSED,2026-07-27,2026-08-22,26,United States,200.0,2026-08,Q3
+D5153,Evergreen Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,3,1800.0,Large Conferences,Closed Won,CLOSED,2026-05-23,2026-07-04,42,United States,1800.0,2026-07,Q3
+D5154,Lakeshore Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,1,600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-23,2026-09-05,44,Europe,600.0,2026-09,Q3
+D5155,Evergreen University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,2,1350.0,Webinars,Closed Won,CLOSED,2026-01-19,2026-02-12,24,United States,1350.0,2026-02,Q1
+D5160,Bluestone University - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,1,1200.0,Inside Sales,Closed Won,CLOSED,2026-07-26,2026-08-31,36,United States,1200.0,2026-08,Q3
+D5161,Northbridge Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,2,540.0,Webinars,Closed Won,CLOSED,2026-09-16,2026-09-28,12,United States,540.0,2026-09,Q3
+D5162,Granite Therapeutics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,8,9600.0,Large Conferences,Closed Won,CLOSED,2026-08-15,2026-10-06,52,United States,9600.0,2026-10,Q4
+D5166,Evergreen University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,8,6000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-21,2026-12-07,47,United States,6000.0,2026-12,Q4
+D5168,Granite Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,3000.0,Inside Sales,Closed Won,CLOSED,2026-01-07,2026-03-03,55,United States,3000.0,2026-03,Q1
+D5169,Summit University - Custom Project,Jordan Pike,Custom projects,Custom Project,1,180000.0,Inside Sales,Closed Won,CLOSED,2026-09-08,2026-09-27,19,Europe,180000.0,2026-09,Q3
+D5170,Harbor Biologics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,8,9120.0,Referral/Other,Closed Won,CLOSED,2026-03-17,2026-05-06,50,United States,9120.0,2026-05,Q2
+D5171,Summit Institute - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,8,1512.4,Large Conferences,Closed Won,CLOSED,2026-03-15,2026-04-28,44,United States,1512.4,2026-04,Q2
+D5173,Evergreen Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,2,1425.0,Webinars,Closed Won,CLOSED,2026-07-13,2026-08-24,42,United States,1425.0,2026-08,Q3
+D5176,Summit Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,2,486.0,Large Conferences,Closed Won,CLOSED,2026-01-07,2026-02-10,34,United States,486.0,2026-02,Q1
+D5183,Meridian Research Labs - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,3,300.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-21,2026-05-26,35,United States,300.0,2026-05,Q2
+D5185,Willow Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,6,3420.0,Referral/Other,Closed Won,CLOSED,2026-10-11,2026-11-18,38,United States,3420.0,2026-11,Q4
+D5188,Atlas University - Media Kit D,Avery Stone,Catalogue products,Media Kit D,2,486.0,Referral/Other,Closed Won,CLOSED,2026-09-14,2026-10-14,30,United States,486.0,2026-10,Q4
+D5191,Ridgeway Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,360.0,Referral/Other,Closed Won,CLOSED,2026-05-15,2026-06-02,18,Canada,360.0,2026-06,Q2
+D5192,Lakeshore Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,3,810.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-31,2026-03-13,41,United States,810.0,2026-03,Q1
+D5194,Meridian University - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,1,179.1,Field Sales Prospecting,Closed Won,CLOSED,2026-09-08,2026-10-16,38,United States,179.1,2026-10,Q4
+D5198,Cedar University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,7,5250.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-22,2026-10-17,56,United States,5250.0,2026-10,Q4
+D5199,Summit Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,1,270.0,Referral/Other,Closed Won,CLOSED,2026-02-05,2026-03-13,36,United States,270.0,2026-03,Q1
+D5205,Harbor Biologics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,400.0,Large Conferences,Closed Won,CLOSED,2026-05-27,2026-06-11,15,United States,400.0,2026-06,Q2
+D5211,Meridian Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,6,1458.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-04,2026-11-16,43,United States,1458.0,2026-11,Q4
+D5213,Harbor Institute - Media Kit D,Avery Stone,Catalogue products,Media Kit D,6,1539.0,Referral/Other,Closed Won,CLOSED,2026-05-25,2026-07-06,42,United States,1539.0,2026-07,Q3
+D5214,Evergreen Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4320.0,Referral/Other,Closed Won,CLOSED,2026-06-05,2026-07-27,52,Europe,4320.0,2026-07,Q3
+D5217,Meridian Therapeutics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,6,7200.0,Inbound Organic,Closed Won,CLOSED,2026-09-04,2026-10-23,49,United States,7200.0,2026-10,Q4
+D5218,Northbridge Institute - Media Kit C,Avery Stone,Catalogue products,Media Kit C,3,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-10,2026-10-17,37,United States,3600.0,2026-10,Q4
+D5221,Meridian Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3240.0,Large Conferences,Closed Won,CLOSED,2026-05-26,2026-06-20,25,United States,3240.0,2026-06,Q2
+D5229,Summit Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,2700.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-13,2026-08-18,36,United States,2700.0,2026-08,Q3
+D5231,Harbor Institute - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-21,2026-11-20,30,United States,3000.0,2026-11,Q4
+D5232,Willow Biologics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,8,9600.0,Large Conferences,Closed Won,CLOSED,2026-08-06,2026-09-20,45,Canada,9600.0,2026-09,Q3
+D5233,Granite Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,1,675.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-19,2026-10-19,30,United States,675.0,2026-10,Q4
+D5239,Lakeshore Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,7,1393.0,Inside Sales,Closed Won,CLOSED,2026-05-23,2026-06-11,19,United States,1393.0,2026-06,Q2
+D5240,Atlas University - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,6,3240.0,Large Conferences,Closed Won,CLOSED,2026-07-31,2026-08-26,26,United States,3240.0,2026-08,Q3
+D5249,Cedar Institute - Media Kit D,Avery Stone,Catalogue products,Media Kit D,6,1620.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-29,2026-08-21,53,United States,1620.0,2026-08,Q3
+D5250,Northbridge Biologics - Media Kit D,Casey Lund,Catalogue products,Media Kit D,7,1890.0,Webinars,Closed Won,CLOSED,2026-06-23,2026-07-21,28,United States,1890.0,2026-07,Q3
+D5251,Harbor Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,3780.0,Referral/Other,Closed Won,CLOSED,2026-07-31,2026-08-19,19,United States,3780.0,2026-08,Q3
+D5254,Atlas Institute - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,1,199.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-22,2026-10-24,32,United States,199.0,2026-10,Q4
+D5273,Meridian University - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,1,1080.0,Launch Campaigns,Closed Won,CLOSED,2026-06-29,2026-08-08,40,United States,1080.0,2026-08,Q3
+D5274,Summit Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2160.0,Large Conferences,Closed Won,CLOSED,2026-04-11,2026-05-12,31,United States,2160.0,2026-05,Q2
+D5275,Ridgeway Institute - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,4,400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-15,2026-10-12,58,United States,400.0,2026-10,Q4
+D5276,Willow Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,6,3240.0,Large Conferences,Closed Won,CLOSED,2026-07-02,2026-08-03,32,United States,3240.0,2026-08,Q3
+D5278,Summit Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,4,360.0,Inside Sales,Closed Won,CLOSED,2026-06-13,2026-08-06,54,United States,360.0,2026-08,Q3
+D5279,Cedar Biologics - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,5,895.5,Field Sales Prospecting,Closed Won,CLOSED,2026-04-23,2026-05-31,38,United States,895.5,2026-05,Q2
+D5282,Granite Research Labs - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,8,1512.4,Launch Campaigns,Closed Won,CLOSED,2026-03-16,2026-04-22,37,United States,1512.4,2026-04,Q2
+D5285,Evergreen Therapeutics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,8,720.0,Referral/Other,Closed Won,CLOSED,2026-03-08,2026-03-30,22,United States,720.0,2026-03,Q1
+D5286,Bluestone Research Labs - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,5,3562.5,Large Conferences,Closed Won,CLOSED,2026-09-23,2026-10-22,29,United States,3562.5,2026-10,Q4
+D5287,Harbor Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,2,1500.0,Inbound Organic,Closed Won,CLOSED,2026-03-23,2026-05-04,42,United States,1500.0,2026-05,Q2
+D5289,Bluestone Research Labs - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,1,675.0,Inbound Organic,Closed Won,CLOSED,2026-03-24,2026-04-16,23,Asia,675.0,2026-04,Q2
+D5292,Lakeshore Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,6,600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-18,2026-08-26,39,United States,600.0,2026-08,Q3
+D5298,Lakeshore Research Labs - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,1,100.0,Large Conferences,Closed Won,CLOSED,2026-08-20,2026-09-26,37,United States,100.0,2026-09,Q3
+D5304,Willow Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,5,1215.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-27,2026-11-29,33,United States,1215.0,2026-11,Q4
+D5306,Lakeshore Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,6,1620.0,Large Conferences,Closed Won,CLOSED,2026-09-25,2026-10-20,25,United States,1620.0,2026-10,Q4
+D5307,Cedar University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,4,2280.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-14,2026-05-22,38,Canada,2280.0,2026-05,Q2
+D5311,Evergreen Institute - Media Kit D,Avery Stone,Catalogue products,Media Kit D,8,1944.0,Referral/Other,Closed Won,CLOSED,2026-10-18,2026-11-23,36,United States,1944.0,2026-11,Q4
+D5318,Evergreen Therapeutics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,3,300.0,Launch Campaigns,Closed Won,CLOSED,2026-05-22,2026-06-07,16,United States,300.0,2026-06,Q2
+D5319,Cedar Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,6,1134.3,Referral/Other,Closed Won,CLOSED,2026-02-10,2026-03-17,35,United States,1134.3,2026-03,Q1
+D5321,Harbor Institute - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,8,5400.0,Large Conferences,Closed Won,CLOSED,2026-04-12,2026-05-06,24,United States,5400.0,2026-05,Q2
+D5329,Summit Biologics - Media Kit D,Casey Lund,Catalogue products,Media Kit D,7,1890.0,Referral/Other,Closed Won,CLOSED,2026-08-24,2026-09-14,21,United States,1890.0,2026-09,Q3
+D5331,Willow Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,7,665.0,Webinars,Closed Won,CLOSED,2026-09-04,2026-10-03,29,Europe,665.0,2026-10,Q4
+D5334,Northbridge Biologics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,5,5700.0,Webinars,Closed Won,CLOSED,2026-01-16,2026-02-08,23,United States,5700.0,2026-02,Q1
+D5342,Willow Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1800.0,Referral/Other,Closed Won,CLOSED,2026-04-08,2026-04-15,7,United States,1800.0,2026-04,Q2
+D5344,Summit Biologics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,5,5400.0,Launch Campaigns,Closed Won,CLOSED,2026-04-01,2026-05-13,42,United States,5400.0,2026-05,Q2
+D5346,Meridian University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,2850.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-06,2026-05-22,46,United States,2850.0,2026-05,Q2
+D5349,Meridian Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,1,570.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-15,2026-11-29,45,United States,570.0,2026-11,Q4
+D5356,Evergreen Research Labs - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,3,300.0,Large Conferences,Closed Won,CLOSED,2026-02-11,2026-03-29,46,United States,300.0,2026-03,Q1
+D5361,Granite Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1620.0,Referral/Other,Closed Won,CLOSED,2026-04-08,2026-05-15,37,United States,1620.0,2026-05,Q2
+D5363,Harbor Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,270.0,Large Conferences,Closed Won,CLOSED,2026-07-03,2026-08-03,31,Europe,270.0,2026-08,Q3
+D5369,Northbridge Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,3,3600.0,Launch Campaigns,Closed Won,CLOSED,2026-06-08,2026-08-05,58,United States,3600.0,2026-08,Q3
+D5371,Harbor Therapeutics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,7,4725.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-09,2026-07-23,14,United States,4725.0,2026-07,Q3
+D5376,Granite Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,8,1592.0,Inbound Organic,Closed Won,CLOSED,2026-03-26,2026-04-29,34,United States,1592.0,2026-04,Q2
+D5381,Harbor Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,1,179.1,Large Conferences,Closed Won,CLOSED,2026-09-06,2026-09-17,11,United States,179.1,2026-09,Q3
+D5391,Evergreen Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,3,1800.0,Large Conferences,Closed Won,CLOSED,2026-02-03,2026-03-11,36,United States,1800.0,2026-03,Q1
+D5392,Northbridge Biologics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,450.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-27,2026-03-22,54,United States,450.0,2026-03,Q1
+D5394,Meridian Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,5,1282.5,Field Sales Prospecting,Closed Won,CLOSED,2026-05-22,2026-07-23,62,United States,1282.5,2026-07,Q3
+D5399,Cedar University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,2,2280.0,Large Conferences,Closed Won,CLOSED,2026-09-13,2026-10-06,23,United States,2280.0,2026-10,Q4
+D5401,Ridgeway Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,3780.0,Referral/Other,Closed Won,CLOSED,2026-09-24,2026-11-03,40,United States,3780.0,2026-11,Q4
+D5407,Cedar Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,1,600.0,Webinars,Closed Won,CLOSED,2026-06-02,2026-07-31,59,Europe,600.0,2026-07,Q3
+D5408,Evergreen Institute - Media Kit D,Avery Stone,Catalogue products,Media Kit D,7,1890.0,Inside Sales,Closed Won,CLOSED,2026-04-27,2026-05-18,21,Europe,1890.0,2026-05,Q2
+D5410,Bluestone Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,2,200.0,Inbound Organic,Closed Won,CLOSED,2026-06-27,2026-07-23,26,United States,200.0,2026-07,Q3
+D5420,Ridgeway Therapeutics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,1,199.0,Inside Sales,Closed Won,CLOSED,2026-01-30,2026-02-11,12,United States,199.0,2026-02,Q1
+D5424,Meridian University - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,8,5700.0,Referral/Other,Closed Won,CLOSED,2026-02-04,2026-03-13,37,United States,5700.0,2026-03,Q1
+D5426,Lakeshore Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2137.5,Field Sales Prospecting,Closed Won,CLOSED,2026-03-12,2026-03-28,16,United States,2137.5,2026-03,Q1
+D5431,Northbridge Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,8,2052.0,Launch Campaigns,Closed Won,CLOSED,2026-09-21,2026-10-25,34,United States,2052.0,2026-10,Q4
+D5433,Lakeshore Therapeutics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,8,5700.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-05,2026-08-23,18,United States,5700.0,2026-08,Q3
+D5434,Summit Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2250.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-07,2026-03-10,31,United States,2250.0,2026-03,Q1
+D5435,Cedar Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4800.0,Large Conferences,Closed Won,CLOSED,2026-07-20,2026-08-27,38,United States,4800.0,2026-08,Q3
+D5437,Harbor University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-05,2026-11-09,35,Canada,2400.0,2026-11,Q4
+D5440,Evergreen Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4560.0,Referral/Other,Closed Won,CLOSED,2026-06-23,2026-08-07,45,United States,4560.0,2026-08,Q3
+D5442,Bluestone Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2250.0,Large Conferences,Closed Won,CLOSED,2026-01-23,2026-02-28,36,United States,2250.0,2026-02,Q1
+D5458,Willow Therapeutics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,4,4320.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-28,2026-07-11,44,Europe,4320.0,2026-07,Q3
+D5460,Willow Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,1,600.0,Webinars,Closed Won,CLOSED,2026-04-17,2026-06-05,49,United States,600.0,2026-06,Q2
+D5462,Summit Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2025.0,Launch Campaigns,Closed Won,CLOSED,2026-03-30,2026-05-03,34,United States,2025.0,2026-05,Q2
+D5468,Summit Biologics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,6,4500.0,Inside Sales,Closed Won,CLOSED,2026-02-24,2026-04-01,36,United States,4500.0,2026-04,Q2
+D5469,Evergreen Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1080.0,Inside Sales,Closed Won,CLOSED,2026-03-21,2026-04-12,22,United States,1080.0,2026-04,Q2
+D5479,Harbor Biologics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,600.0,Inside Sales,Closed Won,CLOSED,2026-10-31,2026-12-18,48,United States,600.0,2026-12,Q4
+D5483,Meridian Therapeutics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,2,200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-19,2026-11-09,51,United States,200.0,2026-11,Q4
+D5485,Summit Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2250.0,Large Conferences,Closed Won,CLOSED,2026-05-16,2026-07-23,68,United States,2250.0,2026-07,Q3
+D5491,Ridgeway Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,4200.0,Webinars,Closed Won,CLOSED,2026-09-08,2026-11-03,56,United States,4200.0,2026-11,Q4
+D5494,Cedar Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,8,5400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-25,2026-10-06,42,United States,5400.0,2026-10,Q4
+D5498,Willow Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4560.0,Large Conferences,Closed Won,CLOSED,2026-10-29,2027-01-03,66,United States,4560.0,2027-01,Q1
+D5508,Willow University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,7,7980.0,Inbound Organic,Closed Won,CLOSED,2026-06-20,2026-07-17,27,United States,7980.0,2026-07,Q3
+D5515,Ridgeway University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,5,475.0,Large Conferences,Closed Won,CLOSED,2026-05-14,2026-06-17,34,United States,475.0,2026-06,Q2
+D5516,Summit Therapeutics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,2,180.0,Large Conferences,Closed Won,CLOSED,2026-01-11,2026-02-03,23,United States,180.0,2026-02,Q1
+D5517,Atlas Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,2850.0,Large Conferences,Closed Won,CLOSED,2026-01-18,2026-03-03,44,United States,2850.0,2026-03,Q1
+D5520,Cedar University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,7,700.0,Large Conferences,Closed Won,CLOSED,2026-02-15,2026-03-22,35,United States,700.0,2026-03,Q1
+D5523,Meridian University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,3780.0,Launch Campaigns,Closed Won,CLOSED,2026-10-25,2026-11-28,34,Europe,3780.0,2026-11,Q4
+D5525,Willow Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,6,1620.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-12,2026-05-13,31,Europe,1620.0,2026-05,Q2
+D5531,Evergreen Institute - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,5,1215.0,Inside Sales,Closed Won,CLOSED,2026-01-11,2026-02-17,37,United States,1215.0,2026-02,Q1
+D5538,Harbor University - Media Kit D,Avery Stone,Catalogue products,Media Kit D,3,810.0,Launch Campaigns,Closed Won,CLOSED,2026-06-05,2026-07-17,42,United States,810.0,2026-07,Q3
+D5539,Summit University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-14,2026-05-11,27,Asia,3600.0,2026-05,Q2
+D5540,Meridian Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,5,3375.0,Referral/Other,Closed Won,CLOSED,2026-03-24,2026-04-28,35,Europe,3375.0,2026-04,Q2
+D5542,Lakeshore Institute - Media Kit C,Casey Lund,Catalogue products,Media Kit C,4,4800.0,Large Conferences,Closed Won,CLOSED,2026-06-09,2026-07-14,35,Europe,4800.0,2026-07,Q3
+D5544,Ridgeway Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2400.0,Large Conferences,Closed Won,CLOSED,2026-08-18,2026-09-16,29,United States,2400.0,2026-09,Q3
+D5547,Summit Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,540.0,Webinars,Closed Won,CLOSED,2026-10-21,2026-11-17,27,United States,540.0,2026-11,Q4
+D5553,Atlas Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,2,358.2,Field Sales Prospecting,Closed Won,CLOSED,2026-03-13,2026-04-21,39,Europe,358.2,2026-04,Q2
+D5559,Northbridge University - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,1,199.0,Referral/Other,Closed Won,CLOSED,2026-01-15,2026-02-16,32,United States,199.0,2026-02,Q1
+D5561,Meridian University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,1,540.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-28,2026-08-19,22,United States,540.0,2026-08,Q3
+D5562,Summit University - Custom Project,Avery Stone,Custom projects,Custom Project,1,210000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-05,2026-10-12,37,United States,210000.0,2026-10,Q4
+D5563,Summit Therapeutics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,7,1393.0,Inside Sales,Closed Won,CLOSED,2026-08-18,2026-09-09,22,Canada,1393.0,2026-09,Q3
+D5568,Willow Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,3000.0,Large Conferences,Closed Won,CLOSED,2026-10-28,2026-12-14,47,United States,3000.0,2026-12,Q4
+D5570,Evergreen University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-01,2026-05-04,33,United States,1080.0,2026-05,Q2
+D5574,Harbor Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,2,378.1,Large Conferences,Closed Won,CLOSED,2026-04-04,2026-04-26,22,United States,378.1,2026-04,Q2
+D5577,Atlas Therapeutics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,5,5400.0,Inbound Organic,Closed Won,CLOSED,2026-01-26,2026-02-16,21,Europe,5400.0,2026-02,Q1
+D5579,Willow Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,7,1393.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-10,2026-07-18,38,Europe,1393.0,2026-07,Q3
+D5581,Cedar Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-21,2026-07-31,40,United States,3600.0,2026-07,Q3
+D5594,Granite Research Labs - Media Kit C,Casey Lund,Catalogue products,Media Kit C,4,4560.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-21,2026-04-06,44,Canada,4560.0,2026-04,Q2
+D5595,Atlas Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,8,800.0,Inside Sales,Closed Won,CLOSED,2026-07-12,2026-08-12,31,United States,800.0,2026-08,Q3
+D5609,Lakeshore Therapeutics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,5,5400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-11,2026-11-05,25,United States,5400.0,2026-11,Q4
+D5612,Summit Institute - Media Kit C,Avery Stone,Catalogue products,Media Kit C,8,9600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-05,2026-03-06,29,United States,9600.0,2026-03,Q1
+D5613,Atlas Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,2,398.0,Inbound Organic,Closed Won,CLOSED,2026-03-12,2026-04-24,43,United States,398.0,2026-04,Q2
+D5615,Summit Therapeutics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,5,3562.5,Large Conferences,Closed Won,CLOSED,2026-05-28,2026-07-18,51,Asia,3562.5,2026-07,Q3
+D5617,Willow Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2160.0,Inbound Organic,Closed Won,CLOSED,2026-04-06,2026-05-11,35,United States,2160.0,2026-05,Q2
+D5620,Cedar University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1080.0,Webinars,Closed Won,CLOSED,2026-05-24,2026-06-23,30,United States,1080.0,2026-06,Q2
+D5622,Cedar Research Labs - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,5,995.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-31,2026-10-08,38,United States,995.0,2026-10,Q4
+D5629,Willow University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,2,190.0,Inbound Organic,Closed Won,CLOSED,2026-04-23,2026-06-07,45,United States,190.0,2026-06,Q2
+D5630,Meridian Therapeutics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,2,1500.0,Referral/Other,Closed Won,CLOSED,2026-03-22,2026-04-28,37,United States,1500.0,2026-04,Q2
+D5636,Atlas University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2137.5,Field Sales Prospecting,Closed Won,CLOSED,2026-07-03,2026-07-06,3,United States,2137.5,2026-07,Q3
+D5646,Atlas Biologics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,7,700.0,Inside Sales,Closed Won,CLOSED,2026-03-09,2026-04-19,41,United States,700.0,2026-04,Q2
+D5651,Harbor Therapeutics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-19,2026-06-14,26,Europe,3000.0,2026-06,Q2
+D5654,Bluestone Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,7,1890.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-22,2026-09-14,23,Asia,1890.0,2026-09,Q3
+D5657,Atlas Institute - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,1,100.0,Webinars,Closed Won,CLOSED,2026-05-11,2026-06-03,23,United States,100.0,2026-06,Q2
+D5658,Summit University - Custom Project,Avery Stone,Custom projects,Custom Project,1,120000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-05,2026-07-03,28,United States,120000.0,2026-07,Q3
+D5660,Ridgeway Therapeutics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,8,760.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-04,2026-06-13,40,United States,760.0,2026-06,Q2
+D5664,Granite Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,6,1074.6,Referral/Other,Closed Won,CLOSED,2026-10-07,2026-11-06,30,United States,1074.6,2026-11,Q4
+D5668,Meridian Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,6,1620.0,Inside Sales,Closed Won,CLOSED,2026-04-05,2026-05-15,40,United States,1620.0,2026-05,Q2
+D5670,Granite Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,3000.0,Large Conferences,Closed Won,CLOSED,2026-08-25,2026-09-12,18,United States,3000.0,2026-09,Q3
+D5677,Harbor Research Labs - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,3,597.0,Referral/Other,Closed Won,CLOSED,2026-07-27,2026-08-07,11,United States,597.0,2026-08,Q3
+D5678,Atlas Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,3,270.0,Inside Sales,Closed Won,CLOSED,2026-03-11,2026-04-27,47,Canada,270.0,2026-04,Q2
+D5684,Atlas Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2400.0,Large Conferences,Closed Won,CLOSED,2026-07-26,2026-10-06,72,United States,2400.0,2026-10,Q4
+D5696,Bluestone Biologics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,7,700.0,Inbound Organic,Closed Won,CLOSED,2026-09-24,2026-10-22,28,United States,700.0,2026-10,Q4
+D5704,Bluestone Biologics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,6,7200.0,Referral/Other,Closed Won,CLOSED,2026-08-05,2026-09-19,45,United States,7200.0,2026-09,Q3
+D5706,Willow University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,6,6480.0,Inside Sales,Closed Won,CLOSED,2026-08-15,2026-08-31,16,United States,6480.0,2026-08,Q3
+D5707,Meridian Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,1,600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-19,2026-03-27,67,United States,600.0,2026-03,Q1
+D5709,Meridian Institute - Media Kit C,Avery Stone,Catalogue products,Media Kit C,3,3240.0,Large Conferences,Closed Won,CLOSED,2026-09-22,2026-10-12,20,United States,3240.0,2026-10,Q4
+D5712,Northbridge University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,8,1944.0,Inside Sales,Closed Won,CLOSED,2026-01-27,2026-03-08,40,United States,1944.0,2026-03,Q1
+D5718,Willow Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,3,597.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-16,2026-06-03,48,United States,597.0,2026-06,Q2
+D5720,Harbor Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,7,4200.0,Large Conferences,Closed Won,CLOSED,2026-06-07,2026-07-02,25,United States,4200.0,2026-07,Q3
+D5734,Granite University - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,5,895.5,Large Conferences,Closed Won,CLOSED,2026-03-12,2026-04-11,30,United States,895.5,2026-04,Q2
+D5735,Ridgeway Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,4,2850.0,Large Conferences,Closed Won,CLOSED,2026-07-24,2026-09-05,43,United States,2850.0,2026-09,Q3
+D5742,Willow Research Labs - Media Kit C,Casey Lund,Catalogue products,Media Kit C,1,1080.0,Large Conferences,Closed Won,CLOSED,2026-03-01,2026-03-17,16,United States,1080.0,2026-03,Q1
+D5754,Atlas Institute - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,2,1350.0,Inside Sales,Closed Won,CLOSED,2026-01-17,2026-03-04,46,United States,1350.0,2026-03,Q1
+D5755,Evergreen University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4320.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-26,2026-03-18,20,United States,4320.0,2026-03,Q1
+D5756,Evergreen Research Labs - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,2,180.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-21,2026-06-30,40,United States,180.0,2026-06,Q2
+D5759,Meridian Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3600.0,Referral/Other,Closed Won,CLOSED,2026-10-06,2026-11-01,26,United States,3600.0,2026-11,Q4
+D5763,Harbor Institute - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2025.0,Referral/Other,Closed Won,CLOSED,2026-08-19,2026-09-21,33,United States,2025.0,2026-09,Q3
+D5764,Cedar Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,6,4275.0,Launch Campaigns,Closed Won,CLOSED,2026-01-29,2026-03-22,52,United States,4275.0,2026-03,Q1
+D5768,Ridgeway University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-22,2026-12-08,47,Europe,400.0,2026-12,Q4
+D5769,Lakeshore Institute - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,7,1795.5,Field Sales Prospecting,Closed Won,CLOSED,2026-08-11,2026-09-22,42,United States,1795.5,2026-09,Q3
+D5772,Meridian Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,1,540.0,Large Conferences,Closed Won,CLOSED,2026-07-02,2026-08-01,30,United States,540.0,2026-08,Q3
+D5777,Summit Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,3,1620.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-26,2026-06-06,41,United States,1620.0,2026-06,Q2
+D5778,Ridgeway Biologics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,380.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-11,2026-09-20,40,Europe,380.0,2026-09,Q3
+D5780,Willow Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,3,597.0,Inbound Organic,Closed Won,CLOSED,2026-07-28,2026-09-04,38,United States,597.0,2026-09,Q3
+D5782,Bluestone Institute - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,4,4560.0,Inside Sales,Closed Won,CLOSED,2026-08-26,2026-09-22,27,United States,4560.0,2026-09,Q3
+D5785,Granite Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2250.0,Inside Sales,Closed Won,CLOSED,2026-04-29,2026-06-09,41,United States,2250.0,2026-06,Q2
+D5794,Bluestone Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,270.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-13,2026-04-01,47,United States,270.0,2026-04,Q2
+D5802,Harbor University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1620.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-15,2026-02-27,43,United States,1620.0,2026-02,Q1
+D5804,Atlas Biologics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,8,800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-25,2026-08-10,46,United States,800.0,2026-08,Q3
+D5813,Cedar Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2250.0,Large Conferences,Closed Won,CLOSED,2026-01-31,2026-03-16,44,United States,2250.0,2026-03,Q1
+D5823,Evergreen Research Labs - Media Kit D,Casey Lund,Catalogue products,Media Kit D,4,972.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-06,2026-08-03,28,Canada,972.0,2026-08,Q3
+D5824,Ridgeway Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,2,1350.0,Inside Sales,Closed Won,CLOSED,2026-07-29,2026-09-04,37,United States,1350.0,2026-09,Q3
+D5829,Bluestone University - Media Kit C,Casey Lund,Catalogue products,Media Kit C,1,1200.0,Inbound Organic,Closed Won,CLOSED,2026-02-08,2026-03-10,30,Canada,1200.0,2026-03,Q1
+D5830,Lakeshore Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,2,398.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-11,2026-08-14,34,United States,398.0,2026-08,Q3
+D5835,Willow Institute - Media Kit C,Avery Stone,Catalogue products,Media Kit C,5,5400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-20,2026-10-07,17,United States,5400.0,2026-10,Q4
+D5838,Summit Therapeutics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,5,3750.0,Referral/Other,Closed Won,CLOSED,2026-06-10,2026-07-11,31,United States,3750.0,2026-07,Q3
+D5839,Meridian Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,4,2400.0,Inside Sales,Closed Won,CLOSED,2026-08-10,2026-09-25,46,United States,2400.0,2026-09,Q3
+D5848,Lakeshore Therapeutics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,6,4500.0,Inbound Organic,Closed Won,CLOSED,2026-07-21,2026-08-28,38,United States,4500.0,2026-08,Q3
+D5849,Northbridge University - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,3,597.0,Large Conferences,Closed Won,CLOSED,2026-07-18,2026-08-16,29,United States,597.0,2026-08,Q3
+D5851,Harbor Therapeutics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,3,729.0,Inbound Organic,Closed Won,CLOSED,2026-07-09,2026-08-09,31,United States,729.0,2026-08,Q3
+D5855,Lakeshore University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,712.5,Launch Campaigns,Closed Won,CLOSED,2026-08-03,2026-08-31,28,Asia,712.5,2026-08,Q3
+D5857,Summit Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,5,995.0,Referral/Other,Closed Won,CLOSED,2026-02-24,2026-04-17,52,Europe,995.0,2026-04,Q2
+D5860,Lakeshore University - Media Kit D,Casey Lund,Catalogue products,Media Kit D,3,810.0,Launch Campaigns,Closed Won,CLOSED,2026-01-24,2026-03-04,39,Canada,810.0,2026-03,Q1
+D5871,Northbridge Institute - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,6,4050.0,Referral/Other,Closed Won,CLOSED,2026-01-06,2026-02-13,38,Canada,4050.0,2026-02,Q1
+D5876,Willow Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,256.5,Field Sales Prospecting,Closed Won,CLOSED,2026-09-29,2026-11-05,37,United States,256.5,2026-11,Q4
+D5880,Evergreen Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,5,1215.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-11,2026-08-09,29,Canada,1215.0,2026-08,Q3
+D5881,Harbor University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3240.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-21,2026-03-23,30,United States,3240.0,2026-03,Q1
+D5885,Bluestone Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2025.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-15,2026-09-20,36,United States,2025.0,2026-09,Q3
+D5886,Willow University - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,5,3375.0,Large Conferences,Closed Won,CLOSED,2026-10-30,2026-11-15,16,United States,3375.0,2026-11,Q4
+D5888,Summit University - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,1,199.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-23,2026-05-18,25,United States,199.0,2026-05,Q2
+D5889,Willow University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-04,2026-08-28,55,United States,4800.0,2026-08,Q3
+D5891,Evergreen Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,6,6480.0,Inside Sales,Closed Won,CLOSED,2026-08-11,2026-09-11,31,United States,6480.0,2026-09,Q3
+D5893,Summit Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1200.0,Large Conferences,Closed Won,CLOSED,2026-03-24,2026-05-22,59,United States,1200.0,2026-05,Q2
+D5894,Cedar Institute - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,7,1393.0,Large Conferences,Closed Won,CLOSED,2026-04-14,2026-05-19,35,United States,1393.0,2026-05,Q2
+D5901,Lakeshore Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,4,716.4,Field Sales Prospecting,Closed Won,CLOSED,2026-04-19,2026-05-12,23,United States,716.4,2026-05,Q2
+D5902,Cedar University - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,4,2700.0,Inbound Organic,Closed Won,CLOSED,2026-06-17,2026-07-01,14,United States,2700.0,2026-07,Q3
+D5915,Northbridge Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,4,400.0,Inbound Organic,Closed Won,CLOSED,2026-09-15,2026-09-29,14,United States,400.0,2026-09,Q3
+D5917,Meridian Institute - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,6,4500.0,Inbound Organic,Closed Won,CLOSED,2026-02-01,2026-03-27,54,United States,4500.0,2026-03,Q1
+D5920,Bluestone University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4320.0,Webinars,Closed Won,CLOSED,2026-10-06,2026-11-25,50,Europe,4320.0,2026-11,Q4
+D5922,Evergreen Therapeutics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,7,5250.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-03,2026-10-14,41,United States,5250.0,2026-10,Q4
+D5926,Ridgeway Research Labs - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,7,665.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-24,2026-12-14,51,United States,665.0,2026-12,Q4
+D5927,Granite Biologics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,500.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-23,2026-08-16,24,United States,500.0,2026-08,Q3
+D5928,Lakeshore Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-09,2026-03-05,24,United States,1200.0,2026-03,Q1
+D5929,Ridgeway Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,3,537.3,Webinars,Closed Won,CLOSED,2026-03-27,2026-05-05,39,United States,537.3,2026-05,Q2
+D5933,Meridian University - Media Kit D,Casey Lund,Catalogue products,Media Kit D,4,1080.0,Webinars,Closed Won,CLOSED,2026-04-21,2026-06-19,59,Europe,1080.0,2026-06,Q2
+D5934,Bluestone Research Labs - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,3,3600.0,Inbound Organic,Closed Won,CLOSED,2026-01-06,2026-02-11,36,United States,3600.0,2026-02,Q1
+D5940,Lakeshore University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,6,600.0,Launch Campaigns,Closed Won,CLOSED,2026-04-26,2026-06-09,44,United States,600.0,2026-06,Q2
+D5942,Ridgeway Biologics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,6,7200.0,Referral/Other,Closed Won,CLOSED,2026-09-22,2026-10-24,32,United States,7200.0,2026-10,Q4
+D5948,Summit University - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,4,2400.0,Large Conferences,Closed Won,CLOSED,2026-06-08,2026-07-05,27,United States,2400.0,2026-07,Q3
+D5952,Granite Therapeutics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,2,1500.0,Referral/Other,Closed Won,CLOSED,2026-01-10,2026-02-14,35,Asia,1500.0,2026-02,Q1
+D5962,Summit Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,7,1890.0,Large Conferences,Closed Won,CLOSED,2026-07-06,2026-07-25,19,Europe,1890.0,2026-07,Q3
+D5965,Summit Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,6,1194.0,Inbound Organic,Closed Won,CLOSED,2026-07-25,2026-09-01,38,Asia,1194.0,2026-09,Q3
+D5969,Ridgeway Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,3,729.0,Inside Sales,Closed Won,CLOSED,2026-05-11,2026-06-23,43,United States,729.0,2026-06,Q2
+D5971,Evergreen Biologics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,450.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-27,2026-09-10,45,Europe,450.0,2026-09,Q3
+D5980,Atlas University - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,8,1592.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-05,2026-04-09,35,Europe,1592.0,2026-04,Q2
+D5983,Bluestone Research Labs - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,8,1592.0,Inbound Organic,Closed Won,CLOSED,2026-09-20,2026-10-24,34,Europe,1592.0,2026-10,Q4
+D5984,Summit Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2137.5,Referral/Other,Closed Won,CLOSED,2026-08-12,2026-09-05,24,United States,2137.5,2026-09,Q3
+D5990,Bluestone Therapeutics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,7,7560.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-07,2026-06-10,34,United States,7560.0,2026-06,Q2
+D5992,Harbor University - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,5,895.5,Field Sales Prospecting,Closed Won,CLOSED,2026-06-19,2026-08-03,45,United States,895.5,2026-08,Q3
+D5999,Granite Therapeutics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,7,700.0,Large Conferences,Closed Won,CLOSED,2026-10-15,2026-11-05,21,Europe,700.0,2026-11,Q4
+D6004,Evergreen University - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,2,1200.0,Inbound Organic,Closed Won,CLOSED,2026-02-22,2026-04-12,49,United States,1200.0,2026-04,Q2
+D6008,Evergreen Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,8,5700.0,Inbound Organic,Closed Won,CLOSED,2026-07-17,2026-08-29,43,United States,5700.0,2026-08,Q3
+D6009,Lakeshore University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4800.0,Webinars,Closed Won,CLOSED,2026-05-25,2026-06-21,27,United States,4800.0,2026-06,Q2
+D6019,Bluestone University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,4200.0,Referral/Other,Closed Won,CLOSED,2026-05-01,2026-05-25,24,United States,4200.0,2026-05,Q2
+D6023,Ridgeway Therapeutics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,5,995.0,Referral/Other,Closed Won,CLOSED,2026-01-28,2026-03-06,37,United States,995.0,2026-03,Q1
+D6024,Harbor Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,6,6840.0,Webinars,Closed Won,CLOSED,2026-08-27,2026-10-09,43,United States,6840.0,2026-10,Q4
+D6035,Ridgeway Therapeutics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,7,8400.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-20,2026-09-06,48,United States,8400.0,2026-09,Q3
+D6042,Lakeshore Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,6,600.0,Large Conferences,Closed Won,CLOSED,2026-04-12,2026-05-15,33,United States,600.0,2026-05,Q2
+D6047,Summit Research Labs - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,360.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-08,2026-02-17,40,United States,360.0,2026-02,Q1
+D6048,Bluestone Institute - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,5,3000.0,Launch Campaigns,Closed Won,CLOSED,2026-03-03,2026-03-29,26,Europe,3000.0,2026-03,Q1
+D6057,Ridgeway Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,3780.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-25,2026-02-21,27,Canada,3780.0,2026-02,Q1
+D6061,Harbor University - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,1,675.0,Inbound Organic,Closed Won,CLOSED,2026-03-19,2026-05-03,45,Europe,675.0,2026-05,Q2
+D6064,Harbor Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,6,4500.0,Launch Campaigns,Closed Won,CLOSED,2026-09-23,2026-10-08,15,United States,4500.0,2026-10,Q4
+D6071,Atlas Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,3780.0,Inbound Organic,Closed Won,CLOSED,2026-05-16,2026-07-01,46,United States,3780.0,2026-07,Q3
+D6074,Meridian Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,6,4275.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-24,2026-06-13,50,Asia,4275.0,2026-06,Q2
+D6076,Bluestone Institute - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,6,4275.0,Large Conferences,Closed Won,CLOSED,2026-09-03,2026-10-24,51,United States,4275.0,2026-10,Q4
+D6080,Cedar Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,7,1701.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-20,2026-06-04,45,United States,1701.0,2026-06,Q2
+D6087,Meridian University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,8,720.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-15,2026-03-03,16,United States,720.0,2026-03,Q1
+D6090,Willow Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,5,475.0,Inbound Organic,Closed Won,CLOSED,2026-10-28,2026-11-30,33,United States,475.0,2026-11,Q4
+D6094,Ridgeway University - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,3,270.0,Large Conferences,Closed Won,CLOSED,2026-04-01,2026-05-18,47,United States,270.0,2026-05,Q2
+D6097,Atlas Therapeutics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,7,700.0,Referral/Other,Closed Won,CLOSED,2026-08-14,2026-09-24,41,United States,700.0,2026-09,Q3
+D6102,Atlas Therapeutics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,1,189.05,Field Sales Prospecting,Closed Won,CLOSED,2026-06-27,2026-08-10,44,United States,189.05,2026-08,Q3
+D6112,Northbridge Biologics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,2,1500.0,Referral/Other,Closed Won,CLOSED,2026-04-02,2026-04-22,20,United States,1500.0,2026-04,Q2
+D6116,Atlas Research Labs - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,1,100.0,Inbound Organic,Closed Won,CLOSED,2026-08-02,2026-09-05,34,United States,100.0,2026-09,Q3
+D6117,Bluestone Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3600.0,Inside Sales,Closed Won,CLOSED,2026-04-24,2026-05-25,31,United States,3600.0,2026-05,Q2
+D6122,Harbor Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,2,540.0,Launch Campaigns,Closed Won,CLOSED,2026-09-04,2026-10-14,40,United States,540.0,2026-10,Q4
+D6126,Willow University - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,8,760.0,Referral/Other,Closed Won,CLOSED,2026-02-04,2026-03-02,26,United States,760.0,2026-03,Q1
+D6133,Ridgeway Research Labs - Media Kit C,Casey Lund,Catalogue products,Media Kit C,6,7200.0,Inbound Organic,Closed Won,CLOSED,2026-09-29,2026-10-08,9,Canada,7200.0,2026-10,Q4
+D6149,Summit Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,2,1200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-06,2026-10-07,62,Canada,1200.0,2026-10,Q4
+D6154,Meridian Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1200.0,Inside Sales,Closed Won,CLOSED,2026-10-16,2026-11-08,23,United States,1200.0,2026-11,Q4
+D6156,Summit Research Labs - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,1,189.05,Webinars,Closed Won,CLOSED,2026-05-20,2026-07-14,55,United States,189.05,2026-07,Q3
+D6161,Northbridge Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1800.0,Large Conferences,Closed Won,CLOSED,2026-06-03,2026-06-21,18,Europe,1800.0,2026-06,Q2
+D6162,Lakeshore Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,4,380.0,Inbound Organic,Closed Won,CLOSED,2026-08-20,2026-09-27,38,United States,380.0,2026-09,Q3
+D6163,Bluestone University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,2,540.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-30,2026-08-14,45,United States,540.0,2026-08,Q3
+D6166,Lakeshore Research Labs - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,500.0,Referral/Other,Closed Won,CLOSED,2026-06-24,2026-08-25,62,United States,500.0,2026-08,Q3
+D6168,Lakeshore Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4800.0,Referral/Other,Closed Won,CLOSED,2026-07-26,2026-09-10,46,United States,4800.0,2026-09,Q3
+D6171,Granite University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,7,1890.0,Large Conferences,Closed Won,CLOSED,2026-04-24,2026-06-01,38,United States,1890.0,2026-06,Q2
+D6174,Ridgeway University - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,3,3240.0,Large Conferences,Closed Won,CLOSED,2026-03-04,2026-04-06,33,United States,3240.0,2026-04,Q2
+D6179,Meridian University - Media Kit D,Avery Stone,Catalogue products,Media Kit D,2,540.0,Large Conferences,Closed Won,CLOSED,2026-05-10,2026-06-16,37,United States,540.0,2026-06,Q2
+D6180,Atlas Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,1,600.0,Referral/Other,Closed Won,CLOSED,2026-02-10,2026-03-07,25,United States,600.0,2026-03,Q1
+D6181,Meridian University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2400.0,Inside Sales,Closed Won,CLOSED,2026-01-31,2026-03-11,39,United States,2400.0,2026-03,Q1
+D6184,Granite University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,3000.0,Inbound Organic,Closed Won,CLOSED,2026-03-01,2026-03-16,15,United States,3000.0,2026-03,Q1
+D6193,Harbor Institute - Media Kit C,Casey Lund,Catalogue products,Media Kit C,6,6480.0,Large Conferences,Closed Won,CLOSED,2026-10-26,2026-12-15,50,United States,6480.0,2026-12,Q4
+D6200,Atlas Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,256.5,Inside Sales,Closed Won,CLOSED,2026-05-18,2026-06-28,41,United States,256.5,2026-06,Q2
+D6212,Summit Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,2850.0,Inbound Organic,Closed Won,CLOSED,2026-01-19,2026-03-02,42,United States,2850.0,2026-03,Q1
+D6214,Ridgeway University - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,7,665.0,Large Conferences,Closed Won,CLOSED,2026-01-14,2026-02-14,31,United States,665.0,2026-02,Q1
+D6222,Lakeshore Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,2700.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-07,2026-03-14,35,United States,2700.0,2026-03,Q1
+D6223,Evergreen Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-19,2026-07-21,32,United States,3600.0,2026-07,Q3
+D6235,Ridgeway University - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,2,1500.0,Large Conferences,Closed Won,CLOSED,2026-10-25,2026-11-14,20,Canada,1500.0,2026-11,Q4
+D6236,Granite Therapeutics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,5,945.25,Field Sales Prospecting,Closed Won,CLOSED,2026-02-06,2026-03-02,24,Asia,945.25,2026-03,Q1
+D6242,Atlas University - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,1,90.0,Webinars,Closed Won,CLOSED,2026-03-02,2026-05-08,67,United States,90.0,2026-05,Q2
+D6247,Northbridge Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-09,2026-09-06,59,Canada,1200.0,2026-09,Q3
+D6250,Northbridge University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,7,3990.0,Webinars,Closed Won,CLOSED,2026-05-07,2026-06-13,37,United States,3990.0,2026-06,Q2
+D6251,Cedar Therapeutics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,7,1253.7,Referral/Other,Closed Won,CLOSED,2026-08-08,2026-09-18,41,United States,1253.7,2026-09,Q3
+D6252,Cedar Research Labs - Growth Medium Kit,Casey Lund,Catalogue products,Growth Medium Kit,8,1432.8,Field Sales Prospecting,Closed Won,CLOSED,2026-08-14,2026-10-29,76,United States,1432.8,2026-10,Q4
+D6255,Northbridge Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,7,4200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-21,2026-05-12,52,United States,4200.0,2026-05,Q2
+D6260,Bluestone Institute - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,3,2250.0,Webinars,Closed Won,CLOSED,2026-10-24,2026-12-09,46,United States,2250.0,2026-12,Q4
+D6261,Ridgeway Biologics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,8,800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-08,2026-06-03,56,United States,800.0,2026-06,Q2
+D6262,Granite Therapeutics - Media Kit D,Casey Lund,Catalogue products,Media Kit D,4,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-25,2026-07-28,33,United States,1080.0,2026-07,Q3
+D6264,Meridian University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1200.0,Large Conferences,Closed Won,CLOSED,2026-08-30,2026-10-22,53,United States,1200.0,2026-10,Q4
+D6269,Cedar Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,2,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-25,2026-03-29,32,United States,1080.0,2026-03,Q1
+D6272,Bluestone University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,2700.0,Large Conferences,Closed Won,CLOSED,2026-06-09,2026-07-16,37,Canada,2700.0,2026-07,Q3
+D6274,Cedar Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,6,3240.0,Inbound Organic,Closed Won,CLOSED,2026-09-13,2026-10-03,20,United States,3240.0,2026-10,Q4
+D6275,Harbor Biologics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,7,665.0,Inbound Organic,Closed Won,CLOSED,2026-07-12,2026-09-05,55,Asia,665.0,2026-09,Q3
+D6282,Lakeshore Institute - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,243.0,Large Conferences,Closed Won,CLOSED,2026-08-19,2026-09-19,31,United States,243.0,2026-09,Q3
+D6283,Bluestone Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4800.0,Large Conferences,Closed Won,CLOSED,2026-05-14,2026-05-17,3,United States,4800.0,2026-05,Q2
+D6286,Lakeshore Biologics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,2,540.0,Referral/Other,Closed Won,CLOSED,2026-06-28,2026-08-19,52,United States,540.0,2026-08,Q3
+D6289,Harbor Biologics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,2,2160.0,Large Conferences,Closed Won,CLOSED,2026-08-28,2026-09-18,21,United States,2160.0,2026-09,Q3
+D6294,Meridian Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1080.0,Large Conferences,Closed Won,CLOSED,2026-08-20,2026-09-09,20,Asia,1080.0,2026-09,Q3
+D6295,Bluestone Biologics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,8,760.0,Large Conferences,Closed Won,CLOSED,2026-08-30,2026-09-29,30,United States,760.0,2026-09,Q3
+D6300,Evergreen University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,6,1539.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-01,2026-08-22,21,United States,1539.0,2026-08,Q3
+D6304,Northbridge Institute - Media Kit C,Casey Lund,Catalogue products,Media Kit C,3,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-16,2026-11-13,28,United States,3600.0,2026-11,Q4
+D6312,Bluestone Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,1,540.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-21,2026-04-30,40,United States,540.0,2026-04,Q2
+D6314,Northbridge Research Labs - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,4,2850.0,Inbound Organic,Closed Won,CLOSED,2026-01-29,2026-02-13,15,United States,2850.0,2026-02,Q1
+D6322,Harbor Institute - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,5,3750.0,Inside Sales,Closed Won,CLOSED,2026-09-06,2026-10-15,39,United States,3750.0,2026-10,Q4
+D6324,Granite Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2160.0,Large Conferences,Closed Won,CLOSED,2026-06-21,2026-08-27,67,United States,2160.0,2026-08,Q3
+D6329,Meridian Biologics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,6,3420.0,Webinars,Closed Won,CLOSED,2026-07-29,2026-08-09,11,United States,3420.0,2026-08,Q3
+D6332,Evergreen Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2250.0,Large Conferences,Closed Won,CLOSED,2026-04-06,2026-04-30,24,United States,2250.0,2026-04,Q2
+D6336,Cedar Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1620.0,Webinars,Closed Won,CLOSED,2026-03-16,2026-04-19,34,United States,1620.0,2026-04,Q2
+D6338,Atlas Therapeutics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,7,3990.0,Large Conferences,Closed Won,CLOSED,2026-03-15,2026-04-09,25,United States,3990.0,2026-04,Q2
+D6339,Meridian Therapeutics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,5,3375.0,Large Conferences,Closed Won,CLOSED,2026-02-22,2026-02-26,4,United States,3375.0,2026-02,Q1
+D6340,Summit Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,4,2700.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-24,2026-06-27,3,United States,2700.0,2026-06,Q2
+D6342,Summit University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,7,4987.5,Field Sales Prospecting,Closed Won,CLOSED,2026-01-21,2026-03-08,46,United States,4987.5,2026-03,Q1
+D6346,Northbridge University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,3000.0,Large Conferences,Closed Won,CLOSED,2026-03-25,2026-05-05,41,United States,3000.0,2026-05,Q2
+D6348,Summit Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,4,4800.0,Launch Campaigns,Closed Won,CLOSED,2026-05-14,2026-05-27,13,United States,4800.0,2026-05,Q2
+D6349,Bluestone University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,3000.0,Large Conferences,Closed Won,CLOSED,2026-06-19,2026-07-12,23,United States,3000.0,2026-07,Q3
+D6353,Meridian Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-29,2026-11-17,19,United States,4800.0,2026-11,Q4
+D6362,Lakeshore Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,4,400.0,Inbound Organic,Closed Won,CLOSED,2026-03-31,2026-05-01,31,Europe,400.0,2026-05,Q2
+D6363,Lakeshore University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,3000.0,Inside Sales,Closed Won,CLOSED,2026-06-23,2026-07-25,32,United States,3000.0,2026-07,Q3
+D6365,Atlas University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-03,2026-08-03,61,United States,1080.0,2026-08,Q3
+D6368,Willow Institute - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,4,2400.0,Inside Sales,Closed Won,CLOSED,2026-03-11,2026-04-30,50,United States,2400.0,2026-04,Q2
+D6369,Atlas Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1800.0,Large Conferences,Closed Won,CLOSED,2026-06-19,2026-08-14,56,United States,1800.0,2026-08,Q3
+D6370,Ridgeway Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,6,1620.0,Launch Campaigns,Closed Won,CLOSED,2026-02-10,2026-03-16,34,United States,1620.0,2026-03,Q1
+D6371,Evergreen Therapeutics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,6,6840.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-29,2026-07-26,27,United States,6840.0,2026-07,Q3
+D6372,Lakeshore Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,4,2160.0,Referral/Other,Closed Won,CLOSED,2026-05-10,2026-06-26,47,United States,2160.0,2026-06,Q2
+D6373,Harbor University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,4,4560.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-22,2026-06-26,35,United States,4560.0,2026-06,Q2
+D6376,Lakeshore Institute - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,6,1074.6,Large Conferences,Closed Won,CLOSED,2026-05-15,2026-06-21,37,United States,1074.6,2026-06,Q2
+D6378,Atlas University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,2700.0,Large Conferences,Closed Won,CLOSED,2026-04-22,2026-06-14,53,United States,2700.0,2026-06,Q2
+D6381,Bluestone Therapeutics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,2,1500.0,Large Conferences,Closed Won,CLOSED,2026-10-01,2026-10-29,28,United States,1500.0,2026-10,Q4
+D6384,Lakeshore Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,4,756.2,Field Sales Prospecting,Closed Won,CLOSED,2026-02-20,2026-04-06,45,United States,756.2,2026-04,Q2
+D6387,Evergreen Institute - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,6,1194.0,Inside Sales,Closed Won,CLOSED,2026-08-15,2026-09-22,38,United States,1194.0,2026-09,Q3
+D6392,Granite Therapeutics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,4,756.2,Webinars,Closed Won,CLOSED,2026-08-08,2026-09-05,28,United States,756.2,2026-09,Q3
+D6397,Meridian University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,1,1200.0,Referral/Other,Closed Won,CLOSED,2026-08-21,2026-10-06,46,United States,1200.0,2026-10,Q4
+D6399,Harbor Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,3,300.0,Inbound Organic,Closed Won,CLOSED,2026-05-02,2026-06-13,42,Europe,300.0,2026-06,Q2
+D6410,Summit Biologics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,243.0,Launch Campaigns,Closed Won,CLOSED,2026-07-16,2026-08-21,36,United States,243.0,2026-08,Q3
+D6412,Harbor Institute - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,6,4500.0,Webinars,Closed Won,CLOSED,2026-02-13,2026-04-20,66,United States,4500.0,2026-04,Q2
+D6414,Granite Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,6,3420.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-28,2026-08-04,37,United States,3420.0,2026-08,Q3
+D6415,Bluestone University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,1,600.0,Launch Campaigns,Closed Won,CLOSED,2026-08-07,2026-09-04,28,United States,600.0,2026-09,Q3
+D6416,Ridgeway Therapeutics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,7,5250.0,Inbound Organic,Closed Won,CLOSED,2026-01-29,2026-02-26,28,United States,5250.0,2026-02,Q1
+D6428,Ridgeway Biologics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,8,6000.0,Large Conferences,Closed Won,CLOSED,2026-05-05,2026-06-09,35,Europe,6000.0,2026-06,Q2
+D6430,Cedar Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,270.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-08,2026-04-14,6,United States,270.0,2026-04,Q2
+D6434,Atlas Biologics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,4,4800.0,Inbound Organic,Closed Won,CLOSED,2026-02-13,2026-03-24,39,United States,4800.0,2026-03,Q1
+D6436,Cedar Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,600.0,Inbound Organic,Closed Won,CLOSED,2026-03-29,2026-05-04,36,United States,600.0,2026-05,Q2
+D6438,Summit Therapeutics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,3,2250.0,Large Conferences,Closed Won,CLOSED,2026-09-14,2026-10-10,26,United States,2250.0,2026-10,Q4
+D6440,Meridian Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,2850.0,Large Conferences,Closed Won,CLOSED,2026-07-30,2026-09-11,43,United States,2850.0,2026-09,Q3
+D6448,Meridian Biologics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,7,4725.0,Referral/Other,Closed Won,CLOSED,2026-05-25,2026-05-28,3,Europe,4725.0,2026-05,Q2
+D6451,Summit Institute - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,1,100.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-15,2026-05-30,15,Canada,100.0,2026-05,Q2
+D6452,Granite University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-21,2026-06-06,16,Europe,1080.0,2026-06,Q2
+D6460,Cedar University - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,8,1512.4,Inside Sales,Closed Won,CLOSED,2026-07-07,2026-07-21,14,United States,1512.4,2026-07,Q3
+D6463,Lakeshore Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1026.0,Launch Campaigns,Closed Won,CLOSED,2026-06-04,2026-07-12,38,Asia,1026.0,2026-07,Q3
+D6470,Atlas Biologics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,3,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-17,2026-04-20,34,Asia,3600.0,2026-04,Q2
+D6477,Granite University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,8,1944.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-10,2026-08-30,51,United States,1944.0,2026-08,Q3
+D6487,Willow University - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,7,1323.35,Field Sales Prospecting,Closed Won,CLOSED,2026-06-25,2026-07-24,29,United States,1323.35,2026-07,Q3
+D6488,Granite Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,3,1800.0,Inbound Organic,Closed Won,CLOSED,2026-10-22,2026-12-11,50,United States,1800.0,2026-12,Q4
+D6490,Atlas Research Labs - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,380.0,Large Conferences,Closed Won,CLOSED,2026-03-19,2026-05-15,57,United States,380.0,2026-05,Q2
+D6492,Summit Institute - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,7,3990.0,Large Conferences,Closed Won,CLOSED,2026-10-16,2026-11-20,35,United States,3990.0,2026-11,Q4
+D6495,Meridian Research Labs - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,3,300.0,Webinars,Closed Won,CLOSED,2026-07-18,2026-08-22,35,United States,300.0,2026-08,Q3
+D6498,Lakeshore University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,4,2400.0,Inbound Organic,Closed Won,CLOSED,2026-08-09,2026-09-13,35,United States,2400.0,2026-09,Q3
+D6501,Summit Institute - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,1,750.0,Large Conferences,Closed Won,CLOSED,2026-02-21,2026-04-17,55,United States,750.0,2026-04,Q2
+D6508,Bluestone Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,2700.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-30,2026-06-22,23,United States,2700.0,2026-06,Q2
+D6538,Granite Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,5,3750.0,Webinars,Closed Won,CLOSED,2026-08-13,2026-08-16,3,Europe,3750.0,2026-08,Q3
+D6542,Ridgeway University - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,4,380.0,Inside Sales,Closed Won,CLOSED,2026-06-13,2026-07-26,43,United States,380.0,2026-07,Q3
+D6545,Granite Institute - Media Kit D,Casey Lund,Catalogue products,Media Kit D,7,1701.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-17,2026-08-27,41,United States,1701.0,2026-08,Q3
+D6546,Lakeshore Research Labs - Custom Project,Jordan Pike,Custom projects,Custom Project,1,90000.0,Large Conferences,Closed Won,CLOSED,2026-07-28,2026-08-13,16,Canada,90000.0,2026-08,Q3
+D6552,Willow Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,6,4500.0,Large Conferences,Closed Won,CLOSED,2026-01-23,2026-03-18,54,Canada,4500.0,2026-03,Q1
+D6559,Lakeshore Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,6,3600.0,Large Conferences,Closed Won,CLOSED,2026-06-19,2026-08-17,59,United States,3600.0,2026-08,Q3
+D6561,Cedar Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,7,3780.0,Field Sales Prospecting,Closed Won,CLOSED,2026-02-22,2026-03-23,29,Canada,3780.0,2026-03,Q1
+D6564,Ridgeway Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,450.0,Inbound Organic,Closed Won,CLOSED,2026-01-27,2026-02-23,27,United States,450.0,2026-02,Q1
+D6568,Cedar Institute - Media Kit D,Casey Lund,Catalogue products,Media Kit D,6,1620.0,Large Conferences,Closed Won,CLOSED,2026-09-01,2026-09-08,7,United States,1620.0,2026-09,Q3
+D6572,Willow Therapeutics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,712.5,Field Sales Prospecting,Closed Won,CLOSED,2026-02-15,2026-03-03,16,Canada,712.5,2026-03,Q1
+D6580,Ridgeway Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,8,1944.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-28,2026-07-19,21,Europe,1944.0,2026-07,Q3
+D6583,Bluestone University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4320.0,Referral/Other,Closed Won,CLOSED,2026-05-08,2026-06-08,31,United States,4320.0,2026-06,Q2
+D6585,Atlas Therapeutics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,2,1140.0,Webinars,Closed Won,CLOSED,2026-02-08,2026-03-28,48,United States,1140.0,2026-03,Q1
+D6588,Harbor Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,675.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-05,2026-09-12,38,Europe,675.0,2026-09,Q3
+D6591,Summit Biologics - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,6,4500.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-02,2026-09-01,30,United States,4500.0,2026-09,Q3
+D6592,Northbridge Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,500.0,Large Conferences,Closed Won,CLOSED,2026-01-13,2026-02-09,27,United States,500.0,2026-02,Q1
+D6595,Ridgeway Institute - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,8,1944.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-26,2026-06-17,22,United States,1944.0,2026-06,Q2
+D6598,Willow University - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,6,600.0,Webinars,Closed Won,CLOSED,2026-06-13,2026-07-25,42,United States,600.0,2026-07,Q3
+D6599,Meridian Research Labs - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,2,1425.0,Referral/Other,Closed Won,CLOSED,2026-10-07,2026-11-17,41,United States,1425.0,2026-11,Q4
+D6602,Evergreen Biologics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,4,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-30,2026-03-02,31,Asia,1080.0,2026-03,Q1
+D6604,Summit Research Labs - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,8,720.0,Large Conferences,Closed Won,CLOSED,2026-07-02,2026-08-17,46,United States,720.0,2026-08,Q3
+D6610,Northbridge Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,2,1200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-26,2026-11-24,29,United States,1200.0,2026-11,Q4
+D6618,Ridgeway Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,2,540.0,Referral/Other,Closed Won,CLOSED,2026-04-21,2026-05-19,28,United States,540.0,2026-05,Q2
+D6619,Lakeshore Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,5,1282.5,Field Sales Prospecting,Closed Won,CLOSED,2026-03-04,2026-03-29,25,United States,1282.5,2026-03,Q1
+D6620,Evergreen Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,3,1620.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-27,2026-08-05,39,United States,1620.0,2026-08,Q3
+D6621,Evergreen Institute - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4800.0,Inbound Organic,Closed Won,CLOSED,2026-06-10,2026-07-15,35,United States,4800.0,2026-07,Q3
+D6623,Northbridge Research Labs - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,1,100.0,Inbound Organic,Closed Won,CLOSED,2026-05-02,2026-05-12,10,United States,100.0,2026-05,Q2
+D6643,Lakeshore Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4560.0,Referral/Other,Closed Won,CLOSED,2026-09-12,2026-10-12,30,United States,4560.0,2026-10,Q4
+D6646,Evergreen University - Media Kit D,Casey Lund,Catalogue products,Media Kit D,7,1890.0,Large Conferences,Closed Won,CLOSED,2026-01-26,2026-02-26,31,United States,1890.0,2026-02,Q1
+D6654,Cedar Therapeutics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,7,1323.35,Field Sales Prospecting,Closed Won,CLOSED,2026-03-06,2026-04-20,45,United States,1323.35,2026-04,Q2
+D6658,Meridian Therapeutics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1080.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-11,2026-05-13,32,United States,1080.0,2026-05,Q2
+D6659,Granite Biologics - Media Kit C,Avery Stone,Catalogue products,Media Kit C,6,7200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-28,2026-07-18,51,United States,7200.0,2026-07,Q3
+D6660,Northbridge Therapeutics - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,5,450.0,Webinars,Closed Won,CLOSED,2026-04-22,2026-05-24,32,Europe,450.0,2026-05,Q2
+D6661,Cedar Therapeutics - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,5,3750.0,Inside Sales,Closed Won,CLOSED,2026-06-03,2026-07-06,33,United States,3750.0,2026-07,Q3
+D6666,Harbor University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,8,4800.0,Launch Campaigns,Closed Won,CLOSED,2026-06-10,2026-07-09,29,United States,4800.0,2026-07,Q3
+D6673,Meridian Institute - Media Kit C,Avery Stone,Catalogue products,Media Kit C,5,6000.0,Inbound Organic,Closed Won,CLOSED,2026-06-21,2026-08-05,45,Canada,6000.0,2026-08,Q3
+D6680,Bluestone Biologics - Media Kit C,Casey Lund,Catalogue products,Media Kit C,4,4800.0,Large Conferences,Closed Won,CLOSED,2026-09-08,2026-10-11,33,Asia,4800.0,2026-10,Q4
+D6681,Granite Biologics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,4,1026.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-17,2026-02-23,37,United States,1026.0,2026-02,Q1
+D6686,Cedar University - Media Kit C,Avery Stone,Catalogue products,Media Kit C,6,6480.0,Inbound Organic,Closed Won,CLOSED,2026-06-30,2026-07-30,30,United States,6480.0,2026-07,Q3
+D6688,Cedar Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,1,600.0,Referral/Other,Closed Won,CLOSED,2026-09-20,2026-11-11,52,United States,600.0,2026-11,Q4
+D6689,Evergreen Therapeutics - Media Kit C,Jordan Pike,Catalogue products,Media Kit C,8,9600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-16,2026-06-13,28,Europe,9600.0,2026-06,Q2
+D6694,Ridgeway Therapeutics - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,5,1215.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-23,2026-05-12,19,United States,1215.0,2026-05,Q2
+D6711,Northbridge Research Labs - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,4,2850.0,Inbound Organic,Closed Won,CLOSED,2026-02-13,2026-03-16,31,United States,2850.0,2026-03,Q1
+D6715,Ridgeway Institute - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,8,1592.0,Inbound Organic,Closed Won,CLOSED,2026-02-13,2026-03-17,32,United States,1592.0,2026-03,Q1
+D6721,Bluestone Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4560.0,Referral/Other,Closed Won,CLOSED,2026-10-28,2026-12-11,44,United States,4560.0,2026-12,Q4
+D6724,Bluestone Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,1,600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-30,2026-11-21,22,United States,600.0,2026-11,Q4
+D6726,Summit University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,4,2850.0,Inside Sales,Closed Won,CLOSED,2026-10-17,2026-11-16,30,Europe,2850.0,2026-11,Q4
+D6735,Meridian University - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,2,1140.0,Inside Sales,Closed Won,CLOSED,2026-07-08,2026-08-19,42,United States,1140.0,2026-08,Q3
+D6737,Evergreen Research Labs - Custom Project,Jordan Pike,Custom projects,Custom Project,1,150000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-20,2026-06-15,26,United States,150000.0,2026-06,Q2
+D6740,Summit Research Labs - Custom Project,Jordan Pike,Custom projects,Custom Project,1,90000.0,Large Conferences,Closed Won,CLOSED,2026-03-08,2026-04-03,26,Europe,90000.0,2026-04,Q2
+D6741,Bluestone Institute - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,750.0,Large Conferences,Closed Won,CLOSED,2026-01-20,2026-02-18,29,United States,750.0,2026-02,Q1
+D6743,Atlas Therapeutics - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,5,3000.0,Large Conferences,Closed Won,CLOSED,2026-01-18,2026-02-28,41,United States,3000.0,2026-02,Q1
+D6746,Meridian Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,6,600.0,Inbound Organic,Closed Won,CLOSED,2026-07-17,2026-08-16,30,United States,600.0,2026-08,Q3
+D6749,Northbridge Biologics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,4,972.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-31,2026-04-30,30,United States,972.0,2026-04,Q2
+D6750,Harbor Biologics - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,5,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-18,2026-11-12,25,Europe,3000.0,2026-11,Q4
+D6751,Willow Biologics - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,1,199.0,Referral/Other,Closed Won,CLOSED,2026-07-09,2026-08-27,49,Europe,199.0,2026-08,Q3
+D6756,Bluestone Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,1,600.0,Webinars,Closed Won,CLOSED,2026-04-18,2026-06-01,44,Europe,600.0,2026-06,Q2
+D6763,Meridian Research Labs - Media Kit D,Avery Stone,Catalogue products,Media Kit D,4,1080.0,Large Conferences,Closed Won,CLOSED,2026-06-10,2026-07-29,49,United States,1080.0,2026-07,Q3
+D6766,Summit Therapeutics - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,270.0,Large Conferences,Closed Won,CLOSED,2026-08-25,2026-10-14,50,United States,270.0,2026-10,Q4
+D6767,Evergreen University - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,3,1800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-01,2026-07-11,40,United States,1800.0,2026-07,Q3
+D6771,Lakeshore Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,5,895.5,Large Conferences,Closed Won,CLOSED,2026-03-15,2026-04-11,27,United States,895.5,2026-04,Q2
+D6774,Bluestone University - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,8,800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-14,2026-05-22,38,United States,800.0,2026-05,Q2
+D6775,Ridgeway University - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,5,3375.0,Inside Sales,Closed Won,CLOSED,2026-03-19,2026-04-15,27,United States,3375.0,2026-04,Q2
+D6781,Granite Institute - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,6,540.0,Inside Sales,Closed Won,CLOSED,2026-01-21,2026-03-01,39,United States,540.0,2026-03,Q1
+D6782,Summit Institute - Compound Set 10mg,Jordan Pike,Catalogue products,Compound Set 10mg,6,570.0,Referral/Other,Closed Won,CLOSED,2026-04-08,2026-06-03,56,Europe,570.0,2026-06,Q2
+D6791,Granite Institute - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,8,4800.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-30,2026-12-14,45,Asia,4800.0,2026-12,Q4
+D6793,Northbridge Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,3,3420.0,Webinars,Closed Won,CLOSED,2026-04-22,2026-05-25,33,United States,3420.0,2026-05,Q2
+D6798,Willow Research Labs - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,2700.0,Webinars,Closed Won,CLOSED,2026-04-22,2026-05-11,19,United States,2700.0,2026-05,Q2
+D6800,Cedar Institute - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,7,1701.0,Inbound Organic,Closed Won,CLOSED,2026-04-28,2026-06-11,44,United States,1701.0,2026-06,Q2
+D6805,Northbridge Institute - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,4,796.0,Inside Sales,Closed Won,CLOSED,2026-04-24,2026-05-29,35,United States,796.0,2026-05,Q2
+D6808,Harbor University - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,2,486.0,Referral/Other,Closed Won,CLOSED,2026-06-17,2026-07-12,25,United States,486.0,2026-07,Q3
+D6814,Meridian Biologics - Cell Line A 1x10^6,Jordan Pike,Catalogue products,Cell Line A 1x10^6,2,1500.0,Inbound Organic,Closed Won,CLOSED,2026-01-13,2026-02-28,46,United States,1500.0,2026-02,Q1
+D6816,Granite University - Media Kit D,Avery Stone,Catalogue products,Media Kit D,2,513.0,Large Conferences,Closed Won,CLOSED,2026-04-10,2026-05-20,40,United States,513.0,2026-05,Q2
+D6828,Granite Therapeutics - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,6,570.0,Launch Campaigns,Closed Won,CLOSED,2026-07-17,2026-08-11,25,United States,570.0,2026-08,Q3
+D6831,Ridgeway Research Labs - Media Kit C,Avery Stone,Catalogue products,Media Kit C,7,7560.0,Large Conferences,Closed Won,CLOSED,2026-05-24,2026-07-02,39,United States,7560.0,2026-07,Q3
+D6835,Meridian Institute - Media Kit D,Jordan Pike,Catalogue products,,4,1026.0,Inbound Organic,Closed Won,CLOSED,2026-10-11,2026-12-06,56,United States,1026.0,2026-12,Q4
+D6837,Willow Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,1,256.5,Large Conferences,Closed Won,CLOSED,2026-07-12,2026-07-23,11,Europe,256.5,2026-07,Q3
+D6838,Bluestone Biologics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,5,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-03-28,2026-05-16,49,United States,3000.0,2026-05,Q2
+D6840,Harbor Research Labs - Cell Line A 1x10^6,Avery Stone,Catalogue products,Cell Line A 1x10^6,1,712.5,Large Conferences,Closed Won,CLOSED,2026-08-20,2026-09-12,23,United States,712.5,2026-09,Q3
+D6841,Cedar Therapeutics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,1,100.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-11,2026-08-15,35,United States,100.0,2026-08,Q3
+D6843,Ridgeway University - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,5,995.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-27,2026-12-14,48,Europe,995.0,2026-12,Q4
+D6850,Harbor Research Labs - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,4,360.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-20,2026-06-16,27,Europe,360.0,2026-06,Q2
+D6861,Evergreen Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,6,3600.0,Referral/Other,Closed Won,CLOSED,2026-03-21,2026-04-18,28,United States,3600.0,2026-04,Q2
+D6865,Ridgeway Institute - Custom Project,Avery Stone,Custom projects,Custom Project,1,180000.0,Inbound Organic,Closed Won,CLOSED,2026-06-04,2026-06-25,21,United States,180000.0,2026-06,Q2
+D6867,Bluestone Research Labs - Cell Line B 1x10^6,Avery Stone,Catalogue products,Cell Line B 1x10^6,6,3420.0,Referral/Other,Closed Won,CLOSED,2026-04-27,2026-06-04,38,United States,3420.0,2026-06,Q2
+D6874,Cedar Research Labs - Cell Line A 1x10^6,Casey Lund,Catalogue products,Cell Line A 1x10^6,1,750.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-06,2026-02-22,47,United States,750.0,2026-02,Q1
+D6883,Harbor University - Growth Medium Kit,Avery Stone,Catalogue products,Growth Medium Kit,6,1194.0,Webinars,Closed Won,CLOSED,2026-09-21,2026-10-19,28,United States,1194.0,2026-10,Q4
+D6885,Bluestone Institute - Media Kit D,Avery Stone,Catalogue products,Media Kit D,1,256.5,Webinars,Closed Won,CLOSED,2026-03-31,2026-05-12,42,United States,256.5,2026-05,Q2
+D6886,Ridgeway Biologics - Compound Set 10mg,Casey Lund,Catalogue products,Compound Set 10mg,1,90.0,Launch Campaigns,Closed Won,CLOSED,2026-10-26,2026-12-31,66,United States,90.0,2026-12,Q4
+D6890,Cedar Research Labs - Media Kit D,Jordan Pike,Catalogue products,Media Kit D,3,810.0,Inbound Organic,Closed Won,CLOSED,2026-01-24,2026-02-25,32,United States,810.0,2026-02,Q1
+D6892,Bluestone Institute - Cell Line B 1x10^6,Casey Lund,Catalogue products,Cell Line B 1x10^6,7,4200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-20,2026-08-25,36,Asia,4200.0,2026-08,Q3
+D6895,Meridian University - Compound Set 10mg,Avery Stone,Catalogue products,Compound Set 10mg,2,180.0,Referral/Other,Closed Won,CLOSED,2026-10-12,2026-11-20,39,Canada,180.0,2026-11,Q4
+D6896,Atlas Therapeutics - Cell Line B 1x10^6,Jordan Pike,Catalogue products,Cell Line B 1x10^6,3,1710.0,Field Sales Prospecting,Closed Won,CLOSED,2026-04-14,2026-05-19,35,Canada,1710.0,2026-05,Q2
+D6897,Cedar Biologics - Growth Medium Kit,Jordan Pike,Catalogue products,Growth Medium Kit,6,1194.0,Inside Sales,Closed Won,CLOSED,2026-02-25,2026-04-23,57,Canada,1194.0,2026-04,Q2

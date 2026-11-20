@@ -1,181 +1,181 @@
 ticket_id,category,owner,days_to_close,stage
-T9000,Spam,Ops Lead,1.1,Closed
-T9001,Accounting,Casey Lund,2.6,Closed
-T9002,Spam,Avery Stone,1.2,Closed
-T9003,Spam,Ops Lead,0.1,Closed
-T9004,Spam,Ops Lead,1.3,Closed
-T9005,Order/Shipping,Jordan Pike,13.5,Closed
-T9006,Spam,Avery Stone,0.1,Closed
-T9007,Order/Shipping,Ops Lead,2.2,Closed
-T9008,Spam,Ops Lead,1.9,Closed
-T9009,Spam,Ops Lead,2.9,Closed
-T9010,Order/Shipping,Ops Lead,9.9,Closed
-T9011,Spam,Ops Lead,3.4,Closed
-T9012,Spam,Ops Lead,0.9,Closed
-T9013,Spam,Jordan Pike,0.8,Closed
-T9014,Spam,Ops Lead,0.1,Closed
-T9015,Spam,Ops Lead,3.2,Closed
-T9016,Pre-sale Support,Ops Lead,1.8,Closed
-T9017,Spam,Ops Lead,1.5,Closed
-T9018,Spam,Ops Lead,1.2,Closed
-T9019,Spam,Ops Lead,0.1,Closed
-T9020,Spam,Avery Stone,0.4,Closed
-T9021,Accounting,Ops Lead,10.1,Closed
+T9000,Pre-sale Support,Casey Lund,2.9,Closed
+T9001,Large-scale/Custom Order Request,Ops Lead,11.2,Closed
+T9002,Order/Shipping,Ops Lead,23.4,Closed
+T9003,Spam,Ops Lead,1.2,Closed
+T9004,Pre-sale Support,Jordan Pike,25.3,Closed
+T9005,Spam,Ops Lead,1.9,Closed
+T9006,Spam,Ops Lead,2.2,Closed
+T9007,Large-scale/Custom Order Request,Ops Lead,12.2,Closed
+T9008,Order/Shipping,Ops Lead,5.8,Closed
+T9009,Spam,Ops Lead,0.3,Closed
+T9010,Spam,Ops Lead,0.3,Closed
+T9011,Pre-sale Support,Ops Lead,14.4,Closed
+T9012,Spam,Ops Lead,1.3,Closed
+T9013,Spam,Jordan Pike,0.5,Closed
+T9014,Spam,Avery Stone,1.8,Closed
+T9015,Spam,Ops Lead,0.2,Closed
+T9016,Spam,Avery Stone,0.1,Closed
+T9017,Large-scale/Custom Order Request,Ops Lead,9.3,Closed
+T9018,Pre-sale Support,Ops Lead,13.4,Closed
+T9019,Order/Shipping,Ops Lead,34.5,Closed
+T9020,Spam,Ops Lead,0.1,Closed
+T9021,Spam,Ops Lead,0.0,Closed
 T9022,Spam,Ops Lead,0.6,Closed
-T9023,Spam,Jordan Pike,2.1,Closed
-T9024,Spam,Ops Lead,0.1,Closed
-T9025,Spam,Ops Lead,3.3,Closed
-T9026,Pre-sale Support,Jordan Pike,10.6,Closed
-T9027,Spam,Ops Lead,0.6,Closed
-T9028,Order/Shipping,Ops Lead,4.1,Closed
-T9029,Pre-sale Support,Ops Lead,17.0,Closed
-T9030,Accounting,Ops Lead,16.9,Closed
-T9031,Pre-sale Support,Ops Lead,9.5,Closed
-T9032,Spam,Ops Lead,0.3,Closed
-T9033,Large-scale/Custom Order Request,Ops Lead,5.2,Closed
-T9034,Spam,Ops Lead,2.2,Closed
-T9035,Troubleshooting,Avery Stone,33.0,Closed
-T9036,Large-scale/Custom Order Request,Ops Lead,11.1,Closed
-T9037,Troubleshooting,Ops Lead,3.0,Closed
-T9038,Order/Shipping,Ops Lead,10.8,Closed
-T9039,Troubleshooting,Ops Lead,25.7,Closed
-T9040,Spam,Ops Lead,0.3,Closed
-T9041,Troubleshooting,Ops Lead,5.3,Closed
-T9042,Large-scale/Custom Order Request,Ops Lead,11.2,Closed
-T9043,Order/Shipping,Ops Lead,9.8,Closed
-T9044,Spam,Ops Lead,1.6,Closed
-T9045,Spam,Jordan Pike,0.2,Closed
-T9046,Pre-sale Support,Ops Lead,29.5,Closed
-T9047,Spam,Ops Lead,0.1,Closed
-T9048,Order/Shipping,Ops Lead,13.5,Closed
-T9049,Spam,Ops Lead,0.0,Closed
-T9050,Large-scale/Custom Order Request,Ops Lead,10.7,Closed
-T9051,Spam,Avery Stone,1.1,Closed
-T9052,Spam,Ops Lead,0.9,Closed
-T9053,Documentation Request,Ops Lead,5.3,Closed
-T9054,Pre-sale Support,Ops Lead,6.8,Closed
-T9055,Spam,Ops Lead,1.0,Closed
-T9056,Pre-sale Support,Ops Lead,18.7,Closed
-T9057,Accounting,Ops Lead,6.3,Closed
-T9058,Pre-sale Support,Casey Lund,4.3,Closed
-T9059,Large-scale/Custom Order Request,Ops Lead,4.1,Closed
-T9060,Pre-sale Support,Ops Lead,30.5,Closed
-T9061,Spam,Ops Lead,1.3,Closed
+T9023,Pre-sale Support,Casey Lund,12.1,Closed
+T9024,Spam,Ops Lead,1.2,Closed
+T9025,Spam,Ops Lead,0.1,Closed
+T9026,Spam,Ops Lead,1.6,Closed
+T9027,Pre-sale Support,Jordan Pike,10.5,Closed
+T9028,Spam,Jordan Pike,1.9,Closed
+T9029,Spam,Ops Lead,0.5,Closed
+T9030,Spam,Ops Lead,0.2,Closed
+T9031,Spam,Avery Stone,1.6,Closed
+T9032,Spam,Avery Stone,0.3,Closed
+T9033,Spam,Ops Lead,0.1,Closed
+T9034,Order/Shipping,Jordan Pike,7.4,Closed
+T9035,Spam,Ops Lead,0.7,Closed
+T9036,Spam,Ops Lead,0.2,Closed
+T9037,Spam,Jordan Pike,2.1,Closed
+T9038,Troubleshooting,Ops Lead,29.6,Closed
+T9039,Spam,Ops Lead,0.7,Closed
+T9040,Pre-sale Support,Ops Lead,24.7,Closed
+T9041,Pre-sale Support,Jordan Pike,5.1,Closed
+T9042,Pre-sale Support,Ops Lead,11.4,Closed
+T9043,Large-scale/Custom Order Request,Casey Lund,3.9,Closed
+T9044,Spam,Casey Lund,1.2,Closed
+T9045,Large-scale/Custom Order Request,Ops Lead,13.9,Closed
+T9046,Order/Shipping,Jordan Pike,3.0,Closed
+T9047,Spam,Avery Stone,0.0,Closed
+T9048,Large-scale/Custom Order Request,Ops Lead,12.9,Closed
+T9049,Pre-sale Support,Ops Lead,12.4,Closed
+T9050,Large-scale/Custom Order Request,Ops Lead,14.7,Closed
+T9051,Spam,Jordan Pike,0.5,Closed
+T9052,Order/Shipping,Ops Lead,8.3,Closed
+T9053,Spam,Ops Lead,1.7,Closed
+T9054,Spam,Ops Lead,0.3,Closed
+T9055,Large-scale/Custom Order Request,Ops Lead,4.0,Closed
+T9056,Spam,Ops Lead,0.2,Closed
+T9057,Spam,Ops Lead,1.6,Closed
+T9058,Accounting,Jordan Pike,15.1,Closed
+T9059,Spam,Ops Lead,0.4,Closed
+T9060,Spam,Avery Stone,0.3,Closed
+T9061,Documentation Request,Jordan Pike,35.1,Closed
 T9062,Spam,Jordan Pike,0.1,Closed
-T9063,Spam,Jordan Pike,0.0,Closed
-T9064,Documentation Request,Ops Lead,4.5,Closed
-T9065,Pre-sale Support,Ops Lead,3.3,Closed
-T9066,Accounting,Ops Lead,45.6,Closed
-T9067,Large-scale/Custom Order Request,Jordan Pike,16.1,Closed
-T9068,Order/Shipping,Avery Stone,10.0,Closed
-T9069,Spam,Avery Stone,0.5,Closed
-T9070,Spam,Ops Lead,2.2,Closed
-T9071,Spam,Casey Lund,0.7,Closed
-T9072,Spam,Ops Lead,0.6,Closed
-T9073,Spam,Ops Lead,0.7,Closed
-T9074,Troubleshooting,Ops Lead,18.1,Closed
-T9075,Documentation Request,Ops Lead,2.8,Closed
-T9076,Accounting,Ops Lead,3.4,Closed
-T9077,Large-scale/Custom Order Request,Jordan Pike,9.3,Closed
-T9078,Troubleshooting,Casey Lund,25.0,Closed
-T9079,Large-scale/Custom Order Request,Ops Lead,19.3,Closed
-T9080,Documentation Request,Ops Lead,16.7,Closed
-T9081,Pre-sale Support,Ops Lead,2.3,Closed
-T9082,Documentation Request,Ops Lead,31.7,Closed
-T9083,Spam,Ops Lead,0.3,Closed
-T9084,Spam,Ops Lead,0.9,Closed
-T9085,Spam,Ops Lead,1.2,Closed
-T9086,Spam,Ops Lead,0.1,Closed
-T9087,Spam,Casey Lund,0.6,Closed
-T9088,Spam,Ops Lead,1.6,Closed
-T9089,Spam,Ops Lead,0.7,Closed
-T9090,Large-scale/Custom Order Request,Ops Lead,13.4,Closed
-T9091,Spam,Ops Lead,1.2,Closed
-T9092,Accounting,Ops Lead,9.1,Closed
-T9093,Spam,Jordan Pike,0.1,Closed
-T9094,Spam,Ops Lead,0.9,Closed
-T9095,Spam,Ops Lead,0.5,Closed
-T9096,Spam,Ops Lead,0.7,Closed
-T9097,Spam,Ops Lead,2.7,Closed
-T9098,Spam,Ops Lead,1.0,Closed
-T9099,Pre-sale Support,Ops Lead,10.1,Closed
-T9100,Spam,Ops Lead,1.5,Closed
-T9101,Pre-sale Support,Ops Lead,0.4,Closed
-T9102,Spam,Ops Lead,1.1,Closed
-T9103,Spam,Ops Lead,1.2,Closed
-T9104,Spam,Casey Lund,0.3,Closed
-T9105,Pre-sale Support,Ops Lead,4.4,Closed
-T9106,Order/Shipping,Ops Lead,6.2,Closed
-T9107,Spam,Casey Lund,0.4,Closed
-T9108,Spam,Ops Lead,0.9,Closed
-T9109,Large-scale/Custom Order Request,Avery Stone,6.4,Closed
-T9110,Pre-sale Support,Ops Lead,18.8,Closed
-T9111,Spam,Casey Lund,0.3,Closed
-T9112,Pre-sale Support,Ops Lead,2.8,Closed
-T9113,Spam,Jordan Pike,1.1,Closed
-T9114,Order/Shipping,Ops Lead,25.0,Closed
-T9115,Order/Shipping,Ops Lead,5.4,Closed
-T9116,Order/Shipping,Jordan Pike,5.7,Closed
-T9117,Accounting,Casey Lund,1.3,Closed
-T9118,Spam,Ops Lead,2.7,Closed
-T9119,Spam,Ops Lead,0.6,Closed
-T9120,Order/Shipping,Jordan Pike,0.8,Closed
-T9121,Spam,Jordan Pike,0.8,Closed
-T9122,Spam,Ops Lead,0.3,Closed
-T9123,Pre-sale Support,Ops Lead,12.4,Closed
-T9124,Troubleshooting,Casey Lund,16.5,Closed
-T9125,Pre-sale Support,Jordan Pike,6.9,Closed
-T9126,Troubleshooting,Avery Stone,21.3,Closed
-T9127,Accounting,Ops Lead,10.2,Closed
-T9128,Spam,Ops Lead,1.0,Closed
-T9129,Pre-sale Support,Jordan Pike,8.5,Closed
-T9130,Order/Shipping,Avery Stone,18.1,Closed
-T9131,Spam,Ops Lead,0.2,Closed
-T9132,Spam,Jordan Pike,2.1,Closed
-T9133,Spam,Ops Lead,0.0,Closed
-T9134,Order/Shipping,Ops Lead,16.4,Closed
-T9135,Pre-sale Support,Ops Lead,12.2,Closed
-T9136,Troubleshooting,Ops Lead,3.6,Closed
-T9137,Troubleshooting,Ops Lead,11.5,Closed
-T9138,Spam,Avery Stone,0.2,Closed
-T9139,Spam,Casey Lund,0.1,Closed
-T9140,Spam,Ops Lead,0.6,Closed
-T9141,Spam,Avery Stone,0.1,Closed
-T9142,Spam,Ops Lead,0.8,Closed
-T9143,Spam,Ops Lead,0.4,Closed
-T9144,Large-scale/Custom Order Request,Jordan Pike,2.6,Closed
-T9145,Spam,Ops Lead,3.7,Closed
-T9146,Accounting,Ops Lead,12.0,Closed
-T9147,Spam,Casey Lund,0.7,Closed
-T9148,Documentation Request,Jordan Pike,12.9,Closed
-T9149,Large-scale/Custom Order Request,Avery Stone,9.1,Closed
-T9150,Spam,Ops Lead,0.9,Closed
-T9151,Spam,Ops Lead,2.6,Closed
-T9152,Troubleshooting,Avery Stone,11.9,Closed
-T9153,Spam,Ops Lead,2.5,Closed
-T9154,Troubleshooting,Casey Lund,7.3,Closed
-T9155,Documentation Request,Ops Lead,10.4,Closed
-T9156,Order/Shipping,Jordan Pike,16.8,Closed
-T9157,Spam,Jordan Pike,0.2,Closed
-T9158,Order/Shipping,Ops Lead,6.8,Closed
-T9159,Order/Shipping,Jordan Pike,4.0,Closed
-T9160,Spam,Ops Lead,0.2,Closed
-T9161,Spam,Ops Lead,0.3,Closed
-T9162,Pre-sale Support,Avery Stone,6.8,Closed
-T9163,Spam,Ops Lead,0.1,Closed
-T9164,Accounting,Ops Lead,26.4,Closed
-T9165,Order/Shipping,Ops Lead,14.0,Closed
-T9166,Spam,Ops Lead,3.9,Closed
-T9167,Spam,Casey Lund,4.0,Closed
-T9168,Pre-sale Support,Casey Lund,10.2,Closed
-T9169,Spam,Ops Lead,0.2,Closed
-T9170,Accounting,Ops Lead,13.3,Closed
-T9171,Order/Shipping,Ops Lead,6.1,Closed
-T9172,Large-scale/Custom Order Request,Ops Lead,25.1,Closed
-T9173,Documentation Request,Ops Lead,26.4,Closed
-T9174,Spam,Casey Lund,0.4,Closed
-T9175,Pre-sale Support,Jordan Pike,9.2,Closed
-T9176,Documentation Request,Jordan Pike,9.8,Closed
-T9177,Large-scale/Custom Order Request,Jordan Pike,9.3,Closed
-T9178,Pre-sale Support,Ops Lead,6.1,Closed
-T9179,Accounting,Ops Lead,13.7,Closed
+T9063,Pre-sale Support,Ops Lead,44.0,Closed
+T9064,Large-scale/Custom Order Request,Jordan Pike,18.2,Closed
+T9065,Spam,Avery Stone,2.1,Closed
+T9066,Spam,Ops Lead,0.8,Closed
+T9067,Spam,Avery Stone,1.2,Closed
+T9068,Spam,Ops Lead,3.0,Closed
+T9069,Order/Shipping,Jordan Pike,18.8,Closed
+T9070,Order/Shipping,Ops Lead,11.2,Closed
+T9071,Spam,Avery Stone,3.0,Closed
+T9072,Spam,Ops Lead,3.8,Closed
+T9073,Spam,Avery Stone,1.3,Closed
+T9074,Spam,Ops Lead,0.7,Closed
+T9075,Spam,Ops Lead,0.5,Closed
+T9076,Spam,Ops Lead,0.2,Closed
+T9077,Documentation Request,Avery Stone,52.8,Closed
+T9078,Pre-sale Support,Ops Lead,19.5,Closed
+T9079,Order/Shipping,Ops Lead,17.8,Closed
+T9080,Spam,Jordan Pike,1.6,Closed
+T9081,Spam,Casey Lund,0.1,Closed
+T9082,Documentation Request,Ops Lead,15.3,Closed
+T9083,Spam,Jordan Pike,0.0,Closed
+T9084,Spam,Ops Lead,1.3,Closed
+T9085,Documentation Request,Jordan Pike,6.4,Closed
+T9086,Troubleshooting,Ops Lead,4.9,Closed
+T9087,Order/Shipping,Ops Lead,10.3,Closed
+T9088,Spam,Casey Lund,0.6,Closed
+T9089,Spam,Ops Lead,1.0,Closed
+T9090,Pre-sale Support,Ops Lead,7.6,Closed
+T9091,Spam,Ops Lead,1.5,Closed
+T9092,Spam,Ops Lead,0.5,Closed
+T9093,Spam,Avery Stone,1.6,Closed
+T9094,Order/Shipping,Ops Lead,13.5,Closed
+T9095,Spam,Ops Lead,1.8,Closed
+T9096,Spam,Ops Lead,0.5,Closed
+T9097,Spam,Avery Stone,2.3,Closed
+T9098,Spam,Casey Lund,0.2,Closed
+T9099,Pre-sale Support,Jordan Pike,9.8,Closed
+T9100,Spam,Ops Lead,0.0,Closed
+T9101,Large-scale/Custom Order Request,Ops Lead,9.3,Closed
+T9102,Spam,Jordan Pike,0.1,Closed
+T9103,Documentation Request,Jordan Pike,18.6,Closed
+T9104,Accounting,Jordan Pike,6.1,Closed
+T9105,Pre-sale Support,Ops Lead,8.4,Closed
+T9106,Spam,Ops Lead,0.4,Closed
+T9107,Troubleshooting,Casey Lund,6.6,Closed
+T9108,Order/Shipping,Ops Lead,3.2,Closed
+T9109,Documentation Request,Ops Lead,25.6,Closed
+T9110,Spam,Ops Lead,0.6,Closed
+T9111,Pre-sale Support,Ops Lead,10.2,Closed
+T9112,Spam,Casey Lund,0.0,Closed
+T9113,Large-scale/Custom Order Request,Avery Stone,15.6,Closed
+T9114,Accounting,Ops Lead,4.5,Closed
+T9115,Spam,Ops Lead,0.3,Closed
+T9116,Pre-sale Support,Ops Lead,20.3,Closed
+T9117,Documentation Request,Ops Lead,31.7,Closed
+T9118,Spam,Ops Lead,1.1,Closed
+T9119,Spam,Ops Lead,1.3,Closed
+T9120,Spam,Jordan Pike,0.3,Closed
+T9121,Spam,Avery Stone,2.2,Closed
+T9122,Spam,Ops Lead,0.9,Closed
+T9123,Spam,Ops Lead,1.6,Closed
+T9124,Large-scale/Custom Order Request,Jordan Pike,7.2,Closed
+T9125,Spam,Ops Lead,0.3,Closed
+T9126,Accounting,Ops Lead,6.3,Closed
+T9127,Documentation Request,Casey Lund,7.1,Closed
+T9128,Spam,Ops Lead,0.7,Closed
+T9129,Spam,Ops Lead,0.6,Closed
+T9130,Spam,Ops Lead,1.7,Closed
+T9131,Troubleshooting,Ops Lead,22.8,Closed
+T9132,Large-scale/Custom Order Request,Ops Lead,4.7,Closed
+T9133,Order/Shipping,Ops Lead,4.6,Closed
+T9134,Spam,Casey Lund,2.0,Closed
+T9135,Troubleshooting,Ops Lead,4.0,Closed
+T9136,Spam,Ops Lead,0.3,Closed
+T9137,Order/Shipping,Ops Lead,2.1,Closed
+T9138,Order/Shipping,Jordan Pike,13.1,Closed
+T9139,Spam,Ops Lead,0.3,Closed
+T9140,Spam,Ops Lead,1.3,Closed
+T9141,Spam,Ops Lead,0.8,Closed
+T9142,Large-scale/Custom Order Request,Jordan Pike,22.2,Closed
+T9143,Spam,Ops Lead,0.0,Closed
+T9144,Spam,Ops Lead,1.2,Closed
+T9145,Pre-sale Support,Casey Lund,8.1,Closed
+T9146,Pre-sale Support,Ops Lead,43.8,Closed
+T9147,Spam,Ops Lead,0.2,Closed
+T9148,Large-scale/Custom Order Request,Ops Lead,3.8,Closed
+T9149,Spam,Ops Lead,2.4,Closed
+T9150,Pre-sale Support,Jordan Pike,24.0,Closed
+T9151,Spam,Ops Lead,0.3,Closed
+T9152,Spam,Ops Lead,1.2,Closed
+T9153,Spam,Ops Lead,6.0,Closed
+T9154,Documentation Request,Ops Lead,7.6,Closed
+T9155,Spam,Jordan Pike,0.1,Closed
+T9156,Spam,Ops Lead,4.3,Closed
+T9157,Troubleshooting,Ops Lead,23.5,Closed
+T9158,Pre-sale Support,Jordan Pike,3.5,Closed
+T9159,Spam,Ops Lead,0.7,Closed
+T9160,Order/Shipping,Ops Lead,2.5,Closed
+T9161,Spam,Ops Lead,1.2,Closed
+T9162,Pre-sale Support,Ops Lead,23.2,Closed
+T9163,Spam,Ops Lead,0.7,Closed
+T9164,Pre-sale Support,Casey Lund,18.6,Closed
+T9165,Order/Shipping,Ops Lead,9.0,Closed
+T9166,Pre-sale Support,Ops Lead,8.9,Closed
+T9167,Spam,Ops Lead,1.9,Closed
+T9168,Documentation Request,Ops Lead,13.7,Closed
+T9169,Spam,Ops Lead,2.0,Closed
+T9170,Spam,Ops Lead,0.2,Closed
+T9171,Spam,Ops Lead,0.2,Closed
+T9172,Spam,Jordan Pike,0.6,Closed
+T9173,Spam,Ops Lead,1.0,Closed
+T9174,Documentation Request,Casey Lund,6.0,Closed
+T9175,Documentation Request,Jordan Pike,3.1,Closed
+T9176,Spam,Ops Lead,0.5,Closed
+T9177,Large-scale/Custom Order Request,Avery Stone,27.8,Closed
+T9178,Spam,Ops Lead,0.8,Closed
+T9179,Spam,Casey Lund,0.1,Closed

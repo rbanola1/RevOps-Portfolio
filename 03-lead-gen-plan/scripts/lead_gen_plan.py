@@ -22,22 +22,22 @@ DATA.mkdir(exist_ok=True)
 CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(8)
 
-TARGET, AOV = 240_000, 5_000
+TARGET, AOV = 1_700_000, 2_000
 WINS_NEEDED = int(np.ceil(TARGET / AOV))
 
 # channel: (share of revenue, deal->win rate, SQL->deal rate, MQL->SQL rate, annual cost $, avg order $)
 CH = {
-    "Large conferences":      (0.22, 0.29, 0.30, 0.30, 52_000, AOV),
-    "Tabletop / regional":    (0.20, 0.29, 0.60, 0.50, 18_000, AOV),
-    "Field prospecting":      (0.18, 0.29, 0.32, 0.48, 12_000, AOV),
-    "Webinars":               (0.06, 0.14, 0.35, 0.50, 6_000, AOV),
-    "Launch campaigns":       (0.08, 0.28, 0.18, 0.005, 9_000, AOV),
-    "Inbound organic":        (0.07, 0.27, 0.075, np.nan, 4_000, AOV),
-    "Distributor channel":    (0.07, 0.27, 1.0, np.nan, 3_000, AOV),
-    "Inside sales (warm-up)": (0.07, 0.27, 0.06, 0.008, 15_000, AOV),
-    "Paid media":             (0.02, 0.60, 1.0, np.nan, 5_000, AOV),
-    "Beta programs":          (0.02, 0.20, 0.25, np.nan, 2_000, AOV),
-    "Small-product OEM":      (0.01, 0.47, 0.70, np.nan, 1_000, 500),
+    "Large conferences":      (0.22, 0.29, 0.30, 0.30, 364_000, AOV),
+    "Tabletop / regional":    (0.20, 0.29, 0.60, 0.50, 126_000, AOV),
+    "Field prospecting":      (0.18, 0.29, 0.32, 0.48, 84_000, AOV),
+    "Webinars":               (0.06, 0.14, 0.35, 0.50, 42_000, AOV),
+    "Launch campaigns":       (0.08, 0.28, 0.18, 0.005, 63_000, AOV),
+    "Inbound organic":        (0.07, 0.27, 0.075, np.nan, 28_000, AOV),
+    "Distributor channel":    (0.07, 0.27, 1.0, np.nan, 21_000, AOV),
+    "Inside sales (warm-up)": (0.07, 0.27, 0.06, 0.008, 105_000, AOV),
+    "Paid media":             (0.02, 0.60, 1.0, np.nan, 35_000, AOV),
+    "Beta programs":          (0.02, 0.20, 0.25, np.nan, 14_000, AOV),
+    "Small-product OEM":      (0.01, 0.47, 0.70, np.nan, 7_000, 500),
 }
 rows = []
 for name, (share, dw, sd, ms, cost, aov) in CH.items():

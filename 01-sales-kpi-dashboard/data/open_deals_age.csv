@@ -1,29 +1,446 @@
 deal_id,product_name,owner,stage,days_open
-D5117,Compound Set 10mg,Casey Lund,Verbal Commit,278
-D5010,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,265
-D5080,Media Kit C,Avery Stone,Proposal/Quote Sent,265
-D5063,Media Kit D,Casey Lund,Proposal/Quote Sent,250
-D5054,Media Kit C,Jordan Pike,Proposal/Quote Sent,248
-D5069,Media Kit D,Avery Stone,Discovery and Scoping,240
-D5047,Media Kit C,Avery Stone,Verbal Commit,225
-D5104,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,215
-D5021,Media Kit D,Jordan Pike,Proposal/Quote Sent,203
-D5089,Media Kit D,Avery Stone,Discovery and Scoping,193
-D5019,Cell Line B 1x10^6,Avery Stone,Verbal Commit,189
-D5119,Growth Medium Kit,Avery Stone,Discovery and Scoping,187
-D5061,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,186
-D5045,Cell Line A 1x10^6,Jordan Pike,Verbal Commit,176
-D5038,Growth Medium Kit,Jordan Pike,Discovery and Scoping,174
-D5120,Compound Set 10mg,Avery Stone,Verbal Commit,158
-D5029,Growth Medium Kit,Jordan Pike,Verbal Commit,144
-D5007,Growth Medium Kit,Casey Lund,Verbal Commit,138
-D5002,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,131
-D5127,Media Kit D,Avery Stone,Proposal/Quote Sent,130
-D5014,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,106
-D5056,(product missing),Jordan Pike,Proposal/Quote Sent,99
-D5124,Media Kit C,Jordan Pike,Discovery and Scoping,49
-D5032,Growth Medium Kit,Avery Stone,Discovery and Scoping,37
-D5017,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,21
-D5067,Media Kit D,Avery Stone,Proposal/Quote Sent,9
-D5115,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,4
-D5016,Compound Set 10mg,Jordan Pike,Discovery and Scoping,0
+D5105,Compound Set 10mg,Casey Lund,Verbal Commit,298
+D5490,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,298
+D5703,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,295
+D5519,Media Kit C,Avery Stone,Discovery and Scoping,295
+D6796,Compound Set 10mg,Jordan Pike,Discovery and Scoping,294
+D6605,Media Kit C,Avery Stone,Proposal/Quote Sent,294
+D6705,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,293
+D6516,Media Kit D,Jordan Pike,Discovery and Scoping,292
+D5142,Compound Set 10mg,Avery Stone,Discovery and Scoping,292
+D6034,Growth Medium Kit,Avery Stone,Discovery and Scoping,292
+D6350,Custom Project,Avery Stone,Discovery and Scoping,290
+D5125,Media Kit D,Casey Lund,Verbal Commit,290
+D5811,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,290
+D6081,(product missing),Avery Stone,Verbal Commit,288
+D5836,Custom Project,Casey Lund,Discovery and Scoping,287
+D6227,Compound Set 10mg,Avery Stone,Discovery and Scoping,287
+D5011,Compound Set 10mg,Avery Stone,Verbal Commit,287
+D5412,Media Kit D,Avery Stone,Discovery and Scoping,287
+D6143,Media Kit D,Jordan Pike,Proposal/Quote Sent,286
+D6503,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,286
+D6266,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,286
+D6253,Media Kit C,Jordan Pike,Proposal/Quote Sent,284
+D5308,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,283
+D6719,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,282
+D5842,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,282
+D5414,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,281
+D5116,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,280
+D6578,Media Kit D,Jordan Pike,Proposal/Quote Sent,280
+D5400,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,279
+D6160,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,279
+D6147,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,279
+D6613,Compound Set 10mg,Casey Lund,Discovery and Scoping,277
+D6637,Media Kit D,Jordan Pike,Proposal/Quote Sent,277
+D5534,Compound Set 10mg,Jordan Pike,Discovery and Scoping,276
+D6820,Growth Medium Kit,Avery Stone,Verbal Commit,274
+D6642,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,274
+D6421,Media Kit D,Jordan Pike,Proposal/Quote Sent,274
+D6226,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,273
+D5327,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,273
+D6360,Media Kit D,Avery Stone,Proposal/Quote Sent,272
+D5809,Media Kit D,Avery Stone,Proposal/Quote Sent,272
+D5844,Media Kit C,Avery Stone,Verbal Commit,272
+D5138,Media Kit D,Avery Stone,Proposal/Quote Sent,271
+D6813,Cell Line A 1x10^6,Casey Lund,Verbal Commit,271
+D6311,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,271
+D6574,Cell Line A 1x10^6,Casey Lund,Proposal/Quote Sent,270
+D6164,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,270
+D6582,Media Kit D,Avery Stone,Discovery and Scoping,269
+D5332,Growth Medium Kit,Avery Stone,Discovery and Scoping,269
+D6472,Cell Line B 1x10^6,Avery Stone,Verbal Commit,268
+D5909,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,268
+D5300,Media Kit C,Jordan Pike,Proposal/Quote Sent,266
+D6053,Compound Set 10mg,Avery Stone,Discovery and Scoping,265
+D5010,Media Kit D,Jordan Pike,Verbal Commit,265
+D5661,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,263
+D6747,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,262
+D5223,Media Kit C,Avery Stone,Discovery and Scoping,261
+D6131,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,260
+D6364,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,260
+D6170,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,259
+D6072,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,258
+D5366,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,258
+D6787,Media Kit C,Avery Stone,Verbal Commit,257
+D6809,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,257
+D6425,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,256
+D5572,Cell Line A 1x10^6,Avery Stone,Verbal Commit,256
+D5271,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,256
+D5913,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,255
+D5600,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,254
+D6308,Growth Medium Kit,Jordan Pike,Discovery and Scoping,254
+D6456,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,253
+D5193,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,253
+D5464,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,252
+D5771,Cell Line B 1x10^6,Avery Stone,Verbal Commit,252
+D5315,Growth Medium Kit,Avery Stone,Proposal/Quote Sent,252
+D6569,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,251
+D6504,Compound Set 10mg,Casey Lund,Verbal Commit,251
+D5527,Media Kit C,Jordan Pike,Proposal/Quote Sent,250
+D5180,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,250
+D6258,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,250
+D6691,Compound Set 10mg,Casey Lund,Discovery and Scoping,249
+D6734,Growth Medium Kit,Avery Stone,Proposal/Quote Sent,249
+D6777,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,248
+D6356,Compound Set 10mg,Avery Stone,Discovery and Scoping,247
+D6707,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,246
+D5459,Media Kit D,Avery Stone,Verbal Commit,246
+D5858,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,245
+D5943,Cell Line B 1x10^6,Avery Stone,Verbal Commit,245
+D5326,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,245
+D5960,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,244
+D5132,Cell Line A 1x10^6,Avery Stone,Verbal Commit,243
+D5721,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,241
+D6167,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,240
+D5606,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,240
+D5683,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,239
+D6031,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,239
+D6433,Media Kit C,Casey Lund,Discovery and Scoping,238
+D5351,Compound Set 10mg,Avery Stone,Verbal Commit,238
+D5736,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,238
+D6454,Cell Line A 1x10^6,Casey Lund,Verbal Commit,238
+D5277,Cell Line B 1x10^6,Avery Stone,Verbal Commit,237
+D6573,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,237
+D5228,Cell Line B 1x10^6,Casey Lund,Verbal Commit,236
+D5341,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,236
+D6178,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,235
+D6879,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,235
+D6699,Media Kit D,Avery Stone,Verbal Commit,235
+D5796,Compound Set 10mg,Avery Stone,Discovery and Scoping,234
+D6706,Compound Set 10mg,Jordan Pike,Discovery and Scoping,234
+D6209,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,233
+D6152,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,232
+D5662,Media Kit C,Avery Stone,Proposal/Quote Sent,230
+D5633,Cell Line A 1x10^6,Jordan Pike,Verbal Commit,230
+D6484,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,227
+D5098,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,227
+D5638,Cell Line B 1x10^6,Casey Lund,Verbal Commit,226
+D6603,Media Kit D,Avery Stone,Proposal/Quote Sent,226
+D6276,Cell Line B 1x10^6,Casey Lund,Verbal Commit,225
+D5753,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,225
+D6794,Media Kit D,Avery Stone,Verbal Commit,225
+D6499,Media Kit C,Jordan Pike,Proposal/Quote Sent,224
+D6667,Media Kit D,Avery Stone,Proposal/Quote Sent,224
+D6344,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,224
+D6297,Compound Set 10mg,Casey Lund,Verbal Commit,224
+D5603,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,224
+D6022,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,222
+D6335,Media Kit D,Jordan Pike,Proposal/Quote Sent,222
+D5843,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,220
+D5284,Custom Project,Avery Stone,Proposal/Quote Sent,219
+D5480,Growth Medium Kit,Avery Stone,Verbal Commit,219
+D6379,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,219
+D5583,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,216
+D5227,Media Kit C,Casey Lund,Discovery and Scoping,215
+D5122,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,215
+D6778,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,215
+D5868,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,214
+D6413,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,214
+D5864,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,212
+D6230,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,211
+D5981,Compound Set 10mg,Avery Stone,Discovery and Scoping,210
+D6652,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,210
+D5036,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,209
+D5197,Compound Set 10mg,Jordan Pike,Discovery and Scoping,209
+D5954,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,208
+D5815,Compound Set 10mg,Casey Lund,Discovery and Scoping,207
+D6868,Compound Set 10mg,Avery Stone,Discovery and Scoping,207
+D6025,Media Kit C,Avery Stone,Discovery and Scoping,207
+D5380,Cell Line B 1x10^6,Avery Stone,Verbal Commit,207
+D6759,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,206
+D5854,Compound Set 10mg,Avery Stone,Discovery and Scoping,206
+D6799,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,206
+D6124,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,205
+D5207,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,205
+D5518,Media Kit D,Avery Stone,Proposal/Quote Sent,205
+D5850,Compound Set 10mg,Avery Stone,Discovery and Scoping,205
+D6458,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,204
+D6036,Growth Medium Kit,Avery Stone,Proposal/Quote Sent,204
+D5989,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,203
+D6797,Media Kit C,Jordan Pike,Discovery and Scoping,203
+D5021,Custom Project,Avery Stone,Verbal Commit,203
+D6449,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,202
+D6352,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,202
+D5817,Media Kit C,Avery Stone,Discovery and Scoping,202
+D6544,Custom Project,Avery Stone,Proposal/Quote Sent,202
+D5196,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,202
+D6146,Compound Set 10mg,Casey Lund,Discovery and Scoping,201
+D6826,Media Kit C,Avery Stone,Proposal/Quote Sent,200
+D5057,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,199
+D5625,Media Kit D,Jordan Pike,Discovery and Scoping,198
+D6130,Compound Set 10mg,Avery Stone,Discovery and Scoping,198
+D6007,Cell Line A 1x10^6,Avery Stone,Verbal Commit,197
+D6581,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,197
+D5748,Media Kit D,Casey Lund,Proposal/Quote Sent,197
+D6614,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,196
+D5184,Media Kit C,Jordan Pike,Discovery and Scoping,196
+D5887,Media Kit C,Avery Stone,Verbal Commit,195
+D6852,Custom Project,Casey Lund,Discovery and Scoping,194
+D6420,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,193
+D5820,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,193
+D6821,Growth Medium Kit,Avery Stone,Discovery and Scoping,191
+D6310,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,191
+D6627,Compound Set 10mg,Jordan Pike,Verbal Commit,191
+D6010,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,190
+D6571,Media Kit C,Avery Stone,Proposal/Quote Sent,189
+D6889,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,189
+D5413,Cell Line A 1x10^6,Casey Lund,Proposal/Quote Sent,188
+D6534,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,188
+D6594,Growth Medium Kit,Avery Stone,Discovery and Scoping,187
+D6206,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,187
+D6175,Cell Line B 1x10^6,Casey Lund,Verbal Commit,187
+D5964,Media Kit C,Avery Stone,Proposal/Quote Sent,186
+D6834,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,186
+D6548,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,185
+D5722,Media Kit D,Casey Lund,Discovery and Scoping,183
+D5549,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,180
+D5790,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,180
+D6065,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,178
+D6471,Growth Medium Kit,Jordan Pike,Verbal Commit,178
+D5051,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,177
+D5861,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,177
+D6030,Media Kit D,Jordan Pike,Verbal Commit,177
+D6256,Media Kit D,Jordan Pike,Proposal/Quote Sent,174
+D5501,Growth Medium Kit,Casey Lund,Discovery and Scoping,173
+D5808,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,173
+D6606,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,173
+D5604,Growth Medium Kit,Avery Stone,Discovery and Scoping,173
+D5438,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,172
+D5094,Custom Project,Jordan Pike,Proposal/Quote Sent,170
+D6729,Media Kit D,Avery Stone,Verbal Commit,169
+D6884,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,169
+D6119,Compound Set 10mg,Jordan Pike,Verbal Commit,168
+D5905,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,167
+D5834,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,165
+D6046,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,165
+D5461,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,165
+D5787,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,164
+D5616,Growth Medium Kit,Casey Lund,Verbal Commit,162
+D6790,Media Kit C,Jordan Pike,Proposal/Quote Sent,161
+D5293,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,161
+D5810,Media Kit D,Avery Stone,Proposal/Quote Sent,161
+D6669,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,160
+D6653,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,160
+D6662,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,160
+D6109,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,159
+D5477,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,158
+D5623,Media Kit C,Jordan Pike,Proposal/Quote Sent,157
+D5163,Growth Medium Kit,Casey Lund,Discovery and Scoping,156
+D6183,Media Kit C,Casey Lund,Proposal/Quote Sent,155
+D6730,Media Kit C,Jordan Pike,Proposal/Quote Sent,154
+D5450,Compound Set 10mg,Avery Stone,Verbal Commit,154
+D6068,Compound Set 10mg,Avery Stone,Discovery and Scoping,154
+D6877,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,153
+D5225,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,150
+D6393,Cell Line A 1x10^6,Avery Stone,Verbal Commit,150
+D6630,Custom Project,Avery Stone,Discovery and Scoping,149
+D6089,Media Kit C,Avery Stone,Proposal/Quote Sent,148
+D6677,Compound Set 10mg,Casey Lund,Discovery and Scoping,148
+D6418,Growth Medium Kit,Avery Stone,Discovery and Scoping,147
+D6714,Growth Medium Kit,Avery Stone,Discovery and Scoping,147
+D5297,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,147
+D5974,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,146
+D5565,Compound Set 10mg,Avery Stone,Discovery and Scoping,146
+D5993,Media Kit D,Casey Lund,Proposal/Quote Sent,146
+D6188,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,146
+D5593,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,146
+D5195,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,146
+D6233,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,145
+D6854,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,142
+D5397,Media Kit D,Casey Lund,Discovery and Scoping,141
+D6822,Media Kit C,Casey Lund,Proposal/Quote Sent,141
+D5947,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,140
+D5717,Media Kit D,Jordan Pike,Verbal Commit,140
+D5978,Growth Medium Kit,Jordan Pike,Discovery and Scoping,139
+D5863,Cell Line A 1x10^6,Avery Stone,Verbal Commit,139
+D5444,Compound Set 10mg,Jordan Pike,Discovery and Scoping,139
+D5631,Growth Medium Kit,Jordan Pike,Verbal Commit,138
+D6786,Media Kit D,Avery Stone,Discovery and Scoping,138
+D6899,Growth Medium Kit,Avery Stone,Discovery and Scoping,137
+D5698,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,135
+D5862,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,134
+D6409,Compound Set 10mg,Casey Lund,Verbal Commit,134
+D5365,Compound Set 10mg,Avery Stone,Discovery and Scoping,134
+D5747,Custom Project,Casey Lund,Discovery and Scoping,134
+D5496,Cell Line B 1x10^6,Avery Stone,Verbal Commit,133
+D5580,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,133
+D6543,(product missing),Casey Lund,Proposal/Quote Sent,132
+D6539,Media Kit C,Jordan Pike,Proposal/Quote Sent,131
+D6525,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,131
+D5455,Media Kit D,Avery Stone,Proposal/Quote Sent,130
+D5789,Media Kit D,Casey Lund,Verbal Commit,129
+D5290,Media Kit D,Avery Stone,Proposal/Quote Sent,128
+D5705,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,127
+D5358,Media Kit D,Avery Stone,Discovery and Scoping,125
+D5935,Media Kit C,Jordan Pike,Discovery and Scoping,125
+D6550,Media Kit D,Casey Lund,Proposal/Quote Sent,125
+D6216,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,123
+D5037,Compound Set 10mg,Avery Stone,Verbal Commit,122
+D6864,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,119
+D5746,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,118
+D5023,Cell Line B 1x10^6,Casey Lund,Verbal Commit,118
+D5743,Cell Line A 1x10^6,Casey Lund,Proposal/Quote Sent,115
+D6115,Growth Medium Kit,Casey Lund,Discovery and Scoping,114
+D6558,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,113
+D6533,Media Kit D,Avery Stone,Proposal/Quote Sent,111
+D5310,Compound Set 10mg,Casey Lund,Proposal/Quote Sent,111
+D6028,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,111
+D5439,Compound Set 10mg,Casey Lund,Verbal Commit,110
+D6510,Media Kit D,Jordan Pike,Discovery and Scoping,108
+D6215,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,107
+D6570,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,107
+D6870,Media Kit C,Casey Lund,Discovery and Scoping,106
+D6288,Media Kit D,Jordan Pike,Proposal/Quote Sent,106
+D5457,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,106
+D5364,Media Kit D,Casey Lund,Proposal/Quote Sent,103
+D5202,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,103
+D6075,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,102
+D5560,Compound Set 10mg,Avery Stone,Discovery and Scoping,101
+D5121,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,100
+D6043,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,99
+D5884,Cell Line A 1x10^6,Casey Lund,Proposal/Quote Sent,97
+D5087,Custom Project,Casey Lund,Verbal Commit,96
+D6086,Custom Project,Jordan Pike,Discovery and Scoping,94
+D6386,Media Kit D,Avery Stone,Verbal Commit,93
+D5762,Media Kit C,Jordan Pike,Verbal Commit,93
+D5892,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,91
+D6029,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,91
+D5877,Media Kit D,Jordan Pike,Discovery and Scoping,91
+D5042,Custom Project,Avery Stone,Verbal Commit,89
+D5795,Growth Medium Kit,Avery Stone,Proposal/Quote Sent,89
+D6695,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,89
+D5825,Compound Set 10mg,Avery Stone,Verbal Commit,87
+D6237,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,87
+D5048,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,85
+D6137,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,85
+D5203,Media Kit D,Casey Lund,Proposal/Quote Sent,85
+D6138,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,85
+D5447,Compound Set 10mg,Avery Stone,Verbal Commit,84
+D5288,Media Kit C,Avery Stone,Verbal Commit,84
+D5451,Compound Set 10mg,Casey Lund,Discovery and Scoping,82
+D6132,Growth Medium Kit,Avery Stone,Proposal/Quote Sent,82
+D5237,Media Kit D,Casey Lund,Discovery and Scoping,82
+D6873,Growth Medium Kit,Casey Lund,Discovery and Scoping,81
+D6698,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,81
+D5396,Media Kit C,Avery Stone,Discovery and Scoping,80
+D5895,Media Kit C,Jordan Pike,Proposal/Quote Sent,80
+D5607,Media Kit D,Jordan Pike,Discovery and Scoping,79
+D5682,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,77
+D6891,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,76
+D5497,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,76
+D5355,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,75
+D6576,Media Kit D,Jordan Pike,Discovery and Scoping,75
+D6127,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,74
+D5028,Media Kit D,Casey Lund,Discovery and Scoping,73
+D6457,Media Kit D,Avery Stone,Verbal Commit,73
+D6664,Media Kit C,Casey Lund,Verbal Commit,73
+D5386,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,73
+D5963,Media Kit C,Avery Stone,Verbal Commit,72
+D6435,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,70
+D5340,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,69
+D5710,Cell Line B 1x10^6,Casey Lund,Verbal Commit,69
+D6134,Media Kit C,Jordan Pike,Proposal/Quote Sent,69
+D6881,Compound Set 10mg,Casey Lund,Verbal Commit,68
+D6104,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,67
+D5189,Compound Set 10mg,Avery Stone,Discovery and Scoping,67
+D5737,Media Kit C,Avery Stone,Verbal Commit,67
+D6894,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,66
+D6198,Custom Project,Avery Stone,Proposal/Quote Sent,66
+D6017,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,65
+D6231,Cell Line B 1x10^6,Casey Lund,Verbal Commit,64
+D6702,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,62
+D6482,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,62
+D6459,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,61
+D5628,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,61
+D6720,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,60
+D5976,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,60
+D6685,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,58
+D6195,Media Kit C,Casey Lund,Discovery and Scoping,57
+D5512,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,57
+D5535,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,57
+D5619,Media Kit D,Jordan Pike,Proposal/Quote Sent,56
+D6210,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,56
+D6512,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,55
+D6020,Media Kit C,Jordan Pike,Verbal Commit,55
+D6388,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,55
+D6070,Compound Set 10mg,Casey Lund,Discovery and Scoping,54
+D6788,Compound Set 10mg,Avery Stone,Discovery and Scoping,53
+D5215,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,52
+D6500,Compound Set 10mg,Casey Lund,Discovery and Scoping,52
+D5775,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,52
+D5027,Compound Set 10mg,Avery Stone,Verbal Commit,52
+D5585,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,51
+D5998,Cell Line B 1x10^6,Casey Lund,Verbal Commit,51
+D5165,Media Kit C,Avery Stone,Discovery and Scoping,50
+D5493,Cell Line A 1x10^6,Jordan Pike,Verbal Commit,50
+D5982,Media Kit D,Avery Stone,Proposal/Quote Sent,49
+D5261,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,48
+D6343,Growth Medium Kit,Avery Stone,Verbal Commit,48
+D5478,Cell Line B 1x10^6,Avery Stone,Verbal Commit,48
+D6683,Media Kit D,Avery Stone,Proposal/Quote Sent,48
+D5692,Cell Line A 1x10^6,Avery Stone,Verbal Commit,47
+D5700,Media Kit D,Jordan Pike,Discovery and Scoping,47
+D5597,Compound Set 10mg,Avery Stone,Discovery and Scoping,44
+D6567,Media Kit D,Avery Stone,Discovery and Scoping,44
+D6041,Growth Medium Kit,Jordan Pike,Proposal/Quote Sent,44
+D5350,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,43
+D6026,Growth Medium Kit,Avery Stone,Verbal Commit,42
+D5950,Custom Project,Avery Stone,Verbal Commit,40
+D5826,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,40
+D6519,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,40
+D6566,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,39
+D5032,Cell Line A 1x10^6,Casey Lund,Discovery and Scoping,37
+D6600,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,37
+D5360,Media Kit C,Jordan Pike,Discovery and Scoping,37
+D6727,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,36
+D5430,Cell Line A 1x10^6,Jordan Pike,Discovery and Scoping,36
+D6279,Growth Medium Kit,Avery Stone,Verbal Commit,36
+D5390,Media Kit D,Jordan Pike,Proposal/Quote Sent,35
+D5997,Compound Set 10mg,Jordan Pike,Discovery and Scoping,35
+D5130,Compound Set 10mg,Jordan Pike,Discovery and Scoping,34
+D5353,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,33
+D6464,Media Kit D,Jordan Pike,Discovery and Scoping,33
+D6842,Compound Set 10mg,Avery Stone,Verbal Commit,33
+D5557,Growth Medium Kit,Avery Stone,Verbal Commit,32
+D5077,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,31
+D5172,Media Kit D,Jordan Pike,Discovery and Scoping,31
+D6317,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,31
+D5526,Cell Line B 1x10^6,Jordan Pike,Verbal Commit,30
+D6615,Compound Set 10mg,Jordan Pike,Discovery and Scoping,29
+D5049,Compound Set 10mg,Jordan Pike,Discovery and Scoping,27
+D5529,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,26
+D6856,Media Kit C,Jordan Pike,Proposal/Quote Sent,24
+D5723,Growth Medium Kit,Avery Stone,Verbal Commit,24
+D6447,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,23
+D6551,Cell Line A 1x10^6,Jordan Pike,Proposal/Quote Sent,21
+D5044,Media Kit D,Avery Stone,Discovery and Scoping,19
+D5256,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,19
+D6044,Cell Line B 1x10^6,Avery Stone,Discovery and Scoping,18
+D6142,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,17
+D6562,Growth Medium Kit,Casey Lund,Proposal/Quote Sent,17
+D5674,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,16
+D6444,Cell Line B 1x10^6,Jordan Pike,Discovery and Scoping,16
+D6523,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,16
+D5733,Growth Medium Kit,Avery Stone,Verbal Commit,15
+D5533,Media Kit C,Avery Stone,Discovery and Scoping,15
+D6869,Media Kit D,Avery Stone,Discovery and Scoping,15
+D5209,Compound Set 10mg,Avery Stone,Proposal/Quote Sent,15
+D6524,Media Kit D,Avery Stone,Discovery and Scoping,13
+D5296,Cell Line B 1x10^6,Casey Lund,Proposal/Quote Sent,11
+D6611,Growth Medium Kit,Avery Stone,Verbal Commit,11
+D6093,Cell Line A 1x10^6,Casey Lund,Verbal Commit,11
+D6579,Cell Line A 1x10^6,Casey Lund,Proposal/Quote Sent,10
+D6859,Cell Line A 1x10^6,Avery Stone,Discovery and Scoping,10
+D6194,Cell Line B 1x10^6,Casey Lund,Discovery and Scoping,8
+D5398,Cell Line A 1x10^6,Avery Stone,Proposal/Quote Sent,7
+D5152,Media Kit C,Casey Lund,Proposal/Quote Sent,6
+D5875,Cell Line B 1x10^6,Jordan Pike,Proposal/Quote Sent,6
+D6150,Media Kit D,Avery Stone,Discovery and Scoping,6
+D6455,Media Kit C,Avery Stone,Verbal Commit,5
+D6361,Cell Line B 1x10^6,Avery Stone,Proposal/Quote Sent,5
+D6784,Media Kit D,Avery Stone,Proposal/Quote Sent,4
+D6033,Media Kit D,Jordan Pike,Proposal/Quote Sent,3
+D5382,Growth Medium Kit,Jordan Pike,Discovery and Scoping,3
+D5767,Compound Set 10mg,Jordan Pike,Proposal/Quote Sent,2
+D5847,Compound Set 10mg,Casey Lund,Discovery and Scoping,2
+D6742,Media Kit C,Avery Stone,Discovery and Scoping,0

@@ -1,7 +1,9 @@
 product,Avery Stone,Casey Lund,Jordan Pike
-Cell Line A 1x10^6,1500.0,3000.0,12450.0
-Cell Line B 1x10^6,16830.0,3990.0,0.0
-Compound Set 10mg,0.0,1540.0,280.0
-Growth Medium Kit,945.25,1890.5,2208.8999999999996
-Media Kit C,7200.0,0.0,4320.0
-Media Kit D,0.0,540.0,4765.5
+,1432.8,0.0,1026.0
+Cell Line A 1x10^6,110850.0,69937.5,91537.5
+Cell Line B 1x10^6,156600.0,49170.0,132480.0
+Compound Set 10mg,15345.0,7810.0,15925.0
+Custom Project,750000.0,0.0,510000.0
+Growth Medium Kit,20228.35,11542.0,22417.35
+Media Kit C,144840.0,74280.0,61500.0
+Media Kit D,28107.0,14013.0,42349.5

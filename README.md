@@ -4,6 +4,17 @@ Revenue operations projects rebuilt on **synthetic data** for a fictional life-s
 
 By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://github.com/rbanola1) for the full experience map.
 
+## The company in this portfolio (RB Tech)
+| Item | Value used throughout |
+|---|---|
+| Annual revenue | About $3.8M plan, about $3.2M forecast |
+| Catalogue products | About $1.7M a year, low ticket (about $2,000 per order, range $100 to $12,000) |
+| Custom projects | About $2.1M a year, high ticket (about 14 projects at about $150,000, billed as a deposit plus milestones) |
+| Free samples | About 220 a year, no revenue, tracked separately |
+| CRM pipelines | Three separate pipelines: catalogue products, custom projects and free samples |
+| Team and data | 4 reps, about 60,000 CRM contacts, about 1,500 orders and 2,400 support tickets a year |
+All data is synthetic, and every project uses these same figures.
+
 | # | Project |
 |---|---|
 | 01 | [Sales Performance & Ops KPI Dashboard](01-sales-kpi-dashboard) |

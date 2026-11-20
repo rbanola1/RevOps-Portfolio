@@ -3,7 +3,7 @@
 ## Required on every deal
 | Field | Rule |
 |---|---|
-| Pipeline | Choose Sales, Non-Revenue (free samples) or E-commerce correctly; it drives all downstream reporting |
+| Pipeline | Choose Catalogue products, Custom projects or Free samples correctly; each has its own stages, and the choice drives all downstream reporting |
 | Free sample property | Flag it whenever any line item is given away as a sample |
 | Next steps | Always filled in and kept current |
 | Contact association | Mandatory: every deal is associated with a contact |
@@ -16,7 +16,7 @@
 
 **Deal value is product value only.** Shipping and tax never go in the deal amount. Example: 2 vials at $100 is a $200 deal. Shipping and tax appear later, from the accounting system at invoicing.
 
-**Other habits:** check for an existing company or contact before creating one; select line items from the catalog, never hand-type names; double-check the pipeline; when in doubt about a new or beta product, pause and ask.
+**Other habits:** check for an existing company or contact before creating one; select line items from the catalog, never hand-type names; double-check the pipeline (catalogue, custom or free sample); when in doubt about a new or beta product, pause and ask.
 
 ## When to mark a deal closed won
 Any one of these is enough, and the deal is marked at that moment, not at shipment:
@@ -43,14 +43,14 @@ A new product launched on the website flows one way into the product data hub an
 
 ## Sample orders (non-revenue pipeline)
 - Trigger for the non-animal-model samples: the signed sample form; for general free samples: written client confirmation. Create the deal if none exists and tell the team in chat first so nobody duplicates it.
-- Deal setup: Non-Revenue pipeline, free sample property set to the sample type, correct product and quantity, project title and institution or assay details in the description, contact and company associated.
+- Deal setup: Free samples pipeline, free sample property set to the sample type, correct product and quantity, project title and institution or assay details in the description, contact and company associated.
 - Limits: inside the US one sample ships with shipping waived; outside the US and Canada, quantity and shipping cost need executive approval; the standard cap is two vials or one kit, and anything above needs approval.
 - After closing, the rep collects shipping and billing details and a delivery phone number directly from the client; commercial operations creates the order and sends the confirmation with sample terms; operations ships; finance invoices after shipment (a quotation is optional unless the client asks).
 
 ## When to mark a deal closed lost
 - Recommendation: closed lost after about 50 days with no progress.
-- Average days to close, closed-won: roughly 41 in the Sales pipeline and 74 in the Non-Revenue pipeline, so one flat rule may not fit both.
-- Decision in force: an automated email goes to the deal owner when a Sales or Non-Revenue deal has no activity for 60 consecutive days, and the owner decides to progress or close it.
+- Average days to close, closed-won: roughly 41 in the catalogue pipeline and 74 in the free-samples pipeline, so one flat rule may not fit both.
+- Decision in force: an automated email goes to the deal owner when a catalogue or free-sample deal has no activity for 60 consecutive days, and the owner decides to progress or close it.
 
 ## Deal naming
 `Company Deal# - Product`, with a deal number only when a company has several deals. Partnership deals split into short, mid and long term revenue use Roman numerals. Custom projects use deposit and milestone names agreed with leadership.

@@ -1,6 +1,6 @@
 source,records,never_touched,touched_not_worked,idle_share,won
-Distributor referral,264.0,37.0,103.0,0.53,6.0
-Existing customer,242.0,17.0,100.0,0.48,4.0
-Inbound web,363.0,73.0,129.0,0.56,5.0
-Outbound sequence,329.0,103.0,112.0,0.65,4.0
-Trade show,402.0,177.0,114.0,0.72,6.0
+Distributor referral,2183.0,303.0,883.0,0.54,59.0
+Existing customer,1811.0,96.0,733.0,0.46,53.0
+Inbound web,2604.0,563.0,905.0,0.56,59.0
+Outbound sequence,2414.0,703.0,766.0,0.61,54.0
+Trade show,2988.0,1355.0,723.0,0.7,51.0

@@ -13,7 +13,7 @@ The service desk runs on automations in the CRM. Each one is listed with its rea
 | 7 | Support Pipeline status workflows | A customer replies, or we reply | Customer reply sets "Waiting on Us"; our reply sets "Waiting on Contact" |
 | 8 | CES - Closed Ticket Survey | A Support Pipeline ticket is closed | Emails a customer effort survey |
 | 9 | Friday Ticket Triage (agent, dry run) | Weekly, Friday morning | Read-only report: spam, HR and investment items, tickets needing attention, suspicious activity, same-sender bursts, loop-pattern subjects, bulk closes. Never edits tickets |
-| 10 | Deal inactivity email | A Sales or Non-Revenue deal has no activity for 60 days | Emails the deal owner so stale deals are reviewed |
+| 10 | Deal inactivity email | A catalogue or free-sample deal has no activity for 60 days | Emails the deal owner so stale deals are reviewed |
 | 11 | Lifecycle workflows | New contact; deal created; deal closed-won | New contact becomes Lead; deal created makes the contact an Opportunity; closed-won makes it a Customer |
 
 The older "Ticket Creation Automated Email" workflow is kept unpublished as a backup.

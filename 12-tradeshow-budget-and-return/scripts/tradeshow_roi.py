@@ -32,7 +32,7 @@ for name, fit, booth, trav, days in EVENTS:
     travel = trav * (days * 250 + 500) * rng.uniform(.9, 1.2)       # hotel + meals + flights
     marketing = 500 + 700 * fit * rng.uniform(.6, 1.2)
     staff_time = trav * (days + 2) * 220                            # loaded daily cost of staff time
-    SC = .5                                                         # small-company scale
+    SC = 5.5                                                         # small-company scale
     reg, build, ship, travel, marketing, staff_time = (x * SC for x in (reg, build, ship, travel, marketing, staff_time))
     cost = reg + build + ship + travel + marketing + staff_time
     # first-year revenue scales with audience fit (the main driver of event value), then leads and scans are derived from it
