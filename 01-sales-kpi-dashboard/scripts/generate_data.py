@@ -203,8 +203,8 @@ a[0, 0].set(title="Revenue closed so far, by month", ylabel="$K")
 a[0, 0].legend(fontsize=8)
 tot_closed = actual.sum() / 1000
 wc = open_.groupby("forecast_category").weighted_amount.sum() / 1000
-ye = {"Closed so far": tot_closed, "Commit": tot_closed + wc.get("COMMIT", 0), "Commit + best case": tot_closed + wc.get("COMMIT", 0) + wc.get("BEST_CASE", 0),
-      "All pipeline": tot_closed + wc.sum()}
+ye = {"Closed so far": tot_closed, "+ Commit": tot_closed + wc.get("COMMIT", 0), "+ Best case": tot_closed + wc.get("COMMIT", 0) + wc.get("BEST_CASE", 0),
+      "+ Pipeline": tot_closed + wc.sum()}
 a[0, 1].bar(list(ye), list(ye.values()), color=[BLUE, TEAL, GOLD, GREY])
 for i_, v_ in enumerate(ye.values()):
     a[0, 1].text(i_, v_ + 1.5, f"${v_:,.0f}K", ha="center", weight="bold")
