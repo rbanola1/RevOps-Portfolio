@@ -4,6 +4,18 @@
 
 ![Architecture overview](charts/architecture_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Tools disconnected and orders handled by hand"] --> B["Six-layer map with one owner per integration"] --> C["Deal won to invoice 7.8 to 4.4 days"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 The commercial stack had grown one tool at a time: lead sources, a CRM, a web store, an inventory system, accounting software, marketplace platforms, distributors and dashboards. Nobody could draw the whole picture. Products existed in several places with different IDs, someone re-typed each order two or three times, tax-exempt customers were billed tax, duplicate customers appeared, channel orders arrived by email and had no clear path into fulfilment, and revenue in the CRM never matched the invoices.
 

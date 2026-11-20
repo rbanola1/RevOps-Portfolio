@@ -4,6 +4,18 @@
 
 ![Partner program dashboard](charts/partner_program_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Slow partner onboarding and inconsistent catalogs"] --> B["Five-step process, scorecard and one master sheet"] --> C["Every listing verified before launch"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Channel growth meant more partners, each with its own forms, price sheets and catalog data. Onboarding took months with no view of where time went, and the same product appeared with different SKUs, prices, pack sizes and lead times on different partners' sites. Buyers saw the mismatch before the company did.
 

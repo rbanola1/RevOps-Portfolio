@@ -2,6 +2,18 @@
 
 **Fictional company:** RB Tech · **All content is synthetic** · No real systems, customers or products are named
 
+## At a glance
+```mermaid
+flowchart LR
+    A["One person processed every order"] --> B["Order intake SOP, web-store link and a trained backup"] --> C["Two trained operators and a recovery checklist"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Orders reached the company by email, purchase order and web store, and one person knew how to turn them into shipments. Orders were keyed by hand into spreadsheets, stock and customer data were not in one place, and when that person was away the process slowed or stopped.
 

@@ -4,6 +4,18 @@
 
 ![Support overview](charts/support_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Support requests scattered, with spam and email loops"] --> B["Ticketing, phone menu, SLAs, AI triage, guardrails"] --> C["First-response SLA met 29% to 88%"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Customer questions arrived through shared inboxes, a website form, and phone calls, with no single place to see them, no owner per request type, no response-time targets, and no consistent way to handle product complaints, refunds and replacements. Half of inbound email was spam. A support request could sit unanswered for days, and a product issue might never reach the people who needed to know.
 

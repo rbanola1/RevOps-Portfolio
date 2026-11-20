@@ -4,6 +4,18 @@
 
 ![Dashboard overview](charts/dashboard_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Reports disagreed across CRM, ERP and accounting"] --> B["One set of KPI definitions, two BI reports, failover dashboards"] --> C["Forecast, pipeline and product views leaders can trust"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Leadership and the commercial team each wanted a different view: executives wanted revenue, pipeline and forecast on one page; the team wanted weekly activity, data-quality flags and follow-up gaps. Numbers lived in the CRM, the ERP and accounting, so reports disagreed.
 

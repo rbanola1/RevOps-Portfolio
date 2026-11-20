@@ -4,6 +4,18 @@
 
 ![Channel overview](charts/channel_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Distributors and marketplaces handled ad hoc"] --> B["Scorecard, product master and verified listings"] --> C["Channel share planned from 2% to 21% of revenue"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Revenue came almost entirely from direct sales. International customers were hard to serve (cold-chain shipping and import rules), and university and government buyers increasingly purchase through procurement platforms instead of buying from individual suppliers. The goal was to build a second route to market so that about a fifth of revenue flows through channel partners within roughly six quarters.
 

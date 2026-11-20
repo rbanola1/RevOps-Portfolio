@@ -4,6 +4,18 @@
 
 ![Shipping overview](charts/shipping_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Unclear whether the shipping charge covered real cost"] --> B["Monte Carlo simulation of four cost methods"] --> C["Zone tiers cut below-cost shipments from 55% to 33%"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Temperature-controlled orders shipped overnight with dry ice cost far more to deliver than the flat shipping charge customers paid. Nobody knew by how much, because cost depended on destination zone and service level, and the data was thin. Raising the charge risked competitiveness; leaving it risked margin on every order.
 

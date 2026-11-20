@@ -4,6 +4,18 @@
 
 ![Operating system dashboard](charts/operating_system_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Goals, owners and KPI definitions scattered"] --> B["Goal tracker, RACI matrix and KPI dictionary"] --> C["One owner per process, one source per KPI"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Company goals, department goals and commercial projects lived in different lists, so nobody could see which projects served which goal or what was late. Ownership of processes such as pricing approval or lead routing was unclear, and the same KPI (revenue, orders, opportunities) was calculated differently in the CRM, the accounting system and the reports. Executives were handed numbers that did not agree.
 

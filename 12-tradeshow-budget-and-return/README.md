@@ -4,6 +4,18 @@
 
 ![Trade show ROI dashboard](charts/tradeshow_roi_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Event cost and event return were not linked"] --> B["Full cost, cost per lead and return on gross profit"] --> C["A repeat, change or drop call for each show"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Trade shows were the largest marketing line and the hardest to judge. Costs sat in several places (registration, booth, shipping, travel, staff time) and results sat in the CRM. Nobody could say, for a given show, what it cost per qualified lead or whether it paid back, so shows were repeated out of habit.
 

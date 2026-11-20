@@ -4,6 +4,18 @@
 
 ![Budget, forecast and P&L](charts/budget_forecast_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["No single view of plan against actual"] --> B["Budget, driver-based forecast and five forecast types"] --> C["Forecasts leaders can explain and act on"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Leadership needed one view of how the year was going against budget, a forecast they could trust, and cash visibility. Three things made that hard: sales numbers from the CRM did not match accounting invoices, the budget lived in spreadsheets with no variance tracking, and forecasts were extrapolated from last month rather than built from the pipeline.
 

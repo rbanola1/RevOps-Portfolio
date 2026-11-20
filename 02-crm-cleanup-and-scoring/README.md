@@ -4,6 +4,18 @@
 
 ![Cleanup overview](charts/cleanup_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Full marketing tier, messy industry field, engagement-only score"] --> B["Audit, demote, promote and one clean segment field"] --> C["Tier 94% to 58%, classified contacts 55% to 88%"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 The CRM had grown through bulk list imports. The marketing-contact tier was close to its paid limit, three out of four contacts had never opened a marketing email, nearly half had no industry, and the industry field held many overlapping values with no way to report by market. Lead score measured engagement only, so it could not tell a real buyer from a curious bystander. There was no room to nurture good leads because the tier was full of dead weight.
 

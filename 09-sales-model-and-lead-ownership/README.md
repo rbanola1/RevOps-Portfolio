@@ -6,6 +6,18 @@
 
 ![Sales model overview](charts/sales_model_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Reps overlapped on the same accounts"] --> B["Lanes, ownership rules and a research-first check"] --> C["Fewer conflicts and faster responses"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 As the commercial team grew in a niche market, reps started contacting the same customers: two reps emailing the same lab, different reps quoting the same project, a new division of an existing customer with no clear owner, duplicate company records, and disputes over who owned a trade-show lead. Customers got a confusing experience and the CRM could not say who owned what.
 

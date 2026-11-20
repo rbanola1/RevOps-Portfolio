@@ -4,6 +4,18 @@
 
 ![Prospecting dashboard](charts/prospecting_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Keyword exports full of people already in the CRM"] --> B["AI over MCP: signals, suppress, tier, enrich"] --> C["More net-new leads, each with a reason to contact"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Prospecting for a research-cell product line ran on keyword list exports from a scientific lead database. About six in ten exported contacts were already in the CRM, because reps and marketing email blasts had worked them before. Many leads had no email, the emails that came back were matched to the master files by hand, and nothing explained why a researcher was worth contacting *now*. Sales wanted net-new leads with a reason to buy, not longer lists.
 

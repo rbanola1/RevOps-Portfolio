@@ -4,6 +4,18 @@
 
 ![Pipeline health dashboard](charts/pipeline_health_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Pipeline total hid idle deals and unused records"] --> B["Conversion, ageing, coverage and a stalled list"] --> C["Coverage 2.4x against a 3x target, idle records visible"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 The pipeline report showed one number: total open value. It said nothing about whether deals were moving, which sources produced wins, or whether next quarter's quota was actually covered. Leadership saw a healthy total while several deals had not been touched for weeks.
 

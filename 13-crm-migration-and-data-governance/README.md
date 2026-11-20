@@ -4,6 +4,18 @@
 
 ![Migration dashboard](charts/migration_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Messy legacy data and untested backups"] --> B["Clean in staging, reconcile, govern and back up"] --> C["Data-quality score 69% to 92%"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 The company was moving from a legacy CRM to a new one, and the old system held years of records with duplicates, missing owners and inconsistent fields. A straight copy would have moved the mess to a more expensive home. There was also no tested backup: if the new system lost data, nobody knew how long recovery would take.
 

@@ -4,6 +4,18 @@
 
 ![Territory and quota dashboard](charts/territory_quota_dashboard.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Uneven territories, unclear quotas and no pay plan"] --> B["Balanced territories, quota blend and pay plan"] --> C["Territory gap 40% to under 1%"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Reps had territories drawn by geography alone, quotas handed down from the revenue target, and no written pay plan. One rep's patch held far more buying potential than another's, the company target was higher than the reps' own pipeline supported, and international leads from web forms and trade shows had no clear owner.
 
