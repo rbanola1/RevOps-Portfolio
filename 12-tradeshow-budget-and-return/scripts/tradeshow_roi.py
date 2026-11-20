@@ -19,10 +19,10 @@ CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(1201)
 
 # name, audience fit (0-1), booth size, travelers, days
-EVENTS = [("Neuroscience Annual Meeting", .85, "20x20", 4, 5), ("Stem Cell Research Summit", .95, "10x20", 3, 4),
-          ("Toxicology Congress", .70, "10x20", 3, 4), ("Lab Automation Expo", .45, "10x10", 2, 3),
+EVENTS = [("Annual Science Meeting", .85, "20x20", 4, 5), ("Research Summit", .95, "10x20", 3, 4),
+          ("Safety Sciences Congress", .70, "10x20", 3, 4), ("Lab Technology Expo", .45, "10x10", 2, 3),
           ("Regional Biotech Showcase", .65, "10x10", 2, 2), ("Drug Discovery Conference", .60, "10x20", 3, 4),
-          ("Cell Therapy Forum", .90, "10x10", 2, 3), ("Core Facilities Meeting", .55, "tabletop", 2, 3)]
+          ("Therapy Developers Forum", .90, "10x10", 2, 3), ("Core Facilities Meeting", .55, "tabletop", 2, 3)]
 BOOTH_COST = {"20x20": 10500, "10x20": 5300, "10x10": 2800, "tabletop": 900}
 rows = []
 for name, fit, booth, trav, days in EVENTS:

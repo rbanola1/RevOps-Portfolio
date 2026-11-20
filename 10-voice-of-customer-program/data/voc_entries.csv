@@ -1,374 +1,374 @@
 voc_id,event,event_date,source,segment,role,theme,product,sentiment,competitor,contacts_count,became_lead,became_deal,action
-VOC-20260213-1,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Delivery and logistics,Growth Medium,0,,1,True,False,Follow up within 48 hours
-VOC-20260213-2,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,Scientist,Testimonial,Cell Line A,1,Vendor Beta,1,True,True,Request permission to quote
-VOC-20260213-3,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Product request,Media Kit C,1,,2,False,False,Route to product management
-VOC-20260213-4,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,PI / lab head,Objection: evidence or data,Growth Medium,-1,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260213-5,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Director,Product request,Compound Sets,1,,1,True,False,Route to product management
-VOC-20260214-6,Neuroscience Annual Meeting,2026-02-12,Support ticket,Pharma,PI / lab head,Product performance,Media Kit C,0,,2,True,False,Follow up within 48 hours
-VOC-20260213-7,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product performance,Compound Sets,-1,,3,False,False,Follow up within 48 hours
-VOC-20260214-8,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Nonprofit foundation,Director,Pricing and quotes,Growth Medium,-1,In-house protocol,1,False,False,Follow up within 48 hours
-VOC-20260212-9,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CRO,Director,Testimonial,Custom services,2,,1,False,False,Request permission to quote
-VOC-20260214-10,Neuroscience Annual Meeting,2026-02-12,Email,Academia,Director,Product performance,Media Kit C,0,Vendor Beta,1,False,False,Follow up within 48 hours
-VOC-20260212-11,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Testimonial,Compound Sets,2,Vendor Alpha,2,True,False,Request permission to quote
-VOC-20260213-12,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Competitor information,Growth Medium,0,Vendor Gamma,1,True,False,Follow up within 48 hours
-VOC-20260213-13,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Pharma,Founder / executive,Application support,Compound Sets,0,,1,True,False,Send protocol and data
-VOC-20260214-14,Neuroscience Annual Meeting,2026-02-12,Customer survey,Pharma,Scientist,Pricing and quotes,Compound Sets,-2,,2,False,False,Follow up within 48 hours
-VOC-20260214-15,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product request,Custom services,-1,,1,False,False,Route to product management
-VOC-20260214-16,Neuroscience Annual Meeting,2026-02-12,Support ticket,Biotech,Scientist,Application support,Cell Line B,-1,,2,True,False,Send protocol and data
-VOC-20260212-17,Neuroscience Annual Meeting,2026-02-12,Support ticket,Nonprofit foundation,Founder / executive,Testimonial,Cell Line B,1,,2,False,False,Request permission to quote
-VOC-20260212-18,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Director,Pricing and quotes,Growth Medium,-1,,1,True,False,Follow up within 48 hours
-VOC-20260213-19,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Founder / executive,Pricing and quotes,Custom services,-1,,1,True,False,Follow up within 48 hours
-VOC-20260213-20,Neuroscience Annual Meeting,2026-02-12,Email,Distributor,Scientist,Application support,Media Kit C,1,,1,False,False,Send protocol and data
-VOC-20260214-21,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,PI / lab head,Pricing and quotes,Compound Sets,-2,,1,False,False,Follow up within 48 hours
-VOC-20260214-22,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Procurement,Product request,Compound Sets,1,,1,True,True,Route to product management
-VOC-20260213-23,Neuroscience Annual Meeting,2026-02-12,Support ticket,CRO,PI / lab head,Application support,Media Kit C,0,,1,False,False,Send protocol and data
-VOC-20260214-24,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Procurement,Objection: evidence or data,Media Kit C,-2,Vendor Gamma,3,True,False,Send reference and data pack
-VOC-20260214-25,Neuroscience Annual Meeting,2026-02-12,Customer survey,Hospital,PI / lab head,Product request,Cell Line B,0,,1,False,False,Route to product management
-VOC-20260213-26,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Compound Sets,-2,In-house protocol,2,False,False,Send reference and data pack
-VOC-20260212-27,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Director,Competitor information,Compound Sets,0,Vendor Delta,1,False,False,Follow up within 48 hours
-VOC-20260213-28,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Growth Medium,0,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260212-29,Neuroscience Annual Meeting,2026-02-12,Support ticket,Pharma,Founder / executive,Product request,Custom services,0,,3,True,False,Route to product management
-VOC-20260212-30,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Delivery and logistics,Compound Sets,0,,1,False,False,Follow up within 48 hours
-VOC-20260212-31,Neuroscience Annual Meeting,2026-02-12,Email,Academia,Scientist,Product performance,Cell Line B,-1,,1,False,False,Follow up within 48 hours
-VOC-20260214-32,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Procurement,Delivery and logistics,Media Kit C,0,,1,True,False,Follow up within 48 hours
-VOC-20260214-33,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,Scientist,Testimonial,Media Kit C,1,In-house protocol,1,False,False,Request permission to quote
-VOC-20260212-34,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,PI / lab head,Delivery and logistics,Cell Line B,-1,,1,False,False,Follow up within 48 hours
-VOC-20260214-35,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,Scientist,Product performance,Cell Line B,-1,,1,True,False,Follow up within 48 hours
-VOC-20260212-36,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Product performance,Cell Line A,1,In-house protocol,1,False,False,Follow up within 48 hours
-VOC-20260213-37,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,Scientist,Documentation,Media Kit C,0,,3,True,False,Follow up within 48 hours
-VOC-20260212-38,Neuroscience Annual Meeting,2026-02-12,Email,Biotech,Director,Product performance,Growth Medium,0,,2,False,False,Follow up within 48 hours
-VOC-20260212-39,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Cell Line B,0,In-house protocol,1,False,False,Send reference and data pack
-VOC-20260212-40,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
-VOC-20260213-41,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Director,Pricing and quotes,Cell Line B,-1,,1,False,False,Follow up within 48 hours
-VOC-20260213-42,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Director,Testimonial,Cell Line A,1,,2,False,False,Request permission to quote
-VOC-20260212-43,Neuroscience Annual Meeting,2026-02-12,Support ticket,CGT Developer,Founder / executive,Objection: evidence or data,Media Kit C,-1,Vendor Delta,3,True,True,Send reference and data pack
-VOC-20260214-44,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,PI / lab head,Product request,Compound Sets,1,,3,True,False,Route to product management
-VOC-20260214-45,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Government,PI / lab head,Product performance,Cell Line B,1,,1,False,False,Follow up within 48 hours
-VOC-20260212-46,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CRO,Founder / executive,Testimonial,Growth Medium,2,In-house protocol,3,True,True,Request permission to quote
-VOC-20260214-47,Neuroscience Annual Meeting,2026-02-12,Email,CRO,Scientist,Competitor information,Media Kit C,1,Vendor Alpha,1,True,False,Follow up within 48 hours
-VOC-20260214-48,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Director,Competitor information,Compound Sets,0,In-house protocol,1,True,False,Follow up within 48 hours
-VOC-20260214-49,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CRO,Scientist,Documentation,Cell Line A,-1,,2,True,False,Follow up within 48 hours
-VOC-20260214-50,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Procurement,Delivery and logistics,Cell Line A,0,,1,False,False,Follow up within 48 hours
-VOC-20260214-51,Neuroscience Annual Meeting,2026-02-12,Email,Academia,Scientist,Product performance,Cell Line A,-1,,3,False,False,Follow up within 48 hours
-VOC-20260214-52,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CRO,Director,Testimonial,Custom services,1,,2,False,False,Request permission to quote
-VOC-20260213-53,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Product performance,Growth Medium,0,,2,False,False,Follow up within 48 hours
-VOC-20260212-54,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Pricing and quotes,Custom services,1,,3,False,False,Follow up within 48 hours
-VOC-20260214-55,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Distributor,Founder / executive,Documentation,Growth Medium,0,,3,False,False,Follow up within 48 hours
-VOC-20260213-56,Neuroscience Annual Meeting,2026-02-12,Customer survey,CRO,PI / lab head,Documentation,Cell Line B,0,,3,True,True,Follow up within 48 hours
-VOC-20260214-57,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Product request,Cell Line B,0,,1,True,False,Route to product management
-VOC-20260214-58,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Hospital,Founder / executive,Pricing and quotes,Cell Line B,-2,,3,False,False,Follow up within 48 hours
-VOC-20260214-59,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Nonprofit foundation,Scientist,Product performance,Growth Medium,2,,1,False,False,Follow up within 48 hours
-VOC-20260214-60,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Core facility,Director,Documentation,Media Kit C,-2,,1,False,False,Follow up within 48 hours
-VOC-20260214-61,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,Director,Product request,Compound Sets,2,,2,True,False,Route to product management
-VOC-20260214-62,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Product request,Compound Sets,-1,,2,False,False,Route to product management
-VOC-20260212-63,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CGT Developer,Founder / executive,Pricing and quotes,Media Kit C,-1,,1,True,False,Follow up within 48 hours
-VOC-20260212-64,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Documentation,Custom services,0,,2,True,False,Follow up within 48 hours
-VOC-20260212-65,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Documentation,Compound Sets,-2,,2,False,False,Follow up within 48 hours
-VOC-20260213-66,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Founder / executive,Product performance,Cell Line B,1,,1,True,True,Follow up within 48 hours
-VOC-20260213-67,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Documentation,Cell Line A,0,,3,False,False,Follow up within 48 hours
-VOC-20260214-68,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,Scientist,Objection: evidence or data,Cell Line A,-2,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260212-69,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Pharma,Director,Product request,Cell Line A,0,,3,False,False,Route to product management
-VOC-20260213-70,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CRO,Scientist,Delivery and logistics,Custom services,-1,,1,True,False,Follow up within 48 hours
-VOC-20260213-71,Neuroscience Annual Meeting,2026-02-12,Email,Academia,Founder / executive,Pricing and quotes,Growth Medium,0,,1,False,False,Follow up within 48 hours
-VOC-20260212-72,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,Founder / executive,Product performance,Media Kit C,-2,,3,True,False,Follow up within 48 hours
-VOC-20260213-73,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Nonprofit foundation,PI / lab head,Competitor information,Custom services,-1,Vendor Beta,1,True,False,Follow up within 48 hours
-VOC-20260214-74,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CGT Developer,Director,Testimonial,Compound Sets,1,,3,True,False,Request permission to quote
-VOC-20260213-75,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Delivery and logistics,Cell Line A,0,,3,False,False,Follow up within 48 hours
-VOC-20260212-76,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Application support,Growth Medium,-1,Vendor Beta,1,True,False,Send protocol and data
-VOC-20260214-77,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Pricing and quotes,Growth Medium,-2,,1,False,False,Follow up within 48 hours
-VOC-20260212-78,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Objection: evidence or data,Cell Line A,-1,Vendor Gamma,1,False,False,Send reference and data pack
-VOC-20260213-79,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,PI / lab head,Product performance,Media Kit C,-2,,1,True,False,Follow up within 48 hours
-VOC-20260214-80,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,Scientist,Competitor information,Cell Line B,-1,Vendor Gamma,2,False,False,Follow up within 48 hours
-VOC-20260213-81,Neuroscience Annual Meeting,2026-02-12,Support ticket,Academia,Scientist,Product performance,Growth Medium,0,Vendor Delta,1,True,False,Follow up within 48 hours
-VOC-20260213-82,Neuroscience Annual Meeting,2026-02-12,Customer survey,Core facility,Director,Objection: evidence or data,Compound Sets,-2,Vendor Beta,3,False,False,Send reference and data pack
-VOC-20260212-83,Neuroscience Annual Meeting,2026-02-12,Email,Hospital,PI / lab head,Product performance,Custom services,1,,3,True,False,Follow up within 48 hours
-VOC-20260213-84,Neuroscience Annual Meeting,2026-02-12,Support ticket,CGT Developer,Founder / executive,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
-VOC-20260212-85,Neuroscience Annual Meeting,2026-02-12,Customer survey,CRO,Scientist,Pricing and quotes,Cell Line A,0,,1,True,True,Follow up within 48 hours
-VOC-20260214-86,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Government,Procurement,Testimonial,Media Kit C,2,,3,True,False,Request permission to quote
-VOC-20260212-87,Neuroscience Annual Meeting,2026-02-12,Customer survey,Academia,Scientist,Objection: evidence or data,Media Kit C,-1,Vendor Beta,3,True,False,Send reference and data pack
-VOC-20260214-88,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Media Kit C,0,Vendor Alpha,2,False,False,Send reference and data pack
-VOC-20260212-89,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Director,Product request,Cell Line B,0,,2,False,False,Route to product management
-VOC-20260214-90,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Objection: evidence or data,Cell Line B,-2,In-house protocol,1,False,False,Send reference and data pack
-VOC-20260213-91,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Pharma,PI / lab head,Documentation,Compound Sets,0,,3,True,False,Follow up within 48 hours
-VOC-20260213-92,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Delivery and logistics,Cell Line A,0,,1,True,False,Follow up within 48 hours
-VOC-20260214-93,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product performance,Cell Line A,-2,,2,True,False,Follow up within 48 hours
-VOC-20260212-94,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product performance,Growth Medium,0,,3,False,False,Follow up within 48 hours
-VOC-20260212-95,Neuroscience Annual Meeting,2026-02-12,Support ticket,CGT Developer,Procurement,Documentation,Compound Sets,0,,1,True,False,Follow up within 48 hours
-VOC-20260213-96,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Academia,Scientist,Application support,Cell Line A,0,,1,True,True,Send protocol and data
-VOC-20260212-97,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Competitor information,Cell Line A,1,Vendor Gamma,1,False,False,Follow up within 48 hours
-VOC-20260212-98,Neuroscience Annual Meeting,2026-02-12,Customer survey,Core facility,Director,Product performance,Media Kit C,0,,2,False,False,Follow up within 48 hours
-VOC-20260212-99,Neuroscience Annual Meeting,2026-02-12,Booth conversation,Nonprofit foundation,Scientist,Competitor information,Cell Line B,0,Vendor Alpha,1,False,False,Follow up within 48 hours
-VOC-20260214-100,Neuroscience Annual Meeting,2026-02-12,Booth conversation,CRO,Scientist,Testimonial,Media Kit C,2,,1,True,True,Request permission to quote
-VOC-20260326-1,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Custom services,0,Vendor Delta,3,True,True,Follow up within 48 hours
-VOC-20260327-2,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product request,Cell Line B,2,,1,False,False,Route to product management
-VOC-20260325-3,Toxicology Congress,2026-03-25,Support ticket,CGT Developer,Founder / executive,Product request,Custom services,-1,,1,True,False,Route to product management
-VOC-20260325-4,Toxicology Congress,2026-03-25,Booth conversation,CRO,Scientist,Pricing and quotes,Media Kit C,0,,1,True,False,Follow up within 48 hours
-VOC-20260326-5,Toxicology Congress,2026-03-25,Booth conversation,Biotech,PI / lab head,Product performance,Cell Line B,1,,3,False,False,Follow up within 48 hours
-VOC-20260325-6,Toxicology Congress,2026-03-25,Support ticket,Distributor,Director,Product performance,Media Kit C,0,,1,False,False,Follow up within 48 hours
-VOC-20260326-7,Toxicology Congress,2026-03-25,Customer survey,Academia,PI / lab head,Testimonial,Custom services,1,,1,False,False,Request permission to quote
-VOC-20260325-8,Toxicology Congress,2026-03-25,Support ticket,Biotech,PI / lab head,Product request,Cell Line A,2,,1,False,False,Route to product management
-VOC-20260325-9,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Compound Sets,1,,3,True,False,Follow up within 48 hours
-VOC-20260326-10,Toxicology Congress,2026-03-25,Support ticket,Academia,PI / lab head,Application support,Cell Line A,-1,,3,True,False,Send protocol and data
-VOC-20260327-11,Toxicology Congress,2026-03-25,Booth conversation,Distributor,Scientist,Delivery and logistics,Custom services,0,,1,True,False,Follow up within 48 hours
-VOC-20260326-12,Toxicology Congress,2026-03-25,Booth conversation,CRO,Scientist,Application support,Compound Sets,0,,2,False,False,Send protocol and data
-VOC-20260327-13,Toxicology Congress,2026-03-25,Support ticket,Biotech,PI / lab head,Product request,Compound Sets,1,,2,False,False,Route to product management
-VOC-20260326-14,Toxicology Congress,2026-03-25,Booth conversation,Pharma,Founder / executive,Testimonial,Growth Medium,1,,1,False,False,Request permission to quote
-VOC-20260327-15,Toxicology Congress,2026-03-25,Email,CGT Developer,PI / lab head,Pricing and quotes,Cell Line A,-1,,1,True,False,Follow up within 48 hours
-VOC-20260326-16,Toxicology Congress,2026-03-25,Booth conversation,Academia,Procurement,Product request,Cell Line A,1,,2,True,True,Route to product management
-VOC-20260327-17,Toxicology Congress,2026-03-25,Booth conversation,Biotech,Director,Testimonial,Compound Sets,2,,3,False,False,Request permission to quote
-VOC-20260327-18,Toxicology Congress,2026-03-25,Customer survey,Academia,Founder / executive,Product request,Cell Line A,1,,1,False,False,Route to product management
-VOC-20260327-19,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Custom services,0,,1,False,False,Follow up within 48 hours
-VOC-20260325-20,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,Founder / executive,Product performance,Cell Line B,0,,3,False,False,Follow up within 48 hours
-VOC-20260327-21,Toxicology Congress,2026-03-25,Support ticket,Academia,Director,Product request,Custom services,1,Vendor Beta,3,True,False,Route to product management
-VOC-20260327-22,Toxicology Congress,2026-03-25,Booth conversation,Pharma,Director,Testimonial,Growth Medium,0,,3,True,True,Request permission to quote
-VOC-20260327-23,Toxicology Congress,2026-03-25,Support ticket,Academia,Scientist,Delivery and logistics,Growth Medium,0,,1,False,False,Follow up within 48 hours
-VOC-20260326-24,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,Scientist,Product request,Media Kit C,2,,2,True,False,Route to product management
-VOC-20260326-25,Toxicology Congress,2026-03-25,Booth conversation,Government,Procurement,Product request,Compound Sets,0,,2,False,False,Route to product management
-VOC-20260327-26,Toxicology Congress,2026-03-25,Customer survey,CRO,Founder / executive,Product request,Cell Line B,0,,3,True,False,Route to product management
-VOC-20260327-27,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,PI / lab head,Testimonial,Custom services,1,,1,True,False,Request permission to quote
-VOC-20260325-28,Toxicology Congress,2026-03-25,Booth conversation,Nonprofit foundation,PI / lab head,Objection: evidence or data,Cell Line B,-2,Vendor Beta,2,True,True,Send reference and data pack
-VOC-20260327-29,Toxicology Congress,2026-03-25,Booth conversation,Pharma,Procurement,Delivery and logistics,Custom services,0,,1,True,False,Follow up within 48 hours
-VOC-20260326-30,Toxicology Congress,2026-03-25,Customer survey,Academia,Founder / executive,Delivery and logistics,Cell Line B,0,,1,False,False,Follow up within 48 hours
-VOC-20260326-31,Toxicology Congress,2026-03-25,Email,Academia,Director,Documentation,Custom services,-1,Vendor Beta,1,False,False,Follow up within 48 hours
-VOC-20260326-32,Toxicology Congress,2026-03-25,Support ticket,Pharma,Scientist,Product request,Cell Line B,1,,3,False,False,Route to product management
-VOC-20260326-33,Toxicology Congress,2026-03-25,Booth conversation,Hospital,PI / lab head,Testimonial,Cell Line B,2,,3,False,False,Request permission to quote
-VOC-20260326-34,Toxicology Congress,2026-03-25,Booth conversation,Academia,Founder / executive,Application support,Custom services,1,,3,False,False,Send protocol and data
-VOC-20260325-35,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Application support,Compound Sets,0,,1,False,False,Send protocol and data
-VOC-20260326-36,Toxicology Congress,2026-03-25,Email,Academia,Director,Product request,Compound Sets,1,,2,False,False,Route to product management
-VOC-20260327-37,Toxicology Congress,2026-03-25,Customer survey,Nonprofit foundation,Procurement,Competitor information,Media Kit C,-1,Vendor Delta,1,False,False,Follow up within 48 hours
-VOC-20260326-38,Toxicology Congress,2026-03-25,Support ticket,Biotech,Founder / executive,Product performance,Media Kit C,0,,2,True,False,Follow up within 48 hours
-VOC-20260325-39,Toxicology Congress,2026-03-25,Booth conversation,Academia,Founder / executive,Pricing and quotes,Growth Medium,-2,,1,False,False,Follow up within 48 hours
-VOC-20260325-40,Toxicology Congress,2026-03-25,Email,Academia,PI / lab head,Product request,Cell Line A,-1,,3,True,True,Route to product management
-VOC-20260327-41,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Application support,Media Kit C,-1,,3,False,False,Send protocol and data
-VOC-20260327-42,Toxicology Congress,2026-03-25,Support ticket,CRO,Scientist,Testimonial,Cell Line A,1,Vendor Delta,1,True,False,Request permission to quote
-VOC-20260326-43,Toxicology Congress,2026-03-25,Booth conversation,Pharma,Director,Testimonial,Cell Line A,1,,1,False,False,Request permission to quote
-VOC-20260327-44,Toxicology Congress,2026-03-25,Customer survey,Biotech,Director,Product performance,Growth Medium,-1,,3,False,False,Follow up within 48 hours
-VOC-20260326-45,Toxicology Congress,2026-03-25,Booth conversation,Academia,Director,Product request,Growth Medium,1,,1,True,False,Route to product management
-VOC-20260326-46,Toxicology Congress,2026-03-25,Customer survey,Government,Scientist,Product request,Cell Line B,0,,1,False,False,Route to product management
-VOC-20260325-47,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,PI / lab head,Pricing and quotes,Cell Line A,-1,,3,True,False,Follow up within 48 hours
-VOC-20260325-48,Toxicology Congress,2026-03-25,Booth conversation,Academia,Director,Documentation,Growth Medium,2,,2,False,False,Follow up within 48 hours
-VOC-20260327-49,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Media Kit C,1,,1,False,False,Follow up within 48 hours
-VOC-20260327-50,Toxicology Congress,2026-03-25,Booth conversation,Pharma,Director,Product request,Cell Line A,-1,,1,False,False,Route to product management
-VOC-20260327-51,Toxicology Congress,2026-03-25,Support ticket,Biotech,Director,Pricing and quotes,Media Kit C,0,,3,False,False,Follow up within 48 hours
-VOC-20260327-52,Toxicology Congress,2026-03-25,Booth conversation,CRO,PI / lab head,Product request,Custom services,1,,2,False,False,Route to product management
-VOC-20260327-53,Toxicology Congress,2026-03-25,Email,CRO,Director,Delivery and logistics,Compound Sets,0,,1,True,False,Follow up within 48 hours
-VOC-20260327-54,Toxicology Congress,2026-03-25,Booth conversation,Biotech,Scientist,Competitor information,Cell Line A,1,Vendor Alpha,2,True,False,Follow up within 48 hours
-VOC-20260326-55,Toxicology Congress,2026-03-25,Booth conversation,Core facility,PI / lab head,Product request,Cell Line A,2,,1,False,False,Route to product management
-VOC-20260327-56,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product performance,Media Kit C,0,,1,False,False,Follow up within 48 hours
-VOC-20260326-57,Toxicology Congress,2026-03-25,Customer survey,Academia,Founder / executive,Testimonial,Cell Line A,2,,1,True,False,Request permission to quote
-VOC-20260327-58,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Product request,Compound Sets,1,,1,False,False,Route to product management
-VOC-20260327-59,Toxicology Congress,2026-03-25,Support ticket,Biotech,Procurement,Product performance,Growth Medium,2,,2,False,False,Follow up within 48 hours
-VOC-20260327-60,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product performance,Growth Medium,-1,Vendor Delta,1,True,False,Follow up within 48 hours
-VOC-20260326-61,Toxicology Congress,2026-03-25,Booth conversation,Biotech,Scientist,Testimonial,Media Kit C,2,,2,True,False,Request permission to quote
-VOC-20260327-62,Toxicology Congress,2026-03-25,Support ticket,Academia,Director,Product performance,Compound Sets,1,,1,False,False,Follow up within 48 hours
-VOC-20260325-63,Toxicology Congress,2026-03-25,Booth conversation,Nonprofit foundation,Director,Objection: evidence or data,Growth Medium,-1,Vendor Beta,3,False,False,Send reference and data pack
-VOC-20260326-64,Toxicology Congress,2026-03-25,Customer survey,Academia,Founder / executive,Objection: evidence or data,Compound Sets,-2,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260325-65,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,Procurement,Pricing and quotes,Custom services,1,,1,False,False,Follow up within 48 hours
-VOC-20260325-66,Toxicology Congress,2026-03-25,Booth conversation,Core facility,Scientist,Testimonial,Custom services,2,,1,True,False,Request permission to quote
-VOC-20260325-67,Toxicology Congress,2026-03-25,Support ticket,Academia,Scientist,Competitor information,Cell Line A,-1,In-house protocol,1,True,False,Follow up within 48 hours
-VOC-20260327-68,Toxicology Congress,2026-03-25,Booth conversation,Core facility,Scientist,Testimonial,Compound Sets,2,,1,True,False,Request permission to quote
-VOC-20260327-69,Toxicology Congress,2026-03-25,Booth conversation,Academia,Founder / executive,Competitor information,Cell Line B,-2,Vendor Alpha,1,False,False,Follow up within 48 hours
-VOC-20260327-70,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product performance,Custom services,0,,1,True,False,Follow up within 48 hours
-VOC-20260325-71,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,Procurement,Delivery and logistics,Media Kit C,1,,1,False,False,Follow up within 48 hours
-VOC-20260325-72,Toxicology Congress,2026-03-25,Booth conversation,Core facility,Scientist,Product request,Growth Medium,1,,1,True,False,Route to product management
-VOC-20260327-73,Toxicology Congress,2026-03-25,Support ticket,Academia,Scientist,Pricing and quotes,Media Kit C,-1,,1,False,False,Follow up within 48 hours
-VOC-20260327-74,Toxicology Congress,2026-03-25,Support ticket,Academia,Procurement,Product request,Growth Medium,0,,2,True,True,Route to product management
-VOC-20260325-75,Toxicology Congress,2026-03-25,Booth conversation,Biotech,Scientist,Pricing and quotes,Media Kit C,-2,,1,True,True,Follow up within 48 hours
-VOC-20260326-76,Toxicology Congress,2026-03-25,Email,Nonprofit foundation,Director,Product request,Compound Sets,0,,1,True,False,Route to product management
-VOC-20260327-77,Toxicology Congress,2026-03-25,Booth conversation,Biotech,PI / lab head,Application support,Media Kit C,-1,,2,True,False,Send protocol and data
-VOC-20260327-78,Toxicology Congress,2026-03-25,Email,Academia,PI / lab head,Product performance,Compound Sets,-1,,1,False,False,Follow up within 48 hours
-VOC-20260325-79,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Pricing and quotes,Custom services,-1,,3,False,False,Follow up within 48 hours
-VOC-20260325-80,Toxicology Congress,2026-03-25,Booth conversation,CGT Developer,Founder / executive,Product request,Cell Line B,0,,2,False,False,Route to product management
-VOC-20260327-81,Toxicology Congress,2026-03-25,Support ticket,CGT Developer,Scientist,Competitor information,Cell Line A,-1,In-house protocol,1,True,False,Follow up within 48 hours
-VOC-20260327-82,Toxicology Congress,2026-03-25,Support ticket,Academia,Scientist,Competitor information,Media Kit C,0,Vendor Alpha,1,True,False,Follow up within 48 hours
-VOC-20260325-83,Toxicology Congress,2026-03-25,Customer survey,CGT Developer,Founder / executive,Competitor information,Custom services,0,Vendor Beta,3,True,False,Follow up within 48 hours
-VOC-20260327-84,Toxicology Congress,2026-03-25,Booth conversation,Academia,Scientist,Product request,Custom services,2,,1,False,False,Route to product management
-VOC-20260325-85,Toxicology Congress,2026-03-25,Booth conversation,Hospital,Procurement,Pricing and quotes,Cell Line A,-1,,2,False,False,Follow up within 48 hours
-VOC-20260326-86,Toxicology Congress,2026-03-25,Booth conversation,Pharma,PI / lab head,Competitor information,Custom services,-1,Vendor Beta,1,False,False,Follow up within 48 hours
-VOC-20260327-87,Toxicology Congress,2026-03-25,Email,Academia,Scientist,Competitor information,Growth Medium,-1,In-house protocol,1,True,False,Follow up within 48 hours
-VOC-20260327-88,Toxicology Congress,2026-03-25,Booth conversation,Biotech,Director,Product performance,Growth Medium,-1,Vendor Gamma,1,True,False,Follow up within 48 hours
-VOC-20260326-89,Toxicology Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Objection: evidence or data,Custom services,-1,Vendor Alpha,3,False,False,Send reference and data pack
-VOC-20260325-90,Toxicology Congress,2026-03-25,Booth conversation,CRO,Scientist,Testimonial,Compound Sets,2,,1,True,False,Request permission to quote
-VOC-20260420-1,Lab Automation Expo,2026-04-18,Booth conversation,Government,Director,Pricing and quotes,Growth Medium,-1,,1,False,False,Follow up within 48 hours
-VOC-20260418-2,Lab Automation Expo,2026-04-18,Email,Academia,PI / lab head,Pricing and quotes,Cell Line B,1,Vendor Gamma,3,True,False,Follow up within 48 hours
-VOC-20260418-3,Lab Automation Expo,2026-04-18,Customer survey,Pharma,Founder / executive,Testimonial,Growth Medium,2,,1,True,False,Request permission to quote
-VOC-20260419-4,Lab Automation Expo,2026-04-18,Support ticket,Pharma,Scientist,Competitor information,Growth Medium,1,Vendor Delta,1,False,False,Follow up within 48 hours
-VOC-20260418-5,Lab Automation Expo,2026-04-18,Booth conversation,Academia,PI / lab head,Testimonial,Cell Line B,2,,3,False,False,Request permission to quote
-VOC-20260420-6,Lab Automation Expo,2026-04-18,Booth conversation,Core facility,Procurement,Product request,Custom services,-1,,1,False,False,Route to product management
-VOC-20260420-7,Lab Automation Expo,2026-04-18,Booth conversation,Nonprofit foundation,Scientist,Application support,Compound Sets,0,,2,False,False,Send protocol and data
-VOC-20260420-8,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Director,Objection: evidence or data,Custom services,1,Vendor Gamma,1,False,False,Send reference and data pack
-VOC-20260419-9,Lab Automation Expo,2026-04-18,Booth conversation,CRO,Founder / executive,Product performance,Cell Line A,1,,1,False,False,Follow up within 48 hours
-VOC-20260419-10,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Scientist,Competitor information,Cell Line A,1,Vendor Gamma,3,False,False,Follow up within 48 hours
-VOC-20260419-11,Lab Automation Expo,2026-04-18,Support ticket,Academia,PI / lab head,Objection: evidence or data,Cell Line B,0,Vendor Alpha,3,True,False,Send reference and data pack
-VOC-20260419-12,Lab Automation Expo,2026-04-18,Booth conversation,Nonprofit foundation,Scientist,Product performance,Compound Sets,0,,1,False,False,Follow up within 48 hours
-VOC-20260418-13,Lab Automation Expo,2026-04-18,Customer survey,CRO,Director,Competitor information,Cell Line B,-1,Vendor Beta,1,True,False,Follow up within 48 hours
-VOC-20260418-14,Lab Automation Expo,2026-04-18,Support ticket,Hospital,Scientist,Product request,Growth Medium,0,,1,True,False,Route to product management
-VOC-20260418-15,Lab Automation Expo,2026-04-18,Support ticket,CGT Developer,Director,Product request,Compound Sets,2,,1,False,False,Route to product management
-VOC-20260420-16,Lab Automation Expo,2026-04-18,Booth conversation,CRO,Procurement,Objection: evidence or data,Growth Medium,-1,Vendor Alpha,1,False,False,Send reference and data pack
-VOC-20260418-17,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Director,Pricing and quotes,Media Kit C,0,,1,False,False,Follow up within 48 hours
-VOC-20260418-18,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Scientist,Application support,Media Kit C,1,,2,False,False,Send protocol and data
-VOC-20260419-19,Lab Automation Expo,2026-04-18,Booth conversation,Biotech,PI / lab head,Testimonial,Custom services,2,,3,True,False,Request permission to quote
-VOC-20260420-20,Lab Automation Expo,2026-04-18,Customer survey,Academia,Director,Product request,Cell Line B,0,,3,False,False,Route to product management
-VOC-20260420-21,Lab Automation Expo,2026-04-18,Support ticket,Academia,Founder / executive,Documentation,Cell Line A,1,,3,False,False,Follow up within 48 hours
-VOC-20260419-22,Lab Automation Expo,2026-04-18,Booth conversation,CRO,Scientist,Documentation,Cell Line A,1,,1,True,False,Follow up within 48 hours
-VOC-20260419-23,Lab Automation Expo,2026-04-18,Email,Core facility,PI / lab head,Product performance,Media Kit C,0,,1,True,False,Follow up within 48 hours
-VOC-20260419-24,Lab Automation Expo,2026-04-18,Booth conversation,Core facility,Founder / executive,Delivery and logistics,Compound Sets,2,,2,False,False,Follow up within 48 hours
-VOC-20260418-25,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Procurement,Documentation,Cell Line B,0,,1,False,False,Follow up within 48 hours
-VOC-20260420-26,Lab Automation Expo,2026-04-18,Email,Hospital,Procurement,Product request,Compound Sets,0,,2,True,False,Route to product management
-VOC-20260419-27,Lab Automation Expo,2026-04-18,Customer survey,Academia,PI / lab head,Delivery and logistics,Growth Medium,-2,Vendor Beta,1,True,False,Follow up within 48 hours
-VOC-20260418-28,Lab Automation Expo,2026-04-18,Booth conversation,Pharma,Scientist,Pricing and quotes,Compound Sets,-1,,3,False,False,Follow up within 48 hours
-VOC-20260419-29,Lab Automation Expo,2026-04-18,Booth conversation,CRO,Director,Competitor information,Growth Medium,0,Vendor Alpha,3,False,False,Follow up within 48 hours
-VOC-20260418-30,Lab Automation Expo,2026-04-18,Email,Academia,Scientist,Documentation,Custom services,-2,,2,False,False,Follow up within 48 hours
-VOC-20260420-31,Lab Automation Expo,2026-04-18,Email,Pharma,Scientist,Pricing and quotes,Custom services,0,,2,True,False,Follow up within 48 hours
-VOC-20260420-32,Lab Automation Expo,2026-04-18,Support ticket,Biotech,Scientist,Objection: evidence or data,Cell Line B,-2,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260418-33,Lab Automation Expo,2026-04-18,Booth conversation,Biotech,Scientist,Objection: evidence or data,Cell Line B,-1,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260420-34,Lab Automation Expo,2026-04-18,Booth conversation,Nonprofit foundation,Founder / executive,Documentation,Compound Sets,-1,,1,True,False,Follow up within 48 hours
-VOC-20260420-35,Lab Automation Expo,2026-04-18,Support ticket,Academia,Founder / executive,Testimonial,Media Kit C,2,,3,True,False,Request permission to quote
-VOC-20260420-36,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Scientist,Product request,Media Kit C,2,,1,False,False,Route to product management
-VOC-20260418-37,Lab Automation Expo,2026-04-18,Email,Biotech,Scientist,Testimonial,Growth Medium,1,,1,False,False,Request permission to quote
-VOC-20260418-38,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
-VOC-20260419-39,Lab Automation Expo,2026-04-18,Booth conversation,CGT Developer,Director,Testimonial,Cell Line B,1,,1,False,False,Request permission to quote
-VOC-20260418-40,Lab Automation Expo,2026-04-18,Email,Biotech,Scientist,Pricing and quotes,Custom services,-2,,2,True,False,Follow up within 48 hours
-VOC-20260419-41,Lab Automation Expo,2026-04-18,Support ticket,Distributor,PI / lab head,Product performance,Growth Medium,-1,,1,True,True,Follow up within 48 hours
-VOC-20260420-42,Lab Automation Expo,2026-04-18,Support ticket,Nonprofit foundation,PI / lab head,Application support,Custom services,0,,1,False,False,Send protocol and data
-VOC-20260419-43,Lab Automation Expo,2026-04-18,Booth conversation,Core facility,Scientist,Delivery and logistics,Compound Sets,-1,,3,False,False,Follow up within 48 hours
-VOC-20260419-44,Lab Automation Expo,2026-04-18,Booth conversation,Nonprofit foundation,Founder / executive,Product performance,Growth Medium,-2,,1,False,False,Follow up within 48 hours
-VOC-20260420-45,Lab Automation Expo,2026-04-18,Booth conversation,Government,Founder / executive,Testimonial,Compound Sets,2,,1,True,False,Request permission to quote
-VOC-20260420-46,Lab Automation Expo,2026-04-18,Booth conversation,Hospital,Founder / executive,Testimonial,Custom services,2,,1,False,False,Request permission to quote
-VOC-20260419-47,Lab Automation Expo,2026-04-18,Support ticket,Academia,Director,Product performance,Custom services,0,,1,False,False,Follow up within 48 hours
-VOC-20260420-48,Lab Automation Expo,2026-04-18,Support ticket,Academia,PI / lab head,Documentation,Growth Medium,-1,,1,True,True,Follow up within 48 hours
-VOC-20260419-49,Lab Automation Expo,2026-04-18,Booth conversation,Hospital,Director,Documentation,Compound Sets,0,,1,False,False,Follow up within 48 hours
-VOC-20260418-50,Lab Automation Expo,2026-04-18,Email,Core facility,Director,Competitor information,Compound Sets,-1,Vendor Delta,1,False,False,Follow up within 48 hours
-VOC-20260420-51,Lab Automation Expo,2026-04-18,Booth conversation,Core facility,PI / lab head,Documentation,Compound Sets,-1,,3,True,False,Follow up within 48 hours
-VOC-20260419-52,Lab Automation Expo,2026-04-18,Email,Pharma,PI / lab head,Product performance,Cell Line B,-1,,1,False,False,Follow up within 48 hours
-VOC-20260420-53,Lab Automation Expo,2026-04-18,Support ticket,Core facility,Procurement,Pricing and quotes,Growth Medium,-1,,2,False,False,Follow up within 48 hours
-VOC-20260418-54,Lab Automation Expo,2026-04-18,Booth conversation,Government,Scientist,Application support,Cell Line B,1,,1,True,False,Send protocol and data
-VOC-20260420-55,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Director,Product request,Media Kit C,0,,1,False,False,Route to product management
-VOC-20260418-56,Lab Automation Expo,2026-04-18,Email,CRO,Scientist,Application support,Media Kit C,0,,1,True,False,Send protocol and data
-VOC-20260420-57,Lab Automation Expo,2026-04-18,Customer survey,Academia,Scientist,Objection: evidence or data,Growth Medium,-2,Vendor Delta,3,True,False,Send reference and data pack
-VOC-20260418-58,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Founder / executive,Product performance,Cell Line B,0,,3,False,False,Follow up within 48 hours
-VOC-20260419-59,Lab Automation Expo,2026-04-18,Support ticket,Government,Director,Product performance,Cell Line B,0,,3,False,False,Follow up within 48 hours
-VOC-20260418-60,Lab Automation Expo,2026-04-18,Support ticket,Government,Director,Documentation,Custom services,-1,,2,True,False,Follow up within 48 hours
-VOC-20260420-61,Lab Automation Expo,2026-04-18,Booth conversation,Academia,PI / lab head,Application support,Compound Sets,0,,2,True,False,Send protocol and data
-VOC-20260420-62,Lab Automation Expo,2026-04-18,Email,Pharma,Founder / executive,Competitor information,Growth Medium,-1,Vendor Gamma,1,False,False,Follow up within 48 hours
-VOC-20260420-63,Lab Automation Expo,2026-04-18,Booth conversation,CRO,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
-VOC-20260420-64,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Director,Competitor information,Cell Line A,1,Vendor Beta,1,False,False,Follow up within 48 hours
-VOC-20260420-65,Lab Automation Expo,2026-04-18,Booth conversation,Academia,Director,Product request,Media Kit C,1,,1,False,False,Route to product management
-VOC-20260418-66,Lab Automation Expo,2026-04-18,Booth conversation,CRO,Procurement,Delivery and logistics,Custom services,-2,,2,False,False,Follow up within 48 hours
-VOC-20260418-67,Lab Automation Expo,2026-04-18,Booth conversation,Biotech,Scientist,Testimonial,Cell Line B,2,,1,False,False,Request permission to quote
-VOC-20260418-68,Lab Automation Expo,2026-04-18,Email,Academia,Procurement,Pricing and quotes,Growth Medium,-1,,1,False,False,Follow up within 48 hours
-VOC-20260418-69,Lab Automation Expo,2026-04-18,Booth conversation,CGT Developer,Founder / executive,Objection: evidence or data,Cell Line B,-2,Vendor Gamma,2,False,False,Send reference and data pack
-VOC-20260419-70,Lab Automation Expo,2026-04-18,Booth conversation,Academia,PI / lab head,Product request,Compound Sets,1,,1,True,True,Route to product management
-VOC-20260610-1,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,Scientist,Product request,Custom services,1,In-house protocol,1,False,False,Route to product management
-VOC-20260610-2,Stem Cell Research Summit,2026-06-10,Booth conversation,CGT Developer,Director,Testimonial,Cell Line A,2,,3,True,False,Request permission to quote
-VOC-20260611-3,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Testimonial,Custom services,2,,1,True,False,Request permission to quote
-VOC-20260611-4,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Procurement,Objection: evidence or data,Media Kit C,-2,Vendor Delta,2,False,False,Send reference and data pack
-VOC-20260612-5,Stem Cell Research Summit,2026-06-10,Booth conversation,CRO,Procurement,Competitor information,Media Kit C,-1,In-house protocol,3,False,False,Follow up within 48 hours
-VOC-20260612-6,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Procurement,Product performance,Cell Line A,0,,3,True,False,Follow up within 48 hours
-VOC-20260611-7,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Director,Product request,Growth Medium,2,,1,False,False,Route to product management
-VOC-20260612-8,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product request,Cell Line A,1,,1,False,False,Route to product management
-VOC-20260611-9,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Product request,Media Kit C,1,,1,False,False,Route to product management
-VOC-20260611-10,Stem Cell Research Summit,2026-06-10,Email,Academia,Procurement,Documentation,Growth Medium,0,,3,True,False,Follow up within 48 hours
-VOC-20260612-11,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Product performance,Compound Sets,0,,1,True,True,Follow up within 48 hours
-VOC-20260611-12,Stem Cell Research Summit,2026-06-10,Customer survey,Academia,PI / lab head,Testimonial,Media Kit C,1,,1,True,False,Request permission to quote
-VOC-20260610-13,Stem Cell Research Summit,2026-06-10,Booth conversation,CRO,Director,Product request,Growth Medium,0,,3,True,False,Route to product management
-VOC-20260611-14,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Competitor information,Media Kit C,0,Vendor Beta,1,False,False,Follow up within 48 hours
-VOC-20260611-15,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product performance,Media Kit C,0,,1,True,False,Follow up within 48 hours
-VOC-20260612-16,Stem Cell Research Summit,2026-06-10,Booth conversation,Hospital,Founder / executive,Application support,Compound Sets,2,,1,False,False,Send protocol and data
-VOC-20260610-17,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Delivery and logistics,Cell Line B,0,,3,True,True,Follow up within 48 hours
-VOC-20260612-18,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Director,Pricing and quotes,Cell Line A,-2,,2,True,False,Follow up within 48 hours
-VOC-20260610-19,Stem Cell Research Summit,2026-06-10,Support ticket,CRO,Scientist,Product performance,Media Kit C,0,,1,True,True,Follow up within 48 hours
-VOC-20260612-20,Stem Cell Research Summit,2026-06-10,Booth conversation,Distributor,Director,Product performance,Custom services,-1,,1,False,False,Follow up within 48 hours
-VOC-20260610-21,Stem Cell Research Summit,2026-06-10,Support ticket,Government,Scientist,Documentation,Media Kit C,1,,2,False,False,Follow up within 48 hours
-VOC-20260610-22,Stem Cell Research Summit,2026-06-10,Support ticket,CRO,Director,Documentation,Media Kit C,1,,1,True,False,Follow up within 48 hours
-VOC-20260611-23,Stem Cell Research Summit,2026-06-10,Booth conversation,CGT Developer,Scientist,Application support,Custom services,1,,1,False,False,Send protocol and data
-VOC-20260612-24,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Director,Documentation,Cell Line A,0,,1,True,False,Follow up within 48 hours
-VOC-20260610-25,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Director,Product performance,Cell Line A,-1,,1,False,False,Follow up within 48 hours
-VOC-20260611-26,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Pricing and quotes,Cell Line A,-2,,3,False,False,Follow up within 48 hours
-VOC-20260610-27,Stem Cell Research Summit,2026-06-10,Email,Distributor,Procurement,Competitor information,Media Kit C,2,Vendor Beta,3,False,False,Follow up within 48 hours
-VOC-20260611-28,Stem Cell Research Summit,2026-06-10,Booth conversation,CRO,Founder / executive,Pricing and quotes,Media Kit C,0,,2,True,False,Follow up within 48 hours
-VOC-20260611-29,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Documentation,Growth Medium,-1,,2,True,True,Follow up within 48 hours
-VOC-20260610-30,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Director,Application support,Cell Line A,0,,1,False,False,Send protocol and data
-VOC-20260610-31,Stem Cell Research Summit,2026-06-10,Booth conversation,Distributor,PI / lab head,Objection: evidence or data,Custom services,-1,In-house protocol,1,False,False,Send reference and data pack
-VOC-20260610-32,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,PI / lab head,Pricing and quotes,Cell Line A,-1,,1,True,True,Follow up within 48 hours
-VOC-20260612-33,Stem Cell Research Summit,2026-06-10,Email,Academia,Scientist,Objection: evidence or data,Custom services,-1,Vendor Alpha,2,False,False,Send reference and data pack
-VOC-20260612-34,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Delivery and logistics,Compound Sets,1,,1,True,False,Follow up within 48 hours
-VOC-20260612-35,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Competitor information,Media Kit C,1,Vendor Gamma,3,False,False,Follow up within 48 hours
-VOC-20260612-36,Stem Cell Research Summit,2026-06-10,Booth conversation,Government,Founder / executive,Delivery and logistics,Custom services,-1,,1,True,False,Follow up within 48 hours
-VOC-20260612-37,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,Director,Delivery and logistics,Compound Sets,-1,,1,False,False,Follow up within 48 hours
-VOC-20260611-38,Stem Cell Research Summit,2026-06-10,Customer survey,CRO,PI / lab head,Product performance,Custom services,1,Vendor Alpha,1,False,False,Follow up within 48 hours
-VOC-20260612-39,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Application support,Custom services,0,,3,True,False,Send protocol and data
-VOC-20260611-40,Stem Cell Research Summit,2026-06-10,Customer survey,Pharma,Procurement,Product performance,Compound Sets,0,In-house protocol,1,True,False,Follow up within 48 hours
-VOC-20260610-41,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Founder / executive,Objection: evidence or data,Custom services,-1,Vendor Beta,1,False,False,Send reference and data pack
-VOC-20260612-42,Stem Cell Research Summit,2026-06-10,Booth conversation,Pharma,Procurement,Testimonial,Cell Line B,1,,1,False,False,Request permission to quote
-VOC-20260611-43,Stem Cell Research Summit,2026-06-10,Booth conversation,Nonprofit foundation,PI / lab head,Testimonial,Cell Line B,0,Vendor Alpha,2,True,False,Request permission to quote
-VOC-20260611-44,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Procurement,Delivery and logistics,Custom services,0,,3,True,True,Follow up within 48 hours
-VOC-20260610-45,Stem Cell Research Summit,2026-06-10,Support ticket,Nonprofit foundation,Scientist,Product request,Compound Sets,-1,,1,True,False,Route to product management
-VOC-20260612-46,Stem Cell Research Summit,2026-06-10,Booth conversation,CGT Developer,PI / lab head,Delivery and logistics,Custom services,-1,,2,False,False,Follow up within 48 hours
-VOC-20260610-47,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Pricing and quotes,Media Kit C,-1,,1,True,False,Follow up within 48 hours
-VOC-20260612-48,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Product performance,Compound Sets,0,In-house protocol,2,True,False,Follow up within 48 hours
-VOC-20260611-49,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Director,Pricing and quotes,Growth Medium,-2,,2,False,False,Follow up within 48 hours
-VOC-20260611-50,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Competitor information,Custom services,0,Vendor Beta,2,True,False,Follow up within 48 hours
-VOC-20260610-51,Stem Cell Research Summit,2026-06-10,Support ticket,CRO,Scientist,Testimonial,Custom services,0,In-house protocol,1,False,False,Request permission to quote
-VOC-20260611-52,Stem Cell Research Summit,2026-06-10,Booth conversation,Hospital,Scientist,Product performance,Media Kit C,-1,,1,False,False,Follow up within 48 hours
-VOC-20260611-53,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Procurement,Product performance,Media Kit C,1,,2,False,False,Follow up within 48 hours
-VOC-20260611-54,Stem Cell Research Summit,2026-06-10,Booth conversation,CGT Developer,Founder / executive,Product request,Growth Medium,0,,2,False,False,Route to product management
-VOC-20260610-55,Stem Cell Research Summit,2026-06-10,Email,CRO,Scientist,Pricing and quotes,Growth Medium,-2,,1,True,False,Follow up within 48 hours
-VOC-20260612-56,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Competitor information,Cell Line A,-2,In-house protocol,1,False,False,Follow up within 48 hours
-VOC-20260612-57,Stem Cell Research Summit,2026-06-10,Booth conversation,Nonprofit foundation,PI / lab head,Pricing and quotes,Custom services,-1,,3,False,False,Follow up within 48 hours
-VOC-20260612-58,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Founder / executive,Application support,Custom services,0,Vendor Gamma,3,True,False,Send protocol and data
-VOC-20260610-59,Stem Cell Research Summit,2026-06-10,Support ticket,CGT Developer,PI / lab head,Pricing and quotes,Custom services,0,,2,False,False,Follow up within 48 hours
-VOC-20260610-60,Stem Cell Research Summit,2026-06-10,Customer survey,Biotech,Procurement,Application support,Cell Line A,1,,2,True,True,Send protocol and data
-VOC-20260610-61,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,PI / lab head,Product performance,Cell Line B,-1,,2,True,False,Follow up within 48 hours
-VOC-20260611-62,Stem Cell Research Summit,2026-06-10,Support ticket,Core facility,PI / lab head,Application support,Cell Line B,-1,,1,True,True,Send protocol and data
-VOC-20260611-63,Stem Cell Research Summit,2026-06-10,Booth conversation,CRO,Founder / executive,Testimonial,Cell Line B,1,,2,False,False,Request permission to quote
-VOC-20260612-64,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Application support,Cell Line A,0,,2,False,False,Send protocol and data
-VOC-20260611-65,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Founder / executive,Pricing and quotes,Media Kit C,-1,,1,True,True,Follow up within 48 hours
-VOC-20260611-66,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Product request,Compound Sets,0,Vendor Beta,1,False,False,Route to product management
-VOC-20260610-67,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Documentation,Cell Line B,0,,1,True,False,Follow up within 48 hours
-VOC-20260610-68,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
-VOC-20260612-69,Stem Cell Research Summit,2026-06-10,Customer survey,CRO,Founder / executive,Product performance,Cell Line A,0,,3,False,False,Follow up within 48 hours
-VOC-20260610-70,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Director,Product request,Cell Line B,1,,1,True,False,Route to product management
-VOC-20260610-71,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Application support,Media Kit C,0,,3,False,False,Send protocol and data
-VOC-20260611-72,Stem Cell Research Summit,2026-06-10,Booth conversation,CRO,PI / lab head,Product performance,Cell Line B,1,,3,True,False,Follow up within 48 hours
-VOC-20260611-73,Stem Cell Research Summit,2026-06-10,Email,Academia,PI / lab head,Product request,Cell Line A,0,,1,True,False,Route to product management
-VOC-20260612-74,Stem Cell Research Summit,2026-06-10,Support ticket,Nonprofit foundation,PI / lab head,Pricing and quotes,Custom services,0,,1,True,True,Follow up within 48 hours
-VOC-20260612-75,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Product performance,Cell Line A,-1,,2,True,False,Follow up within 48 hours
-VOC-20260611-76,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,Scientist,Product performance,Cell Line A,0,,1,False,False,Follow up within 48 hours
-VOC-20260611-77,Stem Cell Research Summit,2026-06-10,Email,Biotech,Scientist,Competitor information,Media Kit C,-1,Vendor Alpha,1,True,True,Follow up within 48 hours
-VOC-20260610-78,Stem Cell Research Summit,2026-06-10,Booth conversation,CGT Developer,Scientist,Delivery and logistics,Growth Medium,-1,,1,False,False,Follow up within 48 hours
-VOC-20260612-79,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Documentation,Compound Sets,-2,,3,True,False,Follow up within 48 hours
-VOC-20260612-80,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Application support,Cell Line A,2,,3,True,False,Send protocol and data
-VOC-20260611-81,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Product performance,Cell Line B,-1,,3,True,False,Follow up within 48 hours
-VOC-20260610-82,Stem Cell Research Summit,2026-06-10,Booth conversation,Distributor,Founder / executive,Delivery and logistics,Cell Line B,0,,1,False,False,Follow up within 48 hours
-VOC-20260611-83,Stem Cell Research Summit,2026-06-10,Customer survey,Academia,Scientist,Objection: evidence or data,Custom services,-1,Vendor Beta,1,True,False,Send reference and data pack
-VOC-20260612-84,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Director,Product performance,Custom services,0,,1,True,True,Follow up within 48 hours
-VOC-20260611-85,Stem Cell Research Summit,2026-06-10,Customer survey,Biotech,PI / lab head,Pricing and quotes,Growth Medium,-2,,2,False,False,Follow up within 48 hours
-VOC-20260610-86,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Director,Pricing and quotes,Custom services,-1,,1,True,True,Follow up within 48 hours
-VOC-20260610-87,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Documentation,Custom services,0,,3,True,False,Follow up within 48 hours
-VOC-20260612-88,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Objection: evidence or data,Cell Line B,-2,Vendor Delta,1,False,False,Send reference and data pack
-VOC-20260612-89,Stem Cell Research Summit,2026-06-10,Booth conversation,CRO,Director,Pricing and quotes,Growth Medium,0,,1,True,True,Follow up within 48 hours
-VOC-20260611-90,Stem Cell Research Summit,2026-06-10,Email,Academia,Director,Pricing and quotes,Compound Sets,-1,,1,False,False,Follow up within 48 hours
-VOC-20260610-91,Stem Cell Research Summit,2026-06-10,Booth conversation,Hospital,Founder / executive,Delivery and logistics,Media Kit C,-1,,1,True,True,Follow up within 48 hours
-VOC-20260610-92,Stem Cell Research Summit,2026-06-10,Booth conversation,Pharma,Founder / executive,Product performance,Cell Line A,1,,3,True,True,Follow up within 48 hours
-VOC-20260611-93,Stem Cell Research Summit,2026-06-10,Customer survey,Biotech,Procurement,Delivery and logistics,Custom services,0,,1,False,False,Follow up within 48 hours
-VOC-20260611-94,Stem Cell Research Summit,2026-06-10,Booth conversation,Government,Procurement,Product performance,Media Kit C,0,,1,True,False,Follow up within 48 hours
-VOC-20260612-95,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Director,Testimonial,Media Kit C,2,,1,True,False,Request permission to quote
-VOC-20260611-96,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Application support,Cell Line A,0,,1,False,False,Send protocol and data
-VOC-20260610-97,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Procurement,Delivery and logistics,Media Kit C,-1,,3,True,True,Follow up within 48 hours
-VOC-20260612-98,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,Founder / executive,Delivery and logistics,Custom services,1,,3,False,False,Follow up within 48 hours
-VOC-20260610-99,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Application support,Custom services,0,,2,False,False,Send protocol and data
-VOC-20260612-100,Stem Cell Research Summit,2026-06-10,Email,Pharma,Scientist,Delivery and logistics,Media Kit C,0,,3,True,False,Follow up within 48 hours
-VOC-20260611-101,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Pricing and quotes,Media Kit C,0,,1,False,False,Follow up within 48 hours
-VOC-20260611-102,Stem Cell Research Summit,2026-06-10,Support ticket,CRO,Founder / executive,Product performance,Compound Sets,-1,,1,True,False,Follow up within 48 hours
-VOC-20260610-103,Stem Cell Research Summit,2026-06-10,Booth conversation,Biotech,PI / lab head,Application support,Cell Line A,0,,2,False,False,Send protocol and data
-VOC-20260611-104,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,Scientist,Pricing and quotes,Custom services,-1,,1,False,False,Follow up within 48 hours
-VOC-20260610-105,Stem Cell Research Summit,2026-06-10,Support ticket,Biotech,Founder / executive,Application support,Compound Sets,0,,1,True,False,Send protocol and data
-VOC-20260610-106,Stem Cell Research Summit,2026-06-10,Booth conversation,Core facility,PI / lab head,Product request,Custom services,1,,1,True,False,Route to product management
-VOC-20260611-107,Stem Cell Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Product performance,Cell Line A,2,,2,True,False,Follow up within 48 hours
-VOC-20260610-108,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product performance,Media Kit C,1,,1,False,False,Follow up within 48 hours
-VOC-20260612-109,Stem Cell Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product request,Custom services,1,,1,False,False,Route to product management
-VOC-20260612-110,Stem Cell Research Summit,2026-06-10,Support ticket,Distributor,PI / lab head,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
+VOC-20260213-1,Annual Science Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Delivery and logistics,Growth Medium,0,,1,True,False,Follow up within 48 hours
+VOC-20260213-2,Annual Science Meeting,2026-02-12,Customer survey,Academia,Scientist,Testimonial,Cell Line A,1,Vendor Beta,1,True,True,Request permission to quote
+VOC-20260213-3,Annual Science Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Product request,Media Kit C,1,,2,False,False,Route to product management
+VOC-20260213-4,Annual Science Meeting,2026-02-12,Support ticket,Academia,PI / lab head,Objection: evidence or data,Growth Medium,-1,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260213-5,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Director,Product request,Compound Sets,1,,1,True,False,Route to product management
+VOC-20260214-6,Annual Science Meeting,2026-02-12,Support ticket,Pharma,PI / lab head,Product performance,Media Kit C,0,,2,True,False,Follow up within 48 hours
+VOC-20260213-7,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product performance,Compound Sets,-1,,3,False,False,Follow up within 48 hours
+VOC-20260214-8,Annual Science Meeting,2026-02-12,Booth conversation,Nonprofit foundation,Director,Pricing and quotes,Growth Medium,-1,In-house protocol,1,False,False,Follow up within 48 hours
+VOC-20260212-9,Annual Science Meeting,2026-02-12,Booth conversation,CRO,Director,Testimonial,Custom services,2,,1,False,False,Request permission to quote
+VOC-20260214-10,Annual Science Meeting,2026-02-12,Email,Academia,Director,Product performance,Media Kit C,0,Vendor Beta,1,False,False,Follow up within 48 hours
+VOC-20260212-11,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Testimonial,Compound Sets,2,Vendor Alpha,2,True,False,Request permission to quote
+VOC-20260213-12,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Competitor information,Growth Medium,0,Vendor Gamma,1,True,False,Follow up within 48 hours
+VOC-20260213-13,Annual Science Meeting,2026-02-12,Booth conversation,Pharma,Founder / executive,Application support,Compound Sets,0,,1,True,False,Send protocol and data
+VOC-20260214-14,Annual Science Meeting,2026-02-12,Customer survey,Pharma,Scientist,Pricing and quotes,Compound Sets,-2,,2,False,False,Follow up within 48 hours
+VOC-20260214-15,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product request,Custom services,-1,,1,False,False,Route to product management
+VOC-20260214-16,Annual Science Meeting,2026-02-12,Support ticket,Biotech,Scientist,Application support,Cell Line B,-1,,2,True,False,Send protocol and data
+VOC-20260212-17,Annual Science Meeting,2026-02-12,Support ticket,Nonprofit foundation,Founder / executive,Testimonial,Cell Line B,1,,2,False,False,Request permission to quote
+VOC-20260212-18,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Director,Pricing and quotes,Growth Medium,-1,,1,True,False,Follow up within 48 hours
+VOC-20260213-19,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Founder / executive,Pricing and quotes,Custom services,-1,,1,True,False,Follow up within 48 hours
+VOC-20260213-20,Annual Science Meeting,2026-02-12,Email,Distributor,Scientist,Application support,Media Kit C,1,,1,False,False,Send protocol and data
+VOC-20260214-21,Annual Science Meeting,2026-02-12,Support ticket,Academia,PI / lab head,Pricing and quotes,Compound Sets,-2,,1,False,False,Follow up within 48 hours
+VOC-20260214-22,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Procurement,Product request,Compound Sets,1,,1,True,True,Route to product management
+VOC-20260213-23,Annual Science Meeting,2026-02-12,Support ticket,CRO,PI / lab head,Application support,Media Kit C,0,,1,False,False,Send protocol and data
+VOC-20260214-24,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Procurement,Objection: evidence or data,Media Kit C,-2,Vendor Gamma,3,True,False,Send reference and data pack
+VOC-20260214-25,Annual Science Meeting,2026-02-12,Customer survey,Hospital,PI / lab head,Product request,Cell Line B,0,,1,False,False,Route to product management
+VOC-20260213-26,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Compound Sets,-2,In-house protocol,2,False,False,Send reference and data pack
+VOC-20260212-27,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Director,Competitor information,Compound Sets,0,Vendor Delta,1,False,False,Follow up within 48 hours
+VOC-20260213-28,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Growth Medium,0,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260212-29,Annual Science Meeting,2026-02-12,Support ticket,Pharma,Founder / executive,Product request,Custom services,0,,3,True,False,Route to product management
+VOC-20260212-30,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Delivery and logistics,Compound Sets,0,,1,False,False,Follow up within 48 hours
+VOC-20260212-31,Annual Science Meeting,2026-02-12,Email,Academia,Scientist,Product performance,Cell Line B,-1,,1,False,False,Follow up within 48 hours
+VOC-20260214-32,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Procurement,Delivery and logistics,Media Kit C,0,,1,True,False,Follow up within 48 hours
+VOC-20260214-33,Annual Science Meeting,2026-02-12,Customer survey,Academia,Scientist,Testimonial,Media Kit C,1,In-house protocol,1,False,False,Request permission to quote
+VOC-20260212-34,Annual Science Meeting,2026-02-12,Support ticket,Academia,PI / lab head,Delivery and logistics,Cell Line B,-1,,1,False,False,Follow up within 48 hours
+VOC-20260214-35,Annual Science Meeting,2026-02-12,Customer survey,Academia,Scientist,Product performance,Cell Line B,-1,,1,True,False,Follow up within 48 hours
+VOC-20260212-36,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Product performance,Cell Line A,1,In-house protocol,1,False,False,Follow up within 48 hours
+VOC-20260213-37,Annual Science Meeting,2026-02-12,Support ticket,Academia,Scientist,Documentation,Media Kit C,0,,3,True,False,Follow up within 48 hours
+VOC-20260212-38,Annual Science Meeting,2026-02-12,Email,Biotech,Director,Product performance,Growth Medium,0,,2,False,False,Follow up within 48 hours
+VOC-20260212-39,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Cell Line B,0,In-house protocol,1,False,False,Send reference and data pack
+VOC-20260212-40,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
+VOC-20260213-41,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Director,Pricing and quotes,Cell Line B,-1,,1,False,False,Follow up within 48 hours
+VOC-20260213-42,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Director,Testimonial,Cell Line A,1,,2,False,False,Request permission to quote
+VOC-20260212-43,Annual Science Meeting,2026-02-12,Support ticket,CGT Developer,Founder / executive,Objection: evidence or data,Media Kit C,-1,Vendor Delta,3,True,True,Send reference and data pack
+VOC-20260214-44,Annual Science Meeting,2026-02-12,Customer survey,Academia,PI / lab head,Product request,Compound Sets,1,,3,True,False,Route to product management
+VOC-20260214-45,Annual Science Meeting,2026-02-12,Booth conversation,Government,PI / lab head,Product performance,Cell Line B,1,,1,False,False,Follow up within 48 hours
+VOC-20260212-46,Annual Science Meeting,2026-02-12,Booth conversation,CRO,Founder / executive,Testimonial,Growth Medium,2,In-house protocol,3,True,True,Request permission to quote
+VOC-20260214-47,Annual Science Meeting,2026-02-12,Email,CRO,Scientist,Competitor information,Media Kit C,1,Vendor Alpha,1,True,False,Follow up within 48 hours
+VOC-20260214-48,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Director,Competitor information,Compound Sets,0,In-house protocol,1,True,False,Follow up within 48 hours
+VOC-20260214-49,Annual Science Meeting,2026-02-12,Booth conversation,CRO,Scientist,Documentation,Cell Line A,-1,,2,True,False,Follow up within 48 hours
+VOC-20260214-50,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Procurement,Delivery and logistics,Cell Line A,0,,1,False,False,Follow up within 48 hours
+VOC-20260214-51,Annual Science Meeting,2026-02-12,Email,Academia,Scientist,Product performance,Cell Line A,-1,,3,False,False,Follow up within 48 hours
+VOC-20260214-52,Annual Science Meeting,2026-02-12,Booth conversation,CRO,Director,Testimonial,Custom services,1,,2,False,False,Request permission to quote
+VOC-20260213-53,Annual Science Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Product performance,Growth Medium,0,,2,False,False,Follow up within 48 hours
+VOC-20260212-54,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Pricing and quotes,Custom services,1,,3,False,False,Follow up within 48 hours
+VOC-20260214-55,Annual Science Meeting,2026-02-12,Booth conversation,Distributor,Founder / executive,Documentation,Growth Medium,0,,3,False,False,Follow up within 48 hours
+VOC-20260213-56,Annual Science Meeting,2026-02-12,Customer survey,CRO,PI / lab head,Documentation,Cell Line B,0,,3,True,True,Follow up within 48 hours
+VOC-20260214-57,Annual Science Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Product request,Cell Line B,0,,1,True,False,Route to product management
+VOC-20260214-58,Annual Science Meeting,2026-02-12,Booth conversation,Hospital,Founder / executive,Pricing and quotes,Cell Line B,-2,,3,False,False,Follow up within 48 hours
+VOC-20260214-59,Annual Science Meeting,2026-02-12,Booth conversation,Nonprofit foundation,Scientist,Product performance,Growth Medium,2,,1,False,False,Follow up within 48 hours
+VOC-20260214-60,Annual Science Meeting,2026-02-12,Booth conversation,Core facility,Director,Documentation,Media Kit C,-2,,1,False,False,Follow up within 48 hours
+VOC-20260214-61,Annual Science Meeting,2026-02-12,Customer survey,Academia,Director,Product request,Compound Sets,2,,2,True,False,Route to product management
+VOC-20260214-62,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Product request,Compound Sets,-1,,2,False,False,Route to product management
+VOC-20260212-63,Annual Science Meeting,2026-02-12,Booth conversation,CGT Developer,Founder / executive,Pricing and quotes,Media Kit C,-1,,1,True,False,Follow up within 48 hours
+VOC-20260212-64,Annual Science Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Documentation,Custom services,0,,2,True,False,Follow up within 48 hours
+VOC-20260212-65,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Documentation,Compound Sets,-2,,2,False,False,Follow up within 48 hours
+VOC-20260213-66,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Founder / executive,Product performance,Cell Line B,1,,1,True,True,Follow up within 48 hours
+VOC-20260213-67,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Documentation,Cell Line A,0,,3,False,False,Follow up within 48 hours
+VOC-20260214-68,Annual Science Meeting,2026-02-12,Support ticket,Academia,Scientist,Objection: evidence or data,Cell Line A,-2,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260212-69,Annual Science Meeting,2026-02-12,Booth conversation,Pharma,Director,Product request,Cell Line A,0,,3,False,False,Route to product management
+VOC-20260213-70,Annual Science Meeting,2026-02-12,Booth conversation,CRO,Scientist,Delivery and logistics,Custom services,-1,,1,True,False,Follow up within 48 hours
+VOC-20260213-71,Annual Science Meeting,2026-02-12,Email,Academia,Founder / executive,Pricing and quotes,Growth Medium,0,,1,False,False,Follow up within 48 hours
+VOC-20260212-72,Annual Science Meeting,2026-02-12,Support ticket,Academia,Founder / executive,Product performance,Media Kit C,-2,,3,True,False,Follow up within 48 hours
+VOC-20260213-73,Annual Science Meeting,2026-02-12,Booth conversation,Nonprofit foundation,PI / lab head,Competitor information,Custom services,-1,Vendor Beta,1,True,False,Follow up within 48 hours
+VOC-20260214-74,Annual Science Meeting,2026-02-12,Booth conversation,CGT Developer,Director,Testimonial,Compound Sets,1,,3,True,False,Request permission to quote
+VOC-20260213-75,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Founder / executive,Delivery and logistics,Cell Line A,0,,3,False,False,Follow up within 48 hours
+VOC-20260212-76,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Application support,Growth Medium,-1,Vendor Beta,1,True,False,Send protocol and data
+VOC-20260214-77,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Pricing and quotes,Growth Medium,-2,,1,False,False,Follow up within 48 hours
+VOC-20260212-78,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Objection: evidence or data,Cell Line A,-1,Vendor Gamma,1,False,False,Send reference and data pack
+VOC-20260213-79,Annual Science Meeting,2026-02-12,Customer survey,Academia,PI / lab head,Product performance,Media Kit C,-2,,1,True,False,Follow up within 48 hours
+VOC-20260214-80,Annual Science Meeting,2026-02-12,Support ticket,Academia,Scientist,Competitor information,Cell Line B,-1,Vendor Gamma,2,False,False,Follow up within 48 hours
+VOC-20260213-81,Annual Science Meeting,2026-02-12,Support ticket,Academia,Scientist,Product performance,Growth Medium,0,Vendor Delta,1,True,False,Follow up within 48 hours
+VOC-20260213-82,Annual Science Meeting,2026-02-12,Customer survey,Core facility,Director,Objection: evidence or data,Compound Sets,-2,Vendor Beta,3,False,False,Send reference and data pack
+VOC-20260212-83,Annual Science Meeting,2026-02-12,Email,Hospital,PI / lab head,Product performance,Custom services,1,,3,True,False,Follow up within 48 hours
+VOC-20260213-84,Annual Science Meeting,2026-02-12,Support ticket,CGT Developer,Founder / executive,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
+VOC-20260212-85,Annual Science Meeting,2026-02-12,Customer survey,CRO,Scientist,Pricing and quotes,Cell Line A,0,,1,True,True,Follow up within 48 hours
+VOC-20260214-86,Annual Science Meeting,2026-02-12,Booth conversation,Government,Procurement,Testimonial,Media Kit C,2,,3,True,False,Request permission to quote
+VOC-20260212-87,Annual Science Meeting,2026-02-12,Customer survey,Academia,Scientist,Objection: evidence or data,Media Kit C,-1,Vendor Beta,3,True,False,Send reference and data pack
+VOC-20260214-88,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Objection: evidence or data,Media Kit C,0,Vendor Alpha,2,False,False,Send reference and data pack
+VOC-20260212-89,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Director,Product request,Cell Line B,0,,2,False,False,Route to product management
+VOC-20260214-90,Annual Science Meeting,2026-02-12,Booth conversation,Academia,PI / lab head,Objection: evidence or data,Cell Line B,-2,In-house protocol,1,False,False,Send reference and data pack
+VOC-20260213-91,Annual Science Meeting,2026-02-12,Booth conversation,Pharma,PI / lab head,Documentation,Compound Sets,0,,3,True,False,Follow up within 48 hours
+VOC-20260213-92,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Delivery and logistics,Cell Line A,0,,1,True,False,Follow up within 48 hours
+VOC-20260214-93,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product performance,Cell Line A,-2,,2,True,False,Follow up within 48 hours
+VOC-20260212-94,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Product performance,Growth Medium,0,,3,False,False,Follow up within 48 hours
+VOC-20260212-95,Annual Science Meeting,2026-02-12,Support ticket,CGT Developer,Procurement,Documentation,Compound Sets,0,,1,True,False,Follow up within 48 hours
+VOC-20260213-96,Annual Science Meeting,2026-02-12,Booth conversation,Academia,Scientist,Application support,Cell Line A,0,,1,True,True,Send protocol and data
+VOC-20260212-97,Annual Science Meeting,2026-02-12,Booth conversation,Biotech,Scientist,Competitor information,Cell Line A,1,Vendor Gamma,1,False,False,Follow up within 48 hours
+VOC-20260212-98,Annual Science Meeting,2026-02-12,Customer survey,Core facility,Director,Product performance,Media Kit C,0,,2,False,False,Follow up within 48 hours
+VOC-20260212-99,Annual Science Meeting,2026-02-12,Booth conversation,Nonprofit foundation,Scientist,Competitor information,Cell Line B,0,Vendor Alpha,1,False,False,Follow up within 48 hours
+VOC-20260214-100,Annual Science Meeting,2026-02-12,Booth conversation,CRO,Scientist,Testimonial,Media Kit C,2,,1,True,True,Request permission to quote
+VOC-20260326-1,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Custom services,0,Vendor Delta,3,True,True,Follow up within 48 hours
+VOC-20260327-2,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product request,Cell Line B,2,,1,False,False,Route to product management
+VOC-20260325-3,Safety Sciences Congress,2026-03-25,Support ticket,CGT Developer,Founder / executive,Product request,Custom services,-1,,1,True,False,Route to product management
+VOC-20260325-4,Safety Sciences Congress,2026-03-25,Booth conversation,CRO,Scientist,Pricing and quotes,Media Kit C,0,,1,True,False,Follow up within 48 hours
+VOC-20260326-5,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,PI / lab head,Product performance,Cell Line B,1,,3,False,False,Follow up within 48 hours
+VOC-20260325-6,Safety Sciences Congress,2026-03-25,Support ticket,Distributor,Director,Product performance,Media Kit C,0,,1,False,False,Follow up within 48 hours
+VOC-20260326-7,Safety Sciences Congress,2026-03-25,Customer survey,Academia,PI / lab head,Testimonial,Custom services,1,,1,False,False,Request permission to quote
+VOC-20260325-8,Safety Sciences Congress,2026-03-25,Support ticket,Biotech,PI / lab head,Product request,Cell Line A,2,,1,False,False,Route to product management
+VOC-20260325-9,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Compound Sets,1,,3,True,False,Follow up within 48 hours
+VOC-20260326-10,Safety Sciences Congress,2026-03-25,Support ticket,Academia,PI / lab head,Application support,Cell Line A,-1,,3,True,False,Send protocol and data
+VOC-20260327-11,Safety Sciences Congress,2026-03-25,Booth conversation,Distributor,Scientist,Delivery and logistics,Custom services,0,,1,True,False,Follow up within 48 hours
+VOC-20260326-12,Safety Sciences Congress,2026-03-25,Booth conversation,CRO,Scientist,Application support,Compound Sets,0,,2,False,False,Send protocol and data
+VOC-20260327-13,Safety Sciences Congress,2026-03-25,Support ticket,Biotech,PI / lab head,Product request,Compound Sets,1,,2,False,False,Route to product management
+VOC-20260326-14,Safety Sciences Congress,2026-03-25,Booth conversation,Pharma,Founder / executive,Testimonial,Growth Medium,1,,1,False,False,Request permission to quote
+VOC-20260327-15,Safety Sciences Congress,2026-03-25,Email,CGT Developer,PI / lab head,Pricing and quotes,Cell Line A,-1,,1,True,False,Follow up within 48 hours
+VOC-20260326-16,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Procurement,Product request,Cell Line A,1,,2,True,True,Route to product management
+VOC-20260327-17,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,Director,Testimonial,Compound Sets,2,,3,False,False,Request permission to quote
+VOC-20260327-18,Safety Sciences Congress,2026-03-25,Customer survey,Academia,Founder / executive,Product request,Cell Line A,1,,1,False,False,Route to product management
+VOC-20260327-19,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Custom services,0,,1,False,False,Follow up within 48 hours
+VOC-20260325-20,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,Founder / executive,Product performance,Cell Line B,0,,3,False,False,Follow up within 48 hours
+VOC-20260327-21,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Director,Product request,Custom services,1,Vendor Beta,3,True,False,Route to product management
+VOC-20260327-22,Safety Sciences Congress,2026-03-25,Booth conversation,Pharma,Director,Testimonial,Growth Medium,0,,3,True,True,Request permission to quote
+VOC-20260327-23,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Scientist,Delivery and logistics,Growth Medium,0,,1,False,False,Follow up within 48 hours
+VOC-20260326-24,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,Scientist,Product request,Media Kit C,2,,2,True,False,Route to product management
+VOC-20260326-25,Safety Sciences Congress,2026-03-25,Booth conversation,Government,Procurement,Product request,Compound Sets,0,,2,False,False,Route to product management
+VOC-20260327-26,Safety Sciences Congress,2026-03-25,Customer survey,CRO,Founder / executive,Product request,Cell Line B,0,,3,True,False,Route to product management
+VOC-20260327-27,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,PI / lab head,Testimonial,Custom services,1,,1,True,False,Request permission to quote
+VOC-20260325-28,Safety Sciences Congress,2026-03-25,Booth conversation,Nonprofit foundation,PI / lab head,Objection: evidence or data,Cell Line B,-2,Vendor Beta,2,True,True,Send reference and data pack
+VOC-20260327-29,Safety Sciences Congress,2026-03-25,Booth conversation,Pharma,Procurement,Delivery and logistics,Custom services,0,,1,True,False,Follow up within 48 hours
+VOC-20260326-30,Safety Sciences Congress,2026-03-25,Customer survey,Academia,Founder / executive,Delivery and logistics,Cell Line B,0,,1,False,False,Follow up within 48 hours
+VOC-20260326-31,Safety Sciences Congress,2026-03-25,Email,Academia,Director,Documentation,Custom services,-1,Vendor Beta,1,False,False,Follow up within 48 hours
+VOC-20260326-32,Safety Sciences Congress,2026-03-25,Support ticket,Pharma,Scientist,Product request,Cell Line B,1,,3,False,False,Route to product management
+VOC-20260326-33,Safety Sciences Congress,2026-03-25,Booth conversation,Hospital,PI / lab head,Testimonial,Cell Line B,2,,3,False,False,Request permission to quote
+VOC-20260326-34,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Founder / executive,Application support,Custom services,1,,3,False,False,Send protocol and data
+VOC-20260325-35,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Application support,Compound Sets,0,,1,False,False,Send protocol and data
+VOC-20260326-36,Safety Sciences Congress,2026-03-25,Email,Academia,Director,Product request,Compound Sets,1,,2,False,False,Route to product management
+VOC-20260327-37,Safety Sciences Congress,2026-03-25,Customer survey,Nonprofit foundation,Procurement,Competitor information,Media Kit C,-1,Vendor Delta,1,False,False,Follow up within 48 hours
+VOC-20260326-38,Safety Sciences Congress,2026-03-25,Support ticket,Biotech,Founder / executive,Product performance,Media Kit C,0,,2,True,False,Follow up within 48 hours
+VOC-20260325-39,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Founder / executive,Pricing and quotes,Growth Medium,-2,,1,False,False,Follow up within 48 hours
+VOC-20260325-40,Safety Sciences Congress,2026-03-25,Email,Academia,PI / lab head,Product request,Cell Line A,-1,,3,True,True,Route to product management
+VOC-20260327-41,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Application support,Media Kit C,-1,,3,False,False,Send protocol and data
+VOC-20260327-42,Safety Sciences Congress,2026-03-25,Support ticket,CRO,Scientist,Testimonial,Cell Line A,1,Vendor Delta,1,True,False,Request permission to quote
+VOC-20260326-43,Safety Sciences Congress,2026-03-25,Booth conversation,Pharma,Director,Testimonial,Cell Line A,1,,1,False,False,Request permission to quote
+VOC-20260327-44,Safety Sciences Congress,2026-03-25,Customer survey,Biotech,Director,Product performance,Growth Medium,-1,,3,False,False,Follow up within 48 hours
+VOC-20260326-45,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Director,Product request,Growth Medium,1,,1,True,False,Route to product management
+VOC-20260326-46,Safety Sciences Congress,2026-03-25,Customer survey,Government,Scientist,Product request,Cell Line B,0,,1,False,False,Route to product management
+VOC-20260325-47,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,PI / lab head,Pricing and quotes,Cell Line A,-1,,3,True,False,Follow up within 48 hours
+VOC-20260325-48,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Director,Documentation,Growth Medium,2,,2,False,False,Follow up within 48 hours
+VOC-20260327-49,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Product performance,Media Kit C,1,,1,False,False,Follow up within 48 hours
+VOC-20260327-50,Safety Sciences Congress,2026-03-25,Booth conversation,Pharma,Director,Product request,Cell Line A,-1,,1,False,False,Route to product management
+VOC-20260327-51,Safety Sciences Congress,2026-03-25,Support ticket,Biotech,Director,Pricing and quotes,Media Kit C,0,,3,False,False,Follow up within 48 hours
+VOC-20260327-52,Safety Sciences Congress,2026-03-25,Booth conversation,CRO,PI / lab head,Product request,Custom services,1,,2,False,False,Route to product management
+VOC-20260327-53,Safety Sciences Congress,2026-03-25,Email,CRO,Director,Delivery and logistics,Compound Sets,0,,1,True,False,Follow up within 48 hours
+VOC-20260327-54,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,Scientist,Competitor information,Cell Line A,1,Vendor Alpha,2,True,False,Follow up within 48 hours
+VOC-20260326-55,Safety Sciences Congress,2026-03-25,Booth conversation,Core facility,PI / lab head,Product request,Cell Line A,2,,1,False,False,Route to product management
+VOC-20260327-56,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product performance,Media Kit C,0,,1,False,False,Follow up within 48 hours
+VOC-20260326-57,Safety Sciences Congress,2026-03-25,Customer survey,Academia,Founder / executive,Testimonial,Cell Line A,2,,1,True,False,Request permission to quote
+VOC-20260327-58,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Product request,Compound Sets,1,,1,False,False,Route to product management
+VOC-20260327-59,Safety Sciences Congress,2026-03-25,Support ticket,Biotech,Procurement,Product performance,Growth Medium,2,,2,False,False,Follow up within 48 hours
+VOC-20260327-60,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product performance,Growth Medium,-1,Vendor Delta,1,True,False,Follow up within 48 hours
+VOC-20260326-61,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,Scientist,Testimonial,Media Kit C,2,,2,True,False,Request permission to quote
+VOC-20260327-62,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Director,Product performance,Compound Sets,1,,1,False,False,Follow up within 48 hours
+VOC-20260325-63,Safety Sciences Congress,2026-03-25,Booth conversation,Nonprofit foundation,Director,Objection: evidence or data,Growth Medium,-1,Vendor Beta,3,False,False,Send reference and data pack
+VOC-20260326-64,Safety Sciences Congress,2026-03-25,Customer survey,Academia,Founder / executive,Objection: evidence or data,Compound Sets,-2,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260325-65,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,Procurement,Pricing and quotes,Custom services,1,,1,False,False,Follow up within 48 hours
+VOC-20260325-66,Safety Sciences Congress,2026-03-25,Booth conversation,Core facility,Scientist,Testimonial,Custom services,2,,1,True,False,Request permission to quote
+VOC-20260325-67,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Scientist,Competitor information,Cell Line A,-1,In-house protocol,1,True,False,Follow up within 48 hours
+VOC-20260327-68,Safety Sciences Congress,2026-03-25,Booth conversation,Core facility,Scientist,Testimonial,Compound Sets,2,,1,True,False,Request permission to quote
+VOC-20260327-69,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Founder / executive,Competitor information,Cell Line B,-2,Vendor Alpha,1,False,False,Follow up within 48 hours
+VOC-20260327-70,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Product performance,Custom services,0,,1,True,False,Follow up within 48 hours
+VOC-20260325-71,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,Procurement,Delivery and logistics,Media Kit C,1,,1,False,False,Follow up within 48 hours
+VOC-20260325-72,Safety Sciences Congress,2026-03-25,Booth conversation,Core facility,Scientist,Product request,Growth Medium,1,,1,True,False,Route to product management
+VOC-20260327-73,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Scientist,Pricing and quotes,Media Kit C,-1,,1,False,False,Follow up within 48 hours
+VOC-20260327-74,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Procurement,Product request,Growth Medium,0,,2,True,True,Route to product management
+VOC-20260325-75,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,Scientist,Pricing and quotes,Media Kit C,-2,,1,True,True,Follow up within 48 hours
+VOC-20260326-76,Safety Sciences Congress,2026-03-25,Email,Nonprofit foundation,Director,Product request,Compound Sets,0,,1,True,False,Route to product management
+VOC-20260327-77,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,PI / lab head,Application support,Media Kit C,-1,,2,True,False,Send protocol and data
+VOC-20260327-78,Safety Sciences Congress,2026-03-25,Email,Academia,PI / lab head,Product performance,Compound Sets,-1,,1,False,False,Follow up within 48 hours
+VOC-20260325-79,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Pricing and quotes,Custom services,-1,,3,False,False,Follow up within 48 hours
+VOC-20260325-80,Safety Sciences Congress,2026-03-25,Booth conversation,CGT Developer,Founder / executive,Product request,Cell Line B,0,,2,False,False,Route to product management
+VOC-20260327-81,Safety Sciences Congress,2026-03-25,Support ticket,CGT Developer,Scientist,Competitor information,Cell Line A,-1,In-house protocol,1,True,False,Follow up within 48 hours
+VOC-20260327-82,Safety Sciences Congress,2026-03-25,Support ticket,Academia,Scientist,Competitor information,Media Kit C,0,Vendor Alpha,1,True,False,Follow up within 48 hours
+VOC-20260325-83,Safety Sciences Congress,2026-03-25,Customer survey,CGT Developer,Founder / executive,Competitor information,Custom services,0,Vendor Beta,3,True,False,Follow up within 48 hours
+VOC-20260327-84,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,Scientist,Product request,Custom services,2,,1,False,False,Route to product management
+VOC-20260325-85,Safety Sciences Congress,2026-03-25,Booth conversation,Hospital,Procurement,Pricing and quotes,Cell Line A,-1,,2,False,False,Follow up within 48 hours
+VOC-20260326-86,Safety Sciences Congress,2026-03-25,Booth conversation,Pharma,PI / lab head,Competitor information,Custom services,-1,Vendor Beta,1,False,False,Follow up within 48 hours
+VOC-20260327-87,Safety Sciences Congress,2026-03-25,Email,Academia,Scientist,Competitor information,Growth Medium,-1,In-house protocol,1,True,False,Follow up within 48 hours
+VOC-20260327-88,Safety Sciences Congress,2026-03-25,Booth conversation,Biotech,Director,Product performance,Growth Medium,-1,Vendor Gamma,1,True,False,Follow up within 48 hours
+VOC-20260326-89,Safety Sciences Congress,2026-03-25,Booth conversation,Academia,PI / lab head,Objection: evidence or data,Custom services,-1,Vendor Alpha,3,False,False,Send reference and data pack
+VOC-20260325-90,Safety Sciences Congress,2026-03-25,Booth conversation,CRO,Scientist,Testimonial,Compound Sets,2,,1,True,False,Request permission to quote
+VOC-20260420-1,Lab Technology Expo,2026-04-18,Booth conversation,Government,Director,Pricing and quotes,Growth Medium,-1,,1,False,False,Follow up within 48 hours
+VOC-20260418-2,Lab Technology Expo,2026-04-18,Email,Academia,PI / lab head,Pricing and quotes,Cell Line B,1,Vendor Gamma,3,True,False,Follow up within 48 hours
+VOC-20260418-3,Lab Technology Expo,2026-04-18,Customer survey,Pharma,Founder / executive,Testimonial,Growth Medium,2,,1,True,False,Request permission to quote
+VOC-20260419-4,Lab Technology Expo,2026-04-18,Support ticket,Pharma,Scientist,Competitor information,Growth Medium,1,Vendor Delta,1,False,False,Follow up within 48 hours
+VOC-20260418-5,Lab Technology Expo,2026-04-18,Booth conversation,Academia,PI / lab head,Testimonial,Cell Line B,2,,3,False,False,Request permission to quote
+VOC-20260420-6,Lab Technology Expo,2026-04-18,Booth conversation,Core facility,Procurement,Product request,Custom services,-1,,1,False,False,Route to product management
+VOC-20260420-7,Lab Technology Expo,2026-04-18,Booth conversation,Nonprofit foundation,Scientist,Application support,Compound Sets,0,,2,False,False,Send protocol and data
+VOC-20260420-8,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Director,Objection: evidence or data,Custom services,1,Vendor Gamma,1,False,False,Send reference and data pack
+VOC-20260419-9,Lab Technology Expo,2026-04-18,Booth conversation,CRO,Founder / executive,Product performance,Cell Line A,1,,1,False,False,Follow up within 48 hours
+VOC-20260419-10,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Scientist,Competitor information,Cell Line A,1,Vendor Gamma,3,False,False,Follow up within 48 hours
+VOC-20260419-11,Lab Technology Expo,2026-04-18,Support ticket,Academia,PI / lab head,Objection: evidence or data,Cell Line B,0,Vendor Alpha,3,True,False,Send reference and data pack
+VOC-20260419-12,Lab Technology Expo,2026-04-18,Booth conversation,Nonprofit foundation,Scientist,Product performance,Compound Sets,0,,1,False,False,Follow up within 48 hours
+VOC-20260418-13,Lab Technology Expo,2026-04-18,Customer survey,CRO,Director,Competitor information,Cell Line B,-1,Vendor Beta,1,True,False,Follow up within 48 hours
+VOC-20260418-14,Lab Technology Expo,2026-04-18,Support ticket,Hospital,Scientist,Product request,Growth Medium,0,,1,True,False,Route to product management
+VOC-20260418-15,Lab Technology Expo,2026-04-18,Support ticket,CGT Developer,Director,Product request,Compound Sets,2,,1,False,False,Route to product management
+VOC-20260420-16,Lab Technology Expo,2026-04-18,Booth conversation,CRO,Procurement,Objection: evidence or data,Growth Medium,-1,Vendor Alpha,1,False,False,Send reference and data pack
+VOC-20260418-17,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Director,Pricing and quotes,Media Kit C,0,,1,False,False,Follow up within 48 hours
+VOC-20260418-18,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Scientist,Application support,Media Kit C,1,,2,False,False,Send protocol and data
+VOC-20260419-19,Lab Technology Expo,2026-04-18,Booth conversation,Biotech,PI / lab head,Testimonial,Custom services,2,,3,True,False,Request permission to quote
+VOC-20260420-20,Lab Technology Expo,2026-04-18,Customer survey,Academia,Director,Product request,Cell Line B,0,,3,False,False,Route to product management
+VOC-20260420-21,Lab Technology Expo,2026-04-18,Support ticket,Academia,Founder / executive,Documentation,Cell Line A,1,,3,False,False,Follow up within 48 hours
+VOC-20260419-22,Lab Technology Expo,2026-04-18,Booth conversation,CRO,Scientist,Documentation,Cell Line A,1,,1,True,False,Follow up within 48 hours
+VOC-20260419-23,Lab Technology Expo,2026-04-18,Email,Core facility,PI / lab head,Product performance,Media Kit C,0,,1,True,False,Follow up within 48 hours
+VOC-20260419-24,Lab Technology Expo,2026-04-18,Booth conversation,Core facility,Founder / executive,Delivery and logistics,Compound Sets,2,,2,False,False,Follow up within 48 hours
+VOC-20260418-25,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Procurement,Documentation,Cell Line B,0,,1,False,False,Follow up within 48 hours
+VOC-20260420-26,Lab Technology Expo,2026-04-18,Email,Hospital,Procurement,Product request,Compound Sets,0,,2,True,False,Route to product management
+VOC-20260419-27,Lab Technology Expo,2026-04-18,Customer survey,Academia,PI / lab head,Delivery and logistics,Growth Medium,-2,Vendor Beta,1,True,False,Follow up within 48 hours
+VOC-20260418-28,Lab Technology Expo,2026-04-18,Booth conversation,Pharma,Scientist,Pricing and quotes,Compound Sets,-1,,3,False,False,Follow up within 48 hours
+VOC-20260419-29,Lab Technology Expo,2026-04-18,Booth conversation,CRO,Director,Competitor information,Growth Medium,0,Vendor Alpha,3,False,False,Follow up within 48 hours
+VOC-20260418-30,Lab Technology Expo,2026-04-18,Email,Academia,Scientist,Documentation,Custom services,-2,,2,False,False,Follow up within 48 hours
+VOC-20260420-31,Lab Technology Expo,2026-04-18,Email,Pharma,Scientist,Pricing and quotes,Custom services,0,,2,True,False,Follow up within 48 hours
+VOC-20260420-32,Lab Technology Expo,2026-04-18,Support ticket,Biotech,Scientist,Objection: evidence or data,Cell Line B,-2,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260418-33,Lab Technology Expo,2026-04-18,Booth conversation,Biotech,Scientist,Objection: evidence or data,Cell Line B,-1,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260420-34,Lab Technology Expo,2026-04-18,Booth conversation,Nonprofit foundation,Founder / executive,Documentation,Compound Sets,-1,,1,True,False,Follow up within 48 hours
+VOC-20260420-35,Lab Technology Expo,2026-04-18,Support ticket,Academia,Founder / executive,Testimonial,Media Kit C,2,,3,True,False,Request permission to quote
+VOC-20260420-36,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Scientist,Product request,Media Kit C,2,,1,False,False,Route to product management
+VOC-20260418-37,Lab Technology Expo,2026-04-18,Email,Biotech,Scientist,Testimonial,Growth Medium,1,,1,False,False,Request permission to quote
+VOC-20260418-38,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
+VOC-20260419-39,Lab Technology Expo,2026-04-18,Booth conversation,CGT Developer,Director,Testimonial,Cell Line B,1,,1,False,False,Request permission to quote
+VOC-20260418-40,Lab Technology Expo,2026-04-18,Email,Biotech,Scientist,Pricing and quotes,Custom services,-2,,2,True,False,Follow up within 48 hours
+VOC-20260419-41,Lab Technology Expo,2026-04-18,Support ticket,Distributor,PI / lab head,Product performance,Growth Medium,-1,,1,True,True,Follow up within 48 hours
+VOC-20260420-42,Lab Technology Expo,2026-04-18,Support ticket,Nonprofit foundation,PI / lab head,Application support,Custom services,0,,1,False,False,Send protocol and data
+VOC-20260419-43,Lab Technology Expo,2026-04-18,Booth conversation,Core facility,Scientist,Delivery and logistics,Compound Sets,-1,,3,False,False,Follow up within 48 hours
+VOC-20260419-44,Lab Technology Expo,2026-04-18,Booth conversation,Nonprofit foundation,Founder / executive,Product performance,Growth Medium,-2,,1,False,False,Follow up within 48 hours
+VOC-20260420-45,Lab Technology Expo,2026-04-18,Booth conversation,Government,Founder / executive,Testimonial,Compound Sets,2,,1,True,False,Request permission to quote
+VOC-20260420-46,Lab Technology Expo,2026-04-18,Booth conversation,Hospital,Founder / executive,Testimonial,Custom services,2,,1,False,False,Request permission to quote
+VOC-20260419-47,Lab Technology Expo,2026-04-18,Support ticket,Academia,Director,Product performance,Custom services,0,,1,False,False,Follow up within 48 hours
+VOC-20260420-48,Lab Technology Expo,2026-04-18,Support ticket,Academia,PI / lab head,Documentation,Growth Medium,-1,,1,True,True,Follow up within 48 hours
+VOC-20260419-49,Lab Technology Expo,2026-04-18,Booth conversation,Hospital,Director,Documentation,Compound Sets,0,,1,False,False,Follow up within 48 hours
+VOC-20260418-50,Lab Technology Expo,2026-04-18,Email,Core facility,Director,Competitor information,Compound Sets,-1,Vendor Delta,1,False,False,Follow up within 48 hours
+VOC-20260420-51,Lab Technology Expo,2026-04-18,Booth conversation,Core facility,PI / lab head,Documentation,Compound Sets,-1,,3,True,False,Follow up within 48 hours
+VOC-20260419-52,Lab Technology Expo,2026-04-18,Email,Pharma,PI / lab head,Product performance,Cell Line B,-1,,1,False,False,Follow up within 48 hours
+VOC-20260420-53,Lab Technology Expo,2026-04-18,Support ticket,Core facility,Procurement,Pricing and quotes,Growth Medium,-1,,2,False,False,Follow up within 48 hours
+VOC-20260418-54,Lab Technology Expo,2026-04-18,Booth conversation,Government,Scientist,Application support,Cell Line B,1,,1,True,False,Send protocol and data
+VOC-20260420-55,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Director,Product request,Media Kit C,0,,1,False,False,Route to product management
+VOC-20260418-56,Lab Technology Expo,2026-04-18,Email,CRO,Scientist,Application support,Media Kit C,0,,1,True,False,Send protocol and data
+VOC-20260420-57,Lab Technology Expo,2026-04-18,Customer survey,Academia,Scientist,Objection: evidence or data,Growth Medium,-2,Vendor Delta,3,True,False,Send reference and data pack
+VOC-20260418-58,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Founder / executive,Product performance,Cell Line B,0,,3,False,False,Follow up within 48 hours
+VOC-20260419-59,Lab Technology Expo,2026-04-18,Support ticket,Government,Director,Product performance,Cell Line B,0,,3,False,False,Follow up within 48 hours
+VOC-20260418-60,Lab Technology Expo,2026-04-18,Support ticket,Government,Director,Documentation,Custom services,-1,,2,True,False,Follow up within 48 hours
+VOC-20260420-61,Lab Technology Expo,2026-04-18,Booth conversation,Academia,PI / lab head,Application support,Compound Sets,0,,2,True,False,Send protocol and data
+VOC-20260420-62,Lab Technology Expo,2026-04-18,Email,Pharma,Founder / executive,Competitor information,Growth Medium,-1,Vendor Gamma,1,False,False,Follow up within 48 hours
+VOC-20260420-63,Lab Technology Expo,2026-04-18,Booth conversation,CRO,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
+VOC-20260420-64,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Director,Competitor information,Cell Line A,1,Vendor Beta,1,False,False,Follow up within 48 hours
+VOC-20260420-65,Lab Technology Expo,2026-04-18,Booth conversation,Academia,Director,Product request,Media Kit C,1,,1,False,False,Route to product management
+VOC-20260418-66,Lab Technology Expo,2026-04-18,Booth conversation,CRO,Procurement,Delivery and logistics,Custom services,-2,,2,False,False,Follow up within 48 hours
+VOC-20260418-67,Lab Technology Expo,2026-04-18,Booth conversation,Biotech,Scientist,Testimonial,Cell Line B,2,,1,False,False,Request permission to quote
+VOC-20260418-68,Lab Technology Expo,2026-04-18,Email,Academia,Procurement,Pricing and quotes,Growth Medium,-1,,1,False,False,Follow up within 48 hours
+VOC-20260418-69,Lab Technology Expo,2026-04-18,Booth conversation,CGT Developer,Founder / executive,Objection: evidence or data,Cell Line B,-2,Vendor Gamma,2,False,False,Send reference and data pack
+VOC-20260419-70,Lab Technology Expo,2026-04-18,Booth conversation,Academia,PI / lab head,Product request,Compound Sets,1,,1,True,True,Route to product management
+VOC-20260610-1,Research Summit,2026-06-10,Support ticket,Biotech,Scientist,Product request,Custom services,1,In-house protocol,1,False,False,Route to product management
+VOC-20260610-2,Research Summit,2026-06-10,Booth conversation,CGT Developer,Director,Testimonial,Cell Line A,2,,3,True,False,Request permission to quote
+VOC-20260611-3,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Testimonial,Custom services,2,,1,True,False,Request permission to quote
+VOC-20260611-4,Research Summit,2026-06-10,Booth conversation,Biotech,Procurement,Objection: evidence or data,Media Kit C,-2,Vendor Delta,2,False,False,Send reference and data pack
+VOC-20260612-5,Research Summit,2026-06-10,Booth conversation,CRO,Procurement,Competitor information,Media Kit C,-1,In-house protocol,3,False,False,Follow up within 48 hours
+VOC-20260612-6,Research Summit,2026-06-10,Booth conversation,Academia,Procurement,Product performance,Cell Line A,0,,3,True,False,Follow up within 48 hours
+VOC-20260611-7,Research Summit,2026-06-10,Booth conversation,Academia,Director,Product request,Growth Medium,2,,1,False,False,Route to product management
+VOC-20260612-8,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product request,Cell Line A,1,,1,False,False,Route to product management
+VOC-20260611-9,Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Product request,Media Kit C,1,,1,False,False,Route to product management
+VOC-20260611-10,Research Summit,2026-06-10,Email,Academia,Procurement,Documentation,Growth Medium,0,,3,True,False,Follow up within 48 hours
+VOC-20260612-11,Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Product performance,Compound Sets,0,,1,True,True,Follow up within 48 hours
+VOC-20260611-12,Research Summit,2026-06-10,Customer survey,Academia,PI / lab head,Testimonial,Media Kit C,1,,1,True,False,Request permission to quote
+VOC-20260610-13,Research Summit,2026-06-10,Booth conversation,CRO,Director,Product request,Growth Medium,0,,3,True,False,Route to product management
+VOC-20260611-14,Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Competitor information,Media Kit C,0,Vendor Beta,1,False,False,Follow up within 48 hours
+VOC-20260611-15,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product performance,Media Kit C,0,,1,True,False,Follow up within 48 hours
+VOC-20260612-16,Research Summit,2026-06-10,Booth conversation,Hospital,Founder / executive,Application support,Compound Sets,2,,1,False,False,Send protocol and data
+VOC-20260610-17,Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Delivery and logistics,Cell Line B,0,,3,True,True,Follow up within 48 hours
+VOC-20260612-18,Research Summit,2026-06-10,Booth conversation,Biotech,Director,Pricing and quotes,Cell Line A,-2,,2,True,False,Follow up within 48 hours
+VOC-20260610-19,Research Summit,2026-06-10,Support ticket,CRO,Scientist,Product performance,Media Kit C,0,,1,True,True,Follow up within 48 hours
+VOC-20260612-20,Research Summit,2026-06-10,Booth conversation,Distributor,Director,Product performance,Custom services,-1,,1,False,False,Follow up within 48 hours
+VOC-20260610-21,Research Summit,2026-06-10,Support ticket,Government,Scientist,Documentation,Media Kit C,1,,2,False,False,Follow up within 48 hours
+VOC-20260610-22,Research Summit,2026-06-10,Support ticket,CRO,Director,Documentation,Media Kit C,1,,1,True,False,Follow up within 48 hours
+VOC-20260611-23,Research Summit,2026-06-10,Booth conversation,CGT Developer,Scientist,Application support,Custom services,1,,1,False,False,Send protocol and data
+VOC-20260612-24,Research Summit,2026-06-10,Booth conversation,Academia,Director,Documentation,Cell Line A,0,,1,True,False,Follow up within 48 hours
+VOC-20260610-25,Research Summit,2026-06-10,Booth conversation,Academia,Director,Product performance,Cell Line A,-1,,1,False,False,Follow up within 48 hours
+VOC-20260611-26,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Pricing and quotes,Cell Line A,-2,,3,False,False,Follow up within 48 hours
+VOC-20260610-27,Research Summit,2026-06-10,Email,Distributor,Procurement,Competitor information,Media Kit C,2,Vendor Beta,3,False,False,Follow up within 48 hours
+VOC-20260611-28,Research Summit,2026-06-10,Booth conversation,CRO,Founder / executive,Pricing and quotes,Media Kit C,0,,2,True,False,Follow up within 48 hours
+VOC-20260611-29,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Documentation,Growth Medium,-1,,2,True,True,Follow up within 48 hours
+VOC-20260610-30,Research Summit,2026-06-10,Booth conversation,Biotech,Director,Application support,Cell Line A,0,,1,False,False,Send protocol and data
+VOC-20260610-31,Research Summit,2026-06-10,Booth conversation,Distributor,PI / lab head,Objection: evidence or data,Custom services,-1,In-house protocol,1,False,False,Send reference and data pack
+VOC-20260610-32,Research Summit,2026-06-10,Support ticket,Biotech,PI / lab head,Pricing and quotes,Cell Line A,-1,,1,True,True,Follow up within 48 hours
+VOC-20260612-33,Research Summit,2026-06-10,Email,Academia,Scientist,Objection: evidence or data,Custom services,-1,Vendor Alpha,2,False,False,Send reference and data pack
+VOC-20260612-34,Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Delivery and logistics,Compound Sets,1,,1,True,False,Follow up within 48 hours
+VOC-20260612-35,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Competitor information,Media Kit C,1,Vendor Gamma,3,False,False,Follow up within 48 hours
+VOC-20260612-36,Research Summit,2026-06-10,Booth conversation,Government,Founder / executive,Delivery and logistics,Custom services,-1,,1,True,False,Follow up within 48 hours
+VOC-20260612-37,Research Summit,2026-06-10,Support ticket,Biotech,Director,Delivery and logistics,Compound Sets,-1,,1,False,False,Follow up within 48 hours
+VOC-20260611-38,Research Summit,2026-06-10,Customer survey,CRO,PI / lab head,Product performance,Custom services,1,Vendor Alpha,1,False,False,Follow up within 48 hours
+VOC-20260612-39,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Application support,Custom services,0,,3,True,False,Send protocol and data
+VOC-20260611-40,Research Summit,2026-06-10,Customer survey,Pharma,Procurement,Product performance,Compound Sets,0,In-house protocol,1,True,False,Follow up within 48 hours
+VOC-20260610-41,Research Summit,2026-06-10,Support ticket,Academia,Founder / executive,Objection: evidence or data,Custom services,-1,Vendor Beta,1,False,False,Send reference and data pack
+VOC-20260612-42,Research Summit,2026-06-10,Booth conversation,Pharma,Procurement,Testimonial,Cell Line B,1,,1,False,False,Request permission to quote
+VOC-20260611-43,Research Summit,2026-06-10,Booth conversation,Nonprofit foundation,PI / lab head,Testimonial,Cell Line B,0,Vendor Alpha,2,True,False,Request permission to quote
+VOC-20260611-44,Research Summit,2026-06-10,Booth conversation,Academia,Procurement,Delivery and logistics,Custom services,0,,3,True,True,Follow up within 48 hours
+VOC-20260610-45,Research Summit,2026-06-10,Support ticket,Nonprofit foundation,Scientist,Product request,Compound Sets,-1,,1,True,False,Route to product management
+VOC-20260612-46,Research Summit,2026-06-10,Booth conversation,CGT Developer,PI / lab head,Delivery and logistics,Custom services,-1,,2,False,False,Follow up within 48 hours
+VOC-20260610-47,Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Pricing and quotes,Media Kit C,-1,,1,True,False,Follow up within 48 hours
+VOC-20260612-48,Research Summit,2026-06-10,Booth conversation,Academia,Founder / executive,Product performance,Compound Sets,0,In-house protocol,2,True,False,Follow up within 48 hours
+VOC-20260611-49,Research Summit,2026-06-10,Booth conversation,Biotech,Director,Pricing and quotes,Growth Medium,-2,,2,False,False,Follow up within 48 hours
+VOC-20260611-50,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Competitor information,Custom services,0,Vendor Beta,2,True,False,Follow up within 48 hours
+VOC-20260610-51,Research Summit,2026-06-10,Support ticket,CRO,Scientist,Testimonial,Custom services,0,In-house protocol,1,False,False,Request permission to quote
+VOC-20260611-52,Research Summit,2026-06-10,Booth conversation,Hospital,Scientist,Product performance,Media Kit C,-1,,1,False,False,Follow up within 48 hours
+VOC-20260611-53,Research Summit,2026-06-10,Booth conversation,Biotech,Procurement,Product performance,Media Kit C,1,,2,False,False,Follow up within 48 hours
+VOC-20260611-54,Research Summit,2026-06-10,Booth conversation,CGT Developer,Founder / executive,Product request,Growth Medium,0,,2,False,False,Route to product management
+VOC-20260610-55,Research Summit,2026-06-10,Email,CRO,Scientist,Pricing and quotes,Growth Medium,-2,,1,True,False,Follow up within 48 hours
+VOC-20260612-56,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Competitor information,Cell Line A,-2,In-house protocol,1,False,False,Follow up within 48 hours
+VOC-20260612-57,Research Summit,2026-06-10,Booth conversation,Nonprofit foundation,PI / lab head,Pricing and quotes,Custom services,-1,,3,False,False,Follow up within 48 hours
+VOC-20260612-58,Research Summit,2026-06-10,Booth conversation,Biotech,Founder / executive,Application support,Custom services,0,Vendor Gamma,3,True,False,Send protocol and data
+VOC-20260610-59,Research Summit,2026-06-10,Support ticket,CGT Developer,PI / lab head,Pricing and quotes,Custom services,0,,2,False,False,Follow up within 48 hours
+VOC-20260610-60,Research Summit,2026-06-10,Customer survey,Biotech,Procurement,Application support,Cell Line A,1,,2,True,True,Send protocol and data
+VOC-20260610-61,Research Summit,2026-06-10,Support ticket,Academia,PI / lab head,Product performance,Cell Line B,-1,,2,True,False,Follow up within 48 hours
+VOC-20260611-62,Research Summit,2026-06-10,Support ticket,Core facility,PI / lab head,Application support,Cell Line B,-1,,1,True,True,Send protocol and data
+VOC-20260611-63,Research Summit,2026-06-10,Booth conversation,CRO,Founder / executive,Testimonial,Cell Line B,1,,2,False,False,Request permission to quote
+VOC-20260612-64,Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Application support,Cell Line A,0,,2,False,False,Send protocol and data
+VOC-20260611-65,Research Summit,2026-06-10,Support ticket,Academia,Founder / executive,Pricing and quotes,Media Kit C,-1,,1,True,True,Follow up within 48 hours
+VOC-20260611-66,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Product request,Compound Sets,0,Vendor Beta,1,False,False,Route to product management
+VOC-20260610-67,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Documentation,Cell Line B,0,,1,True,False,Follow up within 48 hours
+VOC-20260610-68,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
+VOC-20260612-69,Research Summit,2026-06-10,Customer survey,CRO,Founder / executive,Product performance,Cell Line A,0,,3,False,False,Follow up within 48 hours
+VOC-20260610-70,Research Summit,2026-06-10,Booth conversation,Biotech,Director,Product request,Cell Line B,1,,1,True,False,Route to product management
+VOC-20260610-71,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Application support,Media Kit C,0,,3,False,False,Send protocol and data
+VOC-20260611-72,Research Summit,2026-06-10,Booth conversation,CRO,PI / lab head,Product performance,Cell Line B,1,,3,True,False,Follow up within 48 hours
+VOC-20260611-73,Research Summit,2026-06-10,Email,Academia,PI / lab head,Product request,Cell Line A,0,,1,True,False,Route to product management
+VOC-20260612-74,Research Summit,2026-06-10,Support ticket,Nonprofit foundation,PI / lab head,Pricing and quotes,Custom services,0,,1,True,True,Follow up within 48 hours
+VOC-20260612-75,Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Product performance,Cell Line A,-1,,2,True,False,Follow up within 48 hours
+VOC-20260611-76,Research Summit,2026-06-10,Support ticket,Biotech,Scientist,Product performance,Cell Line A,0,,1,False,False,Follow up within 48 hours
+VOC-20260611-77,Research Summit,2026-06-10,Email,Biotech,Scientist,Competitor information,Media Kit C,-1,Vendor Alpha,1,True,True,Follow up within 48 hours
+VOC-20260610-78,Research Summit,2026-06-10,Booth conversation,CGT Developer,Scientist,Delivery and logistics,Growth Medium,-1,,1,False,False,Follow up within 48 hours
+VOC-20260612-79,Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Documentation,Compound Sets,-2,,3,True,False,Follow up within 48 hours
+VOC-20260612-80,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Application support,Cell Line A,2,,3,True,False,Send protocol and data
+VOC-20260611-81,Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Product performance,Cell Line B,-1,,3,True,False,Follow up within 48 hours
+VOC-20260610-82,Research Summit,2026-06-10,Booth conversation,Distributor,Founder / executive,Delivery and logistics,Cell Line B,0,,1,False,False,Follow up within 48 hours
+VOC-20260611-83,Research Summit,2026-06-10,Customer survey,Academia,Scientist,Objection: evidence or data,Custom services,-1,Vendor Beta,1,True,False,Send reference and data pack
+VOC-20260612-84,Research Summit,2026-06-10,Booth conversation,Biotech,Director,Product performance,Custom services,0,,1,True,True,Follow up within 48 hours
+VOC-20260611-85,Research Summit,2026-06-10,Customer survey,Biotech,PI / lab head,Pricing and quotes,Growth Medium,-2,,2,False,False,Follow up within 48 hours
+VOC-20260610-86,Research Summit,2026-06-10,Booth conversation,Biotech,Director,Pricing and quotes,Custom services,-1,,1,True,True,Follow up within 48 hours
+VOC-20260610-87,Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Documentation,Custom services,0,,3,True,False,Follow up within 48 hours
+VOC-20260612-88,Research Summit,2026-06-10,Booth conversation,Biotech,Scientist,Objection: evidence or data,Cell Line B,-2,Vendor Delta,1,False,False,Send reference and data pack
+VOC-20260612-89,Research Summit,2026-06-10,Booth conversation,CRO,Director,Pricing and quotes,Growth Medium,0,,1,True,True,Follow up within 48 hours
+VOC-20260611-90,Research Summit,2026-06-10,Email,Academia,Director,Pricing and quotes,Compound Sets,-1,,1,False,False,Follow up within 48 hours
+VOC-20260610-91,Research Summit,2026-06-10,Booth conversation,Hospital,Founder / executive,Delivery and logistics,Media Kit C,-1,,1,True,True,Follow up within 48 hours
+VOC-20260610-92,Research Summit,2026-06-10,Booth conversation,Pharma,Founder / executive,Product performance,Cell Line A,1,,3,True,True,Follow up within 48 hours
+VOC-20260611-93,Research Summit,2026-06-10,Customer survey,Biotech,Procurement,Delivery and logistics,Custom services,0,,1,False,False,Follow up within 48 hours
+VOC-20260611-94,Research Summit,2026-06-10,Booth conversation,Government,Procurement,Product performance,Media Kit C,0,,1,True,False,Follow up within 48 hours
+VOC-20260612-95,Research Summit,2026-06-10,Booth conversation,Academia,Director,Testimonial,Media Kit C,2,,1,True,False,Request permission to quote
+VOC-20260611-96,Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Application support,Cell Line A,0,,1,False,False,Send protocol and data
+VOC-20260610-97,Research Summit,2026-06-10,Booth conversation,Academia,Procurement,Delivery and logistics,Media Kit C,-1,,3,True,True,Follow up within 48 hours
+VOC-20260612-98,Research Summit,2026-06-10,Support ticket,Biotech,Founder / executive,Delivery and logistics,Custom services,1,,3,False,False,Follow up within 48 hours
+VOC-20260610-99,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Application support,Custom services,0,,2,False,False,Send protocol and data
+VOC-20260612-100,Research Summit,2026-06-10,Email,Pharma,Scientist,Delivery and logistics,Media Kit C,0,,3,True,False,Follow up within 48 hours
+VOC-20260611-101,Research Summit,2026-06-10,Booth conversation,Academia,PI / lab head,Pricing and quotes,Media Kit C,0,,1,False,False,Follow up within 48 hours
+VOC-20260611-102,Research Summit,2026-06-10,Support ticket,CRO,Founder / executive,Product performance,Compound Sets,-1,,1,True,False,Follow up within 48 hours
+VOC-20260610-103,Research Summit,2026-06-10,Booth conversation,Biotech,PI / lab head,Application support,Cell Line A,0,,2,False,False,Send protocol and data
+VOC-20260611-104,Research Summit,2026-06-10,Support ticket,Biotech,Scientist,Pricing and quotes,Custom services,-1,,1,False,False,Follow up within 48 hours
+VOC-20260610-105,Research Summit,2026-06-10,Support ticket,Biotech,Founder / executive,Application support,Compound Sets,0,,1,True,False,Send protocol and data
+VOC-20260610-106,Research Summit,2026-06-10,Booth conversation,Core facility,PI / lab head,Product request,Custom services,1,,1,True,False,Route to product management
+VOC-20260611-107,Research Summit,2026-06-10,Booth conversation,Academia,Scientist,Product performance,Cell Line A,2,,2,True,False,Follow up within 48 hours
+VOC-20260610-108,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product performance,Media Kit C,1,,1,False,False,Follow up within 48 hours
+VOC-20260612-109,Research Summit,2026-06-10,Support ticket,Academia,Scientist,Product request,Custom services,1,,1,False,False,Route to product management
+VOC-20260612-110,Research Summit,2026-06-10,Support ticket,Distributor,PI / lab head,Testimonial,Cell Line A,2,,1,False,False,Request permission to quote
 VOC-20260905-1,Regional Biotech Showcase,2026-09-03,Support ticket,Pharma,Director,Product request,Media Kit C,0,,1,False,False,Route to product management
 VOC-20260905-2,Regional Biotech Showcase,2026-09-03,Support ticket,Academia,Procurement,Product request,Custom services,0,,1,False,False,Route to product management
 VOC-20260903-3,Regional Biotech Showcase,2026-09-03,Booth conversation,CGT Developer,PI / lab head,Product request,Cell Line B,0,,1,False,False,Route to product management

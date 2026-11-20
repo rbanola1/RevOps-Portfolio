@@ -40,7 +40,7 @@ Customer feedback arrived in booth conversations, support tickets, surveys and e
 | One competitor dominates the conversation | One vendor is mentioned about 60% more often than the next |
 | Compound Sets lead the requests | Customers ask for new compound products more than for any other area |
 | One in three entries is negative | 34% carry negative sentiment, mostly documentation, pricing and evidence objections |
-| Events differ widely in follow-up value | The stem cell summit turned 52% of entries into leads and 15% into deals; webinars turned 20% into leads and 3% into deals |
+| Events differ widely in follow-up value | The research summit turned 52% of entries into leads and 15% into deals; webinars turned 20% into leads and 3% into deals |
 | Testimonials are available | 57 entries are testimonials, each flagged for a permission request |
 
 ## How the data is used

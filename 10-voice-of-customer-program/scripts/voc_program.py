@@ -20,10 +20,10 @@ CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(404)
 
 EVENTS = {  # name: (date, volume weight, lead conversion, deal conversion)
-    "Neuroscience Annual Meeting": ("2026-02-12", 1.0, .46, .13),
-    "Toxicology Congress": ("2026-03-25", 0.9, .40, .11),
-    "Lab Automation Expo": ("2026-04-18", 0.7, .35, .08),
-    "Stem Cell Research Summit": ("2026-06-10", 1.1, .52, .16),
+    "Annual Science Meeting": ("2026-02-12", 1.0, .46, .13),
+    "Safety Sciences Congress": ("2026-03-25", 0.9, .40, .11),
+    "Lab Technology Expo": ("2026-04-18", 0.7, .35, .08),
+    "Research Summit": ("2026-06-10", 1.1, .52, .16),
     "Regional Biotech Showcase": ("2026-09-03", 0.5, .44, .12),
     "Customer webinar series": ("2026-10-05", 0.6, .30, .07),
 }
