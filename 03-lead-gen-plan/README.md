@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** No historical conversion data by channel existed. The plan rests on two stated assumptions, that the planned product launches happen (the portfolio multiplier P) and a fixed brand trust factor (T), checked against the CRM's own close rates ([assumptions and validation](docs/assumptions_and_validation.md)).
 - **Situation:** The business had a revenue number for the year but no plan for the leads needed to reach it.
 - **Task:** Work backwards from a $240K target to the leads each channel must produce, and test whether the team could deliver.
 - **Action:** Divided the target by order size, split it by channel, worked back through deals, SQLs and MQLs, added a capacity ceiling, repeat purchasers, monthly plan-versus-actual and stress tests.
@@ -56,6 +56,7 @@ Lowest cost per win: small-product OEM, distributors, inbound and field prospect
 
 ## Documents and diagrams
 - [docs/method.md](docs/method.md): formulas, assumptions, capacity logic
+- [docs/assumptions_and_validation.md](docs/assumptions_and_validation.md): the P, T and CS% variables, the two validation checks and what is assumed against measured
 - [docs/review_cadence.md](docs/review_cadence.md): monthly plan-versus-actual routine
 - [diagrams/reverse_funnel.md](diagrams/reverse_funnel.md)
 

@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Leadership could not see plan against actual: CRM and accounting disagreed and forecasts were extrapolated from last month.
 - **Task:** Give one view of budget, forecast and cash.
 - **Action:** Built the budget by sales route, tracked monthly variance, built a pipeline-based forecast, reconciled CRM to invoices, and added simple scenario and product demand forecasts.

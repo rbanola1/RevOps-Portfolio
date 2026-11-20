@@ -6,7 +6,7 @@ A single reporting tool is a single point of failure. A failed refresh or a tool
 ## Layers
 | Layer | Tool | Used when | Owner |
 |---|---|---|---|
-| Main report: 15 visuals, 5 pages | BI tool | Normal weekly and monthly reporting | Commercial operations |
+| Main report: 12 pages | BI tool | Normal weekly and monthly reporting | Commercial operations |
 | Executive failover dashboard | CRM native dashboard | BI tool down, or board and leadership need a quick view | Commercial operations |
 | Internal KPI failover dashboard | CRM native dashboard | BI tool down; weekly team review | Commercial operations |
 | Weekly PDF export | BI tool export | Archive and offline reading | Commercial operations |

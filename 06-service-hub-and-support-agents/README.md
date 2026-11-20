@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Support requests arrived through shared inboxes, a web form and phone calls, half of the email was spam, and nobody owned response times.
 - **Task:** Build one service desk with clear owners, response targets, phone routing and safe automation.
 - **Action:** Set up ticket pipelines, categories, owners and SLAs, a phone menu, eleven workflow automations with loop guards after an email-loop incident, and an AI triage step.

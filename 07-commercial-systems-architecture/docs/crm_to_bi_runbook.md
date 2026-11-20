@@ -6,7 +6,7 @@ flowchart LR
     A[CRM objects: companies, contacts, deals, tickets] --> B[Scheduled export or connector]
     C[Accounting system: invoices, payments] --> B
     B --> D[BI data model: shared customer and date tables]
-    D --> E[Report: 15 visuals, 5 pages]
+    D --> E[Report: 12 pages]
     D --> F[Weekly PDF]
     A --> G[Native CRM failover dashboards]
 ```

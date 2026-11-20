@@ -19,7 +19,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Reps were contacting the same customers and arguing over who owned trade-show leads.
 - **Task:** Create clear lanes and clear ownership.
 - **Action:** Wrote lane criteria, a research-first rule, mandatory owners with association labels, parent and child accounts, and ticket routing.

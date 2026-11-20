@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["Reports disagreed across CRM, ERP and accounting"] --> B["One set of KPI definitions, two BI reports, failover dashboards"] --> C["Forecast, pipeline and product views leaders can trust"]
+    A["No reporting structure existed for the commercial team"] --> B["Two dashboards on a live CRM connection, billing from accounting, shared definitions"] --> C["Visibility for leaders, rep performance and forecasts for the team"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -17,22 +17,29 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
-- **Situation:** Executives and the team wanted different views, and CRM, ERP and accounting numbers disagreed.
-- **Task:** Give leaders one trusted set of reports, with a forecast, that keeps working when the reporting tool is down.
-- **Action:** Built two BI reports on one set of KPI definitions, labelled the two revenue views (CRM closed-won and invoiced), cleaned the queries, grew the report from 1 page to 5, and added two CRM failover dashboards plus commit, best-case and pipeline scenarios.
-- **Result:** One version of every number, a forecast leaders can read in seconds, and reporting that continues during an outage.
+- **Starting point:** No reporting structure existed, so I set it up from scratch. I directed a database engineer, connected the reporting tool to the CRM through its API, and defined the metrics. The dashboards use actual CRM and accounting data, so no assumptions were needed.
+- **Situation:** Leaders could not see revenue, pipeline or rep activity in one place, and the commercial team could not see its own performance.
+- **Task:** Create two dashboards: one for executives and team leads, to give visibility of commercial work and lift team morale, and one for the commercial team, with rep performance, deal flow and forecasting.
+- **Action:** Built the executive and team-lead dashboard and a 12-page team dashboard, showed billing from the accounting system next to the raw deal value (excluding tax and shipping), added a sales funnel page, a deal-age view by product and commit, best-case and pipeline forecasts, cleaned the queries, and added two CRM failover dashboards.
+- **Result:** Leaders get one trusted view, the team sees its own rep performance and forecast every week, and reporting continues even when the reporting tool is down.
 
 ## The problem
-Leadership and the commercial team each wanted a different view: executives wanted revenue, pipeline and forecast on one page; the team wanted weekly activity, data-quality flags and follow-up gaps. Numbers lived in the CRM, the ERP and accounting, so reports disagreed.
+The commercial team had no reporting structure. Revenue, pipeline and rep activity sat inside the CRM and the accounting system with nothing joining them. Executives wanted revenue, pipeline and forecast on one page; the team wanted weekly activity, data-quality flags and follow-up gaps. Billing numbers come from the accounting system, while the CRM holds the raw deal value (excluding tax and shipping), so the two are shown side by side and clearly labelled.
 
 ## What I built
-Two Power BI reports fed from the CRM, with one shared set of definitions:
+I directed a database engineer and connected the reporting tool to the CRM through its API, then designed two dashboards on one set of definitions.
 
-| Report | Audience | Cadence | Pages |
+| Dashboard | Audience | Cadence | What it shows |
 |---|---|---|---|
-| Sales Performance & Ops KPIs | Commercial team and executives | Weekly | This-week orders and revenue by rep, new deals, YTD revenue by customer and rep, deal flow by pipeline, forecast by category, support tickets, expired deals and tasks, contact lifecycle and funnel |
-| Sales Reporting Dashboard | Executives | Monthly | Closed-won vs invoiced revenue, revenue by month, quarter, region and product, opportunity generation, contact growth |
+| Executive and team-lead dashboard | Executives and team leads | Monthly | Billed revenue from the accounting system next to raw deal value (excluding tax and shipping), revenue by month, quarter, region and product, opportunity generation and contact growth. It gives leaders visibility of commercial work and lifts team morale |
+| Sales Performance & Ops KPIs (team dashboard, 12 pages) | Commercial team | Weekly | This-week revenue and orders by rep; free samples by rep; revenue by customer and by rep; new deals by rep and pipeline; open-deal projections; sales and product forecast by category; activity (new contacts, sales emails, tasks); support and voice-of-customer tickets by rep; expired deals and tasks; open deals with age and product; the sales funnel; and an inside-sales tracker |
+
+**Sales funnel pages:** contact lifecycle distribution (Lead, MQL, SQL at contact level; Opportunity and Customer at deal level), the live funnel for the current year, quarterly funnel entries and conversion rates, and an inside-sales sequence funnel. See [the funnel and its factors](../11-pipeline-health-analysis/docs/sales_funnel_and_factors.md).
+
+## Open deal age by product
+![Open deal age](charts/dashboard_open_deal_age.png)
+
+Every open deal shows how many days it has been open and which product it carries. In the synthetic data, 22 of 28 open deals are more than 90 days old, which turns the chart into an audit list: the owners review each one in the weekly meeting and either move it forward or close it. The product view shows which products carry the oldest deals.
 
 ## Forecast and product views (page 2)
 ![Forecast and product performance](charts/dashboard_forecast_and_products.png)

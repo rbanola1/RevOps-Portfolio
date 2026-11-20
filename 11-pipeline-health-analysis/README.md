@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** The pipeline report showed one total, hiding idle deals and a CRM full of records nobody worked.
 - **Task:** Show whether deals and records are moving, define the sales funnel and its factors, and check whether next quarter's quota is covered.
 - **Action:** Used the Six Sigma DMAIC method: defined the funnel stages and what drives each one, measured conversion, speed and touches, found the root causes, built conversion, ageing, coverage and stalled-deal views, and set weekly controls.

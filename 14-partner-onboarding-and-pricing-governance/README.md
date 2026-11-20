@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** More partners meant different forms, price sheets and mismatched product listings, and onboarding took months.
 - **Task:** Make onboarding repeatable and keep every catalog consistent.
 - **Action:** Wrote an eight-stage distributor journey and a faster marketplace track, built a partner scorecard and one master price sheet, and checked listings across partners.

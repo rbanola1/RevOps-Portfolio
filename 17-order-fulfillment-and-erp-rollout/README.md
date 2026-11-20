@@ -15,7 +15,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** One person processed every order, and a system outage lost settings.
 - **Task:** Document the order process, add a trained backup and prepare for outages.
 - **Action:** Wrote the email-intake and PO procedure, linked the web store to the ERP, recorded training, trained a second operator and documented outage recovery.

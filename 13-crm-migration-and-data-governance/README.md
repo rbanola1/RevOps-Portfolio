@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** The company was moving to a new CRM with years of duplicates and missing owners, and no tested backup.
 - **Task:** Migrate cleanly, keep the data clean, and make recovery certain.
 - **Action:** Cleaned in staging, reconciled counts twice, set field and ownership rules, scored data quality, tested backups and wrote password and email-logging rules.

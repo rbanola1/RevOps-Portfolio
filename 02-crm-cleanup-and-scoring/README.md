@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["Full marketing tier, messy industry field, engagement-only score"] --> B["Audit, demote, promote and one clean segment field"] --> C["Tier 94% to 57%, classified contacts 55% to 88%"]
+    A["No system existed to manage CRM data: full marketing tier, messy fields"] --> B["Audit, demote, promote, one segment field and lifecycle workflows"] --> C["Tier 94% to 57%, classified contacts 55% to 88%"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -17,11 +17,11 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
-- **Situation:** The CRM had grown through bulk imports: the marketing tier was 94% full, three in four contacts never opened an email, and half had no industry.
-- **Task:** Free up tier capacity, give every contact a clean segment, and fix the starting lead score.
-- **Action:** Audited the tier, demoted 4,306 inactive contacts without deleting anyone, promoted engaged ones, created one 10-value Segment field, and wrote the entry rules.
-- **Result:** Tier usage fell from 94% to 57%, classified contacts rose from 55% to 88%, and every change is reversible.
+- **Starting point:** No system existed to manage CRM data. The only assumption is in the lead score weights, and those were set by checking industry averages and historical deals.
+- **Situation:** The CRM had grown through bulk imports: the marketing tier was 94% full, three in four contacts never opened an email, half had no industry, and lifecycle stages had been set in bulk on imports.
+- **Task:** Free up marketing-tier space without losing contacts who might buy, give every contact a clean segment, and make MQL and SQL follow from the lead lifecycle stage.
+- **Action:** Audited the tier and set safe rules for what can move to non-marketing (never opened or clicked, still at lead stage, no deals, no sales touches, several sends since last engagement, senior and business-development titles protected). Moved 4,306 contacts without deleting anyone, promoted engaged ones, fixed bulk-set lifecycle stages, created one 10-value Segment field, and built CRM workflows that set MQL and SQL from the lead lifecycle stage and score.
+- **Result:** Tier usage fell from 94% to 57%, classified contacts rose from 55% to 88%, MQL and SQL now update automatically, and every change is reversible.
 
 ## The problem
 The CRM had grown through bulk list imports. The marketing-contact tier was close to its paid limit, three out of four contacts had never opened a marketing email, nearly half had no industry, and the industry field held many overlapping values with no way to report by market. Lead score measured engagement only, so it could not tell a real buyer from a curious bystander. There was no room to nurture good leads because the tier was full of dead weight.

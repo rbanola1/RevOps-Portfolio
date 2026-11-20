@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Goals, owners and KPI definitions lived in different places.
 - **Task:** Create one operating system for the commercial team.
 - **Action:** Built a goal-to-project tracker, a RACI matrix with one accountable role per process, a KPI dictionary and an executive KPI pack layout.

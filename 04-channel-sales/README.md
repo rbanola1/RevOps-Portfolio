@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Revenue was almost all direct, while international and procurement-platform buyers were hard to serve.
 - **Task:** Build a second route to market so about a fifth of revenue flows through partners.
 - **Action:** Scored 40 distributor candidates, ran them through a pipeline, built one product master that feeds four marketplace formats, and verified every listing before go-live.

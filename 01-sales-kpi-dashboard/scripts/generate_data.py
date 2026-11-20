@@ -232,4 +232,31 @@ heat(a[1, 2], heat_rep, "Product by rep, closed-won ($K)")
 fig2.tight_layout(rect=[0, 0, 1, .95])
 fig2.savefig(CHARTS / "dashboard_forecast_and_products.png", dpi=130)
 print("forecast", fc.to_dict("list"))
+# ---------- page 3: how long deals have been open, by product ----------
+RED = "#D1495B"
+oa = deals[~deals.stage.isin(["Closed Won", "Closed Lost"]) & (deals.pipeline != "Non-Revenue (Free Sample)") & (deals.pipeline != "Custom Project")].copy()
+oa["days_open"] = (AS_OF - pd.to_datetime(oa.create_date)).dt.days
+oa["product_name"] = oa["product"].replace("", "(product missing)")
+bins_ = [-1, 30, 60, 90, 180, 10000]
+lab_ = ["0 to 30", "31 to 60", "61 to 90", "91 to 180", "Over 180"]
+oa["age_band"] = pd.cut(oa.days_open, bins_, labels=lab_)
+age = oa.age_band.value_counts().reindex(lab_).fillna(0).astype(int)
+prod_age = oa.groupby("product_name").agg(open_deals=("deal_id", "count"), avg_days_open=("days_open", "mean")).round(0).sort_values("avg_days_open")
+age.to_csv(DATA / "open_deals_by_age_band.csv", header=["open_deals"])
+prod_age.to_csv(DATA / "open_deals_age_by_product.csv")
+oa[["deal_id", "product_name", "owner", "stage", "days_open"]].sort_values("days_open", ascending=False).to_csv(DATA / "open_deals_age.csv", index=False)
+fig3, b3 = plt.subplots(1, 2, figsize=(15, 5.2))
+fig3.suptitle("RB Tech | How long deals have been open, and for which product (synthetic data)", fontsize=13, weight="bold")
+b3[0].bar(age.index, age.values, color=[TEAL, TEAL, GOLD, RED, RED])
+for i_, v_ in enumerate(age.values):
+    b3[0].text(i_, v_ + .2, str(v_), ha="center", weight="bold")
+b3[0].set(title=f"Open deals by days open ({len(oa)} open deals; red = review list)", xlabel="days since the deal was created", ylabel="deals")
+b3[1].barh([p_.replace(" 1x10^6", "") for p_ in prod_age.index], prod_age.avg_days_open, color=BLUE)
+for i_, (v_, n_) in enumerate(zip(prod_age.avg_days_open, prod_age.open_deals)):
+    b3[1].text(v_ + 2, i_, f"{v_:.0f} days ({n_} deal{'' if n_ == 1 else 's'})", va="center", fontsize=8)
+b3[1].set(title="Average days open by product", xlabel="days")
+b3[1].set_xlim(0, max(prod_age.avg_days_open) * 1.3)
+fig3.tight_layout(rect=[0, 0, 1, .93])
+fig3.savefig(CHARTS / "dashboard_open_deal_age.png", dpi=130)
+print("done page 3")
 print("done")

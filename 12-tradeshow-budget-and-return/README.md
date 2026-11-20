@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Trade shows were the largest marketing line, but cost and return were never linked.
 - **Task:** Judge each show on full cost and return.
 - **Action:** Modelled every cost line, linked events to leads, deals and gross profit, scored shows as repeat, change or drop, and tested a budget reallocation.

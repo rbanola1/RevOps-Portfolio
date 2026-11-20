@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Territories were drawn by geography, quotas came from the revenue target, and there was no pay plan.
 - **Task:** Create fair territories, realistic quotas and a pay plan.
 - **Action:** Balanced territories by buying potential, routed international leads by country group, blended top-down and bottom-up quotas, simulated attainment and designed the pay plan.

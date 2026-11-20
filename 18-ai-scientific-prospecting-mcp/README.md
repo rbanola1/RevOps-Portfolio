@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Prospecting used keyword exports in which about six in ten contacts were already in the CRM.
 - **Task:** Find net-new researchers with a reason to contact them now.
 - **Action:** Connected a lead database to an AI assistant, ran signal searches, checked the CRM first, tiered leads, filled email gaps and kept a person in charge of every send.

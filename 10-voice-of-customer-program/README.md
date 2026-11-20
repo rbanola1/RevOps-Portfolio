@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Customer feedback stayed in booth conversations, inboxes and memory.
 - **Task:** Capture feedback consistently and turn it into action after each event.
 - **Action:** Wrote a capture standard and a nine-theme tagging taxonomy, built a post-event dashboard, and set up an action loop with an owner per theme.

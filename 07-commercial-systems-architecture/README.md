@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** The commercial stack had grown one tool at a time, nobody could draw the whole picture, and orders were retyped two or three times.
 - **Task:** Map lead-to-cash end to end and connect it with one owner and one direction per link.
 - **Action:** Drew a six-layer map, wrote an integration register with a match key per connection, linked the CRM and accounting, and documented the CRM-to-reporting runbook.
