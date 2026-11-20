@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["Slow partner onboarding and inconsistent catalogs"] --> B["Five-step process, scorecard and one master sheet"] --> C["Every listing verified before launch"]
+    A["Slow partner onboarding and inconsistent catalogs"] --> B["Eight-stage journey, scorecard and one master sheet"] --> C["Every listing verified before launch"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -20,19 +20,19 @@ flowchart LR
 Channel growth meant more partners, each with its own forms, price sheets and catalog data. Onboarding took months with no view of where time went, and the same product appeared with different SKUs, prices, pack sizes and lead times on different partners' sites. Buyers saw the mismatch before the company did.
 
 ## What I built
-1. **A five-step onboarding process** with a time measure per step: due diligence, agreement, vendor registration, catalog and pricing sheet, training and launch ([docs/onboarding_checklist.md](docs/onboarding_checklist.md)).
+1. **An eight-stage distributor journey**: identify, qualify, compliance, NDA, pricing, agreement, listing and launch, with an owner, must-ask questions, required documents and a target time for each stage, plus a separate faster track for B2B marketplaces and a monthly maintenance routine ([docs/distributor_onboarding_journey.md](docs/distributor_onboarding_journey.md)).
 2. **A partner scorecard** combining revenue, sell-through, catalog accuracy, order errors and response time, with three tiers: grow, maintain, review ([docs/partner_scorecard.md](docs/partner_scorecard.md)).
 3. **A pricing and catalog standard**: one master sheet is the source of truth for SKU, price, pack size and lead time; each partner's sheet follows that partner's own format guide ([docs/pricing_sheet_standard.md](docs/pricing_sheet_standard.md)).
 4. **A catalog audit** that compares every partner listing with the master and lists each mismatch for correction. This extends the duplicate-listing check in [project 04](../04-channel-sales) from one marketplace to every partner.
 
-## What the synthetic data shows (ten partners, 64 listings)
+## What the synthetic data shows (ten partners, 58 listings)
 | Finding | Evidence |
 |---|---|
-| Government marketplaces take about twice as long | The slowest onboarding is 114 days against 53 to 70 for distributors and commercial marketplaces; agreement review (about 24 days on average) and the catalog sheet (14 days) are the longest steps |
+| Marketplaces onboard fastest | Marketplace onboarding averages about 70 days, distributors about 135 and government marketplaces about 140; compliance (about 26 days) and the distribution agreement (about 29 days) are the longest distributor stages |
 | Every listing is verified before launch | The audit compares each partner listing with the master on SKU, price, pack size and lead time, and corrections are made before go-live, so listings match at launch |
-| Most fixes are simple | Price (7) and pack size (5) account for most corrections, so a standard pricing sheet prevents most of them |
-| One partner stands out | One distributor scores 88 against 34 to 58 for the rest; three partners fall into the review tier |
-| Fixes are targeted | Three partners account for 10 of the 17 corrections, so training and checklists go where they matter most |
+| Most fixes are simple | Price (6) and pack size (4) account for most of the 15 corrections, so a standard pricing sheet prevents most of them |
+| The scorecard separates partners | The top partner scores 85 against 33 to 78 for the rest; two partners fall into the review tier |
+| Fixes are targeted | Corrections cluster in a few partners, so training and checklists go where they matter most |
 
 ## How the data is used
 - **Onboarding:** each new partner has a checklist, an owner and a target of 60 days.
@@ -47,7 +47,7 @@ Channel growth meant more partners, each with its own forms, price sheets and ca
 5. **Score on outcomes**, not on volume alone, so a small accurate partner is not penalised.
 
 ## Documents and diagrams
-- [docs/onboarding_checklist.md](docs/onboarding_checklist.md) · [docs/partner_scorecard.md](docs/partner_scorecard.md) · [docs/pricing_sheet_standard.md](docs/pricing_sheet_standard.md)
+- [docs/distributor_onboarding_journey.md](docs/distributor_onboarding_journey.md) · [docs/partner_scorecard.md](docs/partner_scorecard.md) · [docs/pricing_sheet_standard.md](docs/pricing_sheet_standard.md)
 - [diagrams/onboarding_flow.md](diagrams/onboarding_flow.md)
 
 ## Added case

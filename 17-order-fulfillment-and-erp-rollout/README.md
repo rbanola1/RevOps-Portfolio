@@ -26,6 +26,11 @@ An order workflow on an ERP and materials-planning system for a small life-scien
 5. **A trained backup operator.** A second person who has run live orders, with a one-page handover, so the process no longer depends on one person ([docs/backup_operator_and_training.md](docs/backup_operator_and_training.md)).
 6. **Outage recovery notes.** After a system outage the ERP came back without some of its settings; the recovery steps and the lessons are written down ([docs/outage_recovery_lessons.md](docs/outage_recovery_lessons.md)).
 
+## Deal entry, quotes and order flow
+- **Deal entry standards:** required fields on every deal, the one rule on products, deal value without shipping or tax, when to mark closed won, sample orders, closed-lost timing, revenue estimates, close dates and the custom project pipeline ([docs/deal_entry_and_order_flow.md](docs/deal_entry_and_order_flow.md)).
+- **Order to invoice in six steps:** closed won, order entry, confirmation, documents, shipment, then invoice only after shipping.
+- **Quote process:** steps and best practices for creating quotes in the CRM ([docs/quote_process.md](docs/quote_process.md)).
+
 ## Results (illustrative)
 | Measure | Before | After |
 |---|---|---|

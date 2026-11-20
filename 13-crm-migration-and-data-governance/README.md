@@ -49,6 +49,7 @@ The company was moving from a legacy CRM to a new one, and the old system held y
 - [diagrams/migration_flow.md](diagrams/migration_flow.md)
 
 ## Added case
+- **Password manager rollout:** private employee vaults, a shared vault with approval, setup steps and rules. See [docs/password_manager_rollout.md](docs/password_manager_rollout.md).
 - **Email logging cleanup and the ticket email loop:** exclusion rules, loop guardrails, a monthly check and measures. See [docs/email_logging_cleanup.md](docs/email_logging_cleanup.md).
 
 ## Reproduce

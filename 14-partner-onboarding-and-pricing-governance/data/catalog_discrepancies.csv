@@ -1,18 +1,16 @@
 product,partner,master_sku,partner_sku,master_price,partner_price,master_pack,partner_pack,master_lead_days,partner_lead_days,issue
-"Cell Line A, 1 vial",Northlab Distribution,EC-1001,EC-1001,620,775,1 vial,1 vial,5,5,Price differs from price list
-"Cell Line A, 1 vial",Southern Cross Scientific,EC-1001,EC-1001,620,620,1 vial,2 x 1 vial,5,5,Pack size differs
-"Growth Medium A, 500 mL",Pacific Sciences,EM-2010,EM-2016,185,185,500 mL,500 mL,3,3,SKU differs from master
-"Growth Medium A, 500 mL",Alpine Reagents,EM-2010,EM-2010,185,231,500 mL,500 mL,3,3,Price differs from price list
-"Growth Medium A, 500 mL",GovLab Supply,EM-2010,EM-2010,185,166,500 mL,500 mL,3,3,Price differs from price list
-"Cell Line B, 1 vial",Alpine Reagents,PC-1100,PC-1100,540,486,1 vial,1 vial,5,5,Price differs from price list
-"Cell Line B, 1 vial",LabBazaar,PC-1100,PC-1102,540,540,1 vial,1 vial,5,5,SKU differs from master
-"Cell Line B, 1 vial",Southern Cross Scientific,PC-1100,PC-1100,540,486,1 vial,1 vial,5,5,Price differs from price list
-Media Kit C,Alpine Reagents,NM-3000,NM-3001,410,410,1 kit,1 kit,7,7,SKU differs from master
-Media Kit C,GovLab Supply,NM-3000,NM-3000,410,369,1 kit,1 kit,7,7,Price differs from price list
-"Compound B, 50 mg",Alpine Reagents,SM-4102,SM-4102,260,325,50 mg,50 mg,4,4,Price differs from price list
-"Growth Medium, 100 mL",AssayExchange,XM-5200,XM-5200,120,120,100 mL,100 mL,3,8,Lead time differs
-"Growth Medium, 100 mL",Southern Cross Scientific,XM-5200,XM-5200,120,120,100 mL,2 x 100 mL,3,3,Pack size differs
-"Cryopreservation medium, 50 mL",Northlab Distribution,CM-6001,CM-6001,78,78,50 mL,2 x 50 mL,3,3,Pack size differs
-"Cryopreservation medium, 50 mL",Pacific Sciences,CM-6001,CM-6001,78,78,50 mL,2 x 50 mL,3,3,Pack size differs
-"Cryopreservation medium, 50 mL",ProcureLink,CM-6001,CM-6005,78,78,50 mL,50 mL,3,3,SKU differs from master
-"Cryopreservation medium, 50 mL",GovLab Supply,CM-6001,CM-6001,78,78,50 mL,2 x 50 mL,3,3,Pack size differs
+"Cell Line A, 1 vial",Pacific Sciences,EC-1001,EC-1001,620,558,1 vial,1 vial,5,5,Price differs from price list
+"Cell Line A, 1 vial",Iberia Life Sciences,EC-1001,EC-1001,620,558,1 vial,1 vial,5,5,Price differs from price list
+"Growth Medium A, 500 mL",Pacific Sciences,EM-2010,EM-2018,185,185,500 mL,500 mL,3,3,SKU differs from master
+"Growth Medium A, 500 mL",LabBazaar,EM-2010,EM-2010,185,207,500 mL,500 mL,3,3,Price differs from price list
+"Growth Medium A, 500 mL",ProcureLink,EM-2010,EM-2014,185,185,500 mL,500 mL,3,3,SKU differs from master
+"Growth Medium A, 500 mL",Iberia Life Sciences,EM-2010,EM-2016,185,185,500 mL,500 mL,3,3,SKU differs from master
+"Cell Line B, 1 vial",Pacific Sciences,PC-1100,PC-1100,540,486,1 vial,1 vial,5,5,Price differs from price list
+Media Kit C,Iberia Life Sciences,NM-3000,NM-3000,410,512,1 kit,1 kit,7,7,Price differs from price list
+"Compound B, 50 mg",Alpine Reagents,SM-4102,SM-4102,260,260,50 mg,50 mg,4,9,Lead time differs
+"Compound B, 50 mg",LabBazaar,SM-4102,SM-4102,260,260,50 mg,2 x 50 mg,4,4,Pack size differs
+"Compound B, 50 mg",GovLab Supply,SM-4102,SM-4102,260,260,50 mg,2 x 50 mg,4,4,Pack size differs
+"Compound B, 50 mg",Southern Cross Scientific,SM-4102,SM-4102,260,260,50 mg,2 x 50 mg,4,4,Pack size differs
+"Growth Medium, 100 mL",Eurobio Supply,XM-5200,XM-5205,120,120,100 mL,100 mL,3,3,SKU differs from master
+"Growth Medium, 100 mL",Pacific Sciences,XM-5200,XM-5200,120,120,100 mL,2 x 100 mL,3,3,Pack size differs
+"Cryopreservation medium, 50 mL",LabBazaar,CM-6001,CM-6001,78,70,50 mL,50 mL,3,3,Price differs from price list

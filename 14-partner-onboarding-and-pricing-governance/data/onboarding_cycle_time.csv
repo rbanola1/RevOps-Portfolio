@@ -1,11 +1,11 @@
-partner,type,region,Due diligence and fit,Agreement and legal review,Vendor registration and forms,Catalog and pricing sheet,Training and launch,total_days
-Northlab Distribution,Distributor,North America,7,21,15,15,8,66
-Eurobio Supply,Distributor,Europe,7,23,8,12,6,56
-Pacific Sciences,Distributor,Asia Pacific,10,28,11,15,6,70
-Alpine Reagents,Distributor,Europe,6,30,10,9,9,64
-LabBazaar,Marketplace,Global,8,19,9,11,10,57
-ProcureLink,Marketplace,North America,7,29,8,10,7,61
-GovLab Supply,Government marketplace,North America,14,34,22,28,16,114
-AssayExchange,Marketplace,Global,6,15,12,16,5,54
-Southern Cross Scientific,Distributor,Asia Pacific,6,21,6,14,6,53
-Iberia Life Sciences,Distributor,Europe,7,18,10,12,8,55
+partner,type,region,Identify and qualify,Outreach and intro call,Compliance and logistics,NDA,Pricing and product setup,Distribution agreement,Catalog listing,Launch,total_days
+Northlab Distribution,Distributor,North America,7,10,42,18,11,33,32,10,163
+Eurobio Supply,Distributor,Europe,8,11,30,18,12,37,24,5,145
+Pacific Sciences,Distributor,Asia Pacific,6,14,30,11,12,46,23,6,148
+Alpine Reagents,Distributor,Europe,4,9,19,12,11,25,15,6,101
+LabBazaar,Marketplace,Global,5,6,22,12,8,19,11,3,86
+ProcureLink,Marketplace,North America,5,4,13,9,7,15,18,4,75
+GovLab Supply,Government marketplace,North America,8,9,32,15,13,33,26,6,142
+AssayExchange,Marketplace,Global,3,5,11,5,4,16,6,3,53
+Southern Cross Scientific,Distributor,Asia Pacific,5,7,31,16,10,31,22,8,130
+Iberia Life Sciences,Distributor,Europe,7,10,26,10,7,33,23,8,124

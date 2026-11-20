@@ -23,13 +23,13 @@ PARTNERS = [("Northlab Distribution", "Distributor", "North America"), ("Eurobio
             ("LabBazaar", "Marketplace", "Global"), ("ProcureLink", "Marketplace", "North America"),
             ("GovLab Supply", "Government marketplace", "North America"), ("AssayExchange", "Marketplace", "Global"),
             ("Southern Cross Scientific", "Distributor", "Asia Pacific"), ("Iberia Life Sciences", "Distributor", "Europe")]
-STEPS = {"Due diligence and fit": 7, "Agreement and legal review": 21, "Vendor registration and forms": 10,
-         "Catalog and pricing sheet": 12, "Training and launch": 7}
+STEPS = {"Identify and qualify": 7, "Outreach and intro call": 10, "Compliance and logistics": 28, "NDA": 14, "Pricing and product setup": 10,
+         "Distribution agreement": 35, "Catalog listing": 21, "Launch": 7}
 
 # ---------- 1. onboarding cycle time ----------
 rows = []
 for name, kind, region in PARTNERS:
-    mult = {"Marketplace": 1.15, "Government marketplace": 1.5}.get(kind, 1.0) * rng.uniform(.8, 1.3)
+    mult = {"Marketplace": .55, "Government marketplace": 1.1}.get(kind, 1.0) * rng.uniform(.8, 1.3)
     d = {s: int(max(2, v * mult * rng.uniform(.7, 1.4))) for s, v in STEPS.items()}
     rows.append(dict(partner=name, type=kind, region=region, **d, total_days=sum(d.values())))
 ob = pd.DataFrame(rows)
