@@ -1,6 +1,6 @@
 # 16 | Commercial Operating System: Goal Tracker, RACI Matrix and KPI Dictionary
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Operating system dashboard](charts/operating_system_dashboard.png)
 

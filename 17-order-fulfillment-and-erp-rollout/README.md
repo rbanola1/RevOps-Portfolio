@@ -1,6 +1,6 @@
 # 17 | Order Fulfillment and ERP Rollout
 
-**Fictional company:** Aurelis Life Sciences · **All content is synthetic** · No real systems, customers or products are named
+**Fictional company:** RB Tech · **All content is synthetic** · No real systems, customers or products are named
 
 ## The problem
 Orders reached the company by email, purchase order and web store, and one person knew how to turn them into shipments. Orders were keyed by hand into spreadsheets, stock and customer data were not in one place, and when that person was away the process slowed or stopped.

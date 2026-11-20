@@ -1,4 +1,4 @@
-"""Trade show budget and return model for Aurelis Life Sciences (fictional).
+"""Trade show budget and return model for RB Tech (fictional).
 
 Eight synthetic events with full cost lines, leads, deals and revenue; computes cost per lead, cost per deal,
 return on spend, payback time, and a repeat / change / drop score. Also runs a simple budget reallocation.
@@ -75,7 +75,7 @@ plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.ri
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 col = {"Repeat": TEAL, "Change": GOLD, "Drop": RED}
 fig, ax = plt.subplots(2, 3, figsize=(18, 9))
-fig.suptitle("Aurelis Life Sciences | Trade show budget and return (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Trade show budget and return (synthetic data)", fontsize=13, weight="bold")
 e2 = ev.sort_values("total_cost")
 ax[0, 0].barh([n[:22] for n in e2.event], e2.total_cost / 1e3, color=BLUE)
 ax[0, 0].set(title="Total cost per event ($K)", xlabel="$K")

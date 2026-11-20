@@ -1,4 +1,4 @@
-"""Voice-of-customer program model for Aurelis Life Sciences (fictional): capture, tag, visualise after trade shows.
+"""Voice-of-customer program model for RB Tech (fictional): capture, tag, visualise after trade shows.
 
 Generates ~480 synthetic VOC entries from trade shows, webinars, tickets and surveys, then builds the
 post-event dashboard: themes by event, theme x segment heatmap, sentiment by product, competitor mentions,
@@ -92,7 +92,7 @@ print("negative share:", round((voc.sentiment < 0).mean(), 2), "| testimonials:"
 plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(2, 3, figsize=(18, 9))
-fig.suptitle("Aurelis Life Sciences | Voice of customer after trade shows (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Voice of customer after trade shows (synthetic data)", fontsize=13, weight="bold")
 cols = plt.cm.tab20(np.linspace(0, 1, len(ev_theme.columns)))
 bottom = np.zeros(len(ev_theme))
 for c, col in zip(ev_theme.columns, cols):

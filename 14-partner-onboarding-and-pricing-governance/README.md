@@ -1,6 +1,6 @@
 # 14 | Partner Onboarding and Pricing Governance
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · Partners are invented
+**Fictional company:** RB Tech · **All data is synthetic** · Partners are invented
 
 ![Partner program dashboard](charts/partner_program_dashboard.png)
 

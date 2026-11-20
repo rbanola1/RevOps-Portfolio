@@ -1,4 +1,4 @@
-"""Synthetic budgeting, forecasting and P&L model for Aurelis Life Sciences (fictional).
+"""Synthetic budgeting, forecasting and P&L model for RB Tech (fictional).
 
 Pieces: monthly P&L by channel, budget vs actual variance, driver-based forecast from the pipeline,
 CRM-won vs invoiced revenue bridge, cash-flow projection from days sales outstanding, scenarios.
@@ -133,7 +133,7 @@ print("full-year: budget", round(pb.revenue.sum()), "forecast", round(pf.revenue
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Budget, forecast and P&L (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Budget, forecast and P&L (synthetic data)", fontsize=13, weight="bold")
 m = [str(p)[-2:] for p in MONTHS]
 ax[0].plot(m, pb.revenue / 1000, color=GREY, marker="o", ms=3, label="Budget")
 ax[0].plot(m[:ACTUAL_THROUGH], pa.revenue.iloc[:ACTUAL_THROUGH] / 1000, color=BLUE, marker="o", ms=3, label="Actual")

@@ -116,7 +116,7 @@ ax[2].set_title("Old method vs new method")
 ax[2].legend(frameon=False)
 ax[2].spines[["top", "right"]].set_visible(False)
 
-fig.suptitle("Aurelis Life Sciences: signal-based scientific prospecting (synthetic)", fontsize=13)
+fig.suptitle("RB Tech: signal-based scientific prospecting (synthetic)", fontsize=13)
 fig.tight_layout()
 fig.savefig(os.path.join(BASE, "charts", "prospecting_dashboard.png"), dpi=130)
 

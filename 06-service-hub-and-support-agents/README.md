@@ -1,6 +1,6 @@
 # 06 | Service Hub: Ticketing, Phone Lines and AI Support Agents
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · Fictional phone numbers and addresses throughout
+**Fictional company:** RB Tech · **All data is synthetic** · Fictional phone numbers and addresses throughout
 
 ![Support overview](charts/support_overview.png)
 

@@ -1,6 +1,6 @@
 # RevOps Portfolio
 
-Revenue operations projects rebuilt on **synthetic data** for a fictional life-science tools company, **Aurelis Life Sciences**. The methods come from real commercial-operations work; no real customers, prices, contacts or company data appear here.
+Revenue operations projects rebuilt on **synthetic data** for a fictional life-science tools company, **RB Tech**. The methods come from real commercial-operations work; no real customers, prices, contacts or company data appear here.
 
 By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://github.com/rbanola1) for the full experience map.
 

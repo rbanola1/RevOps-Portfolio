@@ -1,6 +1,6 @@
 # 18 | AI-Assisted Scientific Prospecting: Lead Database + Claude over MCP
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · Researchers and organisations are generated
+**Fictional company:** RB Tech · **All data is synthetic** · Researchers and organisations are generated
 
 ![Prospecting dashboard](charts/prospecting_dashboard.png)
 

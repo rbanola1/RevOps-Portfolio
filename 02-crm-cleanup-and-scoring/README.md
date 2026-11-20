@@ -1,6 +1,6 @@
 # 02 | CRM Cleanup, Segmentation and Lead Scoring
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Cleanup overview](charts/cleanup_overview.png)
 

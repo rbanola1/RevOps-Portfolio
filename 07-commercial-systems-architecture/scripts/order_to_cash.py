@@ -1,4 +1,4 @@
-"""Synthetic order-to-cash integration model for Aurelis Life Sciences (fictional).
+"""Synthetic order-to-cash integration model for RB Tech (fictional).
 
 Simulates 1,500 orders flowing CRM -> online store -> ERP -> accounting -> BI, with integration
 exceptions injected, so the effect of automation and the reconciliation method can be shown.
@@ -104,7 +104,7 @@ print(exc.groupby(["exception", "phase"]).size().unstack(fill_value=0).to_string
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Order-to-cash integration (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Order-to-cash integration (synthetic data)", fontsize=13, weight="bold")
 st = inv.status.value_counts()
 ax[0].barh(st.index[::-1], st.values[::-1], color=[GREY, TEAL][: len(st)][::-1])
 ax[0].set(title="Integration inventory by status", xlabel="connections")

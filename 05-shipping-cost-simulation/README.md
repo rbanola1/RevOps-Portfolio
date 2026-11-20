@@ -1,6 +1,6 @@
 # 05 | Shipping Cost Optimization: Simulation-Led Pricing
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · Excel-style Monte Carlo rebuilt in Python
+**Fictional company:** RB Tech · **All data is synthetic** · Excel-style Monte Carlo rebuilt in Python
 
 ![Shipping overview](charts/shipping_overview.png)
 

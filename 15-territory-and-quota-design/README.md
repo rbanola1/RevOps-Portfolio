@@ -1,6 +1,6 @@
 # 15 | Territory Design, Quota Setting and Compensation Plan
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · Compensation figures are illustrative best-practice values
+**Fictional company:** RB Tech · **All data is synthetic** · Compensation figures are illustrative best-practice values
 
 ![Territory and quota dashboard](charts/territory_quota_dashboard.png)
 

@@ -1,4 +1,4 @@
-"""Synthetic channel-sales model for Aurelis Life Sciences (fictional).
+"""Synthetic channel-sales model for RB Tech (fictional).
 
 Three parts, all invented data:
   A. Distributor scorecard and outreach funnel
@@ -74,7 +74,7 @@ funnel.to_csv(DATA / "distributor_funnel.csv", header=["distributors"])
 N_SKU = 36
 master = pd.DataFrame({
     "sku": [f"AUR-{1000 + i}" for i in range(N_SKU)],
-    "name": [f"Aurelis {k} {i:02d}" for i, k in enumerate(rng.choice(
+    "name": [f"RB Tech {k} {i:02d}" for i, k in enumerate(rng.choice(
         ["Progenitor Cells", "Endothelial Cells", "Media Kit", "Small Molecule"], N_SKU))],
     "unit_price": rng.choice([100, 199, 270, 600, 750, 1200], N_SKU).astype(float),
     "pack_size": rng.choice(["10 mg", "1x10^6 cells", "1 kit", "5 mg"], N_SKU),
@@ -170,7 +170,7 @@ plan.to_csv(DATA / "channel_plan.csv", index=False)
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Channel sales (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Channel sales (synthetic data)", fontsize=13, weight="bold")
 tc = d.tier.value_counts().reindex(["Tier 1", "Tier 2", "Tier 3"])
 ax[0].bar(tc.index, tc.values, color=[TEAL, GOLD, GREY])
 ax[0].set(title="Distributor candidates by score tier", ylabel="distributors")

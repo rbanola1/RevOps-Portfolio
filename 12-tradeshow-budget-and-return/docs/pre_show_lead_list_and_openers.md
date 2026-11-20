@@ -20,7 +20,7 @@ Book meetings before the show by building a short, targeted list from the attend
 |---|---|
 | A | "Dr. Example, your poster on vascular differentiation caught my eye. We supply a defined medium used in similar protocols. Could we meet for 15 minutes at booth 120 on Tuesday?" |
 | B | "We will be at booth 120 with data on endothelial expansion. If vascular models are part of your work, stop by for a short demonstration." |
-| C | "Aurelis will exhibit at the meeting; details and times are on our events page." |
+| C | "RB Tech will exhibit at the meeting; details and times are on our events page." |
 
 ## Rules
 - Fewer than 150 sends per show; fit before volume.

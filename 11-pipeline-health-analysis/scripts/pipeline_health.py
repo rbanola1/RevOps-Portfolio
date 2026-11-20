@@ -1,4 +1,4 @@
-"""Pipeline health analysis for Aurelis Life Sciences (fictional): stage conversion, ageing, coverage, stalled deals.
+"""Pipeline health analysis for RB Tech (fictional): stage conversion, ageing, coverage, stalled deals.
 
 Builds ~700 synthetic deals over the past year, then produces the weekly pipeline-health view:
 stage conversion, deal ageing against benchmark, coverage versus quota, stalled-deal list, win rate by source,
@@ -101,7 +101,7 @@ print("open deals", len(op), "| stalled", int(op.stalled.sum()), "| stalled valu
 plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(2, 3, figsize=(18, 9))
-fig.suptitle("Aurelis Life Sciences | Pipeline health (synthetic data, as of 31 Oct 2026)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Pipeline health (synthetic data, as of 31 Oct 2026)", fontsize=13, weight="bold")
 ax[0, 0].barh(funnel.stage[::-1], funnel.deals_reached[::-1], color=BLUE)
 for y, (n, c) in enumerate(zip(funnel.deals_reached[::-1], funnel.conversion_from_prior[::-1])):
     ax[0, 0].text(n + 6, y, f"{n}" + ("" if np.isnan(c) else f"  ({c:.0%})"), va="center", fontsize=8)

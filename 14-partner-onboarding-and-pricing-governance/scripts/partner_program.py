@@ -1,4 +1,4 @@
-"""Partner onboarding and pricing governance for Aurelis Life Sciences (fictional).
+"""Partner onboarding and pricing governance for RB Tech (fictional).
 
 Ten synthetic channel partners (regional distributors and marketplaces): onboarding cycle time by step,
 partner scorecard, and a catalog audit that finds SKU, price, pack-size and lead-time mismatches for the same product
@@ -83,7 +83,7 @@ print("listings", len(cat), "| discrepancies", len(issues), round(len(issues) / 
 plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(2, 2, figsize=(15, 9.5))
-fig.suptitle("Aurelis Life Sciences | Partner onboarding and pricing governance (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Partner onboarding and pricing governance (synthetic data)", fontsize=13, weight="bold")
 o = ob.sort_values("total_days")
 left = np.zeros(len(o))
 for s, c in zip(STEPS, plt.cm.Blues(np.linspace(.35, .95, len(STEPS)))):

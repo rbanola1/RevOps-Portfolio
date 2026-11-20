@@ -1,4 +1,4 @@
-"""Generate synthetic CRM data for Aurelis Life Sciences (fictional) and render the KPI dashboard.
+"""Generate synthetic CRM data for RB Tech (fictional) and render the KPI dashboard.
 
 Everything here is invented. Names, customers, prices and volumes do not belong to any real company.
 Run:  python scripts/generate_data.py          (writes data/*.csv and charts/*.png)
@@ -139,7 +139,7 @@ print(pd.Series(kpi).to_string())
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#9AA5B1"
 fig, ax = plt.subplots(2, 3, figsize=(16, 8.5))
-fig.suptitle("Aurelis Life Sciences | Sales Performance & Ops KPIs (synthetic data)", fontsize=14, weight="bold")
+fig.suptitle("RB Tech | Sales Performance & Ops KPIs (synthetic data)", fontsize=14, weight="bold")
 
 m = won.groupby("close_month").amount.sum()
 ax[0, 0].bar(m.index.str[-2:], m.values / 1000, color=BLUE)

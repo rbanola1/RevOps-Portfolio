@@ -1,6 +1,6 @@
 # 08 | Budgeting, Forecasting and P&L Management
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Budget, forecast and P&L](charts/budget_forecast_overview.png)
 

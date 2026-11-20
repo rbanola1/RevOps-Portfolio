@@ -1,6 +1,6 @@
 # 09 | Lead Ownership Rules and the Inside-Sales Warm-Lead Model
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 > **The model in one line.** Inside sales qualifies and warms inbound leads, then hands warm leads to the reps who own the accounts. Fixed lane criteria route work, and ownership and "research first" rules keep reps from colliding. Outbound growth is covered in [GTM-Strategy](https://github.com/rbanola1/GTM-Strategy).
 

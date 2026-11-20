@@ -1,6 +1,6 @@
 """Synthetic inside/outside sales model: lead routing, ownership rules and conflict detection.
 
-Fictional company Aurelis Life Sciences. Reps, accounts and leads are invented.
+Fictional company RB Tech. Reps, accounts and leads are invented.
 Compares an unstructured process (anyone grabs a lead) with a rules-based process
 (route by criteria + "research first" ownership check + mandatory associations).
 Run: python scripts/lead_routing.py     Needs: pandas, numpy, matplotlib
@@ -129,7 +129,7 @@ print(leads.groupby("lane_final").size().to_string())
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Inside / outside sales model (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Inside / outside sales model (synthetic data)", fontsize=13, weight="bold")
 lane = leads.lane_final.value_counts().reindex(["Inside", "Outside", "BD"])
 ax[0].bar(lane.index, lane.values, color=[TEAL, BLUE, GOLD])
 ax[0].set(title="Leads by lane after routing rules", ylabel="leads")

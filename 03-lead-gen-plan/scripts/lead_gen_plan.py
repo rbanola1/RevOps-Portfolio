@@ -1,4 +1,4 @@
-"""Reverse-funnel lead generation plan for Aurelis Life Sciences (fictional), with plan-vs-actual tracking.
+"""Reverse-funnel lead generation plan for RB Tech (fictional), with plan-vs-actual tracking.
 
 Method (all inputs invented):
   1. Revenue target / average order value = wins needed.
@@ -104,7 +104,7 @@ print(f"wins needed {WINS_NEEDED} planned {wins_total:.1f}; unique customers {un
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 5))
-fig.suptitle("Aurelis Life Sciences | Lead generation plan (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Lead generation plan (synthetic data)", fontsize=13, weight="bold")
 p = plan.sort_values("revenue_target")
 ax[0].barh(p.channel, p.revenue_target / 1000, color=BLUE)
 ax[0].set(title=f"Revenue target by channel (\${TARGET/1000:,.0f}K, {WINS_NEEDED} wins)", xlabel="$K")

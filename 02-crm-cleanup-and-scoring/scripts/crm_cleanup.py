@@ -1,4 +1,4 @@
-"""Synthetic CRM cleanup, industry segmentation and lead scoring for Aurelis Life Sciences (fictional).
+"""Synthetic CRM cleanup, industry segmentation and lead scoring for RB Tech (fictional).
 
 All contacts, counts and rules-of-thumb outputs are invented. The method is what matters:
   1. audit the marketing-contact tier, 2. demote low-value contacts, 3. promote engaged ones,
@@ -145,7 +145,7 @@ print(pd.Series(kpis).to_string())
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(18, 4.8))
-fig.suptitle("Aurelis Life Sciences | CRM cleanup, segmentation and scoring (synthetic data)",
+fig.suptitle("RB Tech | CRM cleanup, segmentation and scoring (synthetic data)",
              fontsize=13, weight="bold")
 ax[0].bar(["Before", "After"], [mk_before, mk_after], color=[RED, TEAL])
 ax[0].axhline(TIER_LIMIT, color="k", ls="--", lw=.8)

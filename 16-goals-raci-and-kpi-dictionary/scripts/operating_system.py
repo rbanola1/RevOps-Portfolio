@@ -1,4 +1,4 @@
-"""Commercial operating system for Aurelis Life Sciences (fictional): goal tracker, RACI matrix and KPI dictionary.
+"""Commercial operating system for RB Tech (fictional): goal tracker, RACI matrix and KPI dictionary.
 
 Builds a synthetic company-to-project goal tracker with status, a RACI matrix for commercial processes, a KPI dictionary
 (definition, source of truth, owner, cadence) and the executive KPI pack layout, then charts goal delivery.
@@ -96,7 +96,7 @@ plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.ri
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 SC = {"Completed": TEAL, "On track": BLUE, "Under review": GOLD, "Not started": GREY, "Cancelled": RED}
 fig, ax = plt.subplots(1, 3, figsize=(18, 5.6), gridspec_kw={"width_ratios": [1, 1.3, 1.5]})
-fig.suptitle("Aurelis Life Sciences | Commercial operating system: goals, ownership, KPIs (synthetic data)", fontsize=12.5, weight="bold")
+fig.suptitle("RB Tech | Commercial operating system: goals, ownership, KPIs (synthetic data)", fontsize=12.5, weight="bold")
 sc = status_counts.reindex(list(SC)).fillna(0)
 ax[0].bar(sc.index, sc.values, color=[SC[s] for s in sc.index])
 for i, v in enumerate(sc.values):

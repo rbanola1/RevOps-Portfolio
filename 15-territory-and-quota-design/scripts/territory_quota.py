@@ -1,4 +1,4 @@
-"""Territory design and quota setting for Aurelis Life Sciences (fictional).
+"""Territory design and quota setting for RB Tech (fictional).
 
 3,200 synthetic target accounts around US research hubs. Compares three ways to split accounts between four reps
 (by state group, by equal account count, by balanced market potential), then sets quotas top-down and bottom-up,
@@ -161,7 +161,7 @@ plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.ri
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 RC = [BLUE, TEAL, GOLD, RED]
 fig, ax = plt.subplots(2, 3, figsize=(18, 9.2))
-fig.suptitle("Aurelis Life Sciences | Territory design and quota setting (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Territory design and quota setting (synthetic data)", fontsize=13, weight="bold")
 for r, c in zip(REPS, RC):
     s = acc[acc.rep == r]
     ax[0, 0].scatter(s.lon, s.lat, s=np.sqrt(s.potential) / 14, color=c, alpha=.45, label=r)

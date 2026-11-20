@@ -1,6 +1,6 @@
 # 03 | Lead Generation Plan: Reverse-Funnel Revenue Model
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Lead generation plan](charts/lead_gen_plan.png)
 

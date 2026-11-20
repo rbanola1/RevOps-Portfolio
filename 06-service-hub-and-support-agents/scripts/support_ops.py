@@ -1,4 +1,4 @@
-"""Synthetic support operations model for Aurelis Life Sciences (fictional).
+"""Synthetic support operations model for RB Tech (fictional).
 
 Covers: ticket intake and routing, SLA performance, an AI triage agent with a human-review queue,
 and an auto-reply loop with and without guardrails. All data is invented.
@@ -147,7 +147,7 @@ print("loop tickets after 48h: without", no_guard[-1], "with", guard[-1])
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Service Hub and support agents (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Service Hub and support agents (synthetic data)", fontsize=13, weight="bold")
 cnt = tickets.category.value_counts().sort_values()
 ax[0].barh(cnt.index, cnt.values, color=[GREY if c == "Spam" else BLUE for c in cnt.index])
 ax[0].set(title="Tickets by category (half are spam)", xlabel="tickets")

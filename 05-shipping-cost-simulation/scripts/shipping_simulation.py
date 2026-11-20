@@ -1,4 +1,4 @@
-"""Shipping-charge optimization for Aurelis Life Sciences (fictional): four methods, one decision.
+"""Shipping-charge optimization for RB Tech (fictional): four methods, one decision.
 
 The question: what flat shipping charge covers real delivery cost without hurting competitiveness?
 Methods (the same triangulation used in practice, rebuilt on invented numbers):
@@ -120,7 +120,7 @@ print(sens.to_string(index=False))
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Shipping charge optimization (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Shipping charge optimization (synthetic data)", fontsize=13, weight="bold")
 ax[0].hist(sim.total_cost, bins=30, color=BLUE, alpha=.85)
 ax[0].axvline(CURRENT, color=RED, ls="--", label=f"current ${CURRENT}")
 ax[0].axvline(BREAK_EVEN, color=GOLD, ls="--", label=f"avg cost ${BREAK_EVEN:,.0f}")

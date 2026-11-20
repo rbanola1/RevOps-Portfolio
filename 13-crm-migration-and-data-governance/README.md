@@ -1,6 +1,6 @@
 # 13 | CRM Migration, Backup and Data Governance
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Migration dashboard](charts/migration_dashboard.png)
 

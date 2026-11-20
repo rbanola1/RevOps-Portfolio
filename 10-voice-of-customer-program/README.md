@@ -1,6 +1,6 @@
 # 10 | Voice of Customer Program: Capture, Tag and Visualise After Trade Shows
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · No real customer comments appear here
+**Fictional company:** RB Tech · **All data is synthetic** · No real customer comments appear here
 
 ![VOC dashboard](charts/voc_dashboard.png)
 

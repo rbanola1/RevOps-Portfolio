@@ -1,6 +1,6 @@
 # 04 | Channel Sales: Distributors and B2B Marketplaces
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Channel overview](charts/channel_overview.png)
 

@@ -1,6 +1,6 @@
 # 12 | Trade Show Budget and Return: Cost per Lead, Payback and Repeat / Change / Drop
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Trade show ROI dashboard](charts/tradeshow_roi_dashboard.png)
 

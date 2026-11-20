@@ -1,6 +1,6 @@
 # 07 | Commercial Systems Architecture: Lead to Cash
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Architecture overview](charts/architecture_overview.png)
 

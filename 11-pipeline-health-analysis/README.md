@@ -1,6 +1,6 @@
 # 11 | Pipeline Health Analysis: Conversion, Ageing, Coverage and Stalled Deals
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Pipeline health dashboard](charts/pipeline_health_dashboard.png)
 

@@ -1,4 +1,4 @@
-"""CRM migration, backup and data-governance model for Aurelis Life Sciences (fictional).
+"""CRM migration, backup and data-governance model for RB Tech (fictional).
 
 Simulates a move from a legacy CRM to a new one: record reconciliation by object, field-mapping quality,
 duplicate resolution, a data-quality score before and after, and a backup / restore-test schedule.
@@ -65,7 +65,7 @@ print(rec.to_string(index=False)); print(dq.to_string(index=False))
 plt.rcParams.update({"font.size": 8.5, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(2, 2, figsize=(15, 9.5))
-fig.suptitle("Aurelis Life Sciences | CRM migration and data governance (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | CRM migration and data governance (synthetic data)", fontsize=13, weight="bold")
 r = rec[rec.object != "Activities (emails, calls, notes)"]
 x = np.arange(len(r))
 ax[0, 0].bar(x, r.source_records, color=GREY, label="Source records")

@@ -1,6 +1,6 @@
 # 01 | Sales Performance & Ops KPI Dashboard
 
-**Fictional company:** Aurelis Life Sciences (cell-culture and small-molecule tools) · **All data is synthetic**
+**Fictional company:** RB Tech (cell-culture and small-molecule tools) · **All data is synthetic**
 
 ![Dashboard overview](charts/dashboard_overview.png)
 
