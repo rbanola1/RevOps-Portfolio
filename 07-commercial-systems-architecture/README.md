@@ -84,6 +84,12 @@ Tools behind the roles (examples): CRM = HubSpot, online store = WooCommerce, ER
 
 The numbers are simulated; the structure is the point.
 
+## Finance and CRM in one reporting layer
+The accounting system and the CRM are connected so finance and customer data can be reported together: invoices and payments are matched to CRM companies and deals by one customer key, and both feed a single BI model. Revenue comes from the accounting system; pipeline and activity come from the CRM. See [docs/crm_accounting_integration.md](docs/crm_accounting_integration.md) for the field map, match rules and checks.
+
+## CRM to BI data flow runbook
+A written runbook covers how data moves from the CRM into the BI model: the owner of each step, the maintenance routine, and the points where it fails, with the symptom, the check and the fix for each. See [docs/crm_to_bi_runbook.md](docs/crm_to_bi_runbook.md).
+
 ## Documents and diagrams
 - [docs/integration_register.md](docs/integration_register.md) · [docs/layers.md](docs/layers.md) · [docs/data_ownership.md](docs/data_ownership.md) · [docs/decision_log.md](docs/decision_log.md) · [docs/reconciliation_and_monitoring.md](docs/reconciliation_and_monitoring.md)
 - [diagrams/system_map.md](diagrams/system_map.md) · [diagrams/order_flow.md](diagrams/order_flow.md)

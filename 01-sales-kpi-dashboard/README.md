@@ -22,6 +22,12 @@ Two Power BI reports fed from the CRM, with one shared set of definitions:
 4. **Data-quality pages are first-class.** Deals missing a product, company or close date, expired deals, and overdue tasks are reported by rep so owners fix their own records.
 5. **Funnel built from stage-entry dates**, not current stage, so quarterly conversion is comparable over time.
 
+## Resilience
+- **Faster refresh:** the BI queries were cleaned up (unused columns and tables removed, filters applied at the source, one shared date table), so the model refreshes in a fraction of its earlier time.
+- **Scope grew with demand:** the report started as a planned 4 visuals on 1 page and grew to 15 visuals across 5 pages (revenue, pipeline, orders, customers, operations) as teams asked for more.
+- **Failover dashboards:** two native CRM dashboards, one for executives and one for internal KPIs, serve the key numbers when the BI tool is down or refreshing, so leadership is never without a view.
+- **Rule:** each failover dashboard uses the same definitions as the main report, and the KPI dictionary in [project 16](../16-goals-raci-and-kpi-dictionary) names the source of each number. Details: [docs/resilience.md](docs/resilience.md).
+
 ## Diagrams
 - [Data flow: sources to dashboards](diagrams/data_flow.md)
 - [Funnel and lead lifecycle](diagrams/funnel_lifecycle.md)
