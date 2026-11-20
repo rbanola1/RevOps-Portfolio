@@ -38,6 +38,9 @@ Trade shows were the largest marketing line and the hardest to judge. Costs sat 
 - [docs/budget_template.md](docs/budget_template.md) · [docs/event_scorecard.md](docs/event_scorecard.md)
 - [diagrams/event_decision_flow.md](diagrams/event_decision_flow.md)
 
+## Added case
+- **Pre-show lead list and personalised openers:** suppress, score, tier, then write a specific opener to book meetings before the show. See [docs/pre_show_lead_list_and_openers.md](docs/pre_show_lead_list_and_openers.md).
+
 ## Reproduce
 ```bash
 pip install pandas numpy matplotlib

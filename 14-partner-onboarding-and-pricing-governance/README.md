@@ -38,6 +38,9 @@ Channel growth meant more partners, each with its own forms, price sheets and ca
 - [docs/onboarding_checklist.md](docs/onboarding_checklist.md) · [docs/partner_scorecard.md](docs/partner_scorecard.md) · [docs/pricing_sheet_standard.md](docs/pricing_sheet_standard.md)
 - [diagrams/onboarding_flow.md](diagrams/onboarding_flow.md)
 
+## Added case
+- **Marketplace listing requirements and RFI response kit:** a per-platform checklist and a reusable answer library. See [docs/marketplace_listing_requirements_and_rfi.md](docs/marketplace_listing_requirements_and_rfi.md).
+
 ## Reproduce
 ```bash
 pip install pandas numpy matplotlib

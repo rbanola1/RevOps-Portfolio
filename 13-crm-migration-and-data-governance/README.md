@@ -36,6 +36,9 @@ The company was moving from a legacy CRM to a new one, and the old system held y
 - [docs/migration_plan.md](docs/migration_plan.md) · [docs/data_governance_rules.md](docs/data_governance_rules.md) · [docs/backup_and_restore.md](docs/backup_and_restore.md)
 - [diagrams/migration_flow.md](diagrams/migration_flow.md)
 
+## Added case
+- **Email logging cleanup and the ticket email loop:** exclusion rules, loop guardrails, a monthly check and measures. See [docs/email_logging_cleanup.md](docs/email_logging_cleanup.md).
+
 ## Reproduce
 ```bash
 pip install pandas numpy matplotlib
