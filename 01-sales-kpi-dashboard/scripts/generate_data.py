@@ -188,9 +188,10 @@ high = base * 1.35                                                              
 fc = pd.DataFrame({"low": low, "base": base, "high": high}).round(0)
 fc.to_csv(DATA / "forecast_range.csv")
 cum_actual = actual.cumsum()
-heat_region = won.pivot_table(index="product", columns="region", values="amount", aggfunc="sum", fill_value=0)
-heat_qtr = won.pivot_table(index="product", columns="close_quarter", values="amount", aggfunc="sum", fill_value=0)
-heat_rep = won.pivot_table(index="product", columns="owner", values="amount", aggfunc="sum", fill_value=0)
+won_h = won[won["product"] != ""]
+heat_region = won_h.pivot_table(index="product", columns="region", values="amount", aggfunc="sum", fill_value=0)
+heat_qtr = won_h.pivot_table(index="product", columns="close_quarter", values="amount", aggfunc="sum", fill_value=0)
+heat_rep = won_h.pivot_table(index="product", columns="owner", values="amount", aggfunc="sum", fill_value=0)
 heat_region.to_csv(DATA / "product_by_region.csv"); heat_qtr.to_csv(DATA / "product_by_quarter.csv"); heat_rep.to_csv(DATA / "product_by_rep.csv")
 
 fig2, a = plt.subplots(2, 3, figsize=(16, 8.8))
