@@ -1,24 +1,23 @@
-# Ticket intake and routing
+# Ticket intake and routing in seven boxes
 
 ```mermaid
-flowchart TD
-    E[Email to support or team inbox] --> T[Ticket created in support pipeline]
-    F[Website contact form] --> T
-    P[Phone call to service or support line] --> T
-    M[Manual ticket] --> T
-    T --> AG[AI triage agent]
-    AG -->|confidence 70 percent or more| R[Route by inquiry category]
-    AG -->|below 70 percent| Q[Human review queue]
-    Q --> R
-    AG -->|spam| SP[Auto-close and suppress]
-    R --> O1[Sales: product and custom inquiries]
-    R --> O2[Commercial operations: general and orders]
-    R --> O3[Technical specialist: applications]
-    R --> O4[Business development: collaborations]
-    O1 --> W[Owner alerted by inbox and in-app]
-    O2 --> W
-    O3 --> W
-    O4 --> W
-    W --> S[Reply within 24 hours, close within 72]
-    S --> CES[Satisfaction survey on closure]
+flowchart LR
+    I["Request arrives: email, web form, phone"] --> T["Ticket created"]
+    T --> AI["AI triage"]
+    AI -->|"confident"| R["Routed to the right owner"]
+    AI -->|"unsure"| H["Human review"]
+    H --> R
+    AI -->|"spam"| S["Closed and suppressed"]
+    R --> X["Reply in 24 hours, close in 72"]
+    X --> Q["Satisfaction survey"]
+    classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef g fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    classDef y fill:#FBE5B6,stroke:#E9A23B,color:#222
+    class I,T a
+    class AI,H y
+    class R,X,Q g
 ```
+
+How to read it: every request becomes one ticket, the AI sorts it, a person reviews anything it is unsure about, and each ticket reaches one owner with a reply deadline.
+
+Full detail with every connection: [ticket_intake_full_detail.md](ticket_intake_full_detail.md).

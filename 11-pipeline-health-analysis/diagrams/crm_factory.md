@@ -1,47 +1,35 @@
 # The CRM as a factory
 
-The problem was not bad material. Records were accurate and plentiful. The line simply did not use them: most sat unworked at the first stations, so the plant looked busy and shipped little.
+The problem was not bad material. Records were accurate and plentiful, but most were never worked, so the plant looked busy and shipped little.
 
 ## Before: material piles up unused
-
 ```mermaid
 flowchart LR
-    subgraph IN[Raw material in]
-        S1[Trade shows]
-        S2[Web forms]
-        S3[Outbound lists]
-        S4[Distributor referrals]
-    end
-    IN --> A[CRM intake: 4,000 records]
-    A --> B[Touched once: 74%]
-    B --> C[Worked with follow-up: 40%]
-    C --> D[Qualified: 11%]
-    D --> E[Deal created: 7%]
-    E --> F[Won: 2%]
-    A -.-> W1[(Never touched: 26%)]
-    B -.-> W2[(Touched once, then idle: 34%)]
-    W1 --- Z[Idle inventory: nobody owns it, nobody sees it]
-    W2 --- Z
+    A["4,000 records in"] --> B["74% touched once"] --> C["40% worked"] --> D["7% became deals"] --> E["2% won"]
+    A -.-> W["Idle inventory: no owner, no alert"]
+    classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef g fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    classDef y fill:#FBE5B6,stroke:#E9A23B,color:#222
+    class A,B,C,D a
+    class E g
+    class W y
 ```
 
-## After: every station has an owner, a clock and a report
-
+## After: every station has an owner and a clock
 ```mermaid
 flowchart LR
-    A[Intake with source, fit score and owner] --> R{Route by fit and intent}
-    R -->|High| H[Rep: contact in 1 day]
-    R -->|Medium| N[Nurture sequence with a stop rule]
-    R -->|Low| X[Hold and suppress]
-    H --> Q[Qualified]
-    N --> Q
-    Q --> D[Deal with next step and date]
-    D --> WON[Won]
-    H -.->|no activity in 7 days| ALERT[Idle-inventory alert]
-    D -.->|past stage benchmark| ALERT
-    ALERT --> OWN[Owner acts or closes the record]
-    OWN --> A
-    WON --> REP[Weekly throughput and utilisation report]
+    A["Record in with an owner"] --> R["Routed by fit and intent"] --> W["Worked within a set time"] --> D["Deal with next step"] --> X["Won"]
+    W -.->|"idle too long"| AL["Alert to owner"]
+    AL -.-> W
+    classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef g fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    classDef y fill:#FBE5B6,stroke:#E9A23B,color:#222
+    class A,R,W,D a
+    class X g
+    class AL y
 ```
+
+Full detail with every connection: [crm_factory_full_detail.md](crm_factory_full_detail.md).
 
 ## Factory measures used in the weekly report
 | Factory term | CRM measure | Why it matters |
