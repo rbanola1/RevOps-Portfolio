@@ -45,7 +45,7 @@ flowchart LR
     CRM -.->|replies, meetings| MEAS[Measure against the old method]
 ```
 
-1. **Signal search.** The assistant turns a plain-language request ("vascular biology labs with a new grant this year") into database filters, refines the search and pulls researchers together with the signal behind each one: a grant, a paper, a trial, a poster or a new lab.
+1. **Signal search.** The assistant turns a plain-language request ("tissue biology labs with a new grant this year") into database filters, refines the search and pulls researchers together with the signal behind each one: a grant, a paper, a trial, a poster or a new lab.
 2. **CRM suppression first.** Every candidate is checked against a CRM export on email, a normalised name + organisation key and the profile handle before any enrichment credit is spent. New people at accounts a rep already owns go to that rep instead of cold outreach.
 3. **Researcher intel.** For each remaining lead the assistant reads the profile, grants and recent publications and writes a one-line *why now* note.
 4. **Tiering.** A fit score combines segment, persona match and signal recency. The top 25% become tier A, the next 40% tier B, the rest tier C.

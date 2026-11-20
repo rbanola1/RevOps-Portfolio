@@ -20,7 +20,7 @@ SIGNALS = ["New grant (12 mo)", "Recent paper (6 mo)", "Clinical trial", "Confer
 SIG_P = [0.32, 0.38, 0.06, 0.14, 0.10]
 SEGMENTS = ["Academic lab", "Research institute", "Pharma / biotech", "CRO", "Hospital research"]
 SEG_P = [0.46, 0.14, 0.20, 0.10, 0.10]
-PERSONAS = ["Vascular biology", "In vitro toxicology", "Organ-on-chip / MPS", "Stem cell biology", "Assay development"]
+PERSONAS = ["Tissue biology", "In vitro toxicology", "Organ-on-chip / MPS", "Stem cell biology", "Assay development"]
 
 
 def lead_id(name, org):
