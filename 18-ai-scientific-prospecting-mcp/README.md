@@ -75,7 +75,7 @@ Tier A replies at about 8% against about 5.5% for tier B, so the score sorts lea
 ## Where it fits
 This is the lead-generation layer of the lead-to-cash architecture in [project 07](../07-commercial-systems-architecture), and it applies the suppress-first, tier-first rules of the net-new pilot in [GTM-Strategy](https://github.com/rbanola1/GTM-Strategy).
 
-Tools behind the roles (examples): lead database = SciLeads, AI assistant = Claude connected over MCP, CRM = HubSpot, email verifier = Bouncer.
+Tools behind the roles: a scientific lead database, an AI assistant (Claude) connected over MCP, a CRM, and an email verifier.
 
 ## Reproduce
 ```bash
