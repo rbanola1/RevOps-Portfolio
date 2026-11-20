@@ -5,7 +5,8 @@
 ```mermaid
 flowchart TB
     subgraph L1[1 Lead generation]
-      LS[Contact database, enrichment, free sources] --> VF[Email verifier and suppression check]
+      AI[AI assistant over MCP] -->|signal search, intel, gap-fill| LS
+      LS[Scientific lead database, enrichment, free sources] --> VF[Email verifier and suppression check]
     end
     subgraph L2[2 CRM]
       CRM[(CRM)]

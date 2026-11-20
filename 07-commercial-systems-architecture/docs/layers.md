@@ -3,7 +3,8 @@
 ## 1 Lead generation
 | Component | Role |
 |---|---|
-| Academic contact and grant database | Keyword-based lead lists by cell type and application; strongest for academic contacts |
+| Scientific lead database | Researchers with grants, papers, trials and posters; strongest for academic contacts |
+| AI assistant over MCP | Queries the lead database in plain language, writes a why-now note per lead, runs the email gap-fill and drafts first emails; never writes to the CRM ([project 18](../../18-ai-scientific-prospecting-mcp)) |
 | Enrichment platform | Email lookups across several data providers plus AI fit checks; used where free sources cannot find a contact |
 | Free scientific sources | Grant databases, literature databases and researcher identifiers; the best source for academic leads |
 | Email verifier | Every list is verified before import |

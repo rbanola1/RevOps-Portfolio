@@ -13,7 +13,8 @@ One architecture, six layers, one source of truth per data object, and a registe
 ```mermaid
 flowchart TB
     subgraph L1[1 Lead generation]
-      LS[Academic contact database, enrichment platform, free scientific sources] --> VF[Email verifier and suppression check]
+      AI["AI assistant over MCP:<br>signal search, researcher intel, email gap-fill"] --> LS
+      LS[Scientific lead database, enrichment platform, free scientific sources] --> VF[Email verifier and suppression check]
     end
     subgraph L2[2 CRM and engagement]
       CRM[(CRM: contacts, deals, tickets, sequences)]
@@ -50,7 +51,7 @@ flowchart TB
     CRM -->|read only| BI
 ```
 
-Tools behind the roles (examples): CRM = HubSpot, online store = WooCommerce, ERP = Fishbowl, accounting = QuickBooks Online, BI = Power BI. The product data hub is an internal system; marketplace names are fictional.
+Tools behind the roles (examples): scientific lead database = SciLeads, AI assistant = Claude connected over MCP ([project 18](../18-ai-scientific-prospecting-mcp)), CRM = HubSpot, online store = WooCommerce, ERP = Fishbowl, accounting = QuickBooks Online, BI = Power BI. The product data hub is an internal system; marketplace names are fictional.
 
 ## Layers
 | Layer | What it holds | Detail |
