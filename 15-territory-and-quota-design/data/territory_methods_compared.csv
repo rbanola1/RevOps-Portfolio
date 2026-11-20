@@ -1,0 +1,4 @@
+method,accounts_min,accounts_max,potential_min_k,potential_max_k,potential_spread_pct
+Equal longitude bands,800,800,2729,4042,40
+Equal account count,799,801,2726,4039,40
+Balanced potential,626,977,3317,3322,0

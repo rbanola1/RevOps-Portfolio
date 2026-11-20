@@ -1,0 +1,13 @@
+kpi,definition,source_of_truth,owner,cadence,note
+Revenue,"Invoiced revenue in the period, net of credits",Accounting system,Finance,Monthly,CRM deal amounts are not used; they differ from invoices
+Orders,"Count of orders created, including no-charge orders, across all three pipelines",Order system,Commercial ops,Weekly,"Order count, not order value"
+Opportunities,Count of deals created; a deal is one opportunity,CRM,Sales,Weekly,"Count, not value"
+Opportunities by stage,Deals open at each stage on the report date,CRM,Sales,Weekly,Stage definitions from project 11
+Win rate,"Closed won divided by closed won plus closed lost, by cohort created",CRM,Commercial ops,Monthly,Excludes open deals
+Pipeline coverage,Open pipeline value divided by next-quarter quota,CRM,Sales,Weekly,Target 3x
+"Revenue by customer, region, product","Invoiced revenue, month, quarter and year to date, highest first",Accounting system,Finance,Monthly,"Table, not chart"
+Contacts in CRM,"Contacts with owner, valid email and segment",CRM,Commercial ops,Monthly,Data-quality gate
+Website visitors,Unique visitors in the period,Web analytics,Marketing,Monthly,Trend line
+Social followers,Followers at month end,Social platform,Marketing,Monthly,Trend line
+First-response SLA met,Tickets answered within target divided by tickets,Service Hub,Support,Weekly,Target 90%
+Cost per qualified lead,Programme cost divided by qualified leads,Finance and CRM,Marketing,Quarterly,Event and campaign level

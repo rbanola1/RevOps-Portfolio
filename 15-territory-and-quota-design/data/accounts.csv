@@ -1,0 +1,3201 @@
+account_id,hub,lat,lon,segment,potential,current_customer,rep
+A-3000,New York,41.099,-74.353,Biotech,8600.0,False,Rep 4
+A-3001,Los Angeles,34.087,-117.778,Academia,1000.0,False,Rep 2
+A-3002,Research Triangle,36.678,-78.61,Academia,4700.0,False,Rep 3
+A-3003,San Diego,32.672,-117.721,Core facility,2200.0,False,Rep 2
+A-3004,New York,40.625,-74.343,Academia,1400.0,False,Rep 4
+A-3005,Philadelphia,38.682,-75.445,CRO,2000.0,False,Rep 3
+A-3006,Los Angeles,34.182,-118.782,Core facility,1800.0,False,Rep 1
+A-3007,Bay Area,37.217,-122.364,Academia,3200.0,False,Rep 1
+A-3008,Chicago,41.805,-87.733,Academia,1600.0,False,Rep 2
+A-3009,San Diego,33.193,-117.816,CRO,6000.0,False,Rep 2
+A-3010,Seattle,46.911,-121.858,Academia,800.0,False,Rep 1
+A-3011,Chicago,42.569,-88.028,Academia,600.0,True,Rep 2
+A-3012,Ann Arbor,42.856,-83.57,Academia,2000.0,True,Rep 3
+A-3013,Atlanta,33.178,-85.464,CGT developer,3000.0,True,Rep 3
+A-3014,Boston,42.147,-71.366,Biotech,4400.0,False,Rep 4
+A-3015,Cleveland,41.319,-82.38,Academia,1200.0,False,Rep 3
+A-3016,Baltimore-DC,40.206,-76.32,Pharma,16900.0,False,Rep 3
+A-3017,Ann Arbor,41.249,-84.02,Academia,2800.0,True,Rep 3
+A-3018,San Diego,32.958,-117.491,CGT developer,9100.0,False,Rep 2
+A-3019,Ann Arbor,41.827,-84.116,Academia,1600.0,False,Rep 3
+A-3020,Los Angeles,33.675,-117.801,CRO,2800.0,True,Rep 2
+A-3021,San Diego,33.809,-116.793,Pharma,3900.0,False,Rep 2
+A-3022,Chicago,41.157,-86.449,Biotech,3600.0,False,Rep 3
+A-3023,Minneapolis,45.489,-91.782,CRO,4500.0,False,Rep 2
+A-3024,Philadelphia,40.308,-74.49,CGT developer,2300.0,True,Rep 4
+A-3025,Bay Area,37.233,-123.062,Biotech,4100.0,False,Rep 1
+A-3026,Bay Area,37.342,-122.476,Academia,2600.0,False,Rep 1
+A-3027,Research Triangle,35.893,-77.826,CRO,2000.0,False,Rep 3
+A-3028,Philadelphia,40.537,-75.129,CGT developer,4500.0,False,Rep 3
+A-3029,Atlanta,33.811,-83.05,Academia,2100.0,False,Rep 3
+A-3030,Seattle,47.177,-123.414,Academia,3900.0,False,Rep 1
+A-3031,Houston,29.127,-95.758,Academia,1500.0,False,Rep 2
+A-3032,Houston,29.531,-95.019,Academia,1300.0,False,Rep 2
+A-3033,Los Angeles,34.074,-119.043,Academia,1300.0,False,Rep 1
+A-3034,New York,41.186,-73.685,Academia,4200.0,False,Rep 4
+A-3035,San Diego,33.228,-116.815,Academia,2900.0,False,Rep 2
+A-3036,Denver,40.352,-105.066,Academia,1000.0,True,Rep 2
+A-3037,Bay Area,37.692,-121.978,CGT developer,6200.0,True,Rep 1
+A-3038,Bay Area,37.058,-121.794,Biotech,5600.0,False,Rep 1
+A-3039,Boston,42.739,-71.984,Pharma,6700.0,False,Rep 4
+A-3040,Philadelphia,39.246,-74.131,CGT developer,4900.0,False,Rep 4
+A-3041,Chicago,41.363,-87.972,CRO,5500.0,False,Rep 2
+A-3042,Ann Arbor,41.747,-84.338,Biotech,2400.0,True,Rep 3
+A-3043,Ann Arbor,42.992,-85.285,Academia,1100.0,True,Rep 3
+A-3044,New York,40.833,-74.222,CGT developer,4600.0,False,Rep 4
+A-3045,Minneapolis,45.201,-92.905,Academia,1000.0,False,Rep 2
+A-3046,Baltimore-DC,39.358,-76.395,CGT developer,5400.0,False,Rep 3
+A-3047,Chicago,41.111,-88.56,Academia,1700.0,True,Rep 2
+A-3048,San Diego,33.079,-117.565,CGT developer,20600.0,True,Rep 2
+A-3049,Los Angeles,33.732,-118.237,Core facility,2500.0,False,Rep 2
+A-3050,Bay Area,37.361,-123.231,CRO,3900.0,False,Rep 1
+A-3051,Boston,41.025,-70.96,Academia,1300.0,False,Rep 4
+A-3052,Philadelphia,40.671,-76.549,Academia,6000.0,False,Rep 3
+A-3053,San Diego,32.627,-117.336,Core facility,2100.0,False,Rep 2
+A-3054,Seattle,47.202,-122.416,Academia,1400.0,False,Rep 1
+A-3055,Research Triangle,36.406,-78.652,CRO,4700.0,False,Rep 3
+A-3056,Atlanta,32.681,-84.365,CGT developer,3100.0,False,Rep 3
+A-3057,Philadelphia,41.044,-75.912,Core facility,1700.0,False,Rep 3
+A-3058,Philadelphia,40.334,-74.419,Academia,2600.0,True,Rep 4
+A-3059,San Diego,32.962,-116.528,Academia,2100.0,False,Rep 2
+A-3060,Chicago,41.527,-89.242,Academia,1800.0,True,Rep 2
+A-3061,Baltimore-DC,38.806,-77.14,CGT developer,6400.0,False,Rep 3
+A-3062,Ann Arbor,43.06,-83.519,Pharma,5800.0,True,Rep 3
+A-3063,Bay Area,37.808,-122.144,Academia,3800.0,False,Rep 1
+A-3064,Baltimore-DC,39.081,-76.319,Biotech,4200.0,False,Rep 3
+A-3065,New York,41.045,-72.255,Academia,2900.0,False,Rep 4
+A-3066,Los Angeles,34.477,-118.127,Core facility,900.0,True,Rep 2
+A-3067,Ann Arbor,42.847,-83.542,Academia,1600.0,False,Rep 3
+A-3068,Seattle,48.195,-123.406,Academia,2900.0,True,Rep 1
+A-3069,Research Triangle,36.062,-79.398,CRO,8700.0,False,Rep 3
+A-3070,Chicago,41.614,-88.739,Biotech,2200.0,False,Rep 2
+A-3071,Chicago,41.546,-87.597,Academia,1300.0,False,Rep 3
+A-3072,Houston,30.556,-95.809,Pharma,11200.0,False,Rep 2
+A-3073,Chicago,41.236,-87.988,CGT developer,5300.0,False,Rep 2
+A-3074,New York,41.034,-74.258,Academia,2100.0,False,Rep 4
+A-3075,Research Triangle,36.647,-79.915,Academia,2900.0,True,Rep 3
+A-3076,Chicago,42.866,-87.768,Academia,1900.0,False,Rep 2
+A-3077,Boston,42.816,-70.844,Academia,2200.0,False,Rep 4
+A-3078,Chicago,41.7,-86.46,Biotech,4900.0,True,Rep 3
+A-3079,Baltimore-DC,38.937,-77.464,Academia,1500.0,False,Rep 3
+A-3080,Bay Area,37.003,-121.595,Pharma,18500.0,False,Rep 1
+A-3081,San Diego,32.838,-117.131,Academia,2400.0,True,Rep 2
+A-3082,New York,40.095,-74.867,Biotech,2100.0,True,Rep 4
+A-3083,Ann Arbor,42.708,-84.18,CRO,1700.0,False,Rep 3
+A-3084,Bay Area,37.713,-122.32,Pharma,22700.0,False,Rep 1
+A-3085,Boston,42.758,-72.261,Academia,1200.0,False,Rep 4
+A-3086,Houston,30.628,-96.135,CRO,4500.0,False,Rep 2
+A-3087,Houston,30.414,-95.48,Biotech,1500.0,False,Rep 2
+A-3088,San Diego,32.762,-116.568,CRO,6100.0,False,Rep 2
+A-3089,Chicago,41.473,-86.804,Academia,1500.0,False,Rep 3
+A-3090,Ann Arbor,42.445,-83.779,Biotech,3000.0,True,Rep 3
+A-3091,Bay Area,38.011,-121.535,Biotech,2500.0,False,Rep 1
+A-3092,Chicago,41.407,-86.943,Pharma,6300.0,True,Rep 3
+A-3093,Minneapolis,44.063,-92.536,Biotech,3400.0,False,Rep 2
+A-3094,New York,41.334,-73.514,Core facility,3700.0,False,Rep 4
+A-3095,Los Angeles,34.772,-117.239,Pharma,12600.0,False,Rep 2
+A-3096,Seattle,47.999,-122.183,Academia,6800.0,False,Rep 1
+A-3097,Boston,42.53,-70.822,Academia,4800.0,False,Rep 4
+A-3098,Ann Arbor,42.366,-83.814,Core facility,1400.0,False,Rep 3
+A-3099,Philadelphia,39.868,-75.061,Academia,1100.0,False,Rep 3
+A-3100,Bay Area,37.471,-122.721,CGT developer,4800.0,False,Rep 1
+A-3101,Bay Area,37.001,-122.744,Academia,2400.0,False,Rep 1
+A-3102,San Diego,32.794,-116.705,Academia,4300.0,False,Rep 2
+A-3103,Chicago,41.655,-88.067,Academia,1300.0,False,Rep 2
+A-3104,San Diego,32.942,-117.593,CRO,2200.0,False,Rep 2
+A-3105,San Diego,33.184,-116.806,Biotech,6900.0,False,Rep 2
+A-3106,Los Angeles,34.682,-117.295,Biotech,1500.0,False,Rep 2
+A-3107,Seattle,48.068,-122.899,Academia,3900.0,False,Rep 1
+A-3108,Boston,42.209,-71.513,CGT developer,8200.0,False,Rep 4
+A-3109,San Diego,33.136,-117.418,CGT developer,9400.0,False,Rep 2
+A-3110,New York,39.456,-75.173,Biotech,3800.0,False,Rep 4
+A-3111,Ann Arbor,41.611,-83.678,CGT developer,2000.0,False,Rep 3
+A-3112,San Diego,33.069,-118.0,Academia,1900.0,False,Rep 2
+A-3113,Boston,42.666,-71.33,CGT developer,2800.0,False,Rep 4
+A-3114,Baltimore-DC,38.675,-76.929,Core facility,2400.0,False,Rep 3
+A-3115,San Diego,32.902,-115.434,CGT developer,2400.0,True,Rep 2
+A-3116,Baltimore-DC,39.743,-77.326,CRO,5800.0,False,Rep 3
+A-3117,Bay Area,37.429,-122.398,Academia,14100.0,False,Rep 1
+A-3118,Chicago,41.77,-87.002,CRO,2900.0,False,Rep 3
+A-3119,San Diego,32.44,-115.768,Academia,1000.0,False,Rep 2
+A-3120,Philadelphia,40.035,-75.624,CGT developer,2900.0,False,Rep 3
+A-3121,Research Triangle,36.278,-78.195,Pharma,5000.0,False,Rep 3
+A-3122,Bay Area,37.418,-123.154,Biotech,4000.0,True,Rep 1
+A-3123,Minneapolis,45.01,-93.267,Academia,1700.0,False,Rep 2
+A-3124,San Diego,33.297,-116.393,Academia,8300.0,False,Rep 2
+A-3125,Chicago,42.328,-86.955,Academia,1600.0,True,Rep 3
+A-3126,Ann Arbor,42.669,-85.258,CGT developer,5100.0,False,Rep 3
+A-3127,Minneapolis,45.829,-92.166,CGT developer,4500.0,True,Rep 2
+A-3128,New York,40.1,-75.596,Academia,1200.0,False,Rep 4
+A-3129,Boston,42.183,-70.977,Biotech,8700.0,False,Rep 4
+A-3130,Seattle,47.453,-122.09,Biotech,3800.0,True,Rep 1
+A-3131,Ann Arbor,42.784,-83.766,CGT developer,2900.0,False,Rep 3
+A-3132,Research Triangle,35.53,-79.353,Biotech,1800.0,False,Rep 3
+A-3133,Chicago,43.194,-87.716,Pharma,2200.0,True,Rep 2
+A-3134,Chicago,42.093,-89.458,CGT developer,6200.0,False,Rep 2
+A-3135,Cleveland,41.346,-81.82,Biotech,2200.0,True,Rep 3
+A-3136,Research Triangle,34.602,-78.639,CGT developer,8500.0,False,Rep 3
+A-3137,New York,41.259,-74.14,CGT developer,2400.0,False,Rep 4
+A-3138,New York,41.213,-74.244,Core facility,1600.0,False,Rep 4
+A-3139,Boston,43.176,-71.41,Biotech,5300.0,False,Rep 4
+A-3140,Los Angeles,33.62,-118.399,Biotech,4800.0,False,Rep 2
+A-3141,Bay Area,36.403,-121.154,Academia,3300.0,True,Rep 1
+A-3142,Atlanta,33.934,-84.863,Pharma,9800.0,False,Rep 3
+A-3143,Boston,42.706,-70.745,Academia,1900.0,False,Rep 4
+A-3144,New York,40.703,-72.544,Biotech,2200.0,False,Rep 4
+A-3145,Bay Area,38.431,-121.322,Biotech,4700.0,False,Rep 1
+A-3146,Seattle,47.874,-122.641,Academia,2300.0,False,Rep 1
+A-3147,Research Triangle,35.384,-79.109,CGT developer,4800.0,False,Rep 3
+A-3148,Atlanta,34.567,-85.378,Biotech,2600.0,True,Rep 3
+A-3149,Chicago,41.585,-87.747,Biotech,5000.0,False,Rep 2
+A-3150,Atlanta,33.303,-84.38,Pharma,6000.0,False,Rep 3
+A-3151,Bay Area,37.91,-120.88,Pharma,7000.0,False,Rep 1
+A-3152,Seattle,46.91,-122.647,Biotech,10700.0,False,Rep 1
+A-3153,Philadelphia,40.089,-76.195,Biotech,2500.0,False,Rep 3
+A-3154,Bay Area,37.621,-123.662,CRO,8700.0,False,Rep 1
+A-3155,San Diego,32.721,-117.421,Biotech,5100.0,True,Rep 2
+A-3156,Boston,41.239,-70.483,CGT developer,5300.0,False,Rep 4
+A-3157,San Diego,32.568,-115.799,Academia,2000.0,True,Rep 2
+A-3158,Denver,38.501,-105.217,Biotech,2500.0,False,Rep 2
+A-3159,Bay Area,37.436,-122.616,Academia,9800.0,True,Rep 1
+A-3160,Boston,41.706,-70.921,Academia,2500.0,False,Rep 4
+A-3161,Boston,41.478,-71.01,CRO,5800.0,False,Rep 4
+A-3162,Houston,29.22,-96.53,Core facility,2200.0,True,Rep 2
+A-3163,Seattle,46.734,-123.618,Academia,3100.0,True,Rep 1
+A-3164,Baltimore-DC,38.492,-76.131,Academia,3200.0,False,Rep 3
+A-3165,Cleveland,42.021,-82.096,Academia,900.0,False,Rep 3
+A-3166,San Diego,32.46,-117.232,Academia,1500.0,True,Rep 2
+A-3167,Ann Arbor,42.077,-84.409,CRO,3300.0,False,Rep 3
+A-3168,Bay Area,36.67,-123.22,CGT developer,4100.0,False,Rep 1
+A-3169,Seattle,47.892,-123.429,Pharma,7300.0,False,Rep 1
+A-3170,New York,41.411,-74.106,Academia,3100.0,True,Rep 4
+A-3171,Boston,43.142,-72.652,Academia,11700.0,True,Rep 4
+A-3172,Boston,42.479,-70.146,CGT developer,6600.0,False,Rep 4
+A-3173,Baltimore-DC,38.963,-76.483,Biotech,4800.0,False,Rep 3
+A-3174,Ann Arbor,42.554,-83.918,CRO,3100.0,False,Rep 3
+A-3175,Ann Arbor,42.305,-84.378,Academia,4900.0,True,Rep 3
+A-3176,Research Triangle,36.15,-79.43,Pharma,15300.0,False,Rep 3
+A-3177,San Diego,33.552,-116.782,CGT developer,5800.0,False,Rep 2
+A-3178,Baltimore-DC,38.263,-77.612,Academia,2500.0,False,Rep 3
+A-3179,Bay Area,36.579,-121.731,CRO,12200.0,False,Rep 1
+A-3180,Seattle,47.858,-122.199,Pharma,13700.0,False,Rep 1
+A-3181,San Diego,32.076,-117.035,Academia,6300.0,False,Rep 2
+A-3182,San Diego,31.731,-117.365,CRO,5700.0,False,Rep 2
+A-3183,San Diego,32.241,-115.728,Biotech,2200.0,False,Rep 2
+A-3184,San Diego,33.134,-117.256,Academia,2800.0,False,Rep 2
+A-3185,Minneapolis,45.155,-92.902,Pharma,5500.0,False,Rep 2
+A-3186,Boston,41.578,-71.438,Academia,3000.0,True,Rep 4
+A-3187,Denver,39.933,-104.312,Core facility,1300.0,False,Rep 2
+A-3188,Los Angeles,33.863,-118.651,Biotech,1300.0,False,Rep 1
+A-3189,New York,40.313,-74.177,Biotech,2300.0,False,Rep 4
+A-3190,New York,40.341,-73.772,Academia,2900.0,False,Rep 4
+A-3191,Atlanta,33.113,-84.788,Biotech,3700.0,False,Rep 3
+A-3192,Bay Area,37.458,-122.834,Pharma,9700.0,False,Rep 1
+A-3193,Atlanta,34.439,-83.547,CRO,8900.0,False,Rep 3
+A-3194,Cleveland,42.406,-82.635,CGT developer,3400.0,False,Rep 3
+A-3195,Houston,29.5,-96.314,Core facility,900.0,False,Rep 2
+A-3196,Baltimore-DC,39.396,-76.42,Academia,2400.0,False,Rep 3
+A-3197,Bay Area,37.457,-122.235,Core facility,2300.0,False,Rep 1
+A-3198,Seattle,47.159,-123.314,CGT developer,6300.0,False,Rep 1
+A-3199,Bay Area,37.953,-121.93,CRO,4900.0,True,Rep 1
+A-3200,San Diego,32.905,-117.803,Core facility,3000.0,False,Rep 2
+A-3201,Boston,41.776,-71.201,Academia,2600.0,False,Rep 4
+A-3202,San Diego,32.634,-116.798,Academia,3400.0,True,Rep 2
+A-3203,San Diego,33.014,-116.858,Academia,1700.0,True,Rep 2
+A-3204,New York,40.967,-73.577,Core facility,2200.0,False,Rep 4
+A-3205,Bay Area,35.981,-121.689,Pharma,9700.0,True,Rep 1
+A-3206,Seattle,47.333,-122.33,Academia,2400.0,False,Rep 1
+A-3207,Los Angeles,34.291,-119.369,Biotech,4200.0,False,Rep 1
+A-3208,Houston,30.112,-95.408,CRO,3500.0,False,Rep 2
+A-3209,San Diego,33.201,-116.236,Pharma,11600.0,True,Rep 2
+A-3210,Denver,39.801,-104.504,Pharma,3200.0,False,Rep 2
+A-3211,New York,40.371,-74.11,Biotech,3000.0,False,Rep 4
+A-3212,Seattle,48.328,-121.228,Biotech,1900.0,False,Rep 1
+A-3213,Chicago,41.376,-86.822,Core facility,4200.0,False,Rep 3
+A-3214,Minneapolis,44.891,-92.569,CGT developer,4800.0,False,Rep 2
+A-3215,Atlanta,34.306,-84.642,CGT developer,1800.0,True,Rep 3
+A-3216,Chicago,41.594,-87.691,Academia,2100.0,False,Rep 2
+A-3217,Denver,39.389,-105.43,Biotech,2800.0,False,Rep 2
+A-3218,Bay Area,37.767,-121.813,Academia,1800.0,False,Rep 1
+A-3219,Philadelphia,40.374,-74.672,CRO,3300.0,False,Rep 3
+A-3220,Baltimore-DC,39.896,-77.508,Biotech,5600.0,False,Rep 3
+A-3221,New York,40.869,-72.918,Core facility,1100.0,False,Rep 4
+A-3222,Philadelphia,40.386,-75.229,Biotech,2000.0,False,Rep 3
+A-3223,San Diego,32.243,-117.655,Academia,3700.0,True,Rep 2
+A-3224,Seattle,46.195,-121.601,CRO,7700.0,False,Rep 1
+A-3225,Atlanta,33.532,-84.529,Academia,3100.0,True,Rep 3
+A-3226,Research Triangle,35.965,-79.548,Academia,2300.0,False,Rep 3
+A-3227,Bay Area,37.526,-121.779,CRO,3000.0,False,Rep 1
+A-3228,Philadelphia,40.238,-74.492,Academia,4200.0,False,Rep 4
+A-3229,Boston,42.759,-70.565,Academia,1700.0,False,Rep 4
+A-3230,Philadelphia,39.309,-75.346,Academia,2100.0,True,Rep 3
+A-3231,Research Triangle,35.793,-78.513,Pharma,4800.0,False,Rep 3
+A-3232,Research Triangle,36.714,-78.022,Academia,2700.0,True,Rep 3
+A-3233,Houston,29.665,-96.124,Biotech,1800.0,True,Rep 2
+A-3234,New York,40.58,-73.715,Core facility,3600.0,False,Rep 4
+A-3235,Boston,43.512,-70.346,CRO,8700.0,True,Rep 4
+A-3236,Philadelphia,39.968,-75.346,Academia,2700.0,False,Rep 3
+A-3237,Philadelphia,39.808,-74.507,Core facility,2300.0,False,Rep 4
+A-3238,New York,40.291,-74.087,CGT developer,2000.0,False,Rep 4
+A-3239,Chicago,42.665,-88.459,Biotech,4100.0,False,Rep 2
+A-3240,Los Angeles,33.551,-118.844,Academia,3900.0,False,Rep 1
+A-3241,Boston,42.83,-71.429,CRO,12000.0,False,Rep 4
+A-3242,San Diego,32.812,-116.435,CRO,1900.0,False,Rep 2
+A-3243,Houston,30.036,-95.99,CRO,2000.0,False,Rep 2
+A-3244,Chicago,42.712,-87.75,Academia,1300.0,False,Rep 2
+A-3245,Bay Area,37.812,-122.282,CGT developer,9600.0,False,Rep 1
+A-3246,Los Angeles,34.965,-117.432,Pharma,7600.0,False,Rep 2
+A-3247,Atlanta,33.037,-84.03,Biotech,1100.0,False,Rep 3
+A-3248,Houston,29.412,-94.99,Academia,1400.0,False,Rep 2
+A-3249,Seattle,47.882,-121.969,Pharma,8100.0,False,Rep 1
+A-3250,Bay Area,38.381,-122.847,Pharma,10100.0,False,Rep 1
+A-3251,Bay Area,37.598,-121.053,CGT developer,6500.0,False,Rep 1
+A-3252,Houston,29.294,-96.651,Core facility,1400.0,True,Rep 2
+A-3253,Research Triangle,35.925,-78.808,CGT developer,3700.0,False,Rep 3
+A-3254,Boston,42.816,-71.496,Core facility,2200.0,True,Rep 4
+A-3255,Baltimore-DC,39.959,-76.59,CGT developer,5100.0,False,Rep 3
+A-3256,Bay Area,36.978,-121.685,CRO,12600.0,False,Rep 1
+A-3257,San Diego,33.445,-115.887,Academia,2800.0,False,Rep 2
+A-3258,Atlanta,33.78,-84.502,Biotech,6300.0,False,Rep 3
+A-3259,Baltimore-DC,38.421,-77.571,Academia,1700.0,False,Rep 3
+A-3260,Research Triangle,35.817,-78.502,CGT developer,5300.0,False,Rep 3
+A-3261,Los Angeles,33.44,-118.54,Core facility,1300.0,False,Rep 1
+A-3262,Los Angeles,35.096,-117.763,CGT developer,2500.0,True,Rep 2
+A-3263,Philadelphia,39.713,-75.168,Pharma,6700.0,True,Rep 3
+A-3264,Chicago,41.286,-87.141,Academia,2200.0,True,Rep 3
+A-3265,Los Angeles,33.037,-116.78,Biotech,2100.0,True,Rep 2
+A-3266,Baltimore-DC,39.474,-77.158,Biotech,3700.0,False,Rep 3
+A-3267,Atlanta,32.733,-84.431,Academia,700.0,False,Rep 3
+A-3268,New York,41.061,-74.633,CGT developer,5600.0,False,Rep 4
+A-3269,New York,41.28,-72.951,Academia,2800.0,True,Rep 4
+A-3270,San Diego,33.691,-117.993,CGT developer,4600.0,False,Rep 2
+A-3271,San Diego,32.047,-117.859,CGT developer,13900.0,False,Rep 2
+A-3272,Seattle,47.121,-121.447,Core facility,1900.0,False,Rep 1
+A-3273,Baltimore-DC,38.994,-76.049,CGT developer,2500.0,False,Rep 3
+A-3274,Research Triangle,36.496,-78.713,CGT developer,3800.0,True,Rep 3
+A-3275,New York,40.15,-72.553,Core facility,2800.0,False,Rep 4
+A-3276,New York,41.121,-72.745,Biotech,12100.0,False,Rep 4
+A-3277,Bay Area,37.065,-122.583,Academia,3400.0,True,Rep 1
+A-3278,Bay Area,38.06,-121.662,Academia,1400.0,False,Rep 1
+A-3279,Seattle,47.167,-123.492,Academia,1400.0,True,Rep 1
+A-3280,San Diego,32.141,-117.762,Academia,2900.0,False,Rep 2
+A-3281,Bay Area,36.792,-122.772,CGT developer,7000.0,False,Rep 1
+A-3282,Bay Area,37.072,-121.562,Biotech,3400.0,False,Rep 1
+A-3283,Denver,38.969,-105.847,Academia,2100.0,True,Rep 2
+A-3284,Baltimore-DC,39.917,-76.563,Academia,1000.0,False,Rep 3
+A-3285,San Diego,32.674,-116.385,Academia,4200.0,False,Rep 2
+A-3286,San Diego,32.045,-116.77,Academia,2100.0,False,Rep 2
+A-3287,San Diego,33.523,-116.465,Core facility,2300.0,False,Rep 2
+A-3288,Minneapolis,44.96,-93.599,Biotech,4100.0,False,Rep 2
+A-3289,Boston,42.855,-71.249,Academia,3200.0,False,Rep 4
+A-3290,New York,40.972,-74.511,Biotech,3800.0,False,Rep 4
+A-3291,Houston,30.407,-95.425,Academia,1900.0,False,Rep 2
+A-3292,Bay Area,37.076,-122.467,Academia,1900.0,True,Rep 1
+A-3293,Boston,42.409,-69.74,Pharma,12700.0,False,Rep 4
+A-3294,Houston,30.067,-95.165,Academia,3100.0,True,Rep 2
+A-3295,Seattle,46.958,-122.354,Pharma,9800.0,False,Rep 1
+A-3296,Cleveland,41.487,-81.074,Biotech,2600.0,False,Rep 3
+A-3297,Boston,42.645,-69.746,CGT developer,6000.0,True,Rep 4
+A-3298,New York,42.107,-74.55,CGT developer,8100.0,False,Rep 4
+A-3299,Bay Area,38.089,-122.15,Biotech,6300.0,False,Rep 1
+A-3300,Research Triangle,35.597,-78.529,Academia,1000.0,False,Rep 3
+A-3301,Bay Area,37.531,-122.337,CGT developer,3600.0,False,Rep 1
+A-3302,Houston,29.119,-95.318,Pharma,4800.0,False,Rep 2
+A-3303,Los Angeles,32.607,-118.092,CGT developer,4000.0,False,Rep 2
+A-3304,Research Triangle,36.696,-80.276,Biotech,1900.0,False,Rep 3
+A-3305,Atlanta,33.316,-84.253,Academia,2400.0,False,Rep 3
+A-3306,Boston,42.322,-70.718,CGT developer,7200.0,False,Rep 4
+A-3307,Boston,41.13,-71.509,CRO,2800.0,False,Rep 4
+A-3308,Cleveland,40.955,-83.075,Academia,1200.0,False,Rep 3
+A-3309,Los Angeles,34.597,-118.664,Academia,2400.0,True,Rep 1
+A-3310,Bay Area,38.827,-121.697,Academia,2800.0,False,Rep 1
+A-3311,Philadelphia,40.61,-75.43,Biotech,900.0,False,Rep 3
+A-3312,Philadelphia,40.061,-75.58,Academia,3100.0,False,Rep 3
+A-3313,Denver,39.99,-106.366,Academia,1000.0,True,Rep 2
+A-3314,Boston,42.875,-71.06,Core facility,2500.0,False,Rep 4
+A-3315,Philadelphia,40.001,-74.595,Pharma,6300.0,False,Rep 4
+A-3316,Philadelphia,39.83,-75.528,Biotech,2900.0,False,Rep 3
+A-3317,Bay Area,38.082,-122.695,CGT developer,9300.0,True,Rep 1
+A-3318,Bay Area,38.037,-123.191,Core facility,1500.0,False,Rep 1
+A-3319,Philadelphia,39.47,-74.748,Core facility,2100.0,False,Rep 3
+A-3320,Chicago,42.248,-86.81,Academia,1900.0,False,Rep 3
+A-3321,Houston,29.037,-95.939,Academia,1500.0,False,Rep 2
+A-3322,Cleveland,42.114,-82.118,CRO,4400.0,False,Rep 3
+A-3323,San Diego,32.672,-116.742,Pharma,5300.0,False,Rep 2
+A-3324,Cleveland,40.264,-81.135,Academia,2000.0,False,Rep 3
+A-3325,Bay Area,38.19,-122.547,CRO,6800.0,False,Rep 1
+A-3326,Boston,41.919,-71.496,Academia,2000.0,False,Rep 4
+A-3327,Chicago,41.262,-88.171,Biotech,4600.0,False,Rep 2
+A-3328,Seattle,46.955,-122.61,Academia,2400.0,False,Rep 1
+A-3329,Atlanta,32.727,-84.198,Academia,2100.0,False,Rep 3
+A-3330,San Diego,31.756,-117.208,Academia,1600.0,False,Rep 2
+A-3331,Boston,41.531,-71.028,Biotech,3100.0,False,Rep 4
+A-3332,Bay Area,38.71,-122.31,Academia,3000.0,False,Rep 1
+A-3333,Research Triangle,35.842,-78.184,Pharma,10500.0,False,Rep 3
+A-3334,Baltimore-DC,39.788,-77.416,Biotech,3300.0,False,Rep 3
+A-3335,Boston,42.487,-70.579,CRO,5800.0,False,Rep 4
+A-3336,Seattle,47.665,-121.745,Biotech,2200.0,False,Rep 1
+A-3337,Baltimore-DC,38.446,-76.585,Academia,3200.0,False,Rep 3
+A-3338,Atlanta,33.398,-86.063,CGT developer,4500.0,False,Rep 3
+A-3339,Boston,42.464,-70.278,Academia,3500.0,False,Rep 4
+A-3340,Bay Area,37.355,-121.318,Academia,2100.0,False,Rep 1
+A-3341,Baltimore-DC,39.498,-76.308,Core facility,2500.0,True,Rep 3
+A-3342,Minneapolis,45.528,-94.048,CRO,3500.0,False,Rep 2
+A-3343,Research Triangle,35.928,-79.577,Biotech,3700.0,False,Rep 3
+A-3344,Bay Area,38.232,-122.35,Academia,3100.0,False,Rep 1
+A-3345,Bay Area,37.239,-122.681,CGT developer,12300.0,False,Rep 1
+A-3346,Bay Area,36.872,-121.437,Biotech,13700.0,False,Rep 1
+A-3347,Boston,42.483,-71.402,Academia,5800.0,True,Rep 4
+A-3348,New York,40.404,-74.147,Biotech,5000.0,False,Rep 4
+A-3349,Boston,41.869,-70.292,Academia,2000.0,True,Rep 4
+A-3350,Boston,41.977,-70.963,Core facility,1700.0,False,Rep 4
+A-3351,Chicago,41.833,-87.971,Biotech,3800.0,False,Rep 2
+A-3352,Philadelphia,39.715,-75.506,Biotech,3000.0,False,Rep 3
+A-3353,Chicago,42.083,-87.859,Pharma,4800.0,False,Rep 2
+A-3354,Chicago,42.902,-88.777,Academia,2000.0,False,Rep 2
+A-3355,San Diego,32.842,-116.351,Academia,4000.0,False,Rep 2
+A-3356,Ann Arbor,42.61,-82.047,Biotech,4000.0,False,Rep 3
+A-3357,New York,41.686,-74.521,Academia,3800.0,False,Rep 4
+A-3358,New York,40.002,-73.955,Academia,1900.0,True,Rep 4
+A-3359,Ann Arbor,42.311,-83.369,Core facility,1700.0,False,Rep 3
+A-3360,Philadelphia,39.966,-75.075,CRO,4800.0,False,Rep 3
+A-3361,Philadelphia,39.464,-75.801,Academia,6600.0,False,Rep 3
+A-3362,New York,41.367,-74.318,Academia,2500.0,False,Rep 4
+A-3363,Los Angeles,32.582,-116.831,Biotech,2800.0,True,Rep 2
+A-3364,Research Triangle,35.917,-79.485,Academia,2700.0,False,Rep 3
+A-3365,Boston,42.591,-70.749,Pharma,9500.0,True,Rep 4
+A-3366,New York,40.393,-74.563,Biotech,4100.0,False,Rep 4
+A-3367,New York,40.621,-72.145,Academia,1600.0,False,Rep 4
+A-3368,Bay Area,37.691,-122.289,Academia,9800.0,True,Rep 1
+A-3369,Philadelphia,40.541,-74.382,CGT developer,9200.0,False,Rep 4
+A-3370,Atlanta,34.433,-85.31,Academia,900.0,False,Rep 3
+A-3371,Atlanta,32.847,-83.566,Biotech,3500.0,False,Rep 3
+A-3372,Philadelphia,39.34,-75.203,Academia,900.0,False,Rep 3
+A-3373,Boston,43.096,-71.28,Academia,3200.0,False,Rep 4
+A-3374,Boston,42.976,-70.516,Biotech,6700.0,False,Rep 4
+A-3375,Ann Arbor,42.084,-82.986,Biotech,1400.0,False,Rep 3
+A-3376,Philadelphia,39.128,-74.299,Core facility,1400.0,False,Rep 4
+A-3377,New York,40.586,-75.866,Academia,2200.0,False,Rep 4
+A-3378,San Diego,33.556,-117.039,Biotech,1200.0,False,Rep 2
+A-3379,San Diego,32.728,-117.138,Academia,2000.0,False,Rep 2
+A-3380,Boston,42.343,-72.365,CRO,5200.0,False,Rep 4
+A-3381,Los Angeles,34.12,-118.74,Pharma,6500.0,False,Rep 1
+A-3382,Minneapolis,45.122,-92.573,Academia,1000.0,False,Rep 2
+A-3383,New York,40.9,-73.711,Biotech,2100.0,False,Rep 4
+A-3384,Houston,30.56,-96.625,Academia,1600.0,True,Rep 2
+A-3385,New York,39.819,-73.93,CGT developer,3300.0,False,Rep 4
+A-3386,Seattle,47.671,-122.893,Academia,1000.0,True,Rep 1
+A-3387,Chicago,42.645,-87.397,Biotech,1700.0,False,Rep 3
+A-3388,Bay Area,38.496,-122.791,Core facility,2100.0,True,Rep 1
+A-3389,Chicago,42.168,-87.193,Biotech,3300.0,True,Rep 3
+A-3390,Bay Area,36.582,-121.425,Academia,3500.0,False,Rep 1
+A-3391,Bay Area,37.536,-121.901,Academia,3500.0,False,Rep 1
+A-3392,Denver,39.602,-104.795,Biotech,2300.0,False,Rep 2
+A-3393,Los Angeles,34.541,-117.674,Pharma,4000.0,False,Rep 2
+A-3394,Bay Area,38.66,-121.126,Biotech,12000.0,False,Rep 1
+A-3395,Los Angeles,33.886,-119.057,Academia,2300.0,False,Rep 1
+A-3396,Philadelphia,38.073,-75.298,Academia,1600.0,False,Rep 3
+A-3397,Ann Arbor,42.947,-83.538,Pharma,2900.0,False,Rep 3
+A-3398,San Diego,34.247,-116.916,Biotech,3700.0,True,Rep 2
+A-3399,Seattle,47.573,-123.926,Academia,2900.0,False,Rep 1
+A-3400,Research Triangle,35.351,-78.959,Core facility,700.0,False,Rep 3
+A-3401,Denver,39.583,-104.859,CRO,2400.0,False,Rep 2
+A-3402,Baltimore-DC,38.329,-78.019,CGT developer,7300.0,False,Rep 3
+A-3403,San Diego,32.912,-117.964,CRO,4600.0,False,Rep 2
+A-3404,Atlanta,34.171,-83.4,Biotech,1400.0,False,Rep 3
+A-3405,Boston,41.952,-72.093,Academia,1400.0,False,Rep 4
+A-3406,Chicago,41.889,-88.747,Pharma,9500.0,False,Rep 2
+A-3407,San Diego,32.771,-118.856,Academia,2600.0,False,Rep 2
+A-3408,New York,40.229,-73.723,Pharma,6400.0,False,Rep 4
+A-3409,Research Triangle,34.925,-79.494,Core facility,1000.0,False,Rep 3
+A-3410,Boston,43.369,-70.304,Academia,6300.0,False,Rep 4
+A-3411,Los Angeles,33.501,-117.091,Academia,900.0,False,Rep 2
+A-3412,Boston,42.893,-69.898,Biotech,5900.0,True,Rep 4
+A-3413,San Diego,32.882,-117.538,Core facility,3000.0,False,Rep 2
+A-3414,Denver,38.084,-104.704,Academia,1500.0,True,Rep 2
+A-3415,Boston,42.537,-71.197,Biotech,4200.0,False,Rep 4
+A-3416,Seattle,47.344,-122.262,CRO,3600.0,False,Rep 1
+A-3417,Denver,39.221,-105.887,Academia,1200.0,True,Rep 2
+A-3418,Boston,41.787,-69.521,Biotech,5400.0,True,Rep 4
+A-3419,Boston,42.748,-70.529,Academia,1500.0,False,Rep 4
+A-3420,San Diego,33.214,-115.634,CGT developer,8200.0,False,Rep 2
+A-3421,Ann Arbor,42.501,-84.01,CRO,3400.0,False,Rep 3
+A-3422,Chicago,41.988,-88.398,Academia,3100.0,False,Rep 2
+A-3423,Boston,42.986,-71.122,Academia,4000.0,False,Rep 4
+A-3424,Seattle,47.693,-123.255,Academia,2900.0,True,Rep 1
+A-3425,Los Angeles,34.483,-118.082,CGT developer,6000.0,True,Rep 2
+A-3426,New York,40.689,-74.716,Biotech,2600.0,True,Rep 4
+A-3427,Philadelphia,41.003,-75.406,Academia,2200.0,False,Rep 3
+A-3428,Cleveland,41.478,-81.487,Biotech,3300.0,False,Rep 3
+A-3429,Philadelphia,40.329,-75.423,CRO,2300.0,False,Rep 3
+A-3430,Atlanta,34.025,-84.076,Biotech,2100.0,True,Rep 3
+A-3431,Chicago,41.732,-87.392,Academia,1700.0,False,Rep 3
+A-3432,Boston,42.904,-69.871,CRO,10900.0,False,Rep 4
+A-3433,Research Triangle,36.052,-78.475,Biotech,1400.0,True,Rep 3
+A-3434,Baltimore-DC,39.397,-76.803,CRO,2800.0,False,Rep 3
+A-3435,Research Triangle,35.189,-78.689,Core facility,1000.0,True,Rep 3
+A-3436,Houston,30.393,-94.096,CGT developer,1700.0,False,Rep 2
+A-3437,New York,39.95,-74.589,CRO,1300.0,False,Rep 4
+A-3438,Chicago,41.626,-87.093,Academia,1600.0,True,Rep 3
+A-3439,Denver,40.784,-105.982,CGT developer,2700.0,False,Rep 2
+A-3440,Baltimore-DC,39.313,-77.045,Academia,4000.0,False,Rep 3
+A-3441,Philadelphia,39.003,-75.724,CGT developer,6100.0,False,Rep 3
+A-3442,New York,41.012,-74.037,Biotech,5500.0,False,Rep 4
+A-3443,New York,40.099,-73.316,Academia,3100.0,False,Rep 4
+A-3444,Chicago,42.398,-87.673,Biotech,3500.0,False,Rep 3
+A-3445,Boston,43.364,-70.567,Academia,3700.0,True,Rep 4
+A-3446,Philadelphia,39.054,-75.044,Academia,1700.0,False,Rep 3
+A-3447,Seattle,47.905,-122.343,Pharma,18800.0,False,Rep 1
+A-3448,Baltimore-DC,39.988,-76.807,Academia,2700.0,False,Rep 3
+A-3449,Bay Area,38.337,-121.784,Academia,2000.0,False,Rep 1
+A-3450,San Diego,32.171,-116.119,CGT developer,4800.0,False,Rep 2
+A-3451,Los Angeles,33.844,-117.996,Academia,3900.0,False,Rep 2
+A-3452,San Diego,33.816,-117.069,Academia,1900.0,False,Rep 2
+A-3453,Seattle,47.058,-122.534,Academia,2300.0,False,Rep 1
+A-3454,Houston,29.01,-94.712,Biotech,1200.0,False,Rep 2
+A-3455,Minneapolis,45.921,-93.617,Academia,1400.0,False,Rep 2
+A-3456,Atlanta,34.069,-84.441,Academia,1200.0,False,Rep 3
+A-3457,Boston,42.376,-71.051,Biotech,4000.0,True,Rep 4
+A-3458,Philadelphia,40.061,-74.074,Academia,2000.0,False,Rep 4
+A-3459,Boston,43.724,-70.758,Academia,2700.0,True,Rep 4
+A-3460,Ann Arbor,41.773,-84.728,Core facility,1400.0,False,Rep 3
+A-3461,New York,41.125,-74.316,Academia,1500.0,False,Rep 4
+A-3462,Bay Area,38.44,-123.239,Biotech,5200.0,False,Rep 1
+A-3463,Boston,42.186,-71.175,Academia,2300.0,False,Rep 4
+A-3464,Boston,42.226,-71.003,Biotech,4000.0,True,Rep 4
+A-3465,Chicago,41.576,-87.395,CGT developer,4400.0,False,Rep 3
+A-3466,New York,40.683,-74.68,Pharma,6600.0,False,Rep 4
+A-3467,Los Angeles,33.358,-117.029,CGT developer,6900.0,True,Rep 2
+A-3468,Boston,41.495,-71.977,Academia,4400.0,True,Rep 4
+A-3469,Seattle,47.271,-120.967,Academia,3700.0,False,Rep 1
+A-3470,Bay Area,38.052,-123.068,Biotech,15400.0,False,Rep 1
+A-3471,Bay Area,36.411,-122.285,CGT developer,10400.0,False,Rep 1
+A-3472,Research Triangle,35.999,-78.076,Academia,1800.0,True,Rep 3
+A-3473,Baltimore-DC,39.424,-76.954,Academia,800.0,True,Rep 3
+A-3474,Bay Area,37.782,-122.796,Pharma,14900.0,False,Rep 1
+A-3475,Philadelphia,40.366,-74.958,CRO,10800.0,False,Rep 3
+A-3476,Boston,42.671,-69.82,Pharma,12500.0,False,Rep 4
+A-3477,Boston,42.11,-71.146,Biotech,2600.0,False,Rep 4
+A-3478,Houston,29.941,-95.574,CRO,8200.0,False,Rep 2
+A-3479,Philadelphia,39.864,-76.366,CGT developer,4900.0,False,Rep 3
+A-3480,Bay Area,37.893,-121.791,CRO,3400.0,True,Rep 1
+A-3481,Minneapolis,44.176,-93.046,CGT developer,2200.0,False,Rep 2
+A-3482,Denver,39.7,-105.088,Academia,2000.0,True,Rep 2
+A-3483,Research Triangle,36.628,-80.041,Academia,1600.0,False,Rep 3
+A-3484,New York,40.503,-73.922,Pharma,3700.0,False,Rep 4
+A-3485,San Diego,32.539,-117.689,CGT developer,5400.0,False,Rep 2
+A-3486,New York,39.959,-73.524,Academia,3400.0,True,Rep 4
+A-3487,Bay Area,37.279,-122.112,Pharma,2700.0,False,Rep 1
+A-3488,New York,40.507,-73.485,Academia,1500.0,False,Rep 4
+A-3489,New York,40.349,-73.608,Pharma,4800.0,False,Rep 4
+A-3490,Boston,42.107,-71.564,CGT developer,6200.0,True,Rep 4
+A-3491,New York,40.901,-73.824,Academia,1900.0,False,Rep 4
+A-3492,Cleveland,41.657,-81.437,Academia,1600.0,True,Rep 3
+A-3493,Baltimore-DC,38.467,-77.041,CRO,2700.0,False,Rep 3
+A-3494,Philadelphia,39.236,-75.272,Pharma,7300.0,False,Rep 3
+A-3495,Research Triangle,36.494,-78.894,Core facility,2700.0,False,Rep 3
+A-3496,Los Angeles,34.412,-117.999,Academia,2100.0,True,Rep 2
+A-3497,Denver,39.735,-103.783,Academia,700.0,False,Rep 2
+A-3498,Research Triangle,36.226,-79.674,Biotech,4900.0,True,Rep 3
+A-3499,Baltimore-DC,40.075,-76.772,Academia,1700.0,False,Rep 3
+A-3500,Bay Area,38.295,-123.309,Academia,1700.0,False,Rep 1
+A-3501,Research Triangle,36.624,-78.947,Pharma,10900.0,False,Rep 3
+A-3502,Houston,29.696,-95.901,Academia,2400.0,False,Rep 2
+A-3503,San Diego,32.891,-117.543,Academia,2100.0,True,Rep 2
+A-3504,San Diego,32.959,-117.02,Pharma,12800.0,False,Rep 2
+A-3505,New York,41.558,-74.436,CRO,7400.0,False,Rep 4
+A-3506,Cleveland,41.149,-81.417,Core facility,1000.0,False,Rep 3
+A-3507,Los Angeles,33.782,-116.585,Core facility,1900.0,False,Rep 2
+A-3508,Boston,42.513,-71.366,Pharma,11700.0,False,Rep 4
+A-3509,Seattle,47.8,-122.188,Core facility,3900.0,False,Rep 1
+A-3510,New York,40.943,-73.473,Pharma,9000.0,False,Rep 4
+A-3511,Boston,42.847,-71.261,Academia,6400.0,False,Rep 4
+A-3512,Baltimore-DC,39.364,-77.417,Biotech,2100.0,False,Rep 3
+A-3513,Chicago,43.121,-88.373,Biotech,4500.0,False,Rep 2
+A-3514,Philadelphia,40.202,-74.579,Academia,1300.0,False,Rep 4
+A-3515,Ann Arbor,42.159,-83.368,Academia,900.0,False,Rep 3
+A-3516,Baltimore-DC,37.945,-77.959,Academia,5300.0,False,Rep 3
+A-3517,Denver,39.448,-105.906,Core facility,2300.0,True,Rep 2
+A-3518,Boston,42.452,-70.88,CRO,8800.0,False,Rep 4
+A-3519,Research Triangle,36.11,-78.013,Biotech,2900.0,False,Rep 3
+A-3520,Ann Arbor,41.806,-83.791,Academia,900.0,False,Rep 3
+A-3521,New York,42.065,-73.16,Pharma,6900.0,False,Rep 4
+A-3522,Los Angeles,34.79,-118.373,Core facility,3200.0,False,Rep 2
+A-3523,Houston,29.408,-95.343,Academia,2400.0,False,Rep 2
+A-3524,San Diego,32.03,-117.57,Academia,2400.0,False,Rep 2
+A-3525,Research Triangle,36.006,-78.633,Academia,2100.0,True,Rep 3
+A-3526,Denver,40.631,-105.295,Biotech,2800.0,False,Rep 2
+A-3527,Bay Area,36.593,-122.524,Academia,4100.0,False,Rep 1
+A-3528,Los Angeles,33.144,-117.929,CGT developer,9600.0,True,Rep 2
+A-3529,Cleveland,40.917,-81.8,Academia,2300.0,False,Rep 3
+A-3530,Chicago,42.507,-86.894,Academia,2500.0,False,Rep 3
+A-3531,New York,40.605,-74.235,Pharma,6200.0,False,Rep 4
+A-3532,Baltimore-DC,39.989,-77.132,CGT developer,2200.0,True,Rep 3
+A-3533,Denver,40.673,-104.98,Academia,2400.0,False,Rep 2
+A-3534,Philadelphia,39.643,-75.992,Pharma,4000.0,False,Rep 3
+A-3535,New York,40.848,-73.81,Academia,2500.0,False,Rep 4
+A-3536,San Diego,32.516,-116.928,Academia,7300.0,False,Rep 2
+A-3537,Boston,41.94,-72.728,Academia,3800.0,True,Rep 4
+A-3538,San Diego,32.102,-116.973,Academia,2700.0,False,Rep 2
+A-3539,New York,40.64,-74.163,CRO,3300.0,False,Rep 4
+A-3540,Bay Area,38.218,-123.018,Core facility,1800.0,False,Rep 1
+A-3541,Atlanta,33.822,-84.128,Pharma,11500.0,True,Rep 3
+A-3542,Bay Area,37.614,-121.643,Biotech,7000.0,False,Rep 1
+A-3543,Los Angeles,33.617,-117.361,CGT developer,3000.0,False,Rep 2
+A-3544,Chicago,41.841,-88.093,Pharma,6100.0,False,Rep 2
+A-3545,Research Triangle,35.952,-79.452,Academia,1200.0,False,Rep 3
+A-3546,Baltimore-DC,38.845,-75.701,Academia,1300.0,True,Rep 3
+A-3547,Cleveland,41.658,-81.945,Core facility,800.0,False,Rep 3
+A-3548,Baltimore-DC,38.819,-77.18,Academia,2500.0,True,Rep 3
+A-3549,Bay Area,37.503,-122.343,Academia,4200.0,True,Rep 1
+A-3550,Ann Arbor,44.149,-84.549,Core facility,600.0,False,Rep 3
+A-3551,Chicago,41.303,-87.194,Academia,1100.0,False,Rep 3
+A-3552,San Diego,32.858,-116.14,Academia,4000.0,False,Rep 2
+A-3553,Bay Area,37.11,-121.799,Academia,6500.0,True,Rep 1
+A-3554,Philadelphia,39.206,-75.26,Core facility,4100.0,False,Rep 3
+A-3555,San Diego,32.875,-117.091,CRO,6000.0,False,Rep 2
+A-3556,Los Angeles,33.805,-118.676,Core facility,1300.0,False,Rep 1
+A-3557,Bay Area,37.653,-121.83,Biotech,4900.0,False,Rep 1
+A-3558,San Diego,33.37,-116.94,Academia,2000.0,False,Rep 2
+A-3559,Philadelphia,39.751,-74.593,CRO,3700.0,False,Rep 4
+A-3560,Research Triangle,36.148,-78.557,CGT developer,2800.0,False,Rep 3
+A-3561,New York,40.398,-75.009,Core facility,3600.0,False,Rep 4
+A-3562,Philadelphia,40.24,-75.838,CGT developer,9400.0,False,Rep 3
+A-3563,San Diego,31.818,-118.357,Academia,3400.0,False,Rep 2
+A-3564,Baltimore-DC,39.139,-77.153,CRO,4600.0,True,Rep 3
+A-3565,Denver,38.882,-105.907,Pharma,11800.0,True,Rep 2
+A-3566,Boston,42.289,-71.443,Biotech,5000.0,False,Rep 4
+A-3567,Bay Area,37.465,-121.567,CRO,6200.0,False,Rep 1
+A-3568,Denver,39.436,-105.179,Academia,1100.0,True,Rep 2
+A-3569,Boston,42.444,-70.932,Academia,1400.0,False,Rep 4
+A-3570,Boston,41.867,-70.985,Academia,1700.0,False,Rep 4
+A-3571,Philadelphia,40.202,-74.632,Academia,600.0,False,Rep 4
+A-3572,New York,40.438,-73.023,Core facility,2600.0,False,Rep 4
+A-3573,San Diego,33.031,-117.34,Biotech,2900.0,True,Rep 2
+A-3574,Bay Area,38.057,-121.243,Academia,1800.0,False,Rep 1
+A-3575,Denver,39.246,-104.929,Pharma,6600.0,False,Rep 2
+A-3576,Minneapolis,45.093,-92.839,Academia,2100.0,False,Rep 2
+A-3577,Ann Arbor,42.182,-83.717,CGT developer,6200.0,True,Rep 3
+A-3578,Boston,42.828,-70.414,CGT developer,5800.0,True,Rep 4
+A-3579,New York,40.463,-72.995,Academia,2300.0,False,Rep 4
+A-3580,Baltimore-DC,39.429,-77.391,Academia,900.0,False,Rep 3
+A-3581,Bay Area,38.208,-122.308,Academia,8000.0,True,Rep 1
+A-3582,New York,41.707,-74.242,Academia,1900.0,False,Rep 4
+A-3583,Philadelphia,39.534,-75.252,Academia,1900.0,False,Rep 3
+A-3584,Seattle,47.251,-122.376,Academia,2000.0,False,Rep 1
+A-3585,Los Angeles,34.105,-118.494,CGT developer,6500.0,False,Rep 2
+A-3586,Atlanta,33.946,-85.01,Academia,1200.0,False,Rep 3
+A-3587,Boston,43.369,-70.067,Biotech,1900.0,False,Rep 4
+A-3588,San Diego,33.186,-117.28,Academia,4800.0,True,Rep 2
+A-3589,New York,41.134,-72.984,CRO,4300.0,True,Rep 4
+A-3590,Bay Area,36.939,-122.555,Biotech,1900.0,False,Rep 1
+A-3591,New York,40.619,-73.502,Biotech,1800.0,False,Rep 4
+A-3592,Boston,41.465,-71.299,CGT developer,5600.0,False,Rep 4
+A-3593,Bay Area,38.483,-122.584,Pharma,10300.0,False,Rep 1
+A-3594,New York,40.623,-73.343,Core facility,2000.0,False,Rep 4
+A-3595,Boston,41.514,-70.776,Academia,1500.0,False,Rep 4
+A-3596,San Diego,33.503,-116.281,Core facility,4100.0,False,Rep 2
+A-3597,Boston,42.513,-70.405,Core facility,3700.0,False,Rep 4
+A-3598,Research Triangle,35.814,-79.792,Core facility,1900.0,True,Rep 3
+A-3599,Houston,29.85,-95.374,Biotech,4100.0,False,Rep 2
+A-3600,Boston,43.9,-70.827,Academia,3500.0,False,Rep 4
+A-3601,Ann Arbor,42.782,-84.282,Academia,3400.0,False,Rep 3
+A-3602,Ann Arbor,42.103,-83.005,Academia,1600.0,False,Rep 3
+A-3603,Los Angeles,34.558,-117.6,Academia,2300.0,False,Rep 2
+A-3604,Bay Area,37.576,-121.576,Pharma,20500.0,False,Rep 1
+A-3605,New York,40.426,-74.098,Academia,4100.0,True,Rep 4
+A-3606,Baltimore-DC,39.507,-76.339,Core facility,1600.0,False,Rep 3
+A-3607,Seattle,46.908,-121.945,Biotech,3200.0,False,Rep 1
+A-3608,San Diego,32.282,-117.245,Core facility,2100.0,False,Rep 2
+A-3609,Denver,39.795,-103.691,Pharma,7500.0,True,Rep 2
+A-3610,Ann Arbor,42.492,-83.567,Biotech,1100.0,False,Rep 3
+A-3611,San Diego,31.93,-117.694,Biotech,4100.0,False,Rep 2
+A-3612,San Diego,32.667,-117.572,Biotech,4600.0,False,Rep 2
+A-3613,Minneapolis,45.506,-93.488,Pharma,3100.0,True,Rep 2
+A-3614,Research Triangle,35.705,-78.922,CRO,5900.0,True,Rep 3
+A-3615,Baltimore-DC,39.332,-76.518,Core facility,3300.0,False,Rep 3
+A-3616,Bay Area,38.473,-123.386,CGT developer,10200.0,True,Rep 1
+A-3617,Boston,41.802,-70.98,Biotech,4800.0,False,Rep 4
+A-3618,Chicago,40.971,-87.643,Academia,800.0,False,Rep 3
+A-3619,Minneapolis,44.685,-93.237,Academia,1900.0,False,Rep 2
+A-3620,Boston,42.043,-71.288,CRO,3100.0,False,Rep 4
+A-3621,Philadelphia,39.935,-74.152,Academia,1600.0,False,Rep 4
+A-3622,Research Triangle,34.713,-79.846,CRO,1800.0,False,Rep 3
+A-3623,Baltimore-DC,38.665,-76.321,Academia,2000.0,True,Rep 3
+A-3624,Boston,43.302,-71.262,Academia,5900.0,True,Rep 4
+A-3625,Seattle,47.613,-122.302,Biotech,3700.0,False,Rep 1
+A-3626,Bay Area,36.419,-121.55,Biotech,7700.0,False,Rep 1
+A-3627,Bay Area,37.667,-123.106,Pharma,17000.0,False,Rep 1
+A-3628,Seattle,48.976,-122.35,Academia,2800.0,False,Rep 1
+A-3629,San Diego,32.168,-116.383,Core facility,1400.0,False,Rep 2
+A-3630,Houston,29.398,-95.956,Biotech,2400.0,False,Rep 2
+A-3631,Baltimore-DC,38.482,-76.603,Biotech,10700.0,False,Rep 3
+A-3632,Boston,42.326,-71.179,CGT developer,5900.0,False,Rep 4
+A-3633,Cleveland,41.9,-82.153,CRO,1400.0,True,Rep 3
+A-3634,Atlanta,33.915,-84.903,CGT developer,4800.0,True,Rep 3
+A-3635,New York,40.734,-73.487,Academia,1300.0,True,Rep 4
+A-3636,Houston,29.486,-95.432,Academia,1300.0,True,Rep 2
+A-3637,Atlanta,34.211,-84.414,CGT developer,5300.0,False,Rep 3
+A-3638,New York,39.971,-74.227,Academia,800.0,False,Rep 4
+A-3639,Research Triangle,35.273,-79.457,Biotech,2700.0,False,Rep 3
+A-3640,San Diego,32.511,-117.376,Core facility,2700.0,False,Rep 2
+A-3641,Ann Arbor,41.957,-82.98,Academia,1600.0,False,Rep 3
+A-3642,Baltimore-DC,38.941,-77.272,Pharma,8000.0,False,Rep 3
+A-3643,Bay Area,37.553,-121.818,Biotech,6100.0,False,Rep 1
+A-3644,Philadelphia,40.319,-74.349,Pharma,15700.0,False,Rep 4
+A-3645,New York,40.382,-73.739,CRO,6600.0,False,Rep 4
+A-3646,Los Angeles,34.135,-117.484,Academia,3200.0,False,Rep 2
+A-3647,Baltimore-DC,40.125,-75.745,Academia,2800.0,False,Rep 3
+A-3648,Chicago,41.846,-87.597,Pharma,3400.0,False,Rep 3
+A-3649,Boston,42.092,-70.716,Biotech,5500.0,False,Rep 4
+A-3650,New York,41.004,-74.787,Academia,1800.0,False,Rep 4
+A-3651,New York,40.596,-74.247,CGT developer,9100.0,False,Rep 4
+A-3652,Bay Area,37.551,-121.763,CRO,5600.0,False,Rep 1
+A-3653,Houston,29.906,-95.227,CRO,2500.0,False,Rep 2
+A-3654,Houston,30.2,-96.176,Academia,1300.0,False,Rep 2
+A-3655,Baltimore-DC,38.916,-76.525,Academia,2500.0,True,Rep 3
+A-3656,Philadelphia,40.097,-76.152,Biotech,2900.0,True,Rep 3
+A-3657,Boston,41.919,-70.51,Biotech,5000.0,True,Rep 4
+A-3658,Baltimore-DC,39.86,-76.104,CGT developer,3600.0,False,Rep 3
+A-3659,Houston,29.665,-95.097,Biotech,4900.0,False,Rep 2
+A-3660,Boston,43.004,-71.518,Biotech,4400.0,False,Rep 4
+A-3661,New York,40.361,-73.224,Biotech,2800.0,False,Rep 4
+A-3662,Chicago,42.209,-87.725,CGT developer,1700.0,False,Rep 2
+A-3663,Research Triangle,36.145,-79.681,Core facility,1600.0,False,Rep 3
+A-3664,San Diego,32.631,-117.024,Academia,2100.0,True,Rep 2
+A-3665,Boston,42.146,-71.332,Pharma,7600.0,False,Rep 4
+A-3666,Boston,41.42,-70.973,Pharma,10700.0,False,Rep 4
+A-3667,Baltimore-DC,39.448,-79.027,Academia,800.0,False,Rep 3
+A-3668,Bay Area,37.478,-121.362,CGT developer,8900.0,True,Rep 1
+A-3669,Philadelphia,40.653,-75.836,Pharma,6600.0,False,Rep 3
+A-3670,Boston,43.407,-70.684,Academia,7900.0,False,Rep 4
+A-3671,Baltimore-DC,37.872,-76.376,Biotech,3600.0,False,Rep 3
+A-3672,Boston,41.611,-72.517,Academia,2500.0,False,Rep 4
+A-3673,San Diego,33.005,-116.034,Academia,4500.0,False,Rep 2
+A-3674,Boston,42.346,-72.195,CGT developer,4200.0,False,Rep 4
+A-3675,Atlanta,33.252,-84.138,CGT developer,2100.0,True,Rep 3
+A-3676,Boston,42.551,-70.032,Biotech,5400.0,False,Rep 4
+A-3677,Denver,39.746,-105.566,Core facility,2200.0,False,Rep 2
+A-3678,Ann Arbor,41.605,-83.499,Academia,1500.0,True,Rep 3
+A-3679,New York,40.658,-74.199,Biotech,3700.0,False,Rep 4
+A-3680,Boston,42.718,-71.73,Academia,2100.0,False,Rep 4
+A-3681,Denver,39.608,-104.417,CGT developer,5500.0,False,Rep 2
+A-3682,Chicago,41.549,-87.069,Core facility,2500.0,True,Rep 3
+A-3683,Chicago,42.22,-86.507,Pharma,3600.0,False,Rep 3
+A-3684,Seattle,48.215,-122.208,Pharma,5200.0,False,Rep 1
+A-3685,Atlanta,34.3,-85.02,Academia,2500.0,False,Rep 3
+A-3686,Boston,42.143,-70.767,CRO,7100.0,False,Rep 4
+A-3687,Boston,42.409,-70.467,CGT developer,5300.0,False,Rep 4
+A-3688,Chicago,42.003,-87.091,Academia,1300.0,True,Rep 3
+A-3689,Houston,29.974,-94.885,CRO,3600.0,False,Rep 2
+A-3690,Bay Area,37.821,-123.34,CRO,4200.0,True,Rep 1
+A-3691,Los Angeles,33.588,-117.455,Pharma,17500.0,False,Rep 2
+A-3692,San Diego,32.978,-116.833,Academia,3000.0,False,Rep 2
+A-3693,Atlanta,32.838,-84.209,Academia,1200.0,False,Rep 3
+A-3694,Los Angeles,33.698,-118.144,CGT developer,7100.0,False,Rep 2
+A-3695,New York,41.198,-74.755,Academia,4300.0,True,Rep 4
+A-3696,Ann Arbor,42.066,-82.764,Academia,2100.0,False,Rep 3
+A-3697,Denver,39.161,-104.258,CRO,2900.0,False,Rep 2
+A-3698,Boston,41.885,-71.353,Biotech,12000.0,False,Rep 4
+A-3699,Minneapolis,44.535,-94.909,Core facility,1400.0,False,Rep 2
+A-3700,Ann Arbor,42.357,-83.412,Biotech,2900.0,False,Rep 3
+A-3701,Baltimore-DC,38.786,-76.688,Academia,1700.0,False,Rep 3
+A-3702,Boston,42.797,-72.046,Academia,2100.0,False,Rep 4
+A-3703,Atlanta,33.582,-84.981,Biotech,3100.0,False,Rep 3
+A-3704,Bay Area,36.947,-122.178,Pharma,29200.0,False,Rep 1
+A-3705,Houston,29.186,-94.792,Core facility,1700.0,False,Rep 2
+A-3706,San Diego,32.472,-116.426,Academia,2300.0,True,Rep 2
+A-3707,Baltimore-DC,39.58,-76.079,Core facility,1900.0,False,Rep 3
+A-3708,Los Angeles,34.041,-117.251,Biotech,3900.0,False,Rep 2
+A-3709,Research Triangle,36.2,-78.197,Biotech,3000.0,True,Rep 3
+A-3710,Denver,39.136,-106.135,Biotech,2100.0,False,Rep 2
+A-3711,San Diego,32.494,-116.312,Pharma,7600.0,False,Rep 2
+A-3712,Chicago,41.472,-88.364,Biotech,2900.0,False,Rep 2
+A-3713,Chicago,42.459,-87.093,Pharma,1100.0,True,Rep 3
+A-3714,Minneapolis,44.182,-93.773,Academia,1600.0,False,Rep 2
+A-3715,San Diego,32.829,-117.136,Biotech,6400.0,False,Rep 2
+A-3716,Chicago,41.647,-88.129,Biotech,2800.0,False,Rep 2
+A-3717,Bay Area,37.288,-123.375,Biotech,7300.0,False,Rep 1
+A-3718,Philadelphia,39.691,-76.008,Core facility,1400.0,False,Rep 3
+A-3719,San Diego,33.246,-117.378,Pharma,8900.0,True,Rep 2
+A-3720,Chicago,42.268,-87.908,CGT developer,7900.0,False,Rep 2
+A-3721,New York,41.323,-74.017,Core facility,2800.0,False,Rep 4
+A-3722,Research Triangle,35.705,-78.77,Academia,3300.0,False,Rep 3
+A-3723,Boston,41.886,-72.944,Biotech,7000.0,False,Rep 4
+A-3724,Seattle,47.993,-122.446,CRO,2700.0,False,Rep 1
+A-3725,Philadelphia,40.322,-76.909,Academia,1200.0,False,Rep 3
+A-3726,Boston,42.657,-71.291,Biotech,6600.0,True,Rep 4
+A-3727,Philadelphia,40.481,-75.447,CRO,2200.0,False,Rep 3
+A-3728,Bay Area,36.886,-122.838,Core facility,3200.0,False,Rep 1
+A-3729,Houston,29.763,-95.296,Core facility,1800.0,False,Rep 2
+A-3730,New York,40.753,-73.613,Pharma,10500.0,False,Rep 4
+A-3731,Philadelphia,39.355,-76.265,Academia,2500.0,False,Rep 3
+A-3732,Bay Area,37.096,-121.631,Biotech,3600.0,False,Rep 1
+A-3733,Denver,40.358,-105.188,CRO,1300.0,False,Rep 2
+A-3734,San Diego,32.501,-116.716,Core facility,3700.0,False,Rep 2
+A-3735,Research Triangle,36.142,-78.702,Biotech,5000.0,False,Rep 3
+A-3736,Boston,41.79,-70.405,Academia,5300.0,False,Rep 4
+A-3737,Bay Area,37.681,-121.612,Academia,3300.0,True,Rep 1
+A-3738,Baltimore-DC,38.563,-77.565,Academia,3600.0,False,Rep 3
+A-3739,Chicago,41.421,-87.325,Academia,4300.0,False,Rep 3
+A-3740,Houston,29.937,-95.494,Biotech,2800.0,False,Rep 2
+A-3741,Atlanta,34.534,-83.63,Biotech,1500.0,False,Rep 3
+A-3742,Los Angeles,34.642,-117.976,Academia,2600.0,True,Rep 2
+A-3743,Minneapolis,45.671,-93.236,Biotech,4000.0,False,Rep 2
+A-3744,Houston,29.554,-96.313,CRO,3200.0,True,Rep 2
+A-3745,San Diego,32.306,-116.337,Academia,2300.0,False,Rep 2
+A-3746,Bay Area,36.873,-122.49,CRO,4100.0,False,Rep 1
+A-3747,San Diego,32.977,-117.606,Pharma,4200.0,True,Rep 2
+A-3748,Seattle,47.251,-121.693,Academia,1900.0,False,Rep 1
+A-3749,Ann Arbor,41.758,-83.738,Pharma,4700.0,False,Rep 3
+A-3750,Atlanta,33.807,-85.372,CGT developer,3900.0,False,Rep 3
+A-3751,San Diego,33.09,-116.833,CRO,14200.0,False,Rep 2
+A-3752,Chicago,41.437,-87.576,Core facility,1700.0,False,Rep 3
+A-3753,Boston,42.96,-71.207,Academia,5000.0,False,Rep 4
+A-3754,New York,40.717,-72.705,CRO,5500.0,False,Rep 4
+A-3755,San Diego,33.133,-116.824,CGT developer,5300.0,False,Rep 2
+A-3756,New York,40.563,-73.916,Pharma,7800.0,False,Rep 4
+A-3757,Boston,42.22,-71.301,CGT developer,7300.0,False,Rep 4
+A-3758,Denver,40.039,-104.565,Academia,1100.0,False,Rep 2
+A-3759,Boston,43.435,-71.784,Core facility,3600.0,False,Rep 4
+A-3760,Houston,29.382,-95.945,CGT developer,1800.0,False,Rep 2
+A-3761,San Diego,33.011,-117.691,CRO,6000.0,False,Rep 2
+A-3762,Minneapolis,44.671,-93.223,Pharma,4700.0,False,Rep 2
+A-3763,Houston,30.204,-94.943,CGT developer,7100.0,True,Rep 2
+A-3764,Seattle,48.082,-122.258,Biotech,4400.0,False,Rep 1
+A-3765,Bay Area,37.66,-121.95,Academia,2300.0,False,Rep 1
+A-3766,Bay Area,36.639,-122.578,Biotech,7200.0,True,Rep 1
+A-3767,Ann Arbor,40.845,-84.557,Academia,6100.0,True,Rep 3
+A-3768,Denver,39.265,-105.143,CRO,3100.0,False,Rep 2
+A-3769,New York,39.514,-73.454,Academia,1300.0,False,Rep 4
+A-3770,San Diego,32.704,-117.744,Academia,4100.0,False,Rep 2
+A-3771,New York,40.519,-74.772,Biotech,3500.0,False,Rep 4
+A-3772,Seattle,47.049,-123.976,Academia,2700.0,False,Rep 1
+A-3773,Bay Area,37.06,-122.904,CRO,8800.0,False,Rep 1
+A-3774,Ann Arbor,42.454,-83.905,Academia,2100.0,False,Rep 3
+A-3775,Seattle,46.622,-121.701,CGT developer,3800.0,True,Rep 1
+A-3776,Boston,43.316,-72.003,Core facility,1400.0,False,Rep 4
+A-3777,Boston,42.113,-70.329,Academia,4200.0,True,Rep 4
+A-3778,Research Triangle,35.111,-79.279,Biotech,2400.0,False,Rep 3
+A-3779,Houston,30.175,-96.353,Biotech,2300.0,False,Rep 2
+A-3780,Chicago,41.494,-87.25,Academia,1800.0,False,Rep 3
+A-3781,Bay Area,37.682,-121.98,Biotech,4800.0,False,Rep 1
+A-3782,Bay Area,37.387,-122.244,Pharma,11100.0,False,Rep 1
+A-3783,Bay Area,37.034,-121.966,Biotech,13000.0,True,Rep 1
+A-3784,Boston,43.239,-71.302,Biotech,3600.0,False,Rep 4
+A-3785,Houston,29.665,-95.19,Pharma,3400.0,False,Rep 2
+A-3786,Cleveland,40.684,-81.665,Core facility,2400.0,False,Rep 3
+A-3787,Seattle,46.829,-122.314,Biotech,2700.0,False,Rep 1
+A-3788,San Diego,33.119,-116.955,Academia,1700.0,False,Rep 2
+A-3789,Minneapolis,45.697,-92.401,Biotech,3400.0,False,Rep 2
+A-3790,Cleveland,41.595,-82.098,Biotech,1700.0,False,Rep 3
+A-3791,Ann Arbor,41.961,-84.238,CGT developer,4700.0,False,Rep 3
+A-3792,Cleveland,41.328,-82.4,CRO,1400.0,False,Rep 3
+A-3793,Baltimore-DC,39.271,-77.192,Academia,1600.0,True,Rep 3
+A-3794,Bay Area,38.951,-122.784,Academia,3100.0,False,Rep 1
+A-3795,Cleveland,41.217,-81.61,Pharma,4200.0,False,Rep 3
+A-3796,Los Angeles,33.789,-117.794,Biotech,1400.0,False,Rep 2
+A-3797,Bay Area,37.722,-122.032,Core facility,2500.0,False,Rep 1
+A-3798,Los Angeles,33.535,-118.326,Biotech,2300.0,False,Rep 2
+A-3799,Cleveland,40.717,-82.217,Academia,900.0,False,Rep 3
+A-3800,Seattle,48.064,-122.263,Biotech,2700.0,False,Rep 1
+A-3801,Bay Area,37.687,-122.38,Biotech,6400.0,False,Rep 1
+A-3802,Baltimore-DC,39.644,-77.203,Academia,2300.0,False,Rep 3
+A-3803,San Diego,32.609,-117.19,Academia,2900.0,False,Rep 2
+A-3804,Research Triangle,36.609,-77.77,CGT developer,3500.0,False,Rep 3
+A-3805,Bay Area,37.201,-121.061,Pharma,10000.0,True,Rep 1
+A-3806,New York,40.219,-74.075,Biotech,2300.0,False,Rep 4
+A-3807,Chicago,42.137,-86.573,Academia,500.0,False,Rep 3
+A-3808,San Diego,32.266,-116.487,Core facility,3300.0,False,Rep 2
+A-3809,Boston,42.822,-71.195,Pharma,8800.0,False,Rep 4
+A-3810,Bay Area,38.135,-120.667,CRO,3700.0,False,Rep 1
+A-3811,Atlanta,32.953,-83.216,Academia,3000.0,False,Rep 3
+A-3812,Boston,41.804,-71.684,Biotech,4500.0,False,Rep 4
+A-3813,Boston,41.323,-70.739,Pharma,5600.0,True,Rep 4
+A-3814,San Diego,32.929,-116.963,Academia,9200.0,False,Rep 2
+A-3815,Denver,40.347,-105.371,Biotech,3000.0,False,Rep 2
+A-3816,Houston,30.452,-93.878,CGT developer,1400.0,True,Rep 2
+A-3817,Cleveland,41.804,-80.846,CGT developer,2900.0,False,Rep 3
+A-3818,Chicago,42.888,-88.495,Biotech,3500.0,False,Rep 2
+A-3819,Chicago,41.613,-86.731,CGT developer,8100.0,False,Rep 3
+A-3820,Houston,30.684,-95.73,Pharma,6900.0,False,Rep 2
+A-3821,Bay Area,37.283,-122.611,Academia,6000.0,False,Rep 1
+A-3822,Los Angeles,34.544,-117.594,Pharma,3400.0,False,Rep 2
+A-3823,New York,40.17,-73.588,CGT developer,4700.0,False,Rep 4
+A-3824,Chicago,40.621,-87.825,Biotech,1800.0,True,Rep 2
+A-3825,San Diego,32.328,-116.424,Biotech,11000.0,False,Rep 2
+A-3826,New York,40.038,-73.182,CGT developer,3800.0,False,Rep 4
+A-3827,Seattle,47.259,-121.392,Academia,5000.0,False,Rep 1
+A-3828,San Diego,32.419,-116.548,Academia,2900.0,False,Rep 2
+A-3829,Bay Area,37.998,-123.228,CRO,9600.0,True,Rep 1
+A-3830,New York,41.306,-73.255,CGT developer,3400.0,False,Rep 4
+A-3831,Denver,39.853,-104.81,Biotech,2500.0,False,Rep 2
+A-3832,Bay Area,37.375,-121.457,Academia,6100.0,False,Rep 1
+A-3833,Bay Area,37.17,-122.814,Academia,12600.0,False,Rep 1
+A-3834,Boston,41.289,-71.52,Biotech,2500.0,False,Rep 4
+A-3835,Los Angeles,33.741,-119.532,Academia,1200.0,False,Rep 1
+A-3836,Baltimore-DC,39.458,-76.216,CRO,1300.0,False,Rep 3
+A-3837,Research Triangle,35.934,-79.536,CRO,3500.0,True,Rep 3
+A-3838,Seattle,47.419,-120.531,Pharma,6500.0,False,Rep 1
+A-3839,Houston,29.843,-94.858,Biotech,2600.0,False,Rep 2
+A-3840,Minneapolis,45.095,-92.844,Academia,1900.0,False,Rep 2
+A-3841,San Diego,32.51,-117.695,Biotech,2200.0,False,Rep 2
+A-3842,New York,40.336,-73.348,Academia,4200.0,False,Rep 4
+A-3843,Boston,43.159,-70.597,CRO,3700.0,True,Rep 4
+A-3844,Minneapolis,44.88,-92.929,Academia,1100.0,False,Rep 2
+A-3845,Minneapolis,43.694,-93.67,Academia,2000.0,False,Rep 2
+A-3846,Seattle,47.963,-122.602,Core facility,1500.0,False,Rep 1
+A-3847,San Diego,32.614,-117.876,Pharma,8500.0,False,Rep 2
+A-3848,Research Triangle,35.663,-78.434,Academia,2700.0,False,Rep 3
+A-3849,Seattle,48.687,-120.936,Biotech,4000.0,False,Rep 1
+A-3850,Seattle,47.221,-123.27,CRO,1700.0,False,Rep 1
+A-3851,Philadelphia,38.884,-74.206,Academia,2800.0,False,Rep 4
+A-3852,Baltimore-DC,39.069,-77.983,Academia,2400.0,False,Rep 3
+A-3853,Bay Area,37.636,-122.079,Core facility,2200.0,False,Rep 1
+A-3854,Baltimore-DC,38.378,-77.423,Biotech,6000.0,False,Rep 3
+A-3855,Houston,29.934,-95.321,Biotech,1700.0,True,Rep 2
+A-3856,Bay Area,37.799,-121.377,Biotech,4900.0,False,Rep 1
+A-3857,Bay Area,37.768,-121.944,Biotech,3200.0,False,Rep 1
+A-3858,Denver,39.148,-103.637,Academia,2200.0,False,Rep 2
+A-3859,Denver,40.433,-105.997,CRO,9000.0,False,Rep 2
+A-3860,Boston,42.036,-71.814,Biotech,9600.0,False,Rep 4
+A-3861,Los Angeles,34.306,-116.456,CGT developer,4600.0,True,Rep 2
+A-3862,Los Angeles,34.575,-118.525,Academia,2100.0,True,Rep 1
+A-3863,Houston,30.204,-96.27,Academia,2100.0,False,Rep 2
+A-3864,Bay Area,37.726,-121.439,Core facility,2300.0,False,Rep 1
+A-3865,Boston,42.408,-71.552,CGT developer,9700.0,True,Rep 4
+A-3866,New York,40.532,-73.821,Biotech,3100.0,False,Rep 4
+A-3867,Bay Area,36.42,-121.169,Academia,3000.0,False,Rep 1
+A-3868,New York,40.858,-74.098,Academia,3700.0,False,Rep 4
+A-3869,Chicago,42.086,-86.847,CRO,1800.0,False,Rep 3
+A-3870,Ann Arbor,42.924,-83.325,Biotech,2900.0,False,Rep 3
+A-3871,Chicago,41.688,-87.209,Academia,3700.0,True,Rep 3
+A-3872,Bay Area,38.237,-123.776,Academia,8300.0,True,Rep 1
+A-3873,Seattle,47.152,-122.084,CGT developer,4600.0,False,Rep 1
+A-3874,Philadelphia,39.562,-75.277,Biotech,6200.0,True,Rep 3
+A-3875,Philadelphia,39.661,-74.431,Pharma,3700.0,False,Rep 4
+A-3876,Minneapolis,44.804,-93.612,Academia,1300.0,False,Rep 2
+A-3877,Bay Area,37.212,-121.48,CGT developer,7200.0,True,Rep 1
+A-3878,Philadelphia,39.557,-74.303,Academia,7300.0,False,Rep 4
+A-3879,Los Angeles,33.038,-118.648,Biotech,3900.0,False,Rep 1
+A-3880,Minneapolis,44.101,-92.797,CRO,2600.0,False,Rep 2
+A-3881,Chicago,41.693,-90.028,Core facility,800.0,False,Rep 2
+A-3882,Bay Area,38.092,-123.378,Biotech,3100.0,False,Rep 1
+A-3883,Atlanta,33.571,-84.122,Core facility,700.0,False,Rep 3
+A-3884,Minneapolis,45.527,-93.097,CGT developer,4500.0,False,Rep 2
+A-3885,Baltimore-DC,39.626,-76.392,Academia,2400.0,False,Rep 3
+A-3886,San Diego,32.06,-116.575,Academia,3500.0,False,Rep 2
+A-3887,Minneapolis,44.665,-92.337,CGT developer,4600.0,False,Rep 2
+A-3888,Chicago,41.727,-88.399,Academia,2500.0,False,Rep 2
+A-3889,Boston,43.19,-70.369,Biotech,13300.0,False,Rep 4
+A-3890,Research Triangle,35.772,-79.32,Pharma,8500.0,False,Rep 3
+A-3891,San Diego,32.735,-117.452,Academia,4700.0,False,Rep 2
+A-3892,Seattle,48.413,-121.638,Pharma,9700.0,False,Rep 1
+A-3893,Baltimore-DC,39.244,-77.745,CRO,2900.0,False,Rep 3
+A-3894,Chicago,42.135,-86.688,Pharma,6700.0,True,Rep 3
+A-3895,San Diego,33.031,-117.494,CGT developer,5600.0,False,Rep 2
+A-3896,Boston,43.807,-71.032,CRO,7800.0,False,Rep 4
+A-3897,Boston,43.222,-71.5,Biotech,5400.0,False,Rep 4
+A-3898,San Diego,32.522,-116.244,Biotech,4100.0,False,Rep 2
+A-3899,San Diego,32.282,-118.183,CGT developer,4200.0,False,Rep 2
+A-3900,Boston,43.066,-71.351,Pharma,4300.0,False,Rep 4
+A-3901,Baltimore-DC,38.587,-77.442,Academia,2800.0,False,Rep 3
+A-3902,Research Triangle,34.472,-79.179,Academia,500.0,False,Rep 3
+A-3903,New York,40.925,-72.725,CGT developer,5200.0,False,Rep 4
+A-3904,Chicago,42.323,-87.824,Biotech,1900.0,False,Rep 2
+A-3905,Bay Area,37.943,-121.029,Pharma,23100.0,True,Rep 1
+A-3906,New York,40.32,-72.931,Biotech,7500.0,False,Rep 4
+A-3907,Baltimore-DC,38.733,-75.972,CRO,4600.0,False,Rep 3
+A-3908,Seattle,47.356,-121.878,Academia,1600.0,False,Rep 1
+A-3909,Boston,42.613,-70.342,Pharma,5200.0,False,Rep 4
+A-3910,San Diego,32.407,-118.751,Biotech,5900.0,False,Rep 2
+A-3911,Seattle,48.111,-122.137,Pharma,8600.0,False,Rep 1
+A-3912,Boston,42.324,-72.549,Biotech,7400.0,False,Rep 4
+A-3913,Philadelphia,40.069,-74.653,Academia,2800.0,False,Rep 4
+A-3914,Boston,42.42,-70.365,CGT developer,3600.0,True,Rep 4
+A-3915,Cleveland,42.072,-81.405,Biotech,2600.0,True,Rep 3
+A-3916,Bay Area,38.818,-122.435,Core facility,1500.0,False,Rep 1
+A-3917,San Diego,32.762,-116.973,Pharma,9600.0,False,Rep 2
+A-3918,Seattle,47.052,-123.543,CGT developer,13900.0,False,Rep 1
+A-3919,San Diego,31.704,-117.21,Biotech,3200.0,False,Rep 2
+A-3920,New York,40.934,-73.83,Core facility,1000.0,False,Rep 4
+A-3921,Houston,29.378,-95.635,CRO,4100.0,True,Rep 2
+A-3922,Chicago,41.312,-87.606,Academia,1300.0,True,Rep 3
+A-3923,Boston,42.668,-70.805,Biotech,2800.0,False,Rep 4
+A-3924,Baltimore-DC,39.656,-75.674,CRO,4100.0,False,Rep 3
+A-3925,Boston,42.655,-70.715,Academia,3500.0,True,Rep 4
+A-3926,San Diego,32.22,-117.611,Pharma,4500.0,False,Rep 2
+A-3927,Ann Arbor,42.792,-83.186,Academia,2600.0,True,Rep 3
+A-3928,Chicago,42.609,-86.972,Pharma,9000.0,False,Rep 3
+A-3929,Chicago,42.42,-88.286,Biotech,5400.0,False,Rep 2
+A-3930,Boston,40.832,-70.092,Core facility,4100.0,False,Rep 4
+A-3931,Bay Area,37.966,-121.581,CGT developer,3700.0,False,Rep 1
+A-3932,Baltimore-DC,39.859,-77.791,Academia,1700.0,False,Rep 3
+A-3933,Los Angeles,34.887,-119.613,Academia,2700.0,False,Rep 1
+A-3934,Research Triangle,35.749,-78.487,CRO,4400.0,False,Rep 3
+A-3935,Atlanta,34.303,-85.743,Pharma,15700.0,False,Rep 3
+A-3936,Atlanta,34.415,-84.862,Academia,1400.0,False,Rep 3
+A-3937,Baltimore-DC,39.586,-76.082,CGT developer,4800.0,False,Rep 3
+A-3938,San Diego,32.922,-117.065,Academia,4700.0,False,Rep 2
+A-3939,Bay Area,36.76,-121.726,Biotech,11800.0,True,Rep 1
+A-3940,San Diego,33.093,-116.898,Academia,3400.0,False,Rep 2
+A-3941,Baltimore-DC,38.416,-76.789,CGT developer,9500.0,False,Rep 3
+A-3942,Houston,29.296,-95.911,Core facility,1000.0,False,Rep 2
+A-3943,Ann Arbor,42.43,-83.74,Biotech,6200.0,False,Rep 3
+A-3944,Los Angeles,34.195,-117.013,Biotech,4600.0,False,Rep 2
+A-3945,Houston,28.934,-95.116,Pharma,8000.0,True,Rep 2
+A-3946,Bay Area,37.887,-122.472,Pharma,3300.0,False,Rep 1
+A-3947,Philadelphia,39.416,-75.658,Core facility,1300.0,False,Rep 3
+A-3948,Boston,41.484,-72.436,CGT developer,10200.0,False,Rep 4
+A-3949,Baltimore-DC,39.731,-76.916,Biotech,4600.0,True,Rep 3
+A-3950,San Diego,33.21,-117.918,Pharma,5800.0,False,Rep 2
+A-3951,Bay Area,38.521,-122.678,Academia,2700.0,False,Rep 1
+A-3952,Boston,42.206,-70.185,Biotech,5500.0,False,Rep 4
+A-3953,Bay Area,38.238,-122.424,Biotech,4000.0,True,Rep 1
+A-3954,Houston,29.848,-94.7,Pharma,7100.0,False,Rep 2
+A-3955,Los Angeles,33.449,-118.331,CRO,2500.0,False,Rep 2
+A-3956,Atlanta,33.081,-85.642,CGT developer,9000.0,False,Rep 3
+A-3957,Los Angeles,34.3,-117.773,Pharma,19300.0,False,Rep 2
+A-3958,Boston,42.498,-71.552,Academia,2200.0,False,Rep 4
+A-3959,Boston,41.961,-69.57,Academia,2900.0,False,Rep 4
+A-3960,Houston,28.949,-94.418,Academia,3300.0,True,Rep 2
+A-3961,Boston,43.563,-70.389,CRO,13900.0,False,Rep 4
+A-3962,Boston,42.823,-70.798,CRO,9700.0,True,Rep 4
+A-3963,San Diego,32.857,-117.304,Biotech,4600.0,False,Rep 2
+A-3964,Atlanta,33.543,-84.899,Academia,2000.0,False,Rep 3
+A-3965,Baltimore-DC,38.36,-76.926,CGT developer,2300.0,False,Rep 3
+A-3966,Bay Area,37.266,-122.516,CRO,4500.0,False,Rep 1
+A-3967,Denver,40.21,-105.476,CGT developer,7100.0,False,Rep 2
+A-3968,New York,41.003,-73.076,Academia,2400.0,False,Rep 4
+A-3969,Bay Area,38.724,-121.893,Academia,1400.0,True,Rep 1
+A-3970,Boston,42.08,-70.513,CRO,9000.0,False,Rep 4
+A-3971,Boston,43.03,-71.655,Academia,2500.0,False,Rep 4
+A-3972,Bay Area,37.315,-122.15,Biotech,7800.0,False,Rep 1
+A-3973,Chicago,42.52,-88.298,Biotech,2700.0,True,Rep 2
+A-3974,Bay Area,37.267,-121.547,CGT developer,8000.0,False,Rep 1
+A-3975,New York,41.075,-74.234,Core facility,1500.0,False,Rep 4
+A-3976,San Diego,33.32,-116.381,CRO,3600.0,False,Rep 2
+A-3977,Denver,39.764,-105.865,CRO,5400.0,False,Rep 2
+A-3978,New York,40.636,-73.831,Pharma,13400.0,False,Rep 4
+A-3979,Los Angeles,34.791,-118.149,Academia,2600.0,False,Rep 2
+A-3980,Los Angeles,34.419,-118.73,CGT developer,2800.0,False,Rep 1
+A-3981,Minneapolis,43.959,-91.835,Core facility,2700.0,False,Rep 2
+A-3982,Boston,43.582,-69.956,CGT developer,5300.0,False,Rep 4
+A-3983,Boston,42.325,-71.832,Biotech,4200.0,False,Rep 4
+A-3984,Chicago,41.399,-87.685,Academia,3600.0,False,Rep 2
+A-3985,Boston,41.941,-69.526,Academia,7700.0,False,Rep 4
+A-3986,Philadelphia,39.535,-75.66,Academia,2400.0,False,Rep 3
+A-3987,Chicago,42.364,-88.296,Academia,1000.0,False,Rep 2
+A-3988,Bay Area,37.435,-123.27,Academia,5800.0,False,Rep 1
+A-3989,Los Angeles,32.353,-117.888,CGT developer,7400.0,False,Rep 2
+A-3990,Bay Area,37.95,-122.679,CRO,4000.0,False,Rep 1
+A-3991,Baltimore-DC,39.509,-78.244,Academia,3100.0,False,Rep 3
+A-3992,Minneapolis,44.973,-92.917,Core facility,1900.0,True,Rep 2
+A-3993,Boston,41.781,-71.883,CGT developer,13500.0,True,Rep 4
+A-3994,Boston,42.337,-70.751,CGT developer,11700.0,False,Rep 4
+A-3995,New York,40.879,-74.443,Biotech,4200.0,False,Rep 4
+A-3996,New York,42.309,-73.357,Pharma,5900.0,True,Rep 4
+A-3997,Research Triangle,35.853,-78.617,Biotech,1800.0,False,Rep 3
+A-3998,Chicago,40.766,-87.797,Pharma,4900.0,False,Rep 2
+A-3999,Philadelphia,39.635,-75.553,CGT developer,6100.0,False,Rep 3
+A-4000,Minneapolis,45.333,-92.945,CGT developer,4300.0,False,Rep 2
+A-4001,Los Angeles,34.672,-118.44,Academia,1400.0,False,Rep 2
+A-4002,Ann Arbor,41.918,-85.028,Biotech,6400.0,False,Rep 3
+A-4003,San Diego,32.478,-116.651,Biotech,2300.0,False,Rep 2
+A-4004,New York,41.174,-73.924,CGT developer,2000.0,False,Rep 4
+A-4005,Cleveland,41.405,-81.237,Academia,2400.0,True,Rep 3
+A-4006,New York,40.237,-75.79,CRO,6100.0,False,Rep 4
+A-4007,Philadelphia,40.492,-75.383,Pharma,12400.0,False,Rep 3
+A-4008,Atlanta,33.324,-84.389,CGT developer,2800.0,False,Rep 3
+A-4009,Bay Area,37.847,-122.141,Academia,6100.0,True,Rep 1
+A-4010,Atlanta,33.754,-84.059,Academia,1600.0,False,Rep 3
+A-4011,Boston,41.954,-71.03,Biotech,2800.0,False,Rep 4
+A-4012,Boston,42.036,-72.603,Biotech,5100.0,False,Rep 4
+A-4013,Bay Area,37.585,-121.907,Academia,6100.0,False,Rep 1
+A-4014,Baltimore-DC,39.36,-76.895,CRO,5300.0,True,Rep 3
+A-4015,Bay Area,37.548,-122.798,Academia,3800.0,False,Rep 1
+A-4016,Denver,39.476,-104.748,Biotech,2100.0,False,Rep 2
+A-4017,Chicago,41.424,-88.392,Academia,2300.0,False,Rep 2
+A-4018,Boston,42.266,-72.216,Academia,3100.0,False,Rep 4
+A-4019,Bay Area,37.836,-121.48,CRO,7000.0,False,Rep 1
+A-4020,San Diego,33.267,-116.794,Biotech,3400.0,False,Rep 2
+A-4021,Boston,41.323,-70.072,Academia,4500.0,False,Rep 4
+A-4022,Atlanta,33.4,-85.356,Biotech,2300.0,False,Rep 3
+A-4023,Baltimore-DC,38.867,-76.201,Core facility,400.0,False,Rep 3
+A-4024,Denver,40.291,-105.255,Pharma,6100.0,False,Rep 2
+A-4025,Denver,39.687,-105.001,Academia,3200.0,False,Rep 2
+A-4026,Minneapolis,44.705,-92.487,Academia,2600.0,False,Rep 2
+A-4027,Denver,40.009,-104.771,Biotech,1900.0,False,Rep 2
+A-4028,Denver,38.929,-106.723,Academia,1400.0,False,Rep 2
+A-4029,Houston,29.999,-95.543,Biotech,2500.0,False,Rep 2
+A-4030,Los Angeles,34.249,-119.368,CGT developer,4600.0,False,Rep 1
+A-4031,Bay Area,37.332,-122.297,Academia,3400.0,False,Rep 1
+A-4032,New York,41.231,-74.737,Pharma,8000.0,False,Rep 4
+A-4033,Boston,40.819,-72.166,Academia,2600.0,False,Rep 4
+A-4034,Los Angeles,34.837,-117.869,Academia,1300.0,False,Rep 2
+A-4035,Los Angeles,34.678,-117.327,Academia,5200.0,False,Rep 2
+A-4036,Seattle,47.63,-122.696,Biotech,4700.0,False,Rep 1
+A-4037,Minneapolis,45.324,-93.615,Academia,1200.0,False,Rep 2
+A-4038,Research Triangle,36.31,-78.172,Pharma,5700.0,False,Rep 3
+A-4039,San Diego,32.165,-116.433,Academia,1500.0,False,Rep 2
+A-4040,New York,40.524,-73.58,Pharma,11300.0,False,Rep 4
+A-4041,Boston,42.688,-70.545,Academia,9100.0,True,Rep 4
+A-4042,New York,40.118,-73.226,Academia,1200.0,True,Rep 4
+A-4043,Bay Area,37.229,-122.081,Academia,2400.0,False,Rep 1
+A-4044,Boston,42.933,-71.229,CGT developer,3000.0,False,Rep 4
+A-4045,Boston,42.743,-71.833,Academia,6100.0,False,Rep 4
+A-4046,San Diego,33.212,-118.589,Pharma,11100.0,False,Rep 2
+A-4047,Boston,42.642,-72.202,Biotech,3400.0,True,Rep 4
+A-4048,Minneapolis,45.955,-92.917,Academia,4000.0,False,Rep 2
+A-4049,Bay Area,37.785,-121.569,Pharma,10600.0,False,Rep 1
+A-4050,Baltimore-DC,38.921,-77.077,Biotech,1300.0,True,Rep 3
+A-4051,Philadelphia,39.937,-75.231,Core facility,2300.0,False,Rep 3
+A-4052,San Diego,32.043,-117.623,Academia,1600.0,False,Rep 2
+A-4053,Bay Area,38.244,-121.348,Academia,2800.0,False,Rep 1
+A-4054,Ann Arbor,41.57,-83.489,CRO,4000.0,False,Rep 3
+A-4055,Research Triangle,35.36,-78.306,CGT developer,6400.0,True,Rep 3
+A-4056,Boston,42.555,-71.213,Academia,1800.0,True,Rep 4
+A-4057,Bay Area,36.69,-122.437,Academia,3300.0,False,Rep 1
+A-4058,San Diego,32.852,-116.802,Pharma,6100.0,False,Rep 2
+A-4059,Research Triangle,35.957,-78.951,Academia,2300.0,True,Rep 3
+A-4060,Cleveland,42.081,-81.123,Academia,1200.0,False,Rep 3
+A-4061,Boston,41.942,-71.884,Academia,4300.0,False,Rep 4
+A-4062,Baltimore-DC,39.146,-76.243,Core facility,2400.0,False,Rep 3
+A-4063,Boston,42.825,-71.869,Academia,3500.0,False,Rep 4
+A-4064,Boston,42.286,-70.917,Academia,1300.0,False,Rep 4
+A-4065,Research Triangle,36.69,-78.926,Academia,900.0,False,Rep 3
+A-4066,Bay Area,38.717,-122.066,Biotech,7700.0,False,Rep 1
+A-4067,Bay Area,38.409,-122.152,Academia,2800.0,False,Rep 1
+A-4068,Seattle,48.155,-123.635,Biotech,6900.0,False,Rep 1
+A-4069,Research Triangle,36.67,-79.159,Biotech,2400.0,True,Rep 3
+A-4070,Baltimore-DC,39.012,-76.088,Biotech,2500.0,False,Rep 3
+A-4071,Seattle,47.207,-121.126,Academia,3600.0,False,Rep 1
+A-4072,Ann Arbor,43.103,-83.778,Academia,1700.0,False,Rep 3
+A-4073,Bay Area,37.336,-122.687,CGT developer,3500.0,False,Rep 1
+A-4074,Bay Area,38.163,-122.079,Academia,1300.0,False,Rep 1
+A-4075,New York,40.981,-75.939,Biotech,2600.0,False,Rep 4
+A-4076,Houston,28.869,-96.072,Biotech,2700.0,False,Rep 2
+A-4077,San Diego,33.448,-116.652,Academia,3600.0,False,Rep 2
+A-4078,Minneapolis,45.01,-93.276,Core facility,1000.0,False,Rep 2
+A-4079,Philadelphia,40.67,-76.346,Academia,2200.0,False,Rep 3
+A-4080,Los Angeles,34.497,-118.043,Academia,2200.0,False,Rep 2
+A-4081,Seattle,47.704,-123.842,CGT developer,10100.0,False,Rep 1
+A-4082,Boston,43.284,-71.786,Academia,2000.0,False,Rep 4
+A-4083,Bay Area,36.088,-122.349,Academia,3700.0,False,Rep 1
+A-4084,Boston,41.794,-71.651,Biotech,6400.0,False,Rep 4
+A-4085,Boston,43.098,-72.101,CRO,3600.0,False,Rep 4
+A-4086,Minneapolis,45.575,-93.455,Biotech,2800.0,False,Rep 2
+A-4087,San Diego,32.034,-116.728,Academia,2800.0,True,Rep 2
+A-4088,New York,40.754,-72.935,Pharma,14000.0,False,Rep 4
+A-4089,Seattle,47.248,-123.543,Academia,2000.0,False,Rep 1
+A-4090,Chicago,41.292,-88.144,Academia,1500.0,False,Rep 2
+A-4091,Research Triangle,36.007,-79.278,CGT developer,8800.0,False,Rep 3
+A-4092,New York,40.567,-73.929,Academia,2000.0,False,Rep 4
+A-4093,Bay Area,37.855,-122.484,CGT developer,12800.0,True,Rep 1
+A-4094,Los Angeles,33.879,-119.142,Pharma,7100.0,True,Rep 1
+A-4095,Boston,41.396,-70.296,Biotech,3100.0,False,Rep 4
+A-4096,Bay Area,38.379,-122.528,Biotech,2200.0,False,Rep 1
+A-4097,Philadelphia,40.184,-73.565,Biotech,2800.0,False,Rep 4
+A-4098,Boston,42.269,-69.878,Academia,2500.0,False,Rep 4
+A-4099,Ann Arbor,42.992,-85.604,Biotech,4300.0,False,Rep 3
+A-4100,Atlanta,34.381,-82.75,Core facility,1000.0,False,Rep 3
+A-4101,Boston,42.871,-70.972,Academia,7100.0,True,Rep 4
+A-4102,Bay Area,38.488,-122.101,Biotech,16000.0,False,Rep 1
+A-4103,Seattle,48.44,-121.882,Academia,5100.0,False,Rep 1
+A-4104,Houston,29.515,-95.969,Pharma,7400.0,False,Rep 2
+A-4105,Chicago,42.219,-87.423,Biotech,3200.0,False,Rep 3
+A-4106,San Diego,32.44,-117.493,Academia,1800.0,False,Rep 2
+A-4107,Los Angeles,34.455,-117.499,Biotech,6300.0,False,Rep 2
+A-4108,San Diego,34.347,-117.651,Academia,2600.0,False,Rep 2
+A-4109,Ann Arbor,41.428,-84.03,Academia,1400.0,False,Rep 3
+A-4110,Minneapolis,44.552,-92.911,Academia,1600.0,False,Rep 2
+A-4111,Research Triangle,36.121,-79.082,CRO,2100.0,False,Rep 3
+A-4112,San Diego,32.684,-116.677,Biotech,3000.0,False,Rep 2
+A-4113,Bay Area,37.636,-122.886,CRO,3800.0,False,Rep 1
+A-4114,Research Triangle,34.581,-78.8,Academia,2400.0,True,Rep 3
+A-4115,New York,40.242,-73.041,Academia,2600.0,False,Rep 4
+A-4116,San Diego,32.596,-116.635,CRO,2800.0,False,Rep 2
+A-4117,Atlanta,33.591,-84.66,CRO,3400.0,False,Rep 3
+A-4118,Philadelphia,40.309,-76.026,Biotech,3800.0,False,Rep 3
+A-4119,Seattle,47.09,-121.669,Academia,2800.0,False,Rep 1
+A-4120,Ann Arbor,41.874,-83.347,Academia,2300.0,True,Rep 3
+A-4121,Cleveland,41.566,-81.375,Pharma,2800.0,False,Rep 3
+A-4122,Philadelphia,39.897,-75.478,Core facility,1000.0,True,Rep 3
+A-4123,Research Triangle,35.426,-79.645,Academia,1100.0,False,Rep 3
+A-4124,Chicago,41.452,-87.908,Biotech,6300.0,False,Rep 2
+A-4125,Denver,39.374,-105.046,Academia,1700.0,False,Rep 2
+A-4126,New York,40.564,-74.273,Academia,600.0,False,Rep 4
+A-4127,New York,40.646,-74.148,Academia,2300.0,False,Rep 4
+A-4128,New York,40.924,-73.5,Biotech,1500.0,False,Rep 4
+A-4129,Seattle,47.318,-120.912,Academia,2200.0,False,Rep 1
+A-4130,New York,40.078,-73.681,Core facility,4000.0,False,Rep 4
+A-4131,Bay Area,37.405,-122.891,Core facility,1500.0,False,Rep 1
+A-4132,Chicago,41.935,-88.654,Core facility,1700.0,False,Rep 2
+A-4133,Boston,41.906,-70.929,Biotech,5600.0,False,Rep 4
+A-4134,Cleveland,41.423,-81.678,Core facility,800.0,True,Rep 3
+A-4135,Minneapolis,44.698,-94.033,Biotech,5000.0,False,Rep 2
+A-4136,Atlanta,33.489,-84.752,Academia,4200.0,False,Rep 3
+A-4137,Bay Area,37.488,-120.165,Academia,2000.0,False,Rep 1
+A-4138,Houston,29.846,-95.608,CRO,2200.0,False,Rep 2
+A-4139,Bay Area,37.166,-122.675,Biotech,6000.0,False,Rep 1
+A-4140,Research Triangle,35.483,-78.076,CGT developer,3900.0,False,Rep 3
+A-4141,Minneapolis,44.338,-92.448,Academia,2600.0,True,Rep 2
+A-4142,Bay Area,37.598,-122.47,Academia,5200.0,False,Rep 1
+A-4143,Atlanta,34.773,-85.02,Biotech,2600.0,True,Rep 3
+A-4144,Baltimore-DC,37.475,-77.62,Academia,1800.0,False,Rep 3
+A-4145,Los Angeles,34.031,-117.68,Academia,900.0,False,Rep 2
+A-4146,San Diego,32.69,-117.136,Academia,2200.0,False,Rep 2
+A-4147,New York,40.861,-74.109,CRO,8800.0,False,Rep 4
+A-4148,Chicago,42.472,-85.54,Academia,3100.0,False,Rep 3
+A-4149,Bay Area,38.618,-121.4,Biotech,6800.0,False,Rep 1
+A-4150,Cleveland,41.243,-81.549,Pharma,12300.0,True,Rep 3
+A-4151,Baltimore-DC,39.081,-78.048,CGT developer,4400.0,False,Rep 3
+A-4152,Houston,29.858,-95.205,Biotech,1600.0,False,Rep 2
+A-4153,San Diego,32.9,-116.907,CRO,9100.0,True,Rep 2
+A-4154,Los Angeles,34.359,-118.825,CRO,6700.0,False,Rep 1
+A-4155,Chicago,43.01,-88.243,Biotech,3400.0,False,Rep 2
+A-4156,Bay Area,37.223,-122.014,Biotech,6100.0,True,Rep 1
+A-4157,San Diego,32.45,-118.821,CGT developer,3000.0,True,Rep 2
+A-4158,Bay Area,37.643,-122.233,Academia,5000.0,False,Rep 1
+A-4159,Boston,42.396,-72.15,Academia,2500.0,False,Rep 4
+A-4160,New York,40.673,-72.235,Biotech,2100.0,False,Rep 4
+A-4161,Los Angeles,35.71,-119.657,Academia,2900.0,True,Rep 1
+A-4162,Philadelphia,40.577,-75.274,Biotech,1600.0,False,Rep 3
+A-4163,Research Triangle,36.063,-79.325,Core facility,900.0,False,Rep 3
+A-4164,Research Triangle,36.267,-79.03,Academia,3700.0,False,Rep 3
+A-4165,Boston,42.464,-71.422,CRO,3000.0,False,Rep 4
+A-4166,Bay Area,37.836,-122.322,Academia,3200.0,False,Rep 1
+A-4167,New York,41.08,-73.685,Biotech,4900.0,True,Rep 4
+A-4168,Bay Area,36.689,-121.3,Academia,2800.0,True,Rep 1
+A-4169,Bay Area,37.121,-122.231,CRO,7200.0,True,Rep 1
+A-4170,Boston,41.698,-70.483,Biotech,2900.0,False,Rep 4
+A-4171,Los Angeles,32.997,-118.56,CRO,3100.0,False,Rep 1
+A-4172,Atlanta,34.091,-84.522,Biotech,1400.0,False,Rep 3
+A-4173,Ann Arbor,42.654,-84.555,Biotech,6300.0,False,Rep 3
+A-4174,Philadelphia,40.346,-76.465,CRO,5100.0,False,Rep 3
+A-4175,Philadelphia,39.27,-74.827,Academia,1700.0,False,Rep 3
+A-4176,New York,41.086,-74.181,Academia,1000.0,False,Rep 4
+A-4177,Baltimore-DC,39.132,-78.009,Biotech,3800.0,False,Rep 3
+A-4178,Minneapolis,45.356,-92.505,Academia,1700.0,False,Rep 2
+A-4179,Philadelphia,40.296,-75.985,CGT developer,3800.0,False,Rep 3
+A-4180,Denver,40.726,-105.515,Biotech,3600.0,False,Rep 2
+A-4181,Los Angeles,33.557,-118.109,CRO,2300.0,False,Rep 2
+A-4182,Seattle,48.352,-122.903,Biotech,3700.0,False,Rep 1
+A-4183,Philadelphia,39.884,-74.816,Academia,1200.0,False,Rep 3
+A-4184,Research Triangle,35.113,-78.114,CGT developer,3400.0,False,Rep 3
+A-4185,Baltimore-DC,38.916,-75.791,CRO,3000.0,False,Rep 3
+A-4186,Philadelphia,39.532,-76.151,CRO,2700.0,True,Rep 3
+A-4187,Boston,41.69,-71.855,Biotech,1500.0,False,Rep 4
+A-4188,Chicago,42.622,-87.535,Academia,2100.0,False,Rep 3
+A-4189,Chicago,42.101,-87.086,CGT developer,2900.0,False,Rep 3
+A-4190,San Diego,33.706,-117.567,CGT developer,11400.0,False,Rep 2
+A-4191,Boston,42.302,-72.025,Academia,1900.0,False,Rep 4
+A-4192,Chicago,42.117,-87.327,Academia,2300.0,False,Rep 3
+A-4193,Bay Area,37.203,-120.964,Academia,2200.0,True,Rep 1
+A-4194,Bay Area,37.179,-122.086,Biotech,10400.0,False,Rep 1
+A-4195,Bay Area,36.886,-122.429,Core facility,2500.0,False,Rep 1
+A-4196,Chicago,42.893,-87.418,Academia,1600.0,False,Rep 3
+A-4197,Bay Area,37.989,-121.264,CRO,4900.0,False,Rep 1
+A-4198,Chicago,41.696,-88.375,Biotech,1900.0,True,Rep 2
+A-4199,New York,41.065,-74.595,Academia,1800.0,False,Rep 4
+A-4200,Houston,29.205,-95.188,Academia,1400.0,False,Rep 2
+A-4201,Bay Area,37.128,-122.138,Biotech,15500.0,False,Rep 1
+A-4202,Atlanta,33.817,-84.164,Academia,2200.0,False,Rep 3
+A-4203,Baltimore-DC,38.691,-77.141,CGT developer,13300.0,True,Rep 3
+A-4204,Seattle,48.043,-122.509,Biotech,2100.0,False,Rep 1
+A-4205,Atlanta,33.708,-85.065,Academia,1300.0,False,Rep 3
+A-4206,Boston,42.697,-71.406,CRO,6000.0,False,Rep 4
+A-4207,Los Angeles,33.581,-118.26,Academia,1000.0,False,Rep 2
+A-4208,San Diego,32.835,-117.006,Academia,3200.0,False,Rep 2
+A-4209,Minneapolis,44.892,-94.201,Pharma,6600.0,False,Rep 2
+A-4210,Los Angeles,34.079,-118.255,Core facility,1200.0,False,Rep 2
+A-4211,Denver,40.292,-103.993,Pharma,5300.0,False,Rep 2
+A-4212,San Diego,32.456,-117.566,CRO,8300.0,True,Rep 2
+A-4213,Philadelphia,40.065,-76.621,Core facility,1400.0,False,Rep 3
+A-4214,Boston,43.293,-70.882,CGT developer,8800.0,False,Rep 4
+A-4215,Boston,42.072,-71.721,Biotech,6700.0,False,Rep 4
+A-4216,San Diego,32.947,-117.845,Academia,5900.0,False,Rep 2
+A-4217,New York,41.206,-75.077,Biotech,6800.0,True,Rep 4
+A-4218,Chicago,40.536,-87.38,CGT developer,2300.0,True,Rep 3
+A-4219,Bay Area,37.296,-121.76,CRO,8700.0,False,Rep 1
+A-4220,Minneapolis,45.604,-92.505,CGT developer,2500.0,False,Rep 2
+A-4221,Baltimore-DC,39.915,-76.956,Academia,5200.0,False,Rep 3
+A-4222,Baltimore-DC,38.755,-75.543,CGT developer,7200.0,False,Rep 3
+A-4223,Chicago,41.957,-87.043,Core facility,3200.0,False,Rep 3
+A-4224,Bay Area,36.457,-122.84,Biotech,4600.0,False,Rep 1
+A-4225,Boston,41.104,-71.366,CGT developer,4700.0,False,Rep 4
+A-4226,New York,40.56,-73.848,CGT developer,3700.0,False,Rep 4
+A-4227,Bay Area,36.977,-122.868,Academia,2300.0,False,Rep 1
+A-4228,Baltimore-DC,38.753,-77.519,CGT developer,4100.0,False,Rep 3
+A-4229,Bay Area,38.373,-123.143,Pharma,6200.0,False,Rep 1
+A-4230,Baltimore-DC,40.568,-77.005,Academia,4000.0,False,Rep 3
+A-4231,Seattle,47.606,-121.994,Academia,3000.0,False,Rep 1
+A-4232,San Diego,31.698,-116.226,CGT developer,6900.0,False,Rep 2
+A-4233,Bay Area,37.556,-123.072,Academia,1800.0,False,Rep 1
+A-4234,San Diego,32.625,-117.148,Biotech,6000.0,False,Rep 2
+A-4235,Houston,31.202,-95.467,CRO,4000.0,True,Rep 2
+A-4236,Minneapolis,45.023,-94.074,CGT developer,7600.0,True,Rep 2
+A-4237,Boston,41.679,-71.393,Academia,3700.0,False,Rep 4
+A-4238,Boston,42.338,-71.104,Academia,3400.0,False,Rep 4
+A-4239,Los Angeles,34.258,-117.269,Academia,2800.0,False,Rep 2
+A-4240,Houston,30.053,-95.74,Academia,2100.0,False,Rep 2
+A-4241,Boston,42.634,-69.578,CRO,4200.0,False,Rep 4
+A-4242,Boston,42.16,-71.077,Academia,3500.0,False,Rep 4
+A-4243,Bay Area,37.73,-121.961,Core facility,3600.0,False,Rep 1
+A-4244,New York,40.008,-73.192,CRO,5600.0,False,Rep 4
+A-4245,Ann Arbor,42.921,-84.236,CGT developer,7400.0,True,Rep 3
+A-4246,Seattle,47.107,-122.054,Academia,2900.0,True,Rep 1
+A-4247,Bay Area,37.421,-122.09,Academia,3500.0,False,Rep 1
+A-4248,Boston,42.595,-72.147,Biotech,4300.0,False,Rep 4
+A-4249,Research Triangle,36.187,-79.095,CRO,6100.0,False,Rep 3
+A-4250,Chicago,42.125,-87.066,Core facility,2500.0,False,Rep 3
+A-4251,Atlanta,34.575,-84.676,CGT developer,3800.0,False,Rep 3
+A-4252,San Diego,32.701,-117.619,Academia,2800.0,True,Rep 2
+A-4253,Chicago,42.374,-87.514,Academia,1300.0,False,Rep 3
+A-4254,New York,40.454,-74.967,Pharma,3900.0,False,Rep 4
+A-4255,Ann Arbor,42.097,-84.515,Academia,1000.0,False,Rep 3
+A-4256,Bay Area,37.642,-120.657,Academia,3300.0,False,Rep 1
+A-4257,Research Triangle,35.861,-78.904,Pharma,8900.0,True,Rep 3
+A-4258,New York,40.541,-73.761,Academia,3000.0,False,Rep 4
+A-4259,San Diego,32.289,-116.863,CGT developer,4400.0,False,Rep 2
+A-4260,Cleveland,42.373,-81.098,Academia,1300.0,True,Rep 3
+A-4261,Boston,42.237,-71.883,Academia,3500.0,False,Rep 4
+A-4262,Chicago,41.808,-88.8,Academia,2000.0,False,Rep 2
+A-4263,Los Angeles,33.237,-118.597,Academia,2200.0,False,Rep 1
+A-4264,New York,41.299,-74.391,Pharma,7700.0,False,Rep 4
+A-4265,Bay Area,37.171,-121.717,CRO,9000.0,True,Rep 1
+A-4266,Minneapolis,44.211,-93.926,Academia,1200.0,False,Rep 2
+A-4267,New York,40.247,-76.267,Biotech,2300.0,True,Rep 4
+A-4268,New York,40.417,-75.042,Biotech,2200.0,False,Rep 4
+A-4269,Los Angeles,33.968,-118.175,Academia,1500.0,True,Rep 2
+A-4270,Chicago,42.12,-87.027,CGT developer,8800.0,True,Rep 3
+A-4271,Philadelphia,39.358,-74.067,Academia,600.0,False,Rep 4
+A-4272,Bay Area,37.344,-121.897,Academia,8900.0,False,Rep 1
+A-4273,Cleveland,41.625,-80.158,Academia,700.0,False,Rep 3
+A-4274,New York,40.312,-74.436,Biotech,2600.0,False,Rep 4
+A-4275,Boston,41.797,-71.229,Pharma,7200.0,False,Rep 4
+A-4276,Houston,30.054,-94.895,Academia,2100.0,False,Rep 2
+A-4277,Baltimore-DC,39.429,-76.051,Academia,2100.0,False,Rep 3
+A-4278,San Diego,32.59,-117.43,Academia,2500.0,False,Rep 2
+A-4279,Philadelphia,40.142,-75.096,CRO,4000.0,False,Rep 3
+A-4280,Chicago,41.581,-87.189,Academia,1900.0,False,Rep 3
+A-4281,Seattle,46.646,-122.187,Pharma,5000.0,True,Rep 1
+A-4282,Cleveland,43.051,-80.431,Academia,2700.0,False,Rep 3
+A-4283,Houston,29.35,-95.611,CGT developer,7000.0,True,Rep 2
+A-4284,Bay Area,38.541,-121.819,CGT developer,7300.0,False,Rep 1
+A-4285,Seattle,48.295,-122.845,Pharma,7000.0,False,Rep 1
+A-4286,Bay Area,37.223,-122.518,Academia,3200.0,False,Rep 1
+A-4287,Bay Area,37.125,-121.873,Academia,3000.0,True,Rep 1
+A-4288,Los Angeles,33.883,-117.025,Academia,7200.0,False,Rep 2
+A-4289,Bay Area,37.162,-122.737,CRO,8700.0,False,Rep 1
+A-4290,Boston,42.773,-71.42,Academia,6400.0,False,Rep 4
+A-4291,Bay Area,36.791,-120.664,Academia,2100.0,False,Rep 1
+A-4292,Chicago,41.438,-86.405,CRO,3100.0,True,Rep 3
+A-4293,Seattle,48.201,-122.752,Academia,1100.0,True,Rep 1
+A-4294,Bay Area,38.372,-122.26,CGT developer,3100.0,False,Rep 1
+A-4295,Bay Area,36.396,-122.492,Biotech,41500.0,False,Rep 1
+A-4296,Research Triangle,36.454,-78.589,Biotech,4200.0,False,Rep 3
+A-4297,Baltimore-DC,39.592,-76.803,Academia,1600.0,False,Rep 3
+A-4298,Philadelphia,40.987,-76.4,CGT developer,5600.0,False,Rep 3
+A-4299,Atlanta,33.371,-84.334,Academia,1100.0,False,Rep 3
+A-4300,Bay Area,37.566,-122.743,Biotech,8500.0,False,Rep 1
+A-4301,Philadelphia,41.077,-74.867,Academia,900.0,False,Rep 3
+A-4302,Seattle,47.429,-122.077,Academia,1100.0,True,Rep 1
+A-4303,New York,41.602,-74.683,Biotech,24100.0,False,Rep 4
+A-4304,Boston,42.622,-70.502,Pharma,9500.0,True,Rep 4
+A-4305,Bay Area,37.152,-120.513,CRO,5900.0,True,Rep 1
+A-4306,New York,41.59,-74.183,Academia,2400.0,False,Rep 4
+A-4307,Philadelphia,39.213,-75.3,CRO,1300.0,True,Rep 3
+A-4308,San Diego,31.72,-117.045,CGT developer,2800.0,True,Rep 2
+A-4309,Baltimore-DC,38.961,-76.812,Biotech,4600.0,False,Rep 3
+A-4310,Bay Area,38.269,-122.136,Biotech,3700.0,False,Rep 1
+A-4311,Seattle,47.644,-122.069,CGT developer,3600.0,True,Rep 1
+A-4312,Bay Area,37.31,-122.139,Academia,8800.0,False,Rep 1
+A-4313,Chicago,41.542,-86.677,CRO,8400.0,False,Rep 3
+A-4314,Boston,42.751,-70.423,Academia,1800.0,True,Rep 4
+A-4315,Minneapolis,45.233,-93.254,Core facility,1900.0,False,Rep 2
+A-4316,Philadelphia,40.511,-75.325,Pharma,4200.0,False,Rep 3
+A-4317,Los Angeles,35.115,-118.375,Academia,4700.0,True,Rep 2
+A-4318,Bay Area,38.159,-122.032,Core facility,4000.0,True,Rep 1
+A-4319,New York,40.462,-73.039,Biotech,1400.0,False,Rep 4
+A-4320,Denver,39.513,-105.382,Academia,1100.0,False,Rep 2
+A-4321,Los Angeles,34.4,-116.756,Pharma,8100.0,False,Rep 2
+A-4322,San Diego,33.199,-117.52,Academia,1900.0,True,Rep 2
+A-4323,Ann Arbor,42.82,-84.66,Academia,800.0,True,Rep 3
+A-4324,Baltimore-DC,39.771,-77.866,Biotech,3500.0,False,Rep 3
+A-4325,Chicago,41.818,-88.691,Pharma,10100.0,True,Rep 2
+A-4326,Baltimore-DC,39.367,-77.774,Pharma,4800.0,False,Rep 3
+A-4327,Seattle,47.338,-121.996,CRO,4300.0,False,Rep 1
+A-4328,Research Triangle,35.766,-79.564,Pharma,6100.0,False,Rep 3
+A-4329,Baltimore-DC,39.491,-77.097,CRO,3900.0,True,Rep 3
+A-4330,Philadelphia,39.235,-75.701,Academia,3400.0,False,Rep 3
+A-4331,Chicago,42.215,-87.717,CRO,2000.0,False,Rep 2
+A-4332,Seattle,47.743,-123.371,Pharma,2900.0,False,Rep 1
+A-4333,Seattle,47.573,-121.165,Academia,1700.0,False,Rep 1
+A-4334,Los Angeles,34.167,-119.233,Pharma,5900.0,False,Rep 1
+A-4335,New York,40.811,-74.218,Biotech,3300.0,False,Rep 4
+A-4336,Houston,29.844,-95.121,Academia,1300.0,True,Rep 2
+A-4337,Ann Arbor,42.274,-82.915,Biotech,3800.0,False,Rep 3
+A-4338,Seattle,48.499,-121.71,CRO,4500.0,True,Rep 1
+A-4339,Los Angeles,33.133,-118.461,Academia,700.0,False,Rep 2
+A-4340,Houston,30.734,-94.795,Academia,4100.0,False,Rep 2
+A-4341,Ann Arbor,43.247,-84.327,Academia,1300.0,False,Rep 3
+A-4342,Houston,29.521,-94.801,CGT developer,4000.0,True,Rep 2
+A-4343,Chicago,41.732,-89.313,Academia,1500.0,False,Rep 2
+A-4344,Boston,42.616,-70.243,CGT developer,5300.0,True,Rep 4
+A-4345,San Diego,32.027,-118.718,Academia,1400.0,False,Rep 2
+A-4346,Seattle,47.832,-122.335,Biotech,3000.0,False,Rep 1
+A-4347,Los Angeles,33.204,-119.291,Academia,1600.0,False,Rep 1
+A-4348,Atlanta,32.688,-83.299,Academia,2100.0,False,Rep 3
+A-4349,Seattle,48.463,-122.76,Biotech,4200.0,False,Rep 1
+A-4350,Philadelphia,39.3,-75.18,Pharma,2600.0,False,Rep 3
+A-4351,Atlanta,33.695,-84.82,CRO,2700.0,False,Rep 3
+A-4352,Philadelphia,39.403,-75.537,Academia,1100.0,False,Rep 3
+A-4353,San Diego,32.254,-116.987,Academia,1600.0,False,Rep 2
+A-4354,Cleveland,40.874,-81.823,Academia,4900.0,True,Rep 3
+A-4355,Baltimore-DC,38.028,-78.239,Academia,5500.0,False,Rep 3
+A-4356,Bay Area,36.907,-121.92,Academia,6800.0,False,Rep 1
+A-4357,Bay Area,38.048,-121.843,Biotech,3700.0,False,Rep 1
+A-4358,Bay Area,37.306,-121.796,Biotech,5400.0,True,Rep 1
+A-4359,Baltimore-DC,37.739,-76.721,Academia,2900.0,False,Rep 3
+A-4360,Boston,42.084,-71.36,Academia,1800.0,True,Rep 4
+A-4361,Minneapolis,44.469,-93.151,Biotech,3300.0,True,Rep 2
+A-4362,Cleveland,41.221,-80.769,CGT developer,5500.0,False,Rep 3
+A-4363,Bay Area,37.769,-122.155,CGT developer,6600.0,False,Rep 1
+A-4364,Los Angeles,34.088,-118.286,Academia,1600.0,False,Rep 2
+A-4365,San Diego,33.225,-118.348,Biotech,2200.0,False,Rep 2
+A-4366,Baltimore-DC,37.138,-75.673,Academia,2800.0,True,Rep 3
+A-4367,New York,40.336,-72.655,CGT developer,12700.0,False,Rep 4
+A-4368,Atlanta,33.811,-85.43,Biotech,4500.0,True,Rep 3
+A-4369,Research Triangle,37.278,-79.103,Biotech,3100.0,False,Rep 3
+A-4370,Baltimore-DC,39.67,-77.849,Academia,9100.0,False,Rep 3
+A-4371,Baltimore-DC,37.766,-76.423,Academia,2900.0,False,Rep 3
+A-4372,Los Angeles,33.218,-117.588,CGT developer,8000.0,False,Rep 2
+A-4373,Philadelphia,39.619,-74.94,Academia,1800.0,False,Rep 3
+A-4374,New York,41.371,-73.023,Academia,1100.0,False,Rep 4
+A-4375,San Diego,32.613,-117.822,Core facility,900.0,False,Rep 2
+A-4376,Bay Area,37.953,-122.202,Biotech,5200.0,False,Rep 1
+A-4377,San Diego,31.936,-118.036,Biotech,5700.0,False,Rep 2
+A-4378,Los Angeles,33.566,-118.514,Academia,1400.0,False,Rep 1
+A-4379,Houston,29.08,-94.533,Biotech,2400.0,False,Rep 2
+A-4380,San Diego,33.257,-117.863,CRO,6300.0,False,Rep 2
+A-4381,Seattle,47.128,-121.675,Academia,3300.0,False,Rep 1
+A-4382,Bay Area,37.446,-122.532,Biotech,14500.0,False,Rep 1
+A-4383,Seattle,47.709,-122.129,CGT developer,4900.0,True,Rep 1
+A-4384,Minneapolis,43.982,-93.799,Biotech,1700.0,False,Rep 2
+A-4385,San Diego,33.412,-117.291,Academia,3300.0,False,Rep 2
+A-4386,Ann Arbor,42.848,-83.881,Academia,1000.0,True,Rep 3
+A-4387,Bay Area,37.509,-123.389,Pharma,11000.0,False,Rep 1
+A-4388,Boston,42.257,-72.034,Academia,3400.0,True,Rep 4
+A-4389,Los Angeles,34.111,-119.007,Pharma,5800.0,False,Rep 1
+A-4390,New York,40.393,-75.417,Academia,1300.0,True,Rep 4
+A-4391,Houston,29.252,-95.543,Biotech,3000.0,False,Rep 2
+A-4392,Baltimore-DC,38.555,-77.412,Biotech,1100.0,False,Rep 3
+A-4393,San Diego,34.043,-116.766,Academia,1700.0,True,Rep 2
+A-4394,Chicago,40.762,-87.993,Academia,1300.0,False,Rep 2
+A-4395,Research Triangle,36.154,-78.614,CGT developer,1700.0,False,Rep 3
+A-4396,Denver,39.65,-104.015,Academia,1300.0,True,Rep 2
+A-4397,New York,41.384,-74.808,Core facility,3600.0,False,Rep 4
+A-4398,Baltimore-DC,39.145,-76.691,Biotech,2400.0,True,Rep 3
+A-4399,Chicago,42.316,-86.811,CRO,6200.0,False,Rep 3
+A-4400,Los Angeles,34.562,-118.708,Academia,3000.0,False,Rep 1
+A-4401,Bay Area,37.445,-121.749,Core facility,2600.0,True,Rep 1
+A-4402,Seattle,47.891,-121.565,CRO,3800.0,False,Rep 1
+A-4403,Boston,43.157,-70.726,Biotech,1800.0,False,Rep 4
+A-4404,Seattle,46.88,-122.626,Core facility,2200.0,False,Rep 1
+A-4405,Denver,41.256,-105.791,CGT developer,10200.0,False,Rep 2
+A-4406,Atlanta,34.045,-83.325,Pharma,8900.0,False,Rep 3
+A-4407,Houston,29.767,-95.388,Pharma,6500.0,False,Rep 2
+A-4408,Chicago,42.348,-88.968,CGT developer,2600.0,False,Rep 2
+A-4409,Baltimore-DC,39.792,-77.265,Biotech,2900.0,False,Rep 3
+A-4410,Boston,43.431,-71.67,CRO,2900.0,False,Rep 4
+A-4411,San Diego,32.877,-115.829,Biotech,5400.0,False,Rep 2
+A-4412,Minneapolis,46.384,-92.66,Academia,500.0,False,Rep 2
+A-4413,Seattle,47.566,-124.151,Core facility,2200.0,False,Rep 1
+A-4414,Bay Area,36.659,-123.579,Biotech,5500.0,True,Rep 1
+A-4415,Bay Area,37.497,-122.614,Biotech,14000.0,True,Rep 1
+A-4416,Denver,39.953,-104.142,Biotech,3000.0,True,Rep 2
+A-4417,Ann Arbor,42.802,-84.767,CGT developer,6300.0,False,Rep 3
+A-4418,Chicago,42.678,-88.267,CGT developer,5100.0,False,Rep 2
+A-4419,San Diego,32.631,-117.385,Academia,800.0,False,Rep 2
+A-4420,Chicago,41.517,-87.431,Pharma,4800.0,False,Rep 3
+A-4421,Philadelphia,39.005,-75.213,CGT developer,3500.0,False,Rep 3
+A-4422,Los Angeles,34.016,-118.292,Biotech,4100.0,False,Rep 2
+A-4423,Boston,42.118,-71.207,Academia,8300.0,False,Rep 4
+A-4424,San Diego,33.572,-117.428,Academia,2700.0,False,Rep 2
+A-4425,Ann Arbor,41.603,-83.025,CGT developer,4200.0,False,Rep 3
+A-4426,Los Angeles,34.73,-116.883,Pharma,8200.0,False,Rep 2
+A-4427,Atlanta,33.194,-85.362,Academia,1400.0,True,Rep 3
+A-4428,Philadelphia,38.294,-76.418,Pharma,16400.0,False,Rep 3
+A-4429,Boston,42.693,-70.748,Academia,2300.0,False,Rep 4
+A-4430,Baltimore-DC,38.571,-76.211,Biotech,2000.0,False,Rep 3
+A-4431,Ann Arbor,42.386,-83.981,Academia,3100.0,False,Rep 3
+A-4432,New York,39.833,-73.899,Biotech,1800.0,False,Rep 4
+A-4433,Minneapolis,44.633,-94.133,Core facility,2100.0,False,Rep 2
+A-4434,Baltimore-DC,38.434,-76.396,Academia,9200.0,False,Rep 3
+A-4435,Chicago,41.651,-87.549,Biotech,4400.0,False,Rep 3
+A-4436,Los Angeles,33.868,-119.608,Biotech,3300.0,False,Rep 1
+A-4437,Seattle,47.862,-122.242,Academia,1800.0,False,Rep 1
+A-4438,Research Triangle,36.251,-78.77,Academia,1500.0,False,Rep 3
+A-4439,Philadelphia,39.629,-75.257,Academia,2200.0,False,Rep 3
+A-4440,Baltimore-DC,38.378,-76.704,Biotech,8900.0,False,Rep 3
+A-4441,Denver,38.82,-105.736,Core facility,2600.0,False,Rep 2
+A-4442,Bay Area,38.816,-122.626,CRO,4800.0,False,Rep 1
+A-4443,New York,41.505,-76.039,CRO,3500.0,False,Rep 4
+A-4444,Research Triangle,37.043,-77.204,Core facility,3100.0,False,Rep 3
+A-4445,San Diego,32.844,-116.537,Academia,3200.0,False,Rep 2
+A-4446,Research Triangle,35.636,-77.911,Core facility,1800.0,False,Rep 3
+A-4447,San Diego,33.106,-117.639,CGT developer,5000.0,False,Rep 2
+A-4448,Boston,42.595,-71.288,Academia,10700.0,False,Rep 4
+A-4449,Chicago,41.671,-86.246,Pharma,6800.0,False,Rep 3
+A-4450,Bay Area,36.624,-122.164,CGT developer,6300.0,True,Rep 1
+A-4451,Houston,28.656,-96.149,Academia,3900.0,False,Rep 2
+A-4452,Los Angeles,33.029,-117.386,Pharma,9100.0,False,Rep 2
+A-4453,Atlanta,34.541,-83.244,CRO,2900.0,False,Rep 3
+A-4454,Los Angeles,34.046,-117.934,Pharma,4000.0,False,Rep 2
+A-4455,Chicago,41.877,-86.768,CRO,8800.0,False,Rep 3
+A-4456,Chicago,42.036,-87.179,Core facility,800.0,True,Rep 3
+A-4457,Los Angeles,34.98,-116.552,Core facility,4600.0,False,Rep 2
+A-4458,Bay Area,37.048,-122.151,Academia,5500.0,False,Rep 1
+A-4459,Bay Area,37.944,-122.864,Pharma,4900.0,False,Rep 1
+A-4460,Bay Area,37.55,-121.575,Biotech,2400.0,True,Rep 1
+A-4461,Philadelphia,40.194,-76.643,Academia,2700.0,False,Rep 3
+A-4462,Minneapolis,44.747,-93.351,Biotech,6100.0,False,Rep 2
+A-4463,Research Triangle,35.343,-79.071,Pharma,4700.0,False,Rep 3
+A-4464,New York,40.559,-74.758,Academia,2900.0,True,Rep 4
+A-4465,New York,40.895,-73.502,CGT developer,4800.0,False,Rep 4
+A-4466,Denver,39.257,-106.314,Core facility,900.0,False,Rep 2
+A-4467,Philadelphia,40.529,-75.085,Academia,1200.0,False,Rep 3
+A-4468,Chicago,42.216,-87.897,Academia,2200.0,False,Rep 2
+A-4469,San Diego,32.99,-118.244,Academia,2000.0,False,Rep 2
+A-4470,Houston,30.309,-95.299,Academia,1300.0,False,Rep 2
+A-4471,Houston,29.306,-95.36,Academia,1700.0,True,Rep 2
+A-4472,San Diego,32.798,-117.212,Pharma,6700.0,False,Rep 2
+A-4473,Los Angeles,33.119,-119.22,Biotech,4400.0,False,Rep 1
+A-4474,Los Angeles,34.316,-118.543,Core facility,1200.0,True,Rep 1
+A-4475,New York,40.827,-73.471,Biotech,1500.0,False,Rep 4
+A-4476,Denver,39.088,-105.956,Academia,1700.0,True,Rep 2
+A-4477,Atlanta,34.194,-85.409,CGT developer,3500.0,True,Rep 3
+A-4478,Bay Area,37.785,-122.904,Biotech,3600.0,False,Rep 1
+A-4479,Research Triangle,35.132,-79.207,Academia,1400.0,True,Rep 3
+A-4480,Boston,42.032,-71.05,Pharma,8900.0,True,Rep 4
+A-4481,Ann Arbor,42.193,-84.255,Academia,1100.0,True,Rep 3
+A-4482,Cleveland,42.12,-81.624,Academia,700.0,True,Rep 3
+A-4483,Baltimore-DC,39.395,-77.109,Biotech,1900.0,False,Rep 3
+A-4484,Minneapolis,44.912,-94.174,Pharma,3300.0,False,Rep 2
+A-4485,Boston,41.848,-71.566,CGT developer,8100.0,False,Rep 4
+A-4486,Philadelphia,39.815,-75.252,Biotech,2300.0,False,Rep 3
+A-4487,Houston,29.007,-96.198,Biotech,3100.0,False,Rep 2
+A-4488,Boston,41.308,-72.075,Academia,7100.0,False,Rep 4
+A-4489,Baltimore-DC,38.687,-78.171,CGT developer,7700.0,False,Rep 3
+A-4490,New York,41.395,-73.228,Biotech,2500.0,False,Rep 4
+A-4491,Seattle,47.961,-123.772,Academia,1300.0,True,Rep 1
+A-4492,Boston,42.366,-71.51,Academia,3600.0,False,Rep 4
+A-4493,Boston,42.095,-71.174,Academia,3000.0,True,Rep 4
+A-4494,Ann Arbor,42.207,-83.956,CRO,2300.0,False,Rep 3
+A-4495,Ann Arbor,42.058,-83.477,Biotech,2300.0,False,Rep 3
+A-4496,San Diego,32.618,-116.722,Pharma,7700.0,True,Rep 2
+A-4497,Bay Area,37.844,-122.192,Pharma,13000.0,True,Rep 1
+A-4498,Bay Area,37.326,-121.518,Biotech,6000.0,True,Rep 1
+A-4499,Boston,43.127,-70.637,CRO,3400.0,True,Rep 4
+A-4500,Atlanta,32.781,-84.836,Academia,2300.0,False,Rep 3
+A-4501,New York,40.836,-74.564,Biotech,5700.0,False,Rep 4
+A-4502,Baltimore-DC,39.694,-77.016,Academia,1600.0,True,Rep 3
+A-4503,Philadelphia,39.867,-74.369,Core facility,2700.0,False,Rep 4
+A-4504,Atlanta,33.035,-83.662,CGT developer,3200.0,False,Rep 3
+A-4505,Denver,39.722,-105.051,Academia,1900.0,False,Rep 2
+A-4506,Cleveland,41.846,-82.234,Academia,900.0,False,Rep 3
+A-4507,Chicago,41.653,-88.208,CRO,2600.0,False,Rep 2
+A-4508,Los Angeles,34.665,-118.268,Academia,5500.0,False,Rep 2
+A-4509,Los Angeles,34.931,-118.004,CGT developer,4800.0,False,Rep 2
+A-4510,Chicago,41.483,-87.367,Biotech,2700.0,False,Rep 3
+A-4511,Baltimore-DC,39.112,-75.92,Academia,3300.0,False,Rep 3
+A-4512,Baltimore-DC,38.855,-75.868,Biotech,2700.0,False,Rep 3
+A-4513,Philadelphia,40.032,-74.552,Core facility,1700.0,False,Rep 4
+A-4514,Boston,41.85,-71.019,Core facility,2600.0,False,Rep 4
+A-4515,Philadelphia,40.344,-74.969,Academia,3500.0,False,Rep 3
+A-4516,Chicago,41.168,-87.314,Core facility,2800.0,False,Rep 3
+A-4517,San Diego,33.077,-115.936,Academia,3900.0,False,Rep 2
+A-4518,Cleveland,41.69,-80.844,Academia,2200.0,False,Rep 3
+A-4519,Boston,42.784,-70.556,Academia,4100.0,False,Rep 4
+A-4520,Boston,42.366,-68.572,Academia,2400.0,False,Rep 4
+A-4521,Boston,42.317,-71.339,Core facility,900.0,True,Rep 4
+A-4522,Los Angeles,34.392,-117.516,Core facility,2100.0,False,Rep 2
+A-4523,Philadelphia,38.953,-74.581,Academia,2000.0,False,Rep 4
+A-4524,Boston,42.041,-71.008,Core facility,2700.0,True,Rep 4
+A-4525,Ann Arbor,42.164,-83.582,Biotech,3400.0,False,Rep 3
+A-4526,Atlanta,34.507,-85.052,Academia,1700.0,False,Rep 3
+A-4527,Boston,42.744,-71.341,Academia,1600.0,False,Rep 4
+A-4528,Atlanta,33.141,-84.548,CGT developer,4500.0,False,Rep 3
+A-4529,Cleveland,40.913,-82.262,Academia,1600.0,True,Rep 3
+A-4530,Minneapolis,45.573,-93.867,CGT developer,6000.0,False,Rep 2
+A-4531,Minneapolis,43.466,-92.696,Pharma,2200.0,True,Rep 2
+A-4532,Bay Area,37.797,-122.999,Academia,5200.0,False,Rep 1
+A-4533,Cleveland,40.614,-81.793,CGT developer,10600.0,True,Rep 3
+A-4534,Cleveland,42.42,-82.325,Academia,900.0,False,Rep 3
+A-4535,Minneapolis,45.599,-94.134,Biotech,3200.0,False,Rep 2
+A-4536,Research Triangle,36.024,-79.37,Biotech,6000.0,False,Rep 3
+A-4537,San Diego,32.566,-116.581,Academia,2800.0,False,Rep 2
+A-4538,Boston,42.071,-71.386,CRO,9700.0,False,Rep 4
+A-4539,Cleveland,42.616,-81.035,CRO,4000.0,True,Rep 3
+A-4540,Denver,39.636,-104.476,Core facility,2500.0,False,Rep 2
+A-4541,Atlanta,34.904,-83.915,Academia,1100.0,False,Rep 3
+A-4542,Boston,42.217,-71.396,Biotech,9500.0,False,Rep 4
+A-4543,Chicago,42.065,-87.65,Academia,2600.0,False,Rep 3
+A-4544,Denver,40.205,-106.009,Academia,900.0,False,Rep 2
+A-4545,Seattle,47.898,-121.975,Core facility,1000.0,False,Rep 1
+A-4546,Bay Area,37.938,-122.234,Academia,3500.0,False,Rep 1
+A-4547,Baltimore-DC,39.083,-78.163,Biotech,2600.0,False,Rep 3
+A-4548,Chicago,42.426,-87.817,Pharma,3600.0,False,Rep 2
+A-4549,Philadelphia,40.425,-75.474,Biotech,5400.0,False,Rep 3
+A-4550,Seattle,48.274,-123.288,Academia,5800.0,False,Rep 1
+A-4551,Bay Area,38.292,-122.111,Academia,2800.0,True,Rep 1
+A-4552,Baltimore-DC,38.937,-75.954,CGT developer,3600.0,False,Rep 3
+A-4553,Denver,39.361,-104.965,Academia,1500.0,False,Rep 2
+A-4554,Minneapolis,44.899,-93.496,CGT developer,2100.0,False,Rep 2
+A-4555,Bay Area,37.072,-121.106,Academia,1800.0,False,Rep 1
+A-4556,Bay Area,38.183,-121.524,Academia,2200.0,False,Rep 1
+A-4557,Philadelphia,39.781,-75.585,CGT developer,6400.0,False,Rep 3
+A-4558,Baltimore-DC,38.381,-77.817,Biotech,1900.0,False,Rep 3
+A-4559,Bay Area,36.459,-122.373,CRO,4900.0,False,Rep 1
+A-4560,Philadelphia,39.676,-74.812,Academia,3500.0,False,Rep 3
+A-4561,Boston,42.126,-71.854,CGT developer,3800.0,False,Rep 4
+A-4562,Bay Area,37.465,-122.975,CGT developer,6300.0,False,Rep 1
+A-4563,San Diego,32.939,-118.418,CGT developer,4200.0,False,Rep 2
+A-4564,Chicago,40.943,-87.055,CGT developer,2300.0,False,Rep 3
+A-4565,Bay Area,38.257,-123.565,Core facility,5400.0,False,Rep 1
+A-4566,Boston,42.797,-71.091,CRO,10800.0,False,Rep 4
+A-4567,New York,41.407,-74.746,CGT developer,6400.0,False,Rep 4
+A-4568,Baltimore-DC,40.137,-76.797,Academia,2900.0,False,Rep 3
+A-4569,Bay Area,36.511,-123.279,Academia,5700.0,False,Rep 1
+A-4570,Philadelphia,39.511,-74.739,Academia,1400.0,False,Rep 3
+A-4571,Atlanta,34.318,-83.932,Pharma,2800.0,False,Rep 3
+A-4572,San Diego,32.352,-117.07,Biotech,6600.0,False,Rep 2
+A-4573,Bay Area,37.379,-121.666,Academia,4200.0,True,Rep 1
+A-4574,New York,41.874,-73.794,Pharma,10200.0,False,Rep 4
+A-4575,Bay Area,38.352,-123.713,Academia,4600.0,True,Rep 1
+A-4576,New York,40.813,-74.782,Biotech,3300.0,False,Rep 4
+A-4577,Bay Area,37.287,-122.285,Academia,2300.0,False,Rep 1
+A-4578,Philadelphia,41.434,-76.737,Core facility,1500.0,True,Rep 3
+A-4579,Bay Area,36.853,-121.718,Core facility,2000.0,False,Rep 1
+A-4580,Houston,29.389,-95.747,Academia,2000.0,False,Rep 2
+A-4581,Denver,39.931,-105.097,Biotech,1100.0,True,Rep 2
+A-4582,Philadelphia,39.555,-74.755,Academia,1500.0,False,Rep 3
+A-4583,New York,42.271,-73.734,CGT developer,5100.0,False,Rep 4
+A-4584,Bay Area,38.345,-121.992,Academia,3100.0,False,Rep 1
+A-4585,Houston,29.58,-95.446,Pharma,9600.0,False,Rep 2
+A-4586,Chicago,41.428,-87.225,Biotech,1600.0,False,Rep 3
+A-4587,San Diego,32.731,-116.912,CRO,3100.0,False,Rep 2
+A-4588,San Diego,32.682,-117.681,Academia,1100.0,False,Rep 2
+A-4589,Philadelphia,39.925,-75.184,Biotech,1600.0,True,Rep 3
+A-4590,Ann Arbor,42.389,-83.941,Core facility,2900.0,False,Rep 3
+A-4591,New York,40.159,-73.911,Pharma,9400.0,True,Rep 4
+A-4592,Seattle,47.471,-122.294,Academia,2300.0,False,Rep 1
+A-4593,Denver,39.538,-104.681,CRO,3900.0,False,Rep 2
+A-4594,Houston,29.533,-94.45,Academia,3100.0,False,Rep 2
+A-4595,San Diego,32.376,-116.373,Academia,2700.0,False,Rep 2
+A-4596,Ann Arbor,42.319,-83.657,Biotech,7700.0,True,Rep 3
+A-4597,Boston,42.275,-70.971,Academia,5300.0,False,Rep 4
+A-4598,Seattle,47.851,-122.885,Biotech,2600.0,False,Rep 1
+A-4599,Baltimore-DC,38.938,-76.07,Academia,1700.0,True,Rep 3
+A-4600,Baltimore-DC,39.231,-76.4,Biotech,2100.0,True,Rep 3
+A-4601,Atlanta,34.044,-84.472,CGT developer,7700.0,False,Rep 3
+A-4602,Atlanta,33.594,-85.307,CGT developer,5700.0,True,Rep 3
+A-4603,Boston,43.282,-70.59,Academia,2500.0,False,Rep 4
+A-4604,Baltimore-DC,38.326,-77.067,Biotech,1600.0,True,Rep 3
+A-4605,Houston,29.941,-96.701,CRO,2500.0,False,Rep 2
+A-4606,Boston,43.747,-70.668,Core facility,3300.0,True,Rep 4
+A-4607,Research Triangle,35.612,-78.767,Pharma,5300.0,False,Rep 3
+A-4608,New York,41.942,-73.088,Biotech,11800.0,False,Rep 4
+A-4609,Boston,42.095,-71.099,Academia,2600.0,True,Rep 4
+A-4610,New York,40.377,-73.427,Academia,3100.0,False,Rep 4
+A-4611,Philadelphia,40.099,-75.66,Biotech,3000.0,True,Rep 3
+A-4612,Philadelphia,39.798,-75.384,Biotech,2800.0,False,Rep 3
+A-4613,Boston,42.365,-70.543,CRO,5800.0,False,Rep 4
+A-4614,Philadelphia,40.881,-74.698,Core facility,2200.0,False,Rep 3
+A-4615,Boston,42.896,-71.359,Biotech,10600.0,False,Rep 4
+A-4616,Chicago,42.414,-87.675,CRO,1100.0,False,Rep 3
+A-4617,Boston,41.861,-70.37,Pharma,14700.0,False,Rep 4
+A-4618,Chicago,42.049,-87.632,Academia,900.0,False,Rep 3
+A-4619,Baltimore-DC,39.869,-76.286,Core facility,1800.0,False,Rep 3
+A-4620,Seattle,47.539,-123.936,Core facility,4900.0,False,Rep 1
+A-4621,Baltimore-DC,39.256,-77.082,Academia,1600.0,False,Rep 3
+A-4622,Seattle,47.505,-122.357,CGT developer,4100.0,False,Rep 1
+A-4623,Bay Area,37.352,-122.486,CGT developer,6100.0,False,Rep 1
+A-4624,Baltimore-DC,38.093,-77.165,Academia,4000.0,False,Rep 3
+A-4625,Minneapolis,44.701,-93.115,Biotech,2800.0,False,Rep 2
+A-4626,Los Angeles,33.611,-118.296,Academia,2100.0,False,Rep 2
+A-4627,San Diego,32.934,-117.513,Academia,1700.0,False,Rep 2
+A-4628,Boston,43.345,-71.267,Biotech,1700.0,False,Rep 4
+A-4629,Cleveland,41.458,-81.369,Pharma,6100.0,False,Rep 3
+A-4630,Houston,29.871,-96.527,CGT developer,2600.0,True,Rep 2
+A-4631,Seattle,47.195,-121.861,Biotech,1000.0,False,Rep 1
+A-4632,Denver,39.246,-105.039,Pharma,3800.0,False,Rep 2
+A-4633,Ann Arbor,43.505,-83.802,Academia,1100.0,False,Rep 3
+A-4634,Los Angeles,32.959,-116.924,CGT developer,2800.0,False,Rep 2
+A-4635,New York,40.645,-73.864,Biotech,4600.0,False,Rep 4
+A-4636,Bay Area,37.181,-121.807,Core facility,3900.0,False,Rep 1
+A-4637,Denver,39.881,-104.833,CGT developer,2500.0,False,Rep 2
+A-4638,Chicago,41.773,-87.287,Pharma,4200.0,False,Rep 3
+A-4639,Bay Area,37.107,-121.606,CRO,7100.0,False,Rep 1
+A-4640,Philadelphia,39.608,-76.135,CGT developer,1300.0,False,Rep 3
+A-4641,New York,40.305,-73.514,CRO,1300.0,True,Rep 4
+A-4642,Seattle,47.476,-121.214,Academia,3200.0,False,Rep 1
+A-4643,San Diego,32.875,-117.516,CRO,5000.0,False,Rep 2
+A-4644,Bay Area,36.653,-122.279,CGT developer,10600.0,True,Rep 1
+A-4645,Baltimore-DC,39.684,-77.017,Academia,2800.0,False,Rep 3
+A-4646,Ann Arbor,42.439,-84.524,Biotech,5700.0,False,Rep 3
+A-4647,Baltimore-DC,39.849,-77.761,Academia,1000.0,False,Rep 3
+A-4648,Boston,42.137,-71.509,Biotech,4800.0,True,Rep 4
+A-4649,San Diego,33.414,-116.75,CGT developer,8900.0,True,Rep 2
+A-4650,Atlanta,33.346,-85.041,Core facility,5200.0,False,Rep 3
+A-4651,Minneapolis,45.472,-94.361,Academia,900.0,False,Rep 2
+A-4652,Houston,30.101,-95.478,CGT developer,4300.0,False,Rep 2
+A-4653,Ann Arbor,42.15,-83.232,Biotech,2500.0,False,Rep 3
+A-4654,Boston,43.184,-71.113,CGT developer,30000.0,True,Rep 4
+A-4655,Bay Area,37.267,-121.806,Biotech,1700.0,False,Rep 1
+A-4656,Denver,39.561,-104.186,Academia,4200.0,False,Rep 2
+A-4657,San Diego,33.459,-116.866,Pharma,4000.0,False,Rep 2
+A-4658,Seattle,46.415,-121.788,Biotech,2600.0,True,Rep 1
+A-4659,Bay Area,36.999,-120.738,Academia,4600.0,False,Rep 1
+A-4660,Cleveland,40.557,-81.692,Academia,2500.0,False,Rep 3
+A-4661,Cleveland,41.227,-82.388,Academia,2200.0,False,Rep 3
+A-4662,Boston,41.533,-70.557,CRO,9700.0,True,Rep 4
+A-4663,Minneapolis,45.298,-93.837,Academia,2300.0,False,Rep 2
+A-4664,Boston,42.406,-69.979,Academia,3400.0,False,Rep 4
+A-4665,Minneapolis,45.508,-94.516,Core facility,400.0,False,Rep 2
+A-4666,New York,41.065,-73.736,Academia,1400.0,False,Rep 4
+A-4667,Chicago,41.901,-87.705,Academia,4200.0,False,Rep 2
+A-4668,Bay Area,37.76,-122.104,Biotech,6200.0,False,Rep 1
+A-4669,Ann Arbor,42.246,-82.861,Academia,2200.0,False,Rep 3
+A-4670,New York,41.446,-74.931,Pharma,15800.0,False,Rep 4
+A-4671,Bay Area,37.849,-122.084,Biotech,4800.0,True,Rep 1
+A-4672,Baltimore-DC,39.138,-77.474,Pharma,5100.0,False,Rep 3
+A-4673,Denver,40.607,-106.398,Academia,1400.0,False,Rep 2
+A-4674,Chicago,42.578,-88.99,CRO,3500.0,False,Rep 2
+A-4675,Boston,40.93,-71.556,Core facility,1700.0,False,Rep 4
+A-4676,Atlanta,34.391,-85.313,Academia,1400.0,False,Rep 3
+A-4677,Bay Area,37.211,-122.44,Academia,2300.0,True,Rep 1
+A-4678,Baltimore-DC,38.267,-77.023,Biotech,4600.0,False,Rep 3
+A-4679,Denver,40.608,-104.717,Biotech,5700.0,True,Rep 2
+A-4680,New York,39.75,-74.588,Biotech,3400.0,False,Rep 4
+A-4681,Atlanta,33.382,-84.633,CRO,2500.0,False,Rep 3
+A-4682,Denver,39.815,-104.556,Academia,2300.0,False,Rep 2
+A-4683,Chicago,41.817,-86.349,Biotech,8200.0,False,Rep 3
+A-4684,Research Triangle,35.961,-78.16,Academia,1700.0,False,Rep 3
+A-4685,Chicago,41.261,-88.124,Pharma,3300.0,False,Rep 2
+A-4686,Bay Area,37.291,-123.465,Academia,700.0,False,Rep 1
+A-4687,Minneapolis,45.243,-93.427,Academia,1100.0,False,Rep 2
+A-4688,Minneapolis,44.978,-93.842,CGT developer,2600.0,False,Rep 2
+A-4689,Boston,42.38,-71.218,Academia,4500.0,True,Rep 4
+A-4690,Houston,29.647,-95.575,CRO,4400.0,False,Rep 2
+A-4691,Ann Arbor,42.782,-83.802,Academia,2000.0,False,Rep 3
+A-4692,Philadelphia,39.848,-76.228,Academia,5400.0,False,Rep 3
+A-4693,Bay Area,37.245,-122.2,CRO,10200.0,False,Rep 1
+A-4694,Chicago,42.092,-88.755,Core facility,1600.0,False,Rep 2
+A-4695,Cleveland,41.148,-82.507,CGT developer,15500.0,False,Rep 3
+A-4696,Houston,29.703,-96.248,Biotech,2200.0,True,Rep 2
+A-4697,Philadelphia,39.7,-75.125,Core facility,3400.0,False,Rep 3
+A-4698,Baltimore-DC,39.036,-77.709,Academia,3200.0,False,Rep 3
+A-4699,Atlanta,35.275,-85.262,Core facility,1900.0,False,Rep 3
+A-4700,Minneapolis,45.39,-93.601,Academia,2200.0,False,Rep 2
+A-4701,Ann Arbor,42.289,-83.248,CRO,2500.0,False,Rep 3
+A-4702,Baltimore-DC,38.619,-78.386,Pharma,10300.0,False,Rep 3
+A-4703,Chicago,41.771,-87.095,Academia,2000.0,False,Rep 3
+A-4704,Atlanta,33.509,-85.544,Academia,2800.0,True,Rep 3
+A-4705,Minneapolis,44.767,-94.226,Biotech,1300.0,False,Rep 2
+A-4706,San Diego,31.903,-118.269,Academia,1000.0,True,Rep 2
+A-4707,Atlanta,33.581,-85.291,Academia,3100.0,False,Rep 3
+A-4708,Baltimore-DC,39.167,-76.62,Academia,2000.0,True,Rep 3
+A-4709,Seattle,46.908,-123.558,Academia,3100.0,False,Rep 1
+A-4710,Baltimore-DC,39.169,-77.292,Core facility,1900.0,True,Rep 3
+A-4711,Boston,41.559,-70.724,Academia,2400.0,False,Rep 4
+A-4712,Boston,42.504,-71.178,Core facility,4400.0,False,Rep 4
+A-4713,Ann Arbor,42.239,-84.594,CGT developer,3400.0,False,Rep 3
+A-4714,Chicago,41.344,-87.708,Academia,3300.0,False,Rep 2
+A-4715,Denver,39.599,-104.6,Biotech,3000.0,False,Rep 2
+A-4716,Los Angeles,33.671,-118.319,Pharma,7200.0,True,Rep 2
+A-4717,Bay Area,37.199,-122.554,Academia,3900.0,False,Rep 1
+A-4718,Bay Area,37.415,-121.401,Academia,6800.0,False,Rep 1
+A-4719,Minneapolis,45.719,-93.436,Academia,1100.0,False,Rep 2
+A-4720,Chicago,41.142,-87.875,Academia,1200.0,False,Rep 2
+A-4721,San Diego,31.662,-117.206,Academia,3900.0,False,Rep 2
+A-4722,Boston,42.144,-69.931,Academia,2500.0,False,Rep 4
+A-4723,Ann Arbor,41.804,-83.256,Biotech,1500.0,False,Rep 3
+A-4724,Research Triangle,35.336,-80.495,Academia,2400.0,False,Rep 3
+A-4725,San Diego,32.296,-117.582,Biotech,2700.0,False,Rep 2
+A-4726,Ann Arbor,42.005,-83.793,Biotech,1400.0,True,Rep 3
+A-4727,Boston,41.359,-70.379,Pharma,9400.0,False,Rep 4
+A-4728,Research Triangle,35.307,-79.178,CGT developer,8400.0,False,Rep 3
+A-4729,Philadelphia,39.656,-75.032,Biotech,2700.0,False,Rep 3
+A-4730,Ann Arbor,42.208,-82.065,Academia,2000.0,False,Rep 3
+A-4731,Boston,42.228,-70.11,CGT developer,2300.0,False,Rep 4
+A-4732,Chicago,41.604,-87.548,Biotech,4100.0,True,Rep 3
+A-4733,Ann Arbor,42.703,-83.246,Biotech,8200.0,False,Rep 3
+A-4734,Minneapolis,44.552,-94.622,Biotech,3100.0,False,Rep 2
+A-4735,Chicago,42.165,-87.053,Academia,900.0,False,Rep 3
+A-4736,Ann Arbor,42.168,-83.749,Core facility,2500.0,True,Rep 3
+A-4737,Atlanta,34.05,-84.685,CGT developer,1100.0,False,Rep 3
+A-4738,Bay Area,36.976,-121.959,Academia,2300.0,False,Rep 1
+A-4739,Baltimore-DC,39.105,-76.272,CRO,2800.0,False,Rep 3
+A-4740,Cleveland,41.048,-81.763,Pharma,11700.0,False,Rep 3
+A-4741,Cleveland,42.076,-82.075,Academia,1300.0,False,Rep 3
+A-4742,San Diego,32.65,-117.434,Academia,4600.0,False,Rep 2
+A-4743,Chicago,42.937,-88.741,CGT developer,1800.0,False,Rep 2
+A-4744,Los Angeles,33.732,-119.183,Academia,2600.0,True,Rep 1
+A-4745,Bay Area,36.915,-123.608,Biotech,10800.0,False,Rep 1
+A-4746,Bay Area,38.023,-122.522,Academia,4200.0,False,Rep 1
+A-4747,Boston,41.898,-70.545,Core facility,3700.0,False,Rep 4
+A-4748,Cleveland,41.868,-81.017,Pharma,5000.0,False,Rep 3
+A-4749,Cleveland,42.563,-80.223,Pharma,3300.0,False,Rep 3
+A-4750,Baltimore-DC,39.233,-76.731,Academia,2600.0,False,Rep 3
+A-4751,Boston,43.667,-71.173,Academia,6600.0,True,Rep 4
+A-4752,Seattle,46.895,-122.288,Academia,3100.0,False,Rep 1
+A-4753,Seattle,47.318,-123.193,Academia,5800.0,True,Rep 1
+A-4754,Philadelphia,40.225,-74.939,Academia,2800.0,False,Rep 3
+A-4755,Baltimore-DC,38.003,-78.369,Academia,1300.0,False,Rep 3
+A-4756,San Diego,32.294,-117.463,Academia,900.0,False,Rep 2
+A-4757,Ann Arbor,42.12,-82.595,CGT developer,7000.0,False,Rep 3
+A-4758,Cleveland,41.5,-81.354,Biotech,2300.0,False,Rep 3
+A-4759,Denver,39.165,-104.465,Academia,1100.0,False,Rep 2
+A-4760,Houston,29.958,-95.008,Biotech,1600.0,True,Rep 2
+A-4761,Philadelphia,40.001,-76.164,CGT developer,2400.0,False,Rep 3
+A-4762,Philadelphia,39.743,-76.792,Biotech,2400.0,False,Rep 3
+A-4763,Bay Area,37.233,-122.573,CGT developer,10200.0,False,Rep 1
+A-4764,Philadelphia,40.104,-75.432,Pharma,10100.0,False,Rep 3
+A-4765,Minneapolis,44.414,-92.423,CRO,2900.0,False,Rep 2
+A-4766,San Diego,32.877,-118.001,Academia,3000.0,False,Rep 2
+A-4767,Ann Arbor,42.663,-83.752,CRO,2400.0,False,Rep 3
+A-4768,Boston,42.279,-71.05,Academia,4800.0,False,Rep 4
+A-4769,Bay Area,36.413,-122.539,Core facility,2400.0,False,Rep 1
+A-4770,Boston,42.573,-71.577,Academia,3600.0,False,Rep 4
+A-4771,Baltimore-DC,38.276,-76.873,Biotech,3500.0,False,Rep 3
+A-4772,Boston,42.754,-71.05,Academia,3900.0,False,Rep 4
+A-4773,Chicago,42.33,-87.435,Academia,2100.0,False,Rep 3
+A-4774,Boston,42.461,-72.073,Academia,4800.0,False,Rep 4
+A-4775,Boston,42.156,-71.489,Core facility,3400.0,False,Rep 4
+A-4776,Seattle,47.82,-122.728,Academia,5300.0,False,Rep 1
+A-4777,Los Angeles,33.0,-117.725,Biotech,1700.0,True,Rep 2
+A-4778,New York,40.879,-73.919,CGT developer,2700.0,False,Rep 4
+A-4779,Philadelphia,39.736,-75.124,CRO,10800.0,False,Rep 3
+A-4780,Cleveland,40.653,-82.777,Biotech,1700.0,False,Rep 3
+A-4781,Philadelphia,39.883,-73.74,Core facility,1600.0,False,Rep 4
+A-4782,Boston,42.491,-69.83,CRO,4400.0,False,Rep 4
+A-4783,Philadelphia,41.823,-75.902,Academia,1900.0,False,Rep 3
+A-4784,Baltimore-DC,39.258,-76.42,CGT developer,3600.0,False,Rep 3
+A-4785,Boston,41.54,-71.844,Biotech,8200.0,False,Rep 4
+A-4786,Ann Arbor,43.426,-83.177,Biotech,5900.0,True,Rep 3
+A-4787,Chicago,40.817,-86.765,Biotech,2900.0,False,Rep 3
+A-4788,Atlanta,32.886,-85.048,Pharma,5900.0,False,Rep 3
+A-4789,Baltimore-DC,39.44,-76.612,Biotech,3800.0,True,Rep 3
+A-4790,Chicago,42.033,-88.152,Academia,1200.0,False,Rep 2
+A-4791,Los Angeles,33.405,-118.691,Academia,800.0,False,Rep 1
+A-4792,Seattle,47.276,-122.468,Biotech,3500.0,False,Rep 1
+A-4793,Seattle,47.705,-122.004,Academia,4700.0,False,Rep 1
+A-4794,Boston,42.169,-71.347,CRO,5100.0,False,Rep 4
+A-4795,Atlanta,33.262,-85.772,Academia,500.0,False,Rep 3
+A-4796,Bay Area,37.462,-122.751,CRO,10700.0,False,Rep 1
+A-4797,Bay Area,38.082,-122.838,CRO,14900.0,False,Rep 1
+A-4798,Boston,42.41,-70.459,Academia,4400.0,False,Rep 4
+A-4799,Chicago,42.149,-86.327,CGT developer,7900.0,False,Rep 3
+A-4800,Philadelphia,39.491,-74.942,Core facility,4700.0,False,Rep 3
+A-4801,Boston,41.951,-72.388,CRO,2600.0,False,Rep 4
+A-4802,Los Angeles,33.88,-117.683,Biotech,3400.0,False,Rep 2
+A-4803,Baltimore-DC,38.645,-77.056,CGT developer,7100.0,False,Rep 3
+A-4804,Houston,30.331,-95.585,Academia,900.0,False,Rep 2
+A-4805,Los Angeles,34.432,-118.545,Biotech,3000.0,True,Rep 1
+A-4806,Philadelphia,39.785,-72.847,Biotech,4300.0,True,Rep 4
+A-4807,Boston,41.93,-71.65,Academia,2500.0,True,Rep 4
+A-4808,Chicago,41.673,-89.083,Academia,1800.0,False,Rep 2
+A-4809,San Diego,33.667,-116.296,CRO,5400.0,False,Rep 2
+A-4810,New York,40.51,-72.994,Biotech,3000.0,False,Rep 4
+A-4811,San Diego,32.715,-117.238,Pharma,7400.0,False,Rep 2
+A-4812,Boston,42.923,-70.047,Pharma,10800.0,True,Rep 4
+A-4813,Bay Area,37.546,-121.172,Core facility,2000.0,False,Rep 1
+A-4814,Cleveland,40.814,-83.173,CRO,2000.0,False,Rep 3
+A-4815,Bay Area,37.339,-123.017,Biotech,4100.0,False,Rep 1
+A-4816,Houston,30.077,-95.292,CRO,7400.0,False,Rep 2
+A-4817,Research Triangle,35.618,-79.41,CRO,4600.0,False,Rep 3
+A-4818,Bay Area,37.471,-120.496,Biotech,6000.0,False,Rep 1
+A-4819,Los Angeles,34.716,-118.614,Academia,1600.0,True,Rep 1
+A-4820,Philadelphia,40.279,-75.645,Core facility,1100.0,False,Rep 3
+A-4821,Boston,41.85,-71.277,Academia,1800.0,False,Rep 4
+A-4822,Denver,39.239,-104.69,Academia,2000.0,False,Rep 2
+A-4823,Baltimore-DC,38.775,-76.839,CGT developer,4400.0,False,Rep 3
+A-4824,Boston,41.511,-70.742,Core facility,2600.0,True,Rep 4
+A-4825,Los Angeles,34.508,-118.348,Academia,2000.0,False,Rep 2
+A-4826,Houston,29.728,-93.736,Academia,700.0,True,Rep 2
+A-4827,Boston,42.673,-70.091,Biotech,5600.0,False,Rep 4
+A-4828,Boston,42.281,-71.827,CGT developer,17900.0,False,Rep 4
+A-4829,Research Triangle,35.645,-79.577,Academia,1500.0,False,Rep 3
+A-4830,New York,41.294,-74.723,Academia,1800.0,False,Rep 4
+A-4831,New York,40.67,-74.05,Academia,1100.0,False,Rep 4
+A-4832,New York,41.546,-74.824,Biotech,1800.0,False,Rep 4
+A-4833,Minneapolis,45.489,-93.783,Academia,1900.0,False,Rep 2
+A-4834,Ann Arbor,42.34,-84.499,Academia,2700.0,False,Rep 3
+A-4835,Chicago,41.911,-87.67,Academia,1000.0,False,Rep 3
+A-4836,Boston,41.339,-71.986,CRO,5700.0,False,Rep 4
+A-4837,Boston,43.066,-71.206,Academia,2200.0,False,Rep 4
+A-4838,New York,39.639,-73.0,Academia,2400.0,True,Rep 4
+A-4839,Chicago,42.072,-87.318,Academia,2400.0,False,Rep 3
+A-4840,Philadelphia,40.769,-76.13,Academia,1800.0,False,Rep 3
+A-4841,Philadelphia,39.932,-75.449,Core facility,1800.0,False,Rep 3
+A-4842,Boston,42.314,-70.134,Biotech,2100.0,False,Rep 4
+A-4843,Bay Area,36.752,-121.612,Biotech,6800.0,False,Rep 1
+A-4844,Boston,41.872,-71.27,Academia,2300.0,False,Rep 4
+A-4845,Ann Arbor,42.78,-84.423,Biotech,4400.0,False,Rep 3
+A-4846,Ann Arbor,42.436,-84.083,Academia,2300.0,True,Rep 3
+A-4847,Los Angeles,33.281,-119.013,Academia,1500.0,False,Rep 1
+A-4848,Bay Area,37.549,-121.473,Biotech,4000.0,False,Rep 1
+A-4849,New York,40.672,-74.43,CRO,5100.0,False,Rep 4
+A-4850,Bay Area,35.784,-122.712,Academia,2800.0,False,Rep 1
+A-4851,Chicago,41.158,-87.696,CGT developer,3100.0,False,Rep 2
+A-4852,Philadelphia,39.12,-75.25,Academia,1800.0,False,Rep 3
+A-4853,Los Angeles,34.078,-118.631,Academia,1800.0,False,Rep 1
+A-4854,Bay Area,37.627,-122.555,Academia,2400.0,True,Rep 1
+A-4855,Boston,42.858,-70.236,Biotech,6100.0,False,Rep 4
+A-4856,Ann Arbor,42.156,-83.339,Academia,3500.0,False,Rep 3
+A-4857,Research Triangle,35.263,-78.947,Academia,2400.0,True,Rep 3
+A-4858,San Diego,32.798,-116.762,Biotech,2800.0,True,Rep 2
+A-4859,Boston,43.085,-72.475,CGT developer,10100.0,False,Rep 4
+A-4860,Los Angeles,34.782,-118.776,Academia,1000.0,True,Rep 1
+A-4861,Chicago,41.997,-88.209,Academia,2000.0,False,Rep 2
+A-4862,Boston,42.434,-71.891,Academia,4400.0,False,Rep 4
+A-4863,San Diego,33.688,-117.718,Core facility,1300.0,False,Rep 2
+A-4864,New York,40.112,-74.865,Core facility,900.0,False,Rep 4
+A-4865,Chicago,42.71,-87.855,Academia,5400.0,False,Rep 2
+A-4866,Boston,41.487,-71.699,Academia,6900.0,False,Rep 4
+A-4867,Seattle,47.743,-121.51,Academia,1400.0,False,Rep 1
+A-4868,Ann Arbor,42.072,-84.205,Academia,1100.0,False,Rep 3
+A-4869,Philadelphia,39.339,-75.353,Biotech,2700.0,False,Rep 3
+A-4870,Research Triangle,36.238,-79.73,Academia,1900.0,False,Rep 3
+A-4871,Ann Arbor,43.057,-83.092,Pharma,8100.0,False,Rep 3
+A-4872,Cleveland,41.544,-81.762,CRO,2200.0,False,Rep 3
+A-4873,San Diego,32.311,-117.912,CGT developer,1600.0,False,Rep 2
+A-4874,Los Angeles,34.29,-117.726,Academia,2500.0,False,Rep 2
+A-4875,Philadelphia,39.504,-75.644,Biotech,6400.0,True,Rep 3
+A-4876,Boston,42.104,-70.429,CGT developer,3700.0,False,Rep 4
+A-4877,Baltimore-DC,38.873,-75.965,Biotech,3700.0,False,Rep 3
+A-4878,Boston,43.098,-70.852,Biotech,2600.0,False,Rep 4
+A-4879,Baltimore-DC,38.548,-76.539,Academia,3100.0,True,Rep 3
+A-4880,New York,40.382,-73.988,Academia,1200.0,False,Rep 4
+A-4881,Boston,42.301,-71.292,CGT developer,9300.0,False,Rep 4
+A-4882,New York,40.107,-74.471,Academia,2900.0,False,Rep 4
+A-4883,Boston,42.659,-70.863,Academia,5400.0,False,Rep 4
+A-4884,San Diego,32.347,-116.335,Academia,4500.0,False,Rep 2
+A-4885,Ann Arbor,43.538,-83.301,Core facility,3000.0,False,Rep 3
+A-4886,San Diego,32.628,-117.095,Biotech,13400.0,False,Rep 2
+A-4887,Bay Area,37.611,-121.541,Academia,5200.0,False,Rep 1
+A-4888,Seattle,46.913,-122.161,CGT developer,7000.0,False,Rep 1
+A-4889,Boston,41.78,-71.037,CGT developer,15500.0,False,Rep 4
+A-4890,San Diego,33.238,-117.102,Academia,8300.0,False,Rep 2
+A-4891,Boston,42.46,-71.672,Biotech,5300.0,True,Rep 4
+A-4892,Cleveland,41.956,-81.461,Academia,1300.0,False,Rep 3
+A-4893,Denver,39.625,-105.023,Pharma,8000.0,False,Rep 2
+A-4894,Boston,42.076,-71.058,CGT developer,6600.0,True,Rep 4
+A-4895,Chicago,40.642,-88.201,Biotech,3900.0,True,Rep 2
+A-4896,Los Angeles,34.69,-118.247,Biotech,8100.0,True,Rep 2
+A-4897,Boston,42.264,-71.656,CRO,5800.0,True,Rep 4
+A-4898,New York,40.753,-73.335,Academia,2100.0,False,Rep 4
+A-4899,Houston,29.664,-95.212,Academia,1200.0,False,Rep 2
+A-4900,Atlanta,34.062,-83.975,Academia,2800.0,False,Rep 3
+A-4901,Bay Area,37.169,-121.575,Academia,2600.0,False,Rep 1
+A-4902,Los Angeles,34.099,-118.376,Biotech,2600.0,False,Rep 2
+A-4903,Atlanta,33.457,-84.694,Biotech,1200.0,False,Rep 3
+A-4904,Boston,42.539,-72.222,Biotech,12000.0,False,Rep 4
+A-4905,San Diego,32.333,-116.828,Academia,3700.0,False,Rep 2
+A-4906,Bay Area,38.262,-122.367,Academia,3300.0,False,Rep 1
+A-4907,Los Angeles,34.008,-117.796,CRO,3400.0,False,Rep 2
+A-4908,Boston,42.78,-72.773,Academia,2600.0,False,Rep 4
+A-4909,San Diego,32.994,-117.573,Academia,1600.0,False,Rep 2
+A-4910,Ann Arbor,42.785,-83.11,Academia,4600.0,False,Rep 3
+A-4911,New York,41.002,-72.989,Core facility,2100.0,False,Rep 4
+A-4912,Minneapolis,44.957,-93.241,Academia,3400.0,True,Rep 2
+A-4913,Philadelphia,39.512,-75.422,Academia,3000.0,False,Rep 3
+A-4914,San Diego,33.032,-116.117,CGT developer,13100.0,False,Rep 2
+A-4915,Bay Area,36.69,-122.257,Academia,2300.0,True,Rep 1
+A-4916,Chicago,42.365,-86.526,CRO,1200.0,False,Rep 3
+A-4917,Ann Arbor,42.251,-84.246,Academia,1000.0,True,Rep 3
+A-4918,Los Angeles,33.401,-118.977,Biotech,2700.0,False,Rep 1
+A-4919,Ann Arbor,42.823,-83.331,Pharma,8100.0,False,Rep 3
+A-4920,Bay Area,38.275,-121.627,Academia,5700.0,False,Rep 1
+A-4921,Boston,40.983,-69.725,Core facility,4000.0,False,Rep 4
+A-4922,Chicago,41.19,-89.252,Academia,2400.0,False,Rep 2
+A-4923,Seattle,47.818,-121.9,Academia,1700.0,False,Rep 1
+A-4924,Baltimore-DC,39.537,-76.317,Academia,3800.0,True,Rep 3
+A-4925,San Diego,31.966,-117.4,Academia,1700.0,False,Rep 2
+A-4926,Philadelphia,39.689,-75.095,Core facility,900.0,True,Rep 3
+A-4927,Boston,42.692,-71.013,Academia,2600.0,False,Rep 4
+A-4928,Los Angeles,33.792,-118.273,CRO,9300.0,False,Rep 2
+A-4929,Denver,40.147,-104.609,Academia,1800.0,False,Rep 2
+A-4930,Boston,41.722,-72.005,CGT developer,7800.0,False,Rep 4
+A-4931,San Diego,32.533,-117.402,Academia,1600.0,False,Rep 2
+A-4932,Seattle,47.238,-122.013,Biotech,3600.0,False,Rep 1
+A-4933,Chicago,41.532,-88.295,Academia,500.0,True,Rep 2
+A-4934,Atlanta,33.623,-84.866,Biotech,3700.0,False,Rep 3
+A-4935,Bay Area,37.996,-122.32,Academia,4900.0,False,Rep 1
+A-4936,Ann Arbor,41.948,-83.211,Biotech,4300.0,False,Rep 3
+A-4937,San Diego,33.206,-117.573,CGT developer,7600.0,False,Rep 2
+A-4938,Houston,29.029,-94.488,Biotech,5800.0,False,Rep 2
+A-4939,New York,40.423,-74.155,Academia,6000.0,True,Rep 4
+A-4940,Cleveland,41.357,-82.331,Biotech,4100.0,False,Rep 3
+A-4941,Minneapolis,45.15,-92.437,Academia,3100.0,False,Rep 2
+A-4942,Los Angeles,33.991,-118.443,Biotech,1500.0,False,Rep 2
+A-4943,Atlanta,33.408,-83.282,CRO,1300.0,False,Rep 3
+A-4944,San Diego,32.581,-115.815,Academia,2200.0,False,Rep 2
+A-4945,Houston,30.113,-94.877,Academia,3400.0,False,Rep 2
+A-4946,Philadelphia,39.573,-75.9,Pharma,2600.0,False,Rep 3
+A-4947,Research Triangle,35.338,-77.392,Academia,3400.0,False,Rep 3
+A-4948,Baltimore-DC,39.739,-75.596,Biotech,3800.0,False,Rep 3
+A-4949,Cleveland,41.539,-81.45,Academia,700.0,False,Rep 3
+A-4950,Boston,41.379,-69.729,Biotech,7600.0,False,Rep 4
+A-4951,Atlanta,34.142,-84.801,Biotech,2800.0,False,Rep 3
+A-4952,Baltimore-DC,38.858,-77.229,Academia,1400.0,False,Rep 3
+A-4953,Research Triangle,35.026,-79.003,Academia,1200.0,True,Rep 3
+A-4954,Cleveland,42.175,-81.737,CGT developer,4200.0,False,Rep 3
+A-4955,Bay Area,38.174,-123.162,Academia,3100.0,False,Rep 1
+A-4956,Seattle,47.34,-123.164,Academia,3400.0,False,Rep 1
+A-4957,Atlanta,34.372,-85.443,Core facility,900.0,True,Rep 3
+A-4958,Houston,29.467,-94.638,CRO,5300.0,True,Rep 2
+A-4959,Chicago,42.027,-86.555,Biotech,3400.0,False,Rep 3
+A-4960,Boston,42.462,-70.853,Academia,4300.0,True,Rep 4
+A-4961,Baltimore-DC,38.656,-76.459,Academia,2600.0,True,Rep 3
+A-4962,Denver,39.649,-103.691,Biotech,3400.0,True,Rep 2
+A-4963,Atlanta,33.278,-84.262,Academia,3300.0,False,Rep 3
+A-4964,Los Angeles,33.69,-119.18,Academia,1900.0,False,Rep 1
+A-4965,San Diego,33.001,-116.696,CGT developer,9200.0,False,Rep 2
+A-4966,San Diego,32.382,-117.89,Academia,2100.0,False,Rep 2
+A-4967,Denver,40.315,-105.11,CRO,3900.0,True,Rep 2
+A-4968,Boston,41.614,-70.528,Biotech,6100.0,False,Rep 4
+A-4969,Baltimore-DC,38.843,-76.591,CGT developer,1900.0,False,Rep 3
+A-4970,Atlanta,32.714,-84.538,Academia,500.0,True,Rep 3
+A-4971,Los Angeles,34.873,-117.672,Academia,1300.0,False,Rep 2
+A-4972,Los Angeles,34.117,-118.363,Biotech,2500.0,False,Rep 2
+A-4973,Boston,40.776,-72.107,Biotech,3800.0,False,Rep 4
+A-4974,Boston,42.848,-70.248,Biotech,5000.0,True,Rep 4
+A-4975,Baltimore-DC,38.818,-77.5,Biotech,4000.0,False,Rep 3
+A-4976,Ann Arbor,42.082,-83.127,CRO,4800.0,False,Rep 3
+A-4977,Seattle,47.285,-121.638,Core facility,3000.0,True,Rep 1
+A-4978,Boston,42.494,-71.15,Core facility,4200.0,False,Rep 4
+A-4979,Seattle,47.298,-122.627,CRO,4700.0,False,Rep 1
+A-4980,Bay Area,36.839,-121.274,Academia,4200.0,True,Rep 1
+A-4981,Ann Arbor,42.073,-83.421,Academia,3000.0,False,Rep 3
+A-4982,Minneapolis,45.531,-92.062,CRO,3000.0,True,Rep 2
+A-4983,Baltimore-DC,38.134,-75.67,CRO,3300.0,False,Rep 3
+A-4984,Chicago,41.295,-88.335,Academia,1500.0,False,Rep 2
+A-4985,Boston,43.464,-70.313,Academia,7000.0,False,Rep 4
+A-4986,Baltimore-DC,38.396,-77.738,Academia,2400.0,True,Rep 3
+A-4987,Bay Area,37.712,-122.693,CRO,9200.0,True,Rep 1
+A-4988,Baltimore-DC,39.033,-76.763,Biotech,3500.0,False,Rep 3
+A-4989,New York,41.074,-74.301,Pharma,5600.0,True,Rep 4
+A-4990,New York,40.518,-71.908,Biotech,4000.0,True,Rep 4
+A-4991,New York,41.8,-73.715,Academia,1900.0,True,Rep 4
+A-4992,Chicago,41.853,-88.643,CRO,11800.0,False,Rep 2
+A-4993,Baltimore-DC,39.005,-77.198,Academia,2200.0,False,Rep 3
+A-4994,Cleveland,41.75,-81.14,Pharma,5000.0,False,Rep 3
+A-4995,San Diego,32.819,-116.383,Biotech,5400.0,False,Rep 2
+A-4996,Chicago,42.734,-88.268,Academia,1000.0,False,Rep 2
+A-4997,Bay Area,37.106,-122.185,Biotech,10800.0,False,Rep 1
+A-4998,Houston,29.511,-95.517,Biotech,3000.0,False,Rep 2
+A-4999,Boston,42.051,-70.187,Academia,2500.0,False,Rep 4
+A-5000,Boston,42.487,-73.07,Academia,2600.0,True,Rep 4
+A-5001,Seattle,47.449,-122.061,Biotech,4400.0,True,Rep 1
+A-5002,Bay Area,37.536,-121.722,Biotech,2300.0,True,Rep 1
+A-5003,Los Angeles,34.826,-118.091,Academia,4900.0,False,Rep 2
+A-5004,New York,40.585,-73.503,CGT developer,10600.0,True,Rep 4
+A-5005,Baltimore-DC,38.862,-76.376,CGT developer,1400.0,False,Rep 3
+A-5006,New York,39.483,-75.417,Core facility,1700.0,False,Rep 4
+A-5007,Houston,29.876,-95.974,CGT developer,5300.0,True,Rep 2
+A-5008,Houston,29.398,-95.532,CGT developer,5000.0,True,Rep 2
+A-5009,Minneapolis,44.854,-93.168,CGT developer,4200.0,False,Rep 2
+A-5010,Boston,42.847,-70.825,CRO,3600.0,False,Rep 4
+A-5011,Houston,29.607,-96.828,Pharma,4200.0,False,Rep 2
+A-5012,Boston,42.713,-70.266,Academia,1500.0,False,Rep 4
+A-5013,Boston,42.581,-71.615,Academia,2600.0,False,Rep 4
+A-5014,Boston,42.933,-72.231,Academia,1600.0,False,Rep 4
+A-5015,San Diego,34.003,-116.821,Core facility,6900.0,False,Rep 2
+A-5016,Chicago,41.319,-86.515,Academia,2200.0,False,Rep 3
+A-5017,Minneapolis,44.992,-93.01,Academia,1400.0,False,Rep 2
+A-5018,Boston,42.223,-70.814,Biotech,5600.0,False,Rep 4
+A-5019,Seattle,47.883,-123.136,CGT developer,4600.0,False,Rep 1
+A-5020,Boston,42.973,-70.708,Core facility,3300.0,False,Rep 4
+A-5021,New York,40.737,-73.515,CGT developer,2300.0,True,Rep 4
+A-5022,Ann Arbor,41.981,-82.684,Biotech,3200.0,False,Rep 3
+A-5023,Denver,39.669,-104.207,Biotech,2700.0,False,Rep 2
+A-5024,Boston,43.332,-71.496,CGT developer,9100.0,True,Rep 4
+A-5025,Research Triangle,35.502,-78.802,Biotech,4100.0,False,Rep 3
+A-5026,Boston,42.77,-72.112,Pharma,4800.0,False,Rep 4
+A-5027,Baltimore-DC,39.112,-76.843,Biotech,2400.0,False,Rep 3
+A-5028,Bay Area,36.767,-123.235,Biotech,4000.0,True,Rep 1
+A-5029,Boston,42.279,-71.472,Pharma,4800.0,False,Rep 4
+A-5030,Boston,41.345,-70.736,Academia,3500.0,False,Rep 4
+A-5031,New York,40.757,-74.091,Biotech,7100.0,False,Rep 4
+A-5032,San Diego,31.957,-116.433,Biotech,5300.0,False,Rep 2
+A-5033,Baltimore-DC,38.345,-76.957,Academia,7500.0,True,Rep 3
+A-5034,Baltimore-DC,38.732,-76.347,Academia,2200.0,False,Rep 3
+A-5035,Research Triangle,35.824,-78.815,Academia,1100.0,False,Rep 3
+A-5036,Philadelphia,39.209,-74.496,Academia,1200.0,False,Rep 4
+A-5037,Bay Area,38.021,-121.111,Biotech,8100.0,True,Rep 1
+A-5038,San Diego,33.321,-116.105,Pharma,17300.0,False,Rep 2
+A-5039,Chicago,42.367,-88.472,Academia,1300.0,False,Rep 2
+A-5040,New York,40.786,-74.509,Academia,3500.0,True,Rep 4
+A-5041,Research Triangle,36.562,-78.188,Pharma,4800.0,False,Rep 3
+A-5042,Boston,42.592,-71.587,Academia,6600.0,False,Rep 4
+A-5043,New York,41.443,-74.695,Academia,1100.0,True,Rep 4
+A-5044,Baltimore-DC,39.346,-76.667,Academia,2800.0,False,Rep 3
+A-5045,Chicago,41.366,-86.542,Academia,3000.0,True,Rep 3
+A-5046,Atlanta,33.841,-84.235,CGT developer,2500.0,False,Rep 3
+A-5047,Seattle,48.299,-122.123,Biotech,5200.0,False,Rep 1
+A-5048,Baltimore-DC,39.507,-76.905,Pharma,9900.0,True,Rep 3
+A-5049,Boston,41.91,-71.992,Biotech,4200.0,False,Rep 4
+A-5050,Houston,29.491,-94.761,Biotech,2800.0,False,Rep 2
+A-5051,Research Triangle,35.205,-78.82,Academia,900.0,False,Rep 3
+A-5052,Minneapolis,44.735,-93.702,Pharma,10700.0,True,Rep 2
+A-5053,Bay Area,38.172,-121.834,Academia,1600.0,False,Rep 1
+A-5054,San Diego,33.801,-117.795,Biotech,4400.0,False,Rep 2
+A-5055,Cleveland,41.68,-81.836,CRO,1100.0,False,Rep 3
+A-5056,Ann Arbor,42.093,-84.237,Academia,1200.0,True,Rep 3
+A-5057,Atlanta,34.458,-84.427,Pharma,2800.0,False,Rep 3
+A-5058,Chicago,42.298,-87.991,Biotech,1500.0,False,Rep 2
+A-5059,Philadelphia,40.402,-76.173,Academia,1300.0,False,Rep 3
+A-5060,Bay Area,37.607,-120.824,Core facility,3700.0,False,Rep 1
+A-5061,San Diego,33.347,-117.537,Academia,3100.0,False,Rep 2
+A-5062,Chicago,41.567,-87.413,Biotech,2500.0,False,Rep 3
+A-5063,Los Angeles,33.565,-118.618,Core facility,2400.0,False,Rep 1
+A-5064,Boston,41.255,-71.093,Biotech,2600.0,False,Rep 4
+A-5065,Denver,41.065,-103.921,CGT developer,2800.0,False,Rep 2
+A-5066,Philadelphia,39.383,-75.409,Biotech,4100.0,True,Rep 3
+A-5067,San Diego,32.597,-118.323,Biotech,3500.0,True,Rep 2
+A-5068,Boston,42.276,-70.595,Biotech,6100.0,False,Rep 4
+A-5069,Los Angeles,33.454,-117.836,Biotech,2200.0,False,Rep 2
+A-5070,Boston,42.858,-71.772,Biotech,3400.0,False,Rep 4
+A-5071,New York,40.047,-73.268,Pharma,3400.0,False,Rep 4
+A-5072,Houston,29.881,-95.073,Biotech,4500.0,False,Rep 2
+A-5073,Houston,30.449,-95.23,Academia,2500.0,False,Rep 2
+A-5074,New York,39.621,-74.407,Academia,2300.0,False,Rep 4
+A-5075,Boston,41.236,-72.219,Academia,4000.0,False,Rep 4
+A-5076,Houston,28.575,-95.563,Biotech,1800.0,False,Rep 2
+A-5077,Bay Area,37.671,-121.944,Biotech,5500.0,False,Rep 1
+A-5078,Houston,29.938,-97.186,Academia,2000.0,True,Rep 2
+A-5079,Los Angeles,33.914,-118.603,Pharma,6100.0,False,Rep 1
+A-5080,Minneapolis,44.726,-93.395,Biotech,2500.0,False,Rep 2
+A-5081,Chicago,40.679,-87.12,Academia,1000.0,False,Rep 3
+A-5082,Seattle,46.739,-122.84,Biotech,5400.0,False,Rep 1
+A-5083,Boston,43.611,-71.188,Core facility,2800.0,False,Rep 4
+A-5084,Houston,29.501,-95.016,Biotech,2700.0,False,Rep 2
+A-5085,Philadelphia,39.993,-73.777,Academia,4700.0,False,Rep 4
+A-5086,New York,39.457,-75.227,Academia,900.0,False,Rep 4
+A-5087,Philadelphia,40.35,-74.646,CGT developer,6000.0,False,Rep 4
+A-5088,Philadelphia,39.992,-76.07,Biotech,1500.0,False,Rep 3
+A-5089,Chicago,41.686,-87.733,Pharma,2600.0,False,Rep 2
+A-5090,San Diego,32.736,-117.34,Core facility,2700.0,False,Rep 2
+A-5091,Ann Arbor,42.545,-84.424,CRO,6300.0,True,Rep 3
+A-5092,San Diego,33.334,-117.311,CGT developer,4200.0,False,Rep 2
+A-5093,Seattle,47.249,-121.975,Biotech,2700.0,False,Rep 1
+A-5094,New York,40.757,-74.342,Pharma,3400.0,True,Rep 4
+A-5095,Cleveland,40.824,-80.84,Core facility,1200.0,False,Rep 3
+A-5096,Chicago,42.086,-86.903,Biotech,2300.0,False,Rep 3
+A-5097,Denver,39.598,-106.429,Academia,3400.0,False,Rep 2
+A-5098,Bay Area,36.698,-122.978,Biotech,4000.0,False,Rep 1
+A-5099,Boston,41.862,-71.691,Pharma,16200.0,False,Rep 4
+A-5100,New York,40.65,-73.55,Pharma,5200.0,False,Rep 4
+A-5101,Baltimore-DC,38.91,-76.395,CRO,900.0,False,Rep 3
+A-5102,New York,40.462,-73.847,CRO,4000.0,False,Rep 4
+A-5103,Philadelphia,40.262,-74.079,CGT developer,4500.0,False,Rep 4
+A-5104,Research Triangle,36.141,-78.993,Biotech,2200.0,True,Rep 3
+A-5105,New York,40.147,-75.147,CRO,4300.0,False,Rep 4
+A-5106,San Diego,31.935,-116.307,Academia,2100.0,False,Rep 2
+A-5107,Boston,42.107,-71.857,CGT developer,9500.0,True,Rep 4
+A-5108,San Diego,32.815,-117.935,Academia,1900.0,False,Rep 2
+A-5109,Boston,41.534,-70.918,CGT developer,9300.0,False,Rep 4
+A-5110,Research Triangle,36.397,-78.739,CRO,3700.0,True,Rep 3
+A-5111,Baltimore-DC,38.975,-76.672,Pharma,2800.0,False,Rep 3
+A-5112,Baltimore-DC,39.44,-77.267,Pharma,6200.0,False,Rep 3
+A-5113,Seattle,47.958,-121.083,Biotech,2100.0,False,Rep 1
+A-5114,New York,39.788,-72.193,Pharma,6200.0,False,Rep 4
+A-5115,Research Triangle,35.701,-78.484,Academia,1500.0,True,Rep 3
+A-5116,New York,41.502,-73.739,Academia,2000.0,False,Rep 4
+A-5117,Bay Area,36.406,-122.341,Pharma,12100.0,False,Rep 1
+A-5118,Chicago,42.787,-87.773,CGT developer,5100.0,True,Rep 2
+A-5119,San Diego,32.65,-117.07,CGT developer,5200.0,True,Rep 2
+A-5120,Los Angeles,33.652,-118.693,Biotech,3500.0,False,Rep 1
+A-5121,San Diego,33.986,-117.227,Academia,3200.0,False,Rep 2
+A-5122,Los Angeles,34.511,-118.05,Academia,1800.0,False,Rep 2
+A-5123,Research Triangle,36.123,-77.939,Academia,1700.0,False,Rep 3
+A-5124,Los Angeles,34.08,-118.181,Academia,1300.0,False,Rep 2
+A-5125,Bay Area,36.464,-122.372,Core facility,2700.0,False,Rep 1
+A-5126,Bay Area,37.154,-122.608,Biotech,4900.0,False,Rep 1
+A-5127,Denver,39.46,-104.495,Biotech,2100.0,False,Rep 2
+A-5128,Boston,41.824,-70.918,Academia,5500.0,False,Rep 4
+A-5129,Boston,41.532,-70.417,Academia,2800.0,False,Rep 4
+A-5130,Boston,41.369,-72.173,CGT developer,4300.0,False,Rep 4
+A-5131,San Diego,31.882,-117.751,CRO,2900.0,False,Rep 2
+A-5132,Philadelphia,39.991,-73.923,Biotech,1600.0,False,Rep 4
+A-5133,Cleveland,41.151,-80.969,Biotech,2700.0,False,Rep 3
+A-5134,Chicago,41.786,-87.248,Pharma,7600.0,False,Rep 3
+A-5135,Denver,39.81,-104.625,Biotech,3300.0,True,Rep 2
+A-5136,Research Triangle,35.761,-79.272,Biotech,2200.0,False,Rep 3
+A-5137,Los Angeles,33.471,-118.207,Academia,4300.0,False,Rep 2
+A-5138,Philadelphia,39.35,-76.103,Biotech,2600.0,True,Rep 3
+A-5139,Bay Area,37.256,-123.191,Academia,2500.0,True,Rep 1
+A-5140,Seattle,47.048,-122.512,Academia,1000.0,False,Rep 1
+A-5141,Baltimore-DC,38.177,-76.835,Academia,1100.0,False,Rep 3
+A-5142,Houston,29.445,-95.162,Academia,1100.0,False,Rep 2
+A-5143,Boston,43.056,-69.179,Biotech,3500.0,False,Rep 4
+A-5144,San Diego,32.486,-119.57,Academia,2200.0,False,Rep 2
+A-5145,Bay Area,37.657,-121.563,Pharma,23200.0,True,Rep 1
+A-5146,Boston,42.883,-71.273,Academia,2800.0,False,Rep 4
+A-5147,New York,40.308,-74.428,Biotech,3400.0,True,Rep 4
+A-5148,Bay Area,36.562,-121.895,CRO,8400.0,False,Rep 1
+A-5149,Boston,41.674,-69.289,Core facility,2300.0,True,Rep 4
+A-5150,Atlanta,33.87,-84.33,Academia,2100.0,False,Rep 3
+A-5151,Cleveland,42.127,-82.742,Academia,1400.0,False,Rep 3
+A-5152,Research Triangle,36.256,-79.708,Core facility,1500.0,True,Rep 3
+A-5153,Houston,30.511,-95.077,CGT developer,6500.0,False,Rep 2
+A-5154,Chicago,41.778,-88.025,CGT developer,2800.0,False,Rep 2
+A-5155,Houston,30.326,-96.23,Academia,1000.0,False,Rep 2
+A-5156,Boston,43.026,-70.138,Academia,4400.0,False,Rep 4
+A-5157,Seattle,47.549,-121.388,Biotech,2400.0,True,Rep 1
+A-5158,Bay Area,37.218,-122.055,Biotech,1900.0,False,Rep 1
+A-5159,San Diego,32.639,-117.902,Academia,6000.0,False,Rep 2
+A-5160,Philadelphia,39.953,-75.544,Academia,1300.0,False,Rep 3
+A-5161,Boston,42.28,-71.465,Academia,4000.0,False,Rep 4
+A-5162,Baltimore-DC,40.023,-78.3,Academia,2900.0,False,Rep 3
+A-5163,San Diego,33.878,-115.77,Biotech,2500.0,True,Rep 2
+A-5164,Research Triangle,36.418,-77.691,Biotech,1500.0,True,Rep 3
+A-5165,Atlanta,34.07,-84.755,CRO,4100.0,False,Rep 3
+A-5166,San Diego,32.021,-117.456,Pharma,11400.0,True,Rep 2
+A-5167,Cleveland,42.043,-80.574,CGT developer,5400.0,False,Rep 3
+A-5168,New York,40.191,-74.36,Biotech,2300.0,False,Rep 4
+A-5169,Philadelphia,40.217,-75.476,CGT developer,5300.0,False,Rep 3
+A-5170,Boston,41.694,-70.945,Academia,1600.0,False,Rep 4
+A-5171,Atlanta,34.008,-85.751,Academia,2400.0,False,Rep 3
+A-5172,Ann Arbor,42.207,-82.523,Biotech,2000.0,False,Rep 3
+A-5173,Los Angeles,33.287,-117.65,CRO,2800.0,False,Rep 2
+A-5174,Baltimore-DC,39.51,-77.466,Pharma,16700.0,False,Rep 3
+A-5175,San Diego,31.97,-117.326,Academia,1700.0,True,Rep 2
+A-5176,Ann Arbor,42.798,-83.609,CRO,5800.0,False,Rep 3
+A-5177,Boston,43.226,-71.297,Biotech,12100.0,False,Rep 4
+A-5178,Boston,43.041,-69.719,Academia,2300.0,False,Rep 4
+A-5179,Research Triangle,35.568,-78.273,Academia,4800.0,False,Rep 3
+A-5180,Seattle,46.276,-121.738,Pharma,19600.0,False,Rep 1
+A-5181,Baltimore-DC,38.181,-76.428,Biotech,4000.0,False,Rep 3
+A-5182,Baltimore-DC,39.338,-77.617,Biotech,5600.0,True,Rep 3
+A-5183,Seattle,47.753,-122.458,Academia,1500.0,False,Rep 1
+A-5184,Boston,42.975,-70.549,CRO,5100.0,True,Rep 4
+A-5185,New York,40.559,-75.682,CRO,1500.0,False,Rep 4
+A-5186,Chicago,40.743,-86.762,Biotech,4100.0,True,Rep 3
+A-5187,Philadelphia,39.976,-75.97,Academia,1800.0,False,Rep 3
+A-5188,Cleveland,41.377,-81.872,Biotech,2800.0,False,Rep 3
+A-5189,Boston,42.47,-71.404,Pharma,14600.0,False,Rep 4
+A-5190,Chicago,42.093,-87.464,Academia,1400.0,False,Rep 3
+A-5191,Denver,38.684,-105.83,Biotech,3800.0,False,Rep 2
+A-5192,Los Angeles,34.126,-118.598,Core facility,1000.0,False,Rep 1
+A-5193,Philadelphia,39.926,-73.388,Pharma,3500.0,False,Rep 4
+A-5194,Bay Area,37.488,-122.199,Biotech,3200.0,True,Rep 1
+A-5195,Denver,40.096,-104.672,Biotech,3500.0,False,Rep 2
+A-5196,Cleveland,41.059,-81.305,Pharma,8300.0,True,Rep 3
+A-5197,Denver,39.43,-105.339,CGT developer,1200.0,False,Rep 2
+A-5198,Denver,39.932,-104.324,Academia,2600.0,False,Rep 2
+A-5199,Boston,42.187,-70.456,CRO,5700.0,False,Rep 4
+A-5200,San Diego,33.294,-116.818,Core facility,5800.0,False,Rep 2
+A-5201,Bay Area,37.784,-121.133,Academia,4000.0,False,Rep 1
+A-5202,New York,41.04,-74.374,CGT developer,1900.0,True,Rep 4
+A-5203,Philadelphia,39.407,-74.44,CRO,4000.0,False,Rep 4
+A-5204,Research Triangle,34.937,-79.083,Biotech,3800.0,False,Rep 3
+A-5205,San Diego,32.102,-116.723,Pharma,11000.0,False,Rep 2
+A-5206,New York,40.431,-74.054,Academia,1400.0,False,Rep 4
+A-5207,Atlanta,34.248,-85.035,Biotech,1600.0,False,Rep 3
+A-5208,Bay Area,37.252,-122.372,CGT developer,4600.0,False,Rep 1
+A-5209,Chicago,41.701,-87.567,Pharma,13700.0,False,Rep 3
+A-5210,Boston,42.393,-71.18,Academia,2100.0,True,Rep 4
+A-5211,Boston,42.755,-72.852,CGT developer,9000.0,False,Rep 4
+A-5212,Houston,29.849,-95.771,Academia,3300.0,False,Rep 2
+A-5213,Baltimore-DC,38.266,-75.74,Pharma,3700.0,False,Rep 3
+A-5214,New York,40.017,-74.674,CGT developer,7700.0,True,Rep 4
+A-5215,Philadelphia,39.978,-74.589,Core facility,700.0,False,Rep 4
+A-5216,Bay Area,37.361,-122.265,Academia,4000.0,False,Rep 1
+A-5217,Los Angeles,33.784,-118.119,CRO,6600.0,True,Rep 2
+A-5218,Denver,39.207,-105.242,Biotech,1300.0,False,Rep 2
+A-5219,Boston,42.429,-69.886,Academia,3800.0,False,Rep 4
+A-5220,New York,39.709,-74.285,CRO,2400.0,False,Rep 4
+A-5221,Ann Arbor,42.997,-83.258,CRO,5800.0,False,Rep 3
+A-5222,Boston,42.427,-70.113,Academia,900.0,False,Rep 4
+A-5223,San Diego,33.004,-116.846,Pharma,19400.0,True,Rep 2
+A-5224,Boston,41.745,-71.007,Biotech,6100.0,False,Rep 4
+A-5225,New York,41.289,-74.633,CGT developer,7600.0,False,Rep 4
+A-5226,San Diego,33.049,-117.402,Academia,5400.0,False,Rep 2
+A-5227,Baltimore-DC,38.725,-77.71,Biotech,4100.0,False,Rep 3
+A-5228,San Diego,33.754,-117.094,CRO,5500.0,False,Rep 2
+A-5229,Boston,42.174,-70.742,Pharma,5600.0,False,Rep 4
+A-5230,San Diego,31.395,-116.149,Biotech,2700.0,True,Rep 2
+A-5231,Bay Area,37.084,-121.622,Academia,5800.0,False,Rep 1
+A-5232,Los Angeles,33.515,-118.421,Academia,3900.0,False,Rep 2
+A-5233,Los Angeles,33.722,-117.946,Academia,1500.0,False,Rep 2
+A-5234,San Diego,33.172,-116.962,Academia,2100.0,False,Rep 2
+A-5235,New York,40.733,-73.741,Biotech,2600.0,False,Rep 4
+A-5236,New York,41.673,-73.12,CGT developer,3000.0,False,Rep 4
+A-5237,Chicago,42.433,-87.898,Academia,1700.0,False,Rep 2
+A-5238,Baltimore-DC,39.08,-78.016,CGT developer,5400.0,True,Rep 3
+A-5239,Atlanta,33.327,-83.838,Academia,2400.0,False,Rep 3
+A-5240,Boston,43.072,-71.159,Academia,2100.0,False,Rep 4
+A-5241,Denver,39.322,-105.339,Academia,600.0,False,Rep 2
+A-5242,San Diego,32.596,-116.313,Academia,4100.0,False,Rep 2
+A-5243,Denver,40.193,-104.184,Pharma,10200.0,False,Rep 2
+A-5244,New York,39.912,-73.357,Academia,2100.0,True,Rep 4
+A-5245,Cleveland,41.332,-82.115,Academia,1800.0,False,Rep 3
+A-5246,Minneapolis,45.052,-91.731,Pharma,7900.0,False,Rep 2
+A-5247,Boston,42.153,-70.993,Academia,4700.0,False,Rep 4
+A-5248,Chicago,41.518,-87.357,Biotech,2400.0,False,Rep 3
+A-5249,Atlanta,34.01,-84.926,CGT developer,1300.0,False,Rep 3
+A-5250,Seattle,47.622,-121.756,Academia,2400.0,True,Rep 1
+A-5251,Los Angeles,34.101,-118.836,CRO,3800.0,False,Rep 1
+A-5252,New York,39.921,-72.562,Academia,1800.0,False,Rep 4
+A-5253,Bay Area,37.975,-121.279,Biotech,3800.0,False,Rep 1
+A-5254,Boston,42.209,-70.499,Biotech,3600.0,False,Rep 4
+A-5255,Research Triangle,35.048,-79.878,CRO,2800.0,False,Rep 3
+A-5256,Chicago,42.537,-87.859,Academia,3600.0,False,Rep 2
+A-5257,Bay Area,37.754,-121.335,CRO,2600.0,False,Rep 1
+A-5258,Bay Area,37.31,-121.561,Pharma,11700.0,False,Rep 1
+A-5259,Bay Area,36.234,-121.949,CRO,1500.0,True,Rep 1
+A-5260,Los Angeles,34.282,-118.014,Pharma,3600.0,False,Rep 2
+A-5261,New York,40.508,-74.034,CRO,7300.0,False,Rep 4
+A-5262,Houston,29.325,-96.274,Academia,900.0,False,Rep 2
+A-5263,Los Angeles,34.155,-118.595,CGT developer,4600.0,True,Rep 1
+A-5264,Cleveland,41.57,-82.339,CGT developer,3200.0,True,Rep 3
+A-5265,Houston,29.308,-95.092,Pharma,3500.0,False,Rep 2
+A-5266,Baltimore-DC,39.128,-76.23,Academia,1800.0,False,Rep 3
+A-5267,Bay Area,36.977,-121.223,Pharma,13400.0,False,Rep 1
+A-5268,Bay Area,37.117,-120.719,Academia,3100.0,True,Rep 1
+A-5269,New York,40.655,-73.478,Biotech,5900.0,False,Rep 4
+A-5270,Research Triangle,36.896,-79.008,Academia,2000.0,False,Rep 3
+A-5271,Philadelphia,40.021,-75.013,Biotech,2900.0,False,Rep 3
+A-5272,Bay Area,37.568,-122.866,Academia,1600.0,False,Rep 1
+A-5273,Philadelphia,39.958,-74.847,Core facility,1500.0,False,Rep 3
+A-5274,Chicago,41.899,-87.83,CGT developer,16500.0,False,Rep 2
+A-5275,New York,40.15,-74.179,Academia,1500.0,False,Rep 4
+A-5276,Atlanta,33.516,-84.795,Pharma,3100.0,False,Rep 3
+A-5277,San Diego,32.722,-117.539,CRO,2400.0,False,Rep 2
+A-5278,Bay Area,37.434,-123.818,Academia,4800.0,False,Rep 1
+A-5279,Philadelphia,40.429,-74.676,CRO,2600.0,False,Rep 3
+A-5280,Cleveland,41.449,-80.901,Academia,800.0,False,Rep 3
+A-5281,Baltimore-DC,39.383,-77.986,CRO,5000.0,True,Rep 3
+A-5282,Los Angeles,34.335,-116.91,Biotech,3000.0,True,Rep 2
+A-5283,Bay Area,38.017,-122.123,Academia,4900.0,True,Rep 1
+A-5284,Philadelphia,39.308,-74.635,CGT developer,3800.0,False,Rep 4
+A-5285,Baltimore-DC,38.148,-77.724,Pharma,2800.0,False,Rep 3
+A-5286,Bay Area,37.433,-122.25,Academia,2800.0,False,Rep 1
+A-5287,Baltimore-DC,38.251,-75.502,CRO,3600.0,False,Rep 3
+A-5288,Chicago,42.346,-90.006,Biotech,3600.0,False,Rep 2
+A-5289,Research Triangle,35.705,-79.591,Pharma,8200.0,False,Rep 3
+A-5290,Atlanta,34.012,-85.05,CRO,3600.0,False,Rep 3
+A-5291,Boston,41.224,-71.274,Academia,2900.0,True,Rep 4
+A-5292,Seattle,47.995,-121.472,Academia,1300.0,False,Rep 1
+A-5293,Philadelphia,39.191,-75.345,Core facility,900.0,True,Rep 3
+A-5294,Cleveland,40.808,-81.847,Academia,1000.0,False,Rep 3
+A-5295,Boston,42.613,-70.714,Academia,2800.0,False,Rep 4
+A-5296,Denver,40.497,-104.409,Core facility,1000.0,True,Rep 2
+A-5297,San Diego,32.591,-117.251,Academia,5700.0,False,Rep 2
+A-5298,Los Angeles,33.705,-117.932,CGT developer,4700.0,False,Rep 2
+A-5299,Los Angeles,35.048,-118.019,Academia,2500.0,False,Rep 2
+A-5300,Baltimore-DC,39.375,-77.75,Biotech,2800.0,False,Rep 3
+A-5301,Chicago,41.319,-88.274,CRO,6200.0,False,Rep 2
+A-5302,New York,41.151,-73.644,Core facility,2100.0,False,Rep 4
+A-5303,Atlanta,33.891,-83.781,Academia,2600.0,False,Rep 3
+A-5304,Philadelphia,41.115,-75.062,Academia,2200.0,True,Rep 3
+A-5305,Baltimore-DC,37.788,-76.061,CRO,2300.0,False,Rep 3
+A-5306,Boston,42.215,-71.073,Academia,2300.0,False,Rep 4
+A-5307,Boston,42.73,-70.391,CRO,7600.0,False,Rep 4
+A-5308,San Diego,33.366,-117.44,Core facility,2900.0,False,Rep 2
+A-5309,Bay Area,38.404,-122.136,Core facility,3900.0,True,Rep 1
+A-5310,Boston,41.62,-70.306,Biotech,4500.0,False,Rep 4
+A-5311,Houston,29.862,-95.681,CGT developer,2900.0,False,Rep 2
+A-5312,San Diego,32.338,-115.977,Academia,2600.0,False,Rep 2
+A-5313,Bay Area,37.609,-121.119,Pharma,20700.0,False,Rep 1
+A-5314,Baltimore-DC,39.392,-75.162,Pharma,20100.0,False,Rep 3
+A-5315,Bay Area,36.356,-121.376,CGT developer,8900.0,False,Rep 1
+A-5316,Baltimore-DC,38.779,-77.315,Academia,4200.0,False,Rep 3
+A-5317,Boston,42.049,-72.491,CRO,6200.0,False,Rep 4
+A-5318,Seattle,47.708,-122.915,Academia,1700.0,False,Rep 1
+A-5319,New York,40.394,-74.183,CRO,3800.0,True,Rep 4
+A-5320,Baltimore-DC,38.733,-77.551,CRO,6200.0,False,Rep 3
+A-5321,Baltimore-DC,39.115,-77.951,Academia,6500.0,True,Rep 3
+A-5322,Boston,42.737,-71.046,Biotech,9400.0,False,Rep 4
+A-5323,Boston,41.57,-71.151,Biotech,5500.0,False,Rep 4
+A-5324,Bay Area,38.044,-122.932,Biotech,6000.0,False,Rep 1
+A-5325,Boston,42.23,-69.613,Pharma,21200.0,False,Rep 4
+A-5326,Cleveland,41.222,-81.624,Biotech,3400.0,False,Rep 3
+A-5327,Baltimore-DC,38.578,-78.276,Academia,2300.0,False,Rep 3
+A-5328,Bay Area,37.736,-122.434,CGT developer,21800.0,False,Rep 1
+A-5329,Boston,41.855,-70.889,Biotech,4200.0,False,Rep 4
+A-5330,Bay Area,36.748,-122.266,Pharma,9800.0,False,Rep 1
+A-5331,San Diego,32.337,-118.028,Pharma,11800.0,False,Rep 2
+A-5332,Bay Area,37.697,-123.439,CGT developer,6800.0,False,Rep 1
+A-5333,Houston,29.565,-95.555,Academia,900.0,False,Rep 2
+A-5334,Seattle,48.745,-121.941,Academia,2000.0,False,Rep 1
+A-5335,New York,40.798,-75.067,Biotech,2800.0,False,Rep 4
+A-5336,Boston,42.166,-71.053,Biotech,3000.0,False,Rep 4
+A-5337,San Diego,33.179,-118.074,CRO,2900.0,False,Rep 2
+A-5338,Seattle,47.19,-123.071,Biotech,8900.0,False,Rep 1
+A-5339,Philadelphia,39.758,-74.205,Pharma,4300.0,False,Rep 4
+A-5340,New York,40.99,-74.283,Academia,2700.0,False,Rep 4
+A-5341,Chicago,43.197,-88.0,Academia,2000.0,True,Rep 2
+A-5342,Philadelphia,40.557,-75.444,Core facility,1100.0,False,Rep 3
+A-5343,Philadelphia,38.912,-75.608,Biotech,2100.0,False,Rep 3
+A-5344,San Diego,33.203,-118.028,Core facility,5800.0,False,Rep 2
+A-5345,Seattle,47.169,-122.806,Biotech,1700.0,True,Rep 1
+A-5346,Denver,40.368,-104.737,Academia,1500.0,False,Rep 2
+A-5347,Atlanta,33.338,-83.252,Academia,500.0,False,Rep 3
+A-5348,San Diego,32.74,-117.82,Biotech,4100.0,True,Rep 2
+A-5349,Boston,42.004,-71.18,Academia,2200.0,False,Rep 4
+A-5350,Chicago,41.621,-87.722,Academia,1800.0,True,Rep 2
+A-5351,Denver,40.116,-104.7,Academia,1500.0,False,Rep 2
+A-5352,Research Triangle,34.682,-79.396,CGT developer,5200.0,False,Rep 3
+A-5353,Research Triangle,35.294,-79.789,Pharma,3900.0,False,Rep 3
+A-5354,Los Angeles,34.526,-117.829,Biotech,3700.0,False,Rep 2
+A-5355,Bay Area,37.574,-122.404,Pharma,9100.0,True,Rep 1
+A-5356,Cleveland,41.141,-82.209,Academia,1000.0,False,Rep 3
+A-5357,Boston,41.795,-70.89,Biotech,10800.0,False,Rep 4
+A-5358,Bay Area,36.381,-122.982,Pharma,6000.0,False,Rep 1
+A-5359,Philadelphia,40.119,-74.679,CGT developer,8200.0,False,Rep 3
+A-5360,Cleveland,40.98,-82.102,CRO,1700.0,False,Rep 3
+A-5361,Philadelphia,40.456,-76.619,CGT developer,2500.0,True,Rep 3
+A-5362,Baltimore-DC,37.885,-77.87,Biotech,3600.0,False,Rep 3
+A-5363,Bay Area,36.782,-122.484,Biotech,4400.0,False,Rep 1
+A-5364,Bay Area,37.729,-122.112,Biotech,5000.0,False,Rep 1
+A-5365,Seattle,47.505,-122.62,Academia,4500.0,True,Rep 1
+A-5366,New York,40.517,-73.346,Core facility,1600.0,True,Rep 4
+A-5367,Bay Area,37.51,-122.116,Biotech,4200.0,False,Rep 1
+A-5368,Los Angeles,33.88,-118.938,Biotech,2700.0,True,Rep 1
+A-5369,Bay Area,37.245,-122.028,CGT developer,11000.0,True,Rep 1
+A-5370,Atlanta,33.582,-83.971,Academia,5200.0,True,Rep 3
+A-5371,Minneapolis,44.93,-92.803,CGT developer,2300.0,True,Rep 2
+A-5372,Seattle,47.997,-122.661,CRO,3900.0,False,Rep 1
+A-5373,Baltimore-DC,39.303,-77.691,Academia,2700.0,True,Rep 3
+A-5374,Boston,42.538,-70.686,Pharma,25000.0,False,Rep 4
+A-5375,New York,41.189,-73.305,Biotech,4000.0,False,Rep 4
+A-5376,Bay Area,36.57,-120.679,Pharma,10000.0,False,Rep 1
+A-5377,Boston,42.401,-71.212,Academia,2200.0,False,Rep 4
+A-5378,New York,40.107,-73.199,Biotech,6500.0,False,Rep 4
+A-5379,Seattle,48.144,-122.508,Academia,4300.0,False,Rep 1
+A-5380,Minneapolis,45.822,-93.571,Core facility,1100.0,False,Rep 2
+A-5381,Boston,42.784,-71.27,CRO,5600.0,False,Rep 4
+A-5382,San Diego,31.972,-117.254,CGT developer,6100.0,False,Rep 2
+A-5383,Boston,42.108,-71.399,Biotech,3200.0,False,Rep 4
+A-5384,San Diego,33.225,-117.753,Academia,3800.0,False,Rep 2
+A-5385,New York,41.361,-73.225,Academia,3400.0,True,Rep 4
+A-5386,Minneapolis,45.263,-92.442,Academia,1600.0,False,Rep 2
+A-5387,Philadelphia,39.0,-75.559,Academia,1000.0,False,Rep 3
+A-5388,Denver,40.419,-104.926,Academia,800.0,False,Rep 2
+A-5389,Minneapolis,44.873,-93.489,CGT developer,1700.0,False,Rep 2
+A-5390,Atlanta,34.143,-83.651,Pharma,5500.0,False,Rep 3
+A-5391,Bay Area,37.789,-121.478,Core facility,3900.0,False,Rep 1
+A-5392,Los Angeles,34.528,-118.481,Academia,1800.0,True,Rep 2
+A-5393,Boston,43.308,-72.524,Academia,2100.0,False,Rep 4
+A-5394,Denver,40.182,-105.961,Pharma,3200.0,False,Rep 2
+A-5395,Los Angeles,33.245,-117.911,Academia,1700.0,False,Rep 2
+A-5396,Cleveland,41.061,-80.611,Academia,2300.0,False,Rep 3
+A-5397,New York,41.468,-73.833,Academia,1800.0,False,Rep 4
+A-5398,Denver,40.626,-104.564,CRO,1500.0,False,Rep 2
+A-5399,Atlanta,33.43,-84.236,Academia,1400.0,True,Rep 3
+A-5400,San Diego,32.147,-117.478,Academia,2300.0,False,Rep 2
+A-5401,Boston,42.294,-69.889,Academia,3300.0,False,Rep 4
+A-5402,Boston,43.203,-69.021,Academia,2700.0,False,Rep 4
+A-5403,Chicago,42.213,-87.625,CRO,1600.0,False,Rep 3
+A-5404,Seattle,47.279,-122.749,Academia,2300.0,False,Rep 1
+A-5405,Denver,39.206,-104.819,Core facility,1200.0,False,Rep 2
+A-5406,Ann Arbor,42.686,-84.795,Academia,2000.0,True,Rep 3
+A-5407,Baltimore-DC,39.389,-77.851,Academia,2200.0,False,Rep 3
+A-5408,Boston,42.709,-70.173,Pharma,15100.0,False,Rep 4
+A-5409,Bay Area,37.043,-122.536,Biotech,6000.0,True,Rep 1
+A-5410,San Diego,32.966,-116.847,Core facility,4000.0,False,Rep 2
+A-5411,Boston,42.926,-71.41,Biotech,3200.0,False,Rep 4
+A-5412,Boston,41.401,-71.199,CGT developer,8300.0,True,Rep 4
+A-5413,New York,41.789,-74.535,Academia,1900.0,True,Rep 4
+A-5414,Chicago,42.16,-87.504,CRO,4100.0,False,Rep 3
+A-5415,Atlanta,33.201,-86.606,Academia,1900.0,False,Rep 3
+A-5416,Philadelphia,39.526,-75.334,Academia,2500.0,False,Rep 3
+A-5417,Denver,39.435,-104.622,Pharma,3500.0,False,Rep 2
+A-5418,Denver,39.641,-104.412,CRO,6300.0,True,Rep 2
+A-5419,Philadelphia,38.696,-74.937,Academia,2900.0,False,Rep 3
+A-5420,San Diego,33.03,-117.169,Academia,1500.0,False,Rep 2
+A-5421,Bay Area,37.392,-121.96,Pharma,9100.0,False,Rep 1
+A-5422,Boston,41.902,-71.319,CRO,6300.0,False,Rep 4
+A-5423,Bay Area,37.959,-122.619,Academia,1800.0,False,Rep 1
+A-5424,Baltimore-DC,39.026,-75.897,Biotech,2900.0,True,Rep 3
+A-5425,San Diego,32.01,-116.495,Biotech,2800.0,False,Rep 2
+A-5426,Seattle,47.85,-123.956,Pharma,7300.0,False,Rep 1
+A-5427,Seattle,48.386,-122.808,Academia,2300.0,True,Rep 1
+A-5428,Cleveland,41.414,-81.322,CGT developer,7600.0,False,Rep 3
+A-5429,Atlanta,33.752,-84.361,Academia,800.0,True,Rep 3
+A-5430,Seattle,47.634,-122.117,CGT developer,9200.0,False,Rep 1
+A-5431,Chicago,41.297,-87.142,Biotech,2800.0,True,Rep 3
+A-5432,Boston,42.423,-71.802,Biotech,7500.0,False,Rep 4
+A-5433,Atlanta,32.799,-84.31,Core facility,1500.0,False,Rep 3
+A-5434,Baltimore-DC,38.156,-77.158,CGT developer,2600.0,False,Rep 3
+A-5435,Boston,41.799,-72.089,CRO,10200.0,True,Rep 4
+A-5436,Baltimore-DC,39.182,-77.749,CRO,7300.0,False,Rep 3
+A-5437,San Diego,33.014,-116.956,Academia,3200.0,False,Rep 2
+A-5438,Atlanta,33.915,-84.831,Core facility,1400.0,True,Rep 3
+A-5439,New York,40.727,-72.654,Core facility,1300.0,False,Rep 4
+A-5440,Los Angeles,33.666,-119.026,Core facility,1500.0,False,Rep 1
+A-5441,Seattle,47.652,-122.625,Academia,6600.0,False,Rep 1
+A-5442,Research Triangle,35.183,-80.035,CGT developer,3000.0,False,Rep 3
+A-5443,San Diego,32.253,-117.252,Biotech,2500.0,False,Rep 2
+A-5444,Los Angeles,32.915,-118.285,Pharma,2700.0,False,Rep 2
+A-5445,Los Angeles,34.159,-119.934,Pharma,5200.0,False,Rep 1
+A-5446,Bay Area,38.227,-121.101,Pharma,14200.0,False,Rep 1
+A-5447,Cleveland,41.374,-82.458,Academia,1200.0,False,Rep 3
+A-5448,Bay Area,36.65,-122.597,Biotech,7000.0,True,Rep 1
+A-5449,Seattle,47.967,-122.032,CGT developer,4600.0,False,Rep 1
+A-5450,Chicago,41.072,-88.0,Academia,2200.0,False,Rep 2
+A-5451,Seattle,47.217,-121.266,CRO,7400.0,False,Rep 1
+A-5452,San Diego,32.719,-116.244,Biotech,5100.0,True,Rep 2
+A-5453,Ann Arbor,41.063,-82.843,Biotech,2200.0,False,Rep 3
+A-5454,San Diego,33.689,-117.726,Academia,3300.0,False,Rep 2
+A-5455,Atlanta,32.722,-83.612,Biotech,2300.0,True,Rep 3
+A-5456,Boston,41.96,-71.728,Pharma,7900.0,False,Rep 4
+A-5457,Denver,39.106,-104.605,Academia,700.0,False,Rep 2
+A-5458,Chicago,41.808,-88.286,CGT developer,7100.0,True,Rep 2
+A-5459,Baltimore-DC,38.813,-77.451,Academia,1000.0,False,Rep 3
+A-5460,Minneapolis,45.968,-95.021,Core facility,1700.0,False,Rep 2
+A-5461,San Diego,32.413,-118.264,Academia,3200.0,False,Rep 2
+A-5462,Philadelphia,39.941,-76.552,Pharma,3500.0,False,Rep 3
+A-5463,Baltimore-DC,39.279,-78.196,Academia,3300.0,False,Rep 3
+A-5464,Denver,40.246,-104.552,CGT developer,5700.0,False,Rep 2
+A-5465,Chicago,42.153,-88.408,CGT developer,5300.0,True,Rep 2
+A-5466,Bay Area,37.728,-121.823,CRO,13100.0,True,Rep 1
+A-5467,Houston,30.081,-95.374,CGT developer,4700.0,True,Rep 2
+A-5468,Boston,42.807,-69.563,Biotech,2500.0,True,Rep 4
+A-5469,Denver,39.553,-105.144,Core facility,700.0,False,Rep 2
+A-5470,Atlanta,33.722,-84.975,CGT developer,2100.0,False,Rep 3
+A-5471,Los Angeles,34.164,-118.291,Academia,3100.0,False,Rep 2
+A-5472,San Diego,32.031,-117.003,Core facility,2000.0,False,Rep 2
+A-5473,Boston,42.365,-71.082,Biotech,6900.0,True,Rep 4
+A-5474,San Diego,33.105,-117.458,Pharma,16400.0,False,Rep 2
+A-5475,Philadelphia,40.259,-74.516,Biotech,2300.0,False,Rep 4
+A-5476,New York,40.565,-74.39,Academia,4500.0,False,Rep 4
+A-5477,San Diego,32.276,-118.345,Biotech,4100.0,False,Rep 2
+A-5478,San Diego,32.211,-115.915,CGT developer,7800.0,False,Rep 2
+A-5479,Ann Arbor,41.983,-83.845,Academia,1000.0,False,Rep 3
+A-5480,Bay Area,36.956,-122.954,Biotech,6500.0,True,Rep 1
+A-5481,Boston,41.661,-71.829,Academia,2400.0,False,Rep 4
+A-5482,Boston,42.604,-72.214,Biotech,4500.0,False,Rep 4
+A-5483,Seattle,47.518,-121.96,Core facility,1300.0,False,Rep 1
+A-5484,Bay Area,37.598,-122.258,Academia,5500.0,False,Rep 1
+A-5485,Atlanta,34.363,-84.693,CRO,1700.0,False,Rep 3
+A-5486,Seattle,48.134,-121.767,Academia,1100.0,False,Rep 1
+A-5487,Philadelphia,39.751,-75.044,Pharma,5900.0,False,Rep 3
+A-5488,Chicago,42.995,-87.711,Core facility,1400.0,False,Rep 2
+A-5489,Baltimore-DC,39.226,-75.742,CRO,2900.0,False,Rep 3
+A-5490,Chicago,42.464,-87.021,CRO,3000.0,False,Rep 3
+A-5491,Bay Area,36.908,-121.918,CRO,6500.0,True,Rep 1
+A-5492,San Diego,32.654,-117.143,Biotech,2800.0,True,Rep 2
+A-5493,Cleveland,41.15,-80.676,CRO,5400.0,False,Rep 3
+A-5494,Bay Area,38.04,-122.709,Biotech,1800.0,False,Rep 1
+A-5495,Chicago,42.827,-88.415,Core facility,1200.0,False,Rep 2
+A-5496,Cleveland,42.135,-81.129,Academia,2200.0,False,Rep 3
+A-5497,Seattle,48.948,-122.623,Core facility,2000.0,False,Rep 1
+A-5498,Baltimore-DC,37.492,-77.734,Academia,800.0,True,Rep 3
+A-5499,Denver,39.612,-105.212,CGT developer,4500.0,False,Rep 2
+A-5500,San Diego,31.964,-116.805,Academia,2400.0,False,Rep 2
+A-5501,Philadelphia,40.059,-75.954,Biotech,4900.0,False,Rep 3
+A-5502,Los Angeles,33.824,-118.03,Biotech,8600.0,False,Rep 2
+A-5503,Chicago,41.176,-87.869,Academia,1600.0,False,Rep 2
+A-5504,San Diego,31.807,-117.632,Biotech,4000.0,False,Rep 2
+A-5505,Boston,42.668,-69.262,Academia,3200.0,False,Rep 4
+A-5506,Philadelphia,39.841,-74.975,Academia,2200.0,True,Rep 3
+A-5507,Houston,30.641,-96.269,CGT developer,5600.0,False,Rep 2
+A-5508,San Diego,32.215,-115.858,Academia,1500.0,False,Rep 2
+A-5509,Cleveland,41.42,-82.292,Biotech,1400.0,False,Rep 3
+A-5510,Houston,29.679,-95.315,Academia,3100.0,True,Rep 2
+A-5511,Boston,42.027,-71.95,Academia,6300.0,False,Rep 4
+A-5512,Minneapolis,44.772,-92.65,Academia,2200.0,False,Rep 2
+A-5513,Atlanta,33.631,-85.326,Academia,500.0,True,Rep 3
+A-5514,Bay Area,37.039,-122.175,Biotech,11800.0,False,Rep 1
+A-5515,Bay Area,38.449,-122.23,Pharma,14600.0,False,Rep 1
+A-5516,Bay Area,37.399,-122.753,CRO,8300.0,False,Rep 1
+A-5517,Research Triangle,36.074,-77.774,Academia,1400.0,False,Rep 3
+A-5518,Bay Area,37.638,-123.377,Academia,1500.0,True,Rep 1
+A-5519,Bay Area,36.301,-121.749,Academia,5400.0,True,Rep 1
+A-5520,Boston,41.694,-72.087,Core facility,3400.0,False,Rep 4
+A-5521,Boston,42.399,-70.289,Biotech,6000.0,False,Rep 4
+A-5522,Denver,39.891,-104.233,Academia,2400.0,False,Rep 2
+A-5523,New York,39.681,-74.658,Academia,3100.0,False,Rep 4
+A-5524,Baltimore-DC,39.055,-76.93,Academia,2600.0,True,Rep 3
+A-5525,Minneapolis,45.228,-92.118,CRO,2000.0,False,Rep 2
+A-5526,San Diego,32.923,-116.669,Biotech,5200.0,False,Rep 2
+A-5527,Minneapolis,44.957,-94.193,Biotech,3200.0,False,Rep 2
+A-5528,San Diego,33.161,-118.003,Pharma,10200.0,False,Rep 2
+A-5529,Bay Area,37.954,-122.962,Academia,9100.0,False,Rep 1
+A-5530,Houston,29.784,-95.489,Core facility,2100.0,False,Rep 2
+A-5531,Boston,42.08,-70.593,Academia,1100.0,True,Rep 4
+A-5532,New York,41.38,-73.477,Academia,1600.0,True,Rep 4
+A-5533,Boston,41.975,-70.035,Academia,2600.0,False,Rep 4
+A-5534,Seattle,47.526,-122.475,Biotech,2700.0,False,Rep 1
+A-5535,New York,41.716,-74.655,Academia,700.0,False,Rep 4
+A-5536,Atlanta,33.824,-85.659,Biotech,3900.0,False,Rep 3
+A-5537,Los Angeles,34.23,-117.367,Pharma,10800.0,False,Rep 2
+A-5538,San Diego,32.231,-117.885,Pharma,5600.0,False,Rep 2
+A-5539,Seattle,46.614,-122.985,Biotech,1700.0,True,Rep 1
+A-5540,Boston,42.351,-70.994,Academia,4500.0,False,Rep 4
+A-5541,Boston,43.095,-70.268,Biotech,9800.0,False,Rep 4
+A-5542,Research Triangle,35.958,-78.517,Academia,2300.0,False,Rep 3
+A-5543,Ann Arbor,42.193,-84.348,CGT developer,1800.0,True,Rep 3
+A-5544,Chicago,41.584,-86.137,Academia,1600.0,False,Rep 3
+A-5545,Baltimore-DC,39.378,-76.565,Academia,1600.0,False,Rep 3
+A-5546,Baltimore-DC,38.554,-78.011,Pharma,11800.0,False,Rep 3
+A-5547,Boston,42.083,-70.817,Biotech,6100.0,False,Rep 4
+A-5548,Los Angeles,34.083,-118.778,Pharma,16400.0,False,Rep 1
+A-5549,Research Triangle,36.238,-80.393,CGT developer,1000.0,False,Rep 3
+A-5550,Baltimore-DC,38.949,-77.532,Pharma,6000.0,False,Rep 3
+A-5551,Chicago,42.053,-87.08,Pharma,5100.0,False,Rep 3
+A-5552,Philadelphia,39.346,-75.033,Academia,4300.0,False,Rep 3
+A-5553,New York,40.186,-73.645,CGT developer,2800.0,True,Rep 4
+A-5554,Chicago,41.481,-87.284,Academia,1300.0,False,Rep 3
+A-5555,Philadelphia,39.392,-74.58,Academia,3500.0,True,Rep 4
+A-5556,Bay Area,36.405,-122.596,Academia,2000.0,False,Rep 1
+A-5557,Philadelphia,38.36,-76.004,Academia,2900.0,False,Rep 3
+A-5558,New York,40.531,-74.067,Biotech,3500.0,False,Rep 4
+A-5559,Minneapolis,44.845,-92.346,Pharma,3700.0,False,Rep 2
+A-5560,Chicago,40.491,-87.287,Academia,1600.0,False,Rep 3
+A-5561,Los Angeles,33.721,-118.267,Biotech,4200.0,False,Rep 2
+A-5562,Boston,42.395,-70.501,Core facility,1700.0,False,Rep 4
+A-5563,Chicago,41.33,-87.49,Pharma,4400.0,False,Rep 3
+A-5564,Philadelphia,39.436,-73.811,Pharma,6100.0,False,Rep 4
+A-5565,New York,40.713,-72.956,CRO,5800.0,False,Rep 4
+A-5566,New York,39.317,-72.476,Biotech,4100.0,False,Rep 4
+A-5567,Houston,30.344,-95.148,Academia,1200.0,False,Rep 2
+A-5568,Minneapolis,44.846,-92.975,Pharma,6800.0,False,Rep 2
+A-5569,Houston,28.81,-95.55,Core facility,400.0,False,Rep 2
+A-5570,Bay Area,37.816,-122.591,Core facility,5100.0,False,Rep 1
+A-5571,Boston,42.619,-71.292,Biotech,4800.0,False,Rep 4
+A-5572,Ann Arbor,42.195,-83.103,Pharma,13000.0,False,Rep 3
+A-5573,Boston,42.385,-71.873,Academia,4500.0,False,Rep 4
+A-5574,Boston,41.43,-72.479,Academia,1900.0,False,Rep 4
+A-5575,Boston,43.264,-70.239,Academia,1800.0,False,Rep 4
+A-5576,Boston,42.415,-70.49,CRO,1800.0,False,Rep 4
+A-5577,Boston,42.413,-71.021,CRO,5200.0,False,Rep 4
+A-5578,Houston,28.849,-95.404,Pharma,7600.0,False,Rep 2
+A-5579,Baltimore-DC,38.386,-76.956,Academia,1100.0,False,Rep 3
+A-5580,Bay Area,38.101,-121.876,Academia,2400.0,False,Rep 1
+A-5581,Bay Area,37.37,-121.224,CRO,5400.0,True,Rep 1
+A-5582,Bay Area,36.938,-122.076,CGT developer,3600.0,True,Rep 1
+A-5583,Cleveland,41.17,-81.203,Academia,1400.0,True,Rep 3
+A-5584,Minneapolis,45.076,-94.179,CGT developer,2800.0,False,Rep 2
+A-5585,Bay Area,37.642,-122.563,Biotech,6100.0,True,Rep 1
+A-5586,Atlanta,33.765,-87.338,Academia,1100.0,True,Rep 3
+A-5587,Baltimore-DC,38.994,-76.292,Academia,2800.0,True,Rep 3
+A-5588,Ann Arbor,41.845,-84.489,Academia,1600.0,True,Rep 3
+A-5589,New York,41.047,-74.649,Academia,1100.0,False,Rep 4
+A-5590,Bay Area,37.526,-122.819,Biotech,9800.0,False,Rep 1
+A-5591,Boston,42.135,-70.346,Academia,4500.0,False,Rep 4
+A-5592,Bay Area,38.707,-121.832,Biotech,6800.0,False,Rep 1
+A-5593,Houston,29.206,-96.683,Academia,2500.0,False,Rep 2
+A-5594,Chicago,40.811,-87.992,Academia,5900.0,False,Rep 2
+A-5595,Philadelphia,39.567,-75.764,Academia,2600.0,False,Rep 3
+A-5596,New York,41.339,-73.42,Biotech,6700.0,False,Rep 4
+A-5597,Houston,29.646,-95.037,Academia,2200.0,False,Rep 2
+A-5598,Atlanta,33.152,-84.983,Biotech,2000.0,True,Rep 3
+A-5599,Research Triangle,35.23,-78.793,Academia,2000.0,False,Rep 3
+A-5600,Baltimore-DC,39.752,-77.654,Academia,2900.0,False,Rep 3
+A-5601,Boston,41.489,-71.079,Academia,3100.0,False,Rep 4
+A-5602,Cleveland,41.597,-82.027,CGT developer,9600.0,True,Rep 3
+A-5603,Minneapolis,45.046,-93.278,Core facility,600.0,False,Rep 2
+A-5604,Bay Area,37.422,-122.359,Academia,3300.0,True,Rep 1
+A-5605,Research Triangle,36.635,-78.215,Academia,2500.0,False,Rep 3
+A-5606,Boston,43.153,-70.632,Academia,5900.0,False,Rep 4
+A-5607,Research Triangle,35.279,-79.193,Biotech,4000.0,False,Rep 3
+A-5608,Bay Area,38.132,-120.934,CGT developer,5000.0,False,Rep 1
+A-5609,Boston,41.247,-70.504,Core facility,2300.0,False,Rep 4
+A-5610,Cleveland,41.685,-80.676,Academia,1600.0,False,Rep 3
+A-5611,New York,41.41,-73.981,Pharma,6400.0,False,Rep 4
+A-5612,Seattle,47.299,-122.261,Biotech,5800.0,False,Rep 1
+A-5613,Bay Area,38.043,-123.699,Core facility,3600.0,False,Rep 1
+A-5614,Seattle,47.843,-121.662,Pharma,7400.0,False,Rep 1
+A-5615,Boston,42.721,-69.569,Biotech,5400.0,False,Rep 4
+A-5616,Boston,43.102,-71.124,CGT developer,9900.0,False,Rep 4
+A-5617,Denver,39.349,-105.732,Academia,1000.0,False,Rep 2
+A-5618,Boston,41.762,-71.126,Academia,2100.0,False,Rep 4
+A-5619,San Diego,32.58,-115.146,Academia,2000.0,False,Rep 2
+A-5620,Bay Area,37.745,-122.407,CGT developer,4600.0,False,Rep 1
+A-5621,Cleveland,41.777,-80.945,Pharma,4700.0,False,Rep 3
+A-5622,New York,40.567,-73.729,Academia,6700.0,True,Rep 4
+A-5623,Ann Arbor,41.883,-84.007,Pharma,5700.0,False,Rep 3
+A-5624,Denver,39.728,-105.031,Academia,1400.0,False,Rep 2
+A-5625,Denver,39.547,-105.834,Core facility,1000.0,False,Rep 2
+A-5626,Research Triangle,36.203,-79.007,Academia,1300.0,False,Rep 3
+A-5627,Bay Area,38.005,-123.193,Biotech,6000.0,False,Rep 1
+A-5628,Chicago,41.375,-87.134,Biotech,3500.0,False,Rep 3
+A-5629,Houston,29.034,-95.394,Biotech,2600.0,False,Rep 2
+A-5630,Philadelphia,40.445,-75.041,Academia,1600.0,True,Rep 3
+A-5631,Bay Area,37.809,-122.811,Academia,1900.0,False,Rep 1
+A-5632,Philadelphia,40.173,-75.188,CGT developer,9900.0,False,Rep 3
+A-5633,San Diego,33.217,-116.184,Pharma,6600.0,False,Rep 2
+A-5634,Atlanta,34.629,-83.777,Academia,5300.0,False,Rep 3
+A-5635,New York,40.827,-74.11,Pharma,10700.0,False,Rep 4
+A-5636,New York,40.217,-73.33,CGT developer,6500.0,False,Rep 4
+A-5637,Research Triangle,36.378,-78.145,CRO,2200.0,True,Rep 3
+A-5638,Seattle,47.485,-122.047,Academia,3000.0,False,Rep 1
+A-5639,New York,40.221,-73.71,Academia,1600.0,False,Rep 4
+A-5640,Seattle,47.231,-123.155,Biotech,3000.0,False,Rep 1
+A-5641,Bay Area,37.025,-122.445,Academia,2400.0,False,Rep 1
+A-5642,San Diego,32.136,-117.683,Academia,1800.0,False,Rep 2
+A-5643,Chicago,41.093,-86.585,Biotech,5300.0,False,Rep 3
+A-5644,Research Triangle,35.85,-78.255,Biotech,2500.0,True,Rep 3
+A-5645,Chicago,41.956,-88.003,Biotech,3300.0,False,Rep 2
+A-5646,Seattle,47.117,-122.12,Academia,900.0,False,Rep 1
+A-5647,Bay Area,38.196,-121.563,Biotech,3100.0,True,Rep 1
+A-5648,San Diego,32.372,-117.301,Academia,2200.0,True,Rep 2
+A-5649,Research Triangle,36.346,-78.982,Core facility,1700.0,False,Rep 3
+A-5650,New York,40.601,-72.621,Academia,2200.0,False,Rep 4
+A-5651,Boston,42.833,-71.774,Core facility,5000.0,False,Rep 4
+A-5652,Chicago,41.815,-87.15,Pharma,14100.0,False,Rep 3
+A-5653,San Diego,33.109,-116.429,CRO,4300.0,False,Rep 2
+A-5654,Atlanta,33.749,-83.922,Academia,900.0,True,Rep 3
+A-5655,Baltimore-DC,39.591,-77.545,CGT developer,6100.0,False,Rep 3
+A-5656,San Diego,32.461,-117.379,Biotech,5800.0,False,Rep 2
+A-5657,Philadelphia,39.01,-75.501,Academia,1300.0,False,Rep 3
+A-5658,San Diego,32.795,-116.607,CGT developer,6600.0,True,Rep 2
+A-5659,San Diego,32.67,-117.577,Pharma,9000.0,False,Rep 2
+A-5660,Research Triangle,35.503,-77.474,Academia,2400.0,False,Rep 3
+A-5661,Boston,41.246,-69.252,Academia,1300.0,False,Rep 4
+A-5662,Philadelphia,39.428,-74.736,CGT developer,4000.0,True,Rep 3
+A-5663,Research Triangle,36.632,-78.599,Pharma,6200.0,False,Rep 3
+A-5664,Boston,42.984,-70.486,Biotech,1800.0,True,Rep 4
+A-5665,Atlanta,34.114,-85.806,Biotech,3000.0,False,Rep 3
+A-5666,Minneapolis,45.501,-93.991,Academia,1500.0,False,Rep 2
+A-5667,Denver,40.37,-104.982,Academia,1900.0,True,Rep 2
+A-5668,Houston,29.874,-95.922,Academia,600.0,False,Rep 2
+A-5669,Bay Area,37.911,-122.054,Core facility,2100.0,False,Rep 1
+A-5670,Bay Area,37.321,-122.928,Core facility,1900.0,True,Rep 1
+A-5671,Bay Area,37.865,-121.166,Biotech,3900.0,False,Rep 1
+A-5672,Los Angeles,33.614,-116.893,CRO,3600.0,False,Rep 2
+A-5673,Minneapolis,44.744,-94.481,CGT developer,8200.0,False,Rep 2
+A-5674,Houston,30.483,-95.817,CRO,4600.0,False,Rep 2
+A-5675,Baltimore-DC,39.518,-76.307,Academia,2800.0,True,Rep 3
+A-5676,Bay Area,37.602,-122.893,CGT developer,16800.0,False,Rep 1
+A-5677,Chicago,41.977,-87.606,CRO,3100.0,False,Rep 3
+A-5678,Atlanta,32.738,-84.206,Academia,1600.0,False,Rep 3
+A-5679,New York,40.88,-74.168,CRO,6800.0,False,Rep 4
+A-5680,Bay Area,38.296,-121.555,Academia,6700.0,True,Rep 1
+A-5681,Bay Area,37.999,-122.445,Biotech,4400.0,False,Rep 1
+A-5682,Chicago,41.638,-86.658,Biotech,3600.0,False,Rep 3
+A-5683,Research Triangle,36.634,-78.109,Biotech,3100.0,False,Rep 3
+A-5684,Boston,42.52,-72.21,CGT developer,12500.0,True,Rep 4
+A-5685,Baltimore-DC,38.472,-78.804,Academia,1400.0,True,Rep 3
+A-5686,Cleveland,41.927,-81.74,CRO,4500.0,False,Rep 3
+A-5687,Philadelphia,40.432,-75.142,Core facility,1300.0,False,Rep 3
+A-5688,Research Triangle,37.284,-78.08,Biotech,4100.0,False,Rep 3
+A-5689,San Diego,32.78,-117.188,Academia,2400.0,True,Rep 2
+A-5690,Research Triangle,35.368,-78.946,CGT developer,3600.0,False,Rep 3
+A-5691,San Diego,32.535,-117.533,Academia,3100.0,False,Rep 2
+A-5692,Baltimore-DC,38.362,-76.731,Pharma,16700.0,True,Rep 3
+A-5693,San Diego,33.487,-116.938,Biotech,2300.0,False,Rep 2
+A-5694,Boston,42.123,-71.369,Biotech,3300.0,True,Rep 4
+A-5695,Denver,39.97,-104.323,Biotech,2100.0,False,Rep 2
+A-5696,Bay Area,37.048,-122.79,Biotech,4800.0,False,Rep 1
+A-5697,Boston,42.216,-70.571,Biotech,5400.0,False,Rep 4
+A-5698,Chicago,42.394,-88.371,CGT developer,5600.0,False,Rep 2
+A-5699,Boston,42.136,-71.763,Academia,4000.0,False,Rep 4
+A-5700,Houston,30.724,-95.489,Biotech,6700.0,False,Rep 2
+A-5701,Boston,43.459,-72.271,Biotech,1900.0,False,Rep 4
+A-5702,Seattle,46.972,-122.163,Biotech,1300.0,False,Rep 1
+A-5703,San Diego,32.579,-115.026,Academia,3300.0,False,Rep 2
+A-5704,San Diego,33.801,-118.074,CRO,5300.0,False,Rep 2
+A-5705,Research Triangle,35.631,-79.143,Pharma,7900.0,True,Rep 3
+A-5706,Boston,41.758,-70.044,CGT developer,7600.0,True,Rep 4
+A-5707,Philadelphia,38.952,-73.659,CRO,3400.0,True,Rep 4
+A-5708,San Diego,32.512,-116.827,Biotech,1900.0,True,Rep 2
+A-5709,Baltimore-DC,38.781,-76.899,CRO,4100.0,False,Rep 3
+A-5710,Denver,39.16,-103.757,Academia,1000.0,False,Rep 2
+A-5711,Research Triangle,35.281,-79.743,CRO,2700.0,True,Rep 3
+A-5712,Baltimore-DC,38.796,-77.276,CGT developer,3600.0,False,Rep 3
+A-5713,New York,40.435,-73.42,Biotech,2600.0,False,Rep 4
+A-5714,Ann Arbor,42.146,-84.18,Academia,2300.0,True,Rep 3
+A-5715,New York,40.676,-73.556,CGT developer,5000.0,False,Rep 4
+A-5716,Research Triangle,35.445,-78.402,CGT developer,4400.0,False,Rep 3
+A-5717,Baltimore-DC,38.651,-78.006,Academia,2500.0,False,Rep 3
+A-5718,San Diego,32.66,-117.272,Academia,3300.0,False,Rep 2
+A-5719,Boston,41.656,-71.452,CGT developer,10600.0,False,Rep 4
+A-5720,Boston,43.581,-70.344,CGT developer,2600.0,False,Rep 4
+A-5721,Denver,39.944,-105.65,Academia,2300.0,False,Rep 2
+A-5722,Bay Area,38.395,-121.75,Biotech,9600.0,False,Rep 1
+A-5723,Chicago,42.591,-87.818,Biotech,1800.0,False,Rep 2
+A-5724,Bay Area,37.985,-122.199,Academia,2600.0,False,Rep 1
+A-5725,Denver,40.608,-105.823,Academia,1600.0,True,Rep 2
+A-5726,Boston,41.368,-70.925,Core facility,2400.0,False,Rep 4
+A-5727,Research Triangle,35.959,-78.674,Biotech,3100.0,False,Rep 3
+A-5728,Bay Area,37.735,-122.069,Academia,2500.0,False,Rep 1
+A-5729,Research Triangle,36.147,-78.434,Biotech,2200.0,True,Rep 3
+A-5730,Houston,30.138,-94.933,CRO,2900.0,False,Rep 2
+A-5731,Bay Area,36.791,-121.368,CGT developer,7200.0,False,Rep 1
+A-5732,Houston,29.261,-95.372,Pharma,7100.0,True,Rep 2
+A-5733,Research Triangle,35.576,-78.582,Biotech,6000.0,True,Rep 3
+A-5734,Bay Area,37.346,-122.17,Academia,3200.0,False,Rep 1
+A-5735,Bay Area,37.931,-121.737,CGT developer,4300.0,False,Rep 1
+A-5736,Bay Area,36.691,-121.768,Biotech,1600.0,False,Rep 1
+A-5737,Bay Area,37.64,-122.953,Biotech,4600.0,False,Rep 1
+A-5738,Bay Area,37.206,-122.158,Biotech,7000.0,False,Rep 1
+A-5739,Denver,39.6,-106.365,CGT developer,3500.0,False,Rep 2
+A-5740,Chicago,41.665,-87.829,Academia,2600.0,False,Rep 2
+A-5741,Bay Area,37.773,-122.523,CGT developer,7100.0,False,Rep 1
+A-5742,Los Angeles,32.985,-116.617,CRO,4300.0,False,Rep 2
+A-5743,San Diego,31.96,-116.227,Biotech,5000.0,False,Rep 2
+A-5744,San Diego,32.651,-117.917,Biotech,3600.0,True,Rep 2
+A-5745,Seattle,47.09,-121.5,CRO,2500.0,True,Rep 1
+A-5746,Minneapolis,44.985,-92.443,Biotech,4600.0,True,Rep 2
+A-5747,Baltimore-DC,38.828,-77.225,CRO,3500.0,False,Rep 3
+A-5748,Houston,30.3,-95.397,CGT developer,7000.0,False,Rep 2
+A-5749,Los Angeles,34.524,-118.644,Academia,1300.0,False,Rep 1
+A-5750,Ann Arbor,41.73,-84.896,Biotech,4900.0,False,Rep 3
+A-5751,Seattle,47.141,-121.986,CRO,11300.0,False,Rep 1
+A-5752,San Diego,33.285,-118.196,Academia,4700.0,False,Rep 2
+A-5753,Atlanta,33.522,-83.446,CGT developer,3800.0,False,Rep 3
+A-5754,Bay Area,37.54,-123.165,CGT developer,12100.0,False,Rep 1
+A-5755,Minneapolis,45.413,-93.394,Academia,1800.0,False,Rep 2
+A-5756,Ann Arbor,41.972,-82.995,CGT developer,2000.0,True,Rep 3
+A-5757,Baltimore-DC,39.285,-75.999,Academia,2600.0,False,Rep 3
+A-5758,Boston,41.666,-71.758,Academia,1500.0,False,Rep 4
+A-5759,Chicago,41.304,-86.389,Core facility,1200.0,True,Rep 3
+A-5760,Bay Area,37.544,-122.294,Academia,8000.0,False,Rep 1
+A-5761,Chicago,42.138,-87.635,Biotech,1300.0,False,Rep 3
+A-5762,Bay Area,37.983,-123.185,Pharma,13600.0,False,Rep 1
+A-5763,Seattle,47.763,-122.692,CGT developer,3800.0,False,Rep 1
+A-5764,Boston,41.66,-71.124,Academia,1400.0,False,Rep 4
+A-5765,Chicago,42.632,-88.285,Biotech,2000.0,False,Rep 2
+A-5766,Baltimore-DC,38.592,-77.238,Biotech,2600.0,False,Rep 3
+A-5767,Bay Area,37.596,-122.1,Academia,4100.0,False,Rep 1
+A-5768,San Diego,32.279,-116.95,Biotech,6000.0,False,Rep 2
+A-5769,Baltimore-DC,39.091,-76.394,Core facility,1100.0,False,Rep 3
+A-5770,Research Triangle,35.216,-78.931,Pharma,5000.0,False,Rep 3
+A-5771,Boston,42.192,-70.744,Biotech,5700.0,False,Rep 4
+A-5772,Boston,41.8,-70.83,Biotech,5200.0,True,Rep 4
+A-5773,Bay Area,36.423,-121.566,Academia,2700.0,True,Rep 1
+A-5774,Bay Area,37.434,-122.084,Academia,3100.0,True,Rep 1
+A-5775,Baltimore-DC,38.969,-77.118,Academia,1800.0,False,Rep 3
+A-5776,Atlanta,32.828,-84.272,Biotech,3500.0,False,Rep 3
+A-5777,Ann Arbor,42.159,-83.497,Core facility,1400.0,False,Rep 3
+A-5778,Bay Area,37.567,-121.771,Academia,2300.0,False,Rep 1
+A-5779,San Diego,33.227,-117.278,CRO,3400.0,False,Rep 2
+A-5780,Los Angeles,35.197,-117.316,Academia,1100.0,False,Rep 2
+A-5781,Bay Area,36.347,-121.899,Biotech,8200.0,False,Rep 1
+A-5782,San Diego,33.147,-117.907,CRO,6900.0,False,Rep 2
+A-5783,New York,40.49,-73.88,Academia,4100.0,False,Rep 4
+A-5784,New York,40.718,-75.077,CGT developer,7400.0,False,Rep 4
+A-5785,Seattle,47.908,-122.276,Academia,3000.0,True,Rep 1
+A-5786,New York,40.851,-73.87,Academia,3900.0,False,Rep 4
+A-5787,Boston,41.776,-71.084,CRO,6900.0,False,Rep 4
+A-5788,Boston,42.409,-72.723,Academia,5400.0,False,Rep 4
+A-5789,San Diego,33.597,-116.951,Biotech,6800.0,False,Rep 2
+A-5790,San Diego,32.76,-116.232,Academia,5500.0,False,Rep 2
+A-5791,New York,40.696,-73.542,Academia,1300.0,True,Rep 4
+A-5792,Cleveland,42.333,-80.58,Academia,2400.0,False,Rep 3
+A-5793,San Diego,32.861,-117.414,CRO,12600.0,False,Rep 2
+A-5794,Seattle,47.705,-121.985,CRO,6600.0,False,Rep 1
+A-5795,Bay Area,38.242,-121.403,Core facility,3200.0,False,Rep 1
+A-5796,New York,41.429,-73.52,Academia,1800.0,False,Rep 4
+A-5797,Cleveland,41.097,-81.446,Pharma,4800.0,False,Rep 3
+A-5798,Philadelphia,41.176,-75.011,Academia,1700.0,False,Rep 3
+A-5799,Boston,42.049,-71.014,Academia,4200.0,False,Rep 4
+A-5800,Bay Area,36.748,-121.592,Pharma,6800.0,False,Rep 1
+A-5801,Ann Arbor,41.903,-83.597,CRO,10500.0,False,Rep 3
+A-5802,Denver,39.775,-104.851,Academia,1000.0,False,Rep 2
+A-5803,Boston,42.503,-71.094,Biotech,2800.0,False,Rep 4
+A-5804,Baltimore-DC,38.543,-76.292,Academia,3000.0,False,Rep 3
+A-5805,Minneapolis,44.644,-92.893,CGT developer,2600.0,False,Rep 2
+A-5806,Denver,39.19,-104.529,Pharma,4600.0,True,Rep 2
+A-5807,Bay Area,37.312,-122.795,Academia,2600.0,False,Rep 1
+A-5808,Philadelphia,41.127,-75.19,Academia,3600.0,False,Rep 3
+A-5809,Ann Arbor,41.386,-83.188,Academia,4200.0,False,Rep 3
+A-5810,Seattle,47.456,-123.007,CGT developer,6900.0,False,Rep 1
+A-5811,Philadelphia,39.981,-75.347,CGT developer,5800.0,True,Rep 3
+A-5812,Atlanta,33.635,-83.106,Pharma,2500.0,False,Rep 3
+A-5813,Boston,42.207,-71.327,Biotech,7100.0,False,Rep 4
+A-5814,Baltimore-DC,39.605,-75.916,Pharma,7300.0,False,Rep 3
+A-5815,Boston,42.033,-70.792,Biotech,2100.0,True,Rep 4
+A-5816,Bay Area,37.708,-122.466,Biotech,10200.0,False,Rep 1
+A-5817,Baltimore-DC,39.384,-76.821,Academia,4500.0,False,Rep 3
+A-5818,Boston,41.988,-70.337,CRO,7000.0,False,Rep 4
+A-5819,New York,41.03,-74.804,CGT developer,12400.0,False,Rep 4
+A-5820,Atlanta,33.747,-84.837,Academia,1200.0,False,Rep 3
+A-5821,Philadelphia,39.239,-74.494,Biotech,3400.0,False,Rep 4
+A-5822,Cleveland,41.343,-81.482,CGT developer,1900.0,False,Rep 3
+A-5823,Denver,40.21,-103.172,CRO,1500.0,True,Rep 2
+A-5824,Baltimore-DC,40.017,-76.327,CGT developer,4200.0,False,Rep 3
+A-5825,Chicago,42.106,-87.462,CRO,3900.0,False,Rep 3
+A-5826,Research Triangle,35.921,-78.413,Biotech,3500.0,False,Rep 3
+A-5827,Philadelphia,40.301,-75.569,CGT developer,6800.0,False,Rep 3
+A-5828,Houston,31.135,-95.604,CGT developer,3200.0,False,Rep 2
+A-5829,Bay Area,36.739,-122.18,Biotech,5200.0,False,Rep 1
+A-5830,Boston,42.172,-70.637,CGT developer,9500.0,False,Rep 4
+A-5831,Atlanta,34.789,-85.099,CRO,2600.0,False,Rep 3
+A-5832,Chicago,41.82,-87.835,Academia,1200.0,False,Rep 2
+A-5833,Philadelphia,39.292,-75.035,Biotech,3400.0,False,Rep 3
+A-5834,Research Triangle,35.938,-78.497,Academia,1500.0,True,Rep 3
+A-5835,San Diego,32.507,-117.649,Academia,1400.0,False,Rep 2
+A-5836,Denver,38.89,-105.498,CRO,3300.0,False,Rep 2
+A-5837,Boston,41.564,-71.059,Academia,1300.0,False,Rep 4
+A-5838,Los Angeles,33.647,-118.055,Biotech,6100.0,False,Rep 2
+A-5839,Seattle,47.783,-122.828,Biotech,5100.0,False,Rep 1
+A-5840,Baltimore-DC,38.191,-77.203,Academia,2500.0,False,Rep 3
+A-5841,San Diego,33.693,-115.907,Biotech,3600.0,False,Rep 2
+A-5842,San Diego,31.678,-116.824,CGT developer,7200.0,False,Rep 2
+A-5843,San Diego,32.32,-116.988,CRO,5800.0,True,Rep 2
+A-5844,Minneapolis,45.749,-93.416,CGT developer,4600.0,False,Rep 2
+A-5845,New York,39.896,-74.28,Academia,6900.0,False,Rep 4
+A-5846,Chicago,42.102,-88.336,Core facility,5000.0,False,Rep 2
+A-5847,Minneapolis,45.395,-90.956,Biotech,4400.0,False,Rep 2
+A-5848,Boston,42.671,-70.663,Academia,2200.0,False,Rep 4
+A-5849,Research Triangle,34.909,-77.947,Academia,1200.0,False,Rep 3
+A-5850,Bay Area,37.791,-122.115,Academia,4700.0,True,Rep 1
+A-5851,Seattle,48.736,-122.0,Biotech,3300.0,False,Rep 1
+A-5852,Denver,38.501,-104.864,CGT developer,6800.0,False,Rep 2
+A-5853,Research Triangle,35.014,-79.061,Academia,1400.0,True,Rep 3
+A-5854,New York,41.326,-74.764,Academia,4500.0,False,Rep 4
+A-5855,Baltimore-DC,39.087,-78.712,Core facility,1600.0,False,Rep 3
+A-5856,Baltimore-DC,38.962,-76.836,CRO,3800.0,False,Rep 3
+A-5857,Chicago,42.202,-87.401,Academia,1700.0,False,Rep 3
+A-5858,Philadelphia,40.03,-74.325,Academia,1500.0,False,Rep 4
+A-5859,Houston,29.322,-94.916,CGT developer,7600.0,False,Rep 2
+A-5860,Seattle,47.043,-122.708,Biotech,3200.0,True,Rep 1
+A-5861,New York,39.703,-74.295,CGT developer,6100.0,False,Rep 4
+A-5862,Chicago,42.332,-89.219,CRO,3500.0,False,Rep 2
+A-5863,Atlanta,34.094,-84.738,Pharma,6100.0,False,Rep 3
+A-5864,Bay Area,37.795,-122.629,Academia,3100.0,False,Rep 1
+A-5865,San Diego,32.895,-116.463,Pharma,9500.0,False,Rep 2
+A-5866,Chicago,41.647,-87.994,Academia,4100.0,False,Rep 2
+A-5867,Chicago,41.82,-87.711,CRO,3100.0,False,Rep 2
+A-5868,Bay Area,37.055,-122.207,Biotech,9000.0,False,Rep 1
+A-5869,Atlanta,33.666,-84.641,Academia,900.0,False,Rep 3
+A-5870,San Diego,33.049,-117.93,Academia,2800.0,False,Rep 2
+A-5871,Bay Area,37.067,-123.202,CRO,6000.0,False,Rep 1
+A-5872,Philadelphia,40.458,-73.954,Academia,2800.0,False,Rep 4
+A-5873,New York,41.783,-73.795,Biotech,2600.0,False,Rep 4
+A-5874,Chicago,41.128,-87.338,CGT developer,5300.0,False,Rep 3
+A-5875,Bay Area,37.248,-121.878,CGT developer,3100.0,False,Rep 1
+A-5876,Minneapolis,44.397,-93.445,Pharma,4000.0,False,Rep 2
+A-5877,Atlanta,34.373,-83.643,Biotech,3900.0,False,Rep 3
+A-5878,Boston,41.441,-71.772,CRO,6800.0,False,Rep 4
+A-5879,Minneapolis,44.94,-93.565,Core facility,1100.0,False,Rep 2
+A-5880,Atlanta,33.492,-83.215,CRO,3000.0,False,Rep 3
+A-5881,San Diego,33.24,-117.551,Pharma,10500.0,False,Rep 2
+A-5882,Baltimore-DC,39.22,-76.079,CGT developer,7000.0,False,Rep 3
+A-5883,Los Angeles,34.113,-117.975,CGT developer,2500.0,False,Rep 2
+A-5884,Bay Area,36.689,-121.297,Academia,900.0,False,Rep 1
+A-5885,Houston,29.759,-95.134,Academia,1100.0,False,Rep 2
+A-5886,Chicago,42.102,-87.786,Academia,1300.0,True,Rep 2
+A-5887,Seattle,47.578,-122.177,Academia,2800.0,False,Rep 1
+A-5888,Research Triangle,35.757,-79.03,CRO,4000.0,False,Rep 3
+A-5889,Los Angeles,34.437,-119.47,Academia,1100.0,False,Rep 1
+A-5890,Boston,43.477,-70.744,Academia,1400.0,False,Rep 4
+A-5891,Ann Arbor,43.083,-81.954,Biotech,9200.0,False,Rep 3
+A-5892,Philadelphia,40.645,-75.651,Academia,5500.0,True,Rep 3
+A-5893,Boston,41.611,-70.942,CGT developer,11200.0,False,Rep 4
+A-5894,Bay Area,38.308,-121.761,CRO,3300.0,True,Rep 1
+A-5895,Baltimore-DC,38.296,-76.709,Academia,3200.0,True,Rep 3
+A-5896,Baltimore-DC,38.818,-77.727,CGT developer,3800.0,False,Rep 3
+A-5897,Baltimore-DC,40.374,-77.426,Academia,1600.0,False,Rep 3
+A-5898,Bay Area,38.244,-122.202,Biotech,3500.0,True,Rep 1
+A-5899,Bay Area,37.814,-121.992,Academia,6600.0,False,Rep 1
+A-5900,Boston,41.749,-71.072,Academia,5700.0,False,Rep 4
+A-5901,Bay Area,37.545,-120.473,Academia,3100.0,False,Rep 1
+A-5902,Los Angeles,33.112,-117.392,Biotech,2000.0,False,Rep 2
+A-5903,Ann Arbor,43.767,-84.086,Academia,3400.0,False,Rep 3
+A-5904,San Diego,32.039,-117.278,Biotech,4200.0,False,Rep 2
+A-5905,Bay Area,37.068,-123.483,CRO,2600.0,False,Rep 1
+A-5906,Baltimore-DC,37.982,-77.337,Biotech,5800.0,False,Rep 3
+A-5907,San Diego,32.585,-115.853,Academia,1900.0,False,Rep 2
+A-5908,Baltimore-DC,39.532,-76.995,Biotech,2600.0,False,Rep 3
+A-5909,Philadelphia,40.753,-75.177,Academia,1400.0,False,Rep 3
+A-5910,Cleveland,41.23,-81.44,CRO,3600.0,False,Rep 3
+A-5911,Minneapolis,44.691,-92.658,Pharma,3800.0,False,Rep 2
+A-5912,New York,41.381,-74.477,Biotech,3600.0,False,Rep 4
+A-5913,Baltimore-DC,37.732,-77.064,Academia,2900.0,False,Rep 3
+A-5914,Boston,41.703,-70.836,Academia,2300.0,False,Rep 4
+A-5915,Atlanta,33.828,-82.947,Biotech,3600.0,False,Rep 3
+A-5916,Boston,42.267,-70.025,CRO,4500.0,True,Rep 4
+A-5917,Boston,42.434,-71.928,Academia,4000.0,True,Rep 4
+A-5918,New York,41.639,-73.484,CRO,5800.0,True,Rep 4
+A-5919,San Diego,32.029,-117.665,Academia,3600.0,False,Rep 2
+A-5920,Boston,42.043,-70.171,CRO,6900.0,True,Rep 4
+A-5921,Bay Area,37.948,-121.371,CGT developer,10000.0,False,Rep 1
+A-5922,San Diego,32.944,-117.053,Biotech,5400.0,False,Rep 2
+A-5923,Chicago,41.893,-88.376,Biotech,1800.0,False,Rep 2
+A-5924,Atlanta,33.571,-84.555,Academia,1400.0,False,Rep 3
+A-5925,Seattle,46.613,-123.379,Biotech,3600.0,False,Rep 1
+A-5926,Research Triangle,35.446,-78.836,Biotech,4700.0,False,Rep 3
+A-5927,New York,39.993,-73.707,Biotech,4900.0,True,Rep 4
+A-5928,Los Angeles,34.417,-118.214,Academia,2600.0,True,Rep 2
+A-5929,San Diego,31.198,-117.658,Academia,2300.0,False,Rep 2
+A-5930,Atlanta,34.57,-83.588,Biotech,1700.0,False,Rep 3
+A-5931,Research Triangle,36.118,-79.344,CRO,6800.0,False,Rep 3
+A-5932,Boston,42.123,-71.368,CGT developer,500.0,False,Rep 4
+A-5933,Denver,40.295,-105.357,CGT developer,5500.0,False,Rep 2
+A-5934,Atlanta,32.946,-85.17,Academia,1000.0,False,Rep 3
+A-5935,Bay Area,37.04,-122.892,CRO,7900.0,False,Rep 1
+A-5936,Seattle,47.201,-121.166,Academia,1500.0,False,Rep 1
+A-5937,Chicago,41.665,-87.498,CGT developer,5500.0,False,Rep 3
+A-5938,Los Angeles,34.244,-118.924,Academia,400.0,False,Rep 1
+A-5939,Boston,43.371,-70.951,Pharma,10400.0,True,Rep 4
+A-5940,Minneapolis,45.712,-92.712,CGT developer,1800.0,False,Rep 2
+A-5941,New York,40.43,-75.153,Biotech,3500.0,False,Rep 4
+A-5942,San Diego,32.725,-118.139,Biotech,6100.0,False,Rep 2
+A-5943,Cleveland,40.803,-81.324,Academia,1900.0,False,Rep 3
+A-5944,Los Angeles,33.128,-118.192,Biotech,2800.0,True,Rep 2
+A-5945,San Diego,32.347,-116.356,Pharma,5400.0,False,Rep 2
+A-5946,Boston,41.546,-71.122,Core facility,1800.0,False,Rep 4
+A-5947,Denver,40.796,-104.15,Pharma,5600.0,False,Rep 2
+A-5948,Ann Arbor,43.213,-83.312,Academia,2800.0,False,Rep 3
+A-5949,Baltimore-DC,39.019,-76.938,Academia,2800.0,False,Rep 3
+A-5950,Philadelphia,39.758,-75.966,CRO,3600.0,False,Rep 3
+A-5951,Denver,39.364,-106.575,Academia,2200.0,False,Rep 2
+A-5952,Seattle,47.721,-123.812,Academia,2200.0,False,Rep 1
+A-5953,Philadelphia,40.295,-75.137,Academia,1000.0,False,Rep 3
+A-5954,Philadelphia,40.75,-74.566,Academia,1900.0,False,Rep 4
+A-5955,Bay Area,38.0,-123.254,CGT developer,9700.0,False,Rep 1
+A-5956,Denver,40.595,-104.557,Academia,2200.0,True,Rep 2
+A-5957,Seattle,47.288,-122.932,Core facility,2000.0,False,Rep 1
+A-5958,Atlanta,34.057,-82.956,Academia,1400.0,False,Rep 3
+A-5959,New York,40.794,-73.845,Academia,2900.0,True,Rep 4
+A-5960,Baltimore-DC,39.606,-76.057,Academia,1700.0,False,Rep 3
+A-5961,San Diego,33.194,-117.116,Pharma,9800.0,False,Rep 2
+A-5962,Atlanta,33.713,-84.313,Core facility,400.0,True,Rep 3
+A-5963,Denver,39.983,-105.488,Biotech,2400.0,False,Rep 2
+A-5964,Philadelphia,39.459,-75.897,Pharma,12400.0,False,Rep 3
+A-5965,Bay Area,38.24,-121.618,Academia,4900.0,False,Rep 1
+A-5966,Research Triangle,35.973,-79.669,Core facility,2800.0,False,Rep 3
+A-5967,Denver,39.97,-105.075,Core facility,800.0,False,Rep 2
+A-5968,Los Angeles,33.921,-118.342,CGT developer,5200.0,False,Rep 2
+A-5969,Cleveland,42.1,-82.386,Academia,1100.0,False,Rep 3
+A-5970,Boston,42.155,-70.669,Academia,2100.0,False,Rep 4
+A-5971,Bay Area,37.116,-122.325,CRO,9200.0,False,Rep 1
+A-5972,Bay Area,37.727,-121.838,CRO,3800.0,False,Rep 1
+A-5973,Chicago,41.894,-86.672,Core facility,1000.0,False,Rep 3
+A-5974,New York,41.19,-74.449,Academia,2000.0,False,Rep 4
+A-5975,Minneapolis,45.718,-94.026,Academia,1200.0,False,Rep 2
+A-5976,Atlanta,33.865,-84.501,Biotech,2500.0,False,Rep 3
+A-5977,New York,41.264,-74.481,Academia,2300.0,False,Rep 4
+A-5978,New York,41.231,-73.848,Core facility,2800.0,False,Rep 4
+A-5979,Atlanta,32.235,-84.527,CGT developer,2300.0,False,Rep 3
+A-5980,Denver,41.332,-105.047,Biotech,1200.0,False,Rep 2
+A-5981,New York,40.661,-74.063,Pharma,9800.0,False,Rep 4
+A-5982,Seattle,47.911,-120.946,CGT developer,4400.0,False,Rep 1
+A-5983,New York,40.347,-74.486,Biotech,3300.0,False,Rep 4
+A-5984,Ann Arbor,43.091,-83.093,Academia,1700.0,False,Rep 3
+A-5985,Research Triangle,35.76,-78.649,Academia,2500.0,False,Rep 3
+A-5986,Atlanta,33.759,-85.298,Academia,1800.0,False,Rep 3
+A-5987,San Diego,33.217,-116.968,Academia,2900.0,False,Rep 2
+A-5988,Atlanta,33.747,-83.863,Biotech,3200.0,False,Rep 3
+A-5989,Atlanta,33.844,-84.195,Academia,2200.0,False,Rep 3
+A-5990,New York,40.741,-75.075,Academia,1400.0,False,Rep 4
+A-5991,Minneapolis,44.96,-93.328,Pharma,6400.0,False,Rep 2
+A-5992,Minneapolis,45.219,-93.067,Biotech,3000.0,False,Rep 2
+A-5993,Seattle,48.292,-121.725,Biotech,2900.0,True,Rep 1
+A-5994,Research Triangle,35.935,-78.704,Pharma,5700.0,True,Rep 3
+A-5995,Philadelphia,38.849,-75.657,Core facility,1800.0,False,Rep 3
+A-5996,Minneapolis,44.927,-93.403,Biotech,2300.0,True,Rep 2
+A-5997,Minneapolis,45.176,-94.022,Biotech,4800.0,False,Rep 2
+A-5998,New York,40.524,-73.702,CGT developer,8000.0,True,Rep 4
+A-5999,Seattle,47.622,-122.462,CRO,3500.0,True,Rep 1
+A-6000,Denver,39.603,-104.72,Biotech,6100.0,False,Rep 2
+A-6001,Seattle,47.209,-122.324,Biotech,6300.0,False,Rep 1
+A-6002,Bay Area,37.745,-121.117,Core facility,4900.0,False,Rep 1
+A-6003,Boston,41.916,-71.322,Biotech,7900.0,False,Rep 4
+A-6004,Research Triangle,36.707,-78.341,Academia,1400.0,False,Rep 3
+A-6005,Houston,28.484,-96.361,Academia,1900.0,False,Rep 2
+A-6006,San Diego,33.582,-116.629,CGT developer,4700.0,False,Rep 2
+A-6007,Boston,42.301,-71.127,Academia,3900.0,False,Rep 4
+A-6008,Minneapolis,45.565,-93.81,CGT developer,2500.0,False,Rep 2
+A-6009,Seattle,47.029,-121.809,Academia,2200.0,False,Rep 1
+A-6010,Chicago,41.352,-88.316,Academia,2600.0,False,Rep 2
+A-6011,Atlanta,33.637,-84.5,Academia,2300.0,False,Rep 3
+A-6012,San Diego,32.618,-117.487,CRO,4000.0,False,Rep 2
+A-6013,Research Triangle,35.502,-78.808,Academia,3100.0,False,Rep 3
+A-6014,New York,41.793,-73.567,Biotech,4600.0,False,Rep 4
+A-6015,Philadelphia,39.989,-76.145,Academia,3300.0,True,Rep 3
+A-6016,New York,40.035,-74.462,Academia,1700.0,True,Rep 4
+A-6017,Cleveland,41.947,-82.584,Academia,1300.0,False,Rep 3
+A-6018,Chicago,40.831,-86.564,Academia,2300.0,True,Rep 3
+A-6019,Boston,43.177,-70.85,Biotech,4400.0,False,Rep 4
+A-6020,Research Triangle,35.857,-78.262,CGT developer,3900.0,False,Rep 3
+A-6021,Philadelphia,38.702,-74.84,Biotech,6200.0,False,Rep 3
+A-6022,Minneapolis,44.683,-93.7,CRO,3500.0,False,Rep 2
+A-6023,New York,40.004,-74.18,Academia,2700.0,False,Rep 4
+A-6024,Los Angeles,33.574,-117.664,Academia,2300.0,True,Rep 2
+A-6025,San Diego,32.561,-116.656,Academia,1400.0,True,Rep 2
+A-6026,Bay Area,37.19,-122.306,Academia,6800.0,False,Rep 1
+A-6027,Boston,42.055,-71.288,Academia,4900.0,False,Rep 4
+A-6028,Chicago,42.277,-86.791,Pharma,5200.0,False,Rep 3
+A-6029,Boston,42.838,-70.644,CRO,10300.0,False,Rep 4
+A-6030,Ann Arbor,41.932,-84.395,Pharma,6900.0,False,Rep 3
+A-6031,Seattle,47.456,-122.114,Academia,2900.0,False,Rep 1
+A-6032,Bay Area,37.267,-122.387,Academia,3900.0,False,Rep 1
+A-6033,Los Angeles,34.322,-117.742,Academia,1700.0,False,Rep 2
+A-6034,Bay Area,37.871,-123.109,Core facility,2200.0,False,Rep 1
+A-6035,Boston,42.575,-71.008,Academia,1400.0,False,Rep 4
+A-6036,Seattle,48.329,-123.253,Academia,2100.0,False,Rep 1
+A-6037,San Diego,33.277,-117.178,Academia,2600.0,False,Rep 2
+A-6038,Boston,42.695,-70.917,Pharma,7500.0,False,Rep 4
+A-6039,Boston,42.558,-70.376,Academia,2500.0,False,Rep 4
+A-6040,Los Angeles,34.844,-117.216,Academia,3100.0,False,Rep 2
+A-6041,Cleveland,42.0,-82.241,Academia,1500.0,False,Rep 3
+A-6042,Denver,39.419,-104.438,CRO,4900.0,False,Rep 2
+A-6043,Seattle,46.968,-122.867,Pharma,6200.0,False,Rep 1
+A-6044,Research Triangle,36.407,-78.794,CGT developer,5100.0,False,Rep 3
+A-6045,Los Angeles,33.249,-118.296,Biotech,1300.0,True,Rep 2
+A-6046,Boston,41.641,-72.63,CRO,5700.0,False,Rep 4
+A-6047,Baltimore-DC,39.204,-77.933,CRO,3300.0,False,Rep 3
+A-6048,Boston,41.989,-69.574,Biotech,4800.0,False,Rep 4
+A-6049,Boston,42.209,-70.605,Academia,3700.0,True,Rep 4
+A-6050,Boston,43.32,-71.708,Academia,1600.0,True,Rep 4
+A-6051,Philadelphia,40.312,-74.925,Biotech,2200.0,False,Rep 3
+A-6052,Bay Area,37.704,-123.4,CRO,4500.0,True,Rep 1
+A-6053,Philadelphia,40.902,-74.884,Core facility,3300.0,False,Rep 3
+A-6054,San Diego,33.194,-115.982,Biotech,4800.0,False,Rep 2
+A-6055,Los Angeles,33.865,-117.105,Biotech,3000.0,True,Rep 2
+A-6056,Chicago,42.185,-87.661,Academia,1500.0,False,Rep 3
+A-6057,Ann Arbor,42.456,-83.395,Biotech,2100.0,True,Rep 3
+A-6058,Chicago,41.86,-87.93,Academia,800.0,True,Rep 2
+A-6059,Minneapolis,45.261,-95.08,CRO,3100.0,True,Rep 2
+A-6060,Los Angeles,33.554,-117.207,Core facility,3600.0,False,Rep 2
+A-6061,Bay Area,37.071,-123.973,CGT developer,14500.0,True,Rep 1
+A-6062,Bay Area,37.848,-121.28,Academia,2700.0,False,Rep 1
+A-6063,San Diego,32.063,-116.653,Academia,2300.0,False,Rep 2
+A-6064,Seattle,47.716,-121.964,Academia,2700.0,False,Rep 1
+A-6065,Atlanta,33.945,-86.151,Academia,1800.0,True,Rep 3
+A-6066,Atlanta,34.39,-84.131,Academia,1800.0,False,Rep 3
+A-6067,Los Angeles,34.817,-117.362,Biotech,2900.0,False,Rep 2
+A-6068,Boston,43.671,-70.748,Core facility,2400.0,True,Rep 4
+A-6069,Baltimore-DC,39.34,-76.371,Academia,2600.0,False,Rep 3
+A-6070,Chicago,41.669,-88.019,Pharma,6000.0,False,Rep 2
+A-6071,Houston,29.095,-94.996,Academia,1200.0,False,Rep 2
+A-6072,Bay Area,38.693,-122.84,Academia,1800.0,False,Rep 1
+A-6073,Bay Area,38.262,-122.827,Biotech,8800.0,True,Rep 1
+A-6074,Baltimore-DC,39.193,-77.325,Academia,8000.0,False,Rep 3
+A-6075,Bay Area,36.842,-122.265,CRO,5100.0,True,Rep 1
+A-6076,New York,40.93,-75.435,Core facility,1900.0,True,Rep 4
+A-6077,Bay Area,37.616,-122.38,CRO,6100.0,False,Rep 1
+A-6078,San Diego,32.682,-115.84,Academia,4100.0,False,Rep 2
+A-6079,Los Angeles,34.36,-118.186,Academia,800.0,False,Rep 2
+A-6080,Chicago,42.065,-87.972,Pharma,4200.0,False,Rep 2
+A-6081,Seattle,47.313,-121.464,Biotech,4100.0,False,Rep 1
+A-6082,Baltimore-DC,39.735,-76.856,Academia,1100.0,False,Rep 3
+A-6083,Ann Arbor,42.57,-84.87,Academia,2800.0,False,Rep 3
+A-6084,Seattle,47.342,-121.753,Biotech,1700.0,False,Rep 1
+A-6085,Philadelphia,40.354,-76.584,Biotech,3200.0,False,Rep 3
+A-6086,Baltimore-DC,39.139,-77.195,CGT developer,5100.0,False,Rep 3
+A-6087,San Diego,33.276,-116.776,CRO,4300.0,True,Rep 2
+A-6088,Bay Area,38.252,-121.745,Biotech,12700.0,False,Rep 1
+A-6089,Boston,41.873,-71.266,Academia,2100.0,False,Rep 4
+A-6090,New York,40.375,-73.86,Academia,1100.0,True,Rep 4
+A-6091,Bay Area,36.195,-122.379,Academia,2600.0,False,Rep 1
+A-6092,Denver,40.473,-103.889,CGT developer,2800.0,False,Rep 2
+A-6093,Baltimore-DC,38.74,-77.01,Academia,1700.0,False,Rep 3
+A-6094,Baltimore-DC,38.402,-76.898,Academia,1600.0,True,Rep 3
+A-6095,New York,41.143,-74.181,Biotech,2000.0,True,Rep 4
+A-6096,Philadelphia,39.036,-75.423,CRO,1900.0,False,Rep 3
+A-6097,Research Triangle,36.345,-78.871,CGT developer,2500.0,True,Rep 3
+A-6098,Seattle,48.148,-122.018,CGT developer,2900.0,False,Rep 1
+A-6099,Baltimore-DC,39.554,-76.153,CRO,4900.0,False,Rep 3
+A-6100,Bay Area,37.315,-122.289,Pharma,7300.0,False,Rep 1
+A-6101,New York,40.386,-72.407,Academia,1600.0,False,Rep 4
+A-6102,Bay Area,36.718,-122.59,Pharma,15700.0,False,Rep 1
+A-6103,Los Angeles,33.863,-118.836,CGT developer,2600.0,False,Rep 1
+A-6104,Research Triangle,36.12,-79.493,Biotech,5200.0,False,Rep 3
+A-6105,Denver,39.222,-103.58,Core facility,4900.0,False,Rep 2
+A-6106,Chicago,42.651,-87.718,Academia,1300.0,False,Rep 2
+A-6107,Seattle,46.465,-122.254,Biotech,3800.0,False,Rep 1
+A-6108,San Diego,32.325,-117.46,CGT developer,3100.0,True,Rep 2
+A-6109,San Diego,32.859,-117.88,CRO,9500.0,False,Rep 2
+A-6110,Bay Area,37.482,-122.653,Biotech,8500.0,False,Rep 1
+A-6111,Los Angeles,33.792,-118.625,Core facility,2000.0,False,Rep 1
+A-6112,Boston,41.628,-71.135,Core facility,2900.0,False,Rep 4
+A-6113,Houston,29.302,-95.91,CGT developer,1600.0,False,Rep 2
+A-6114,Seattle,48.468,-121.444,Academia,2600.0,False,Rep 1
+A-6115,Bay Area,37.678,-121.849,Academia,2600.0,False,Rep 1
+A-6116,Los Angeles,33.724,-118.172,CGT developer,2300.0,True,Rep 2
+A-6117,Bay Area,38.013,-122.09,Academia,2000.0,False,Rep 1
+A-6118,Ann Arbor,42.989,-83.987,Academia,3000.0,False,Rep 3
+A-6119,Boston,42.291,-72.254,Biotech,5500.0,False,Rep 4
+A-6120,Bay Area,38.111,-121.712,Academia,8100.0,False,Rep 1
+A-6121,Bay Area,38.235,-121.903,Academia,8300.0,False,Rep 1
+A-6122,Philadelphia,39.863,-75.119,Pharma,6900.0,False,Rep 3
+A-6123,Houston,30.044,-95.806,Pharma,5200.0,False,Rep 2
+A-6124,Baltimore-DC,39.07,-77.738,Academia,2700.0,True,Rep 3
+A-6125,New York,40.523,-74.277,Academia,2200.0,False,Rep 4
+A-6126,Seattle,47.681,-123.062,CGT developer,2700.0,False,Rep 1
+A-6127,Baltimore-DC,39.267,-76.363,Biotech,5300.0,True,Rep 3
+A-6128,Minneapolis,45.166,-92.882,Academia,1700.0,True,Rep 2
+A-6129,Bay Area,37.29,-121.971,Academia,4400.0,False,Rep 1
+A-6130,New York,41.37,-74.034,Academia,3700.0,False,Rep 4
+A-6131,San Diego,33.529,-116.72,Pharma,17000.0,False,Rep 2
+A-6132,Bay Area,37.712,-122.671,CGT developer,9000.0,False,Rep 1
+A-6133,Bay Area,37.171,-121.563,CRO,4500.0,False,Rep 1
+A-6134,Chicago,42.373,-87.363,Biotech,4000.0,False,Rep 3
+A-6135,Research Triangle,36.152,-78.362,Academia,1700.0,False,Rep 3
+A-6136,Houston,29.861,-95.934,Core facility,1400.0,False,Rep 2
+A-6137,San Diego,32.585,-116.49,Academia,1200.0,False,Rep 2
+A-6138,New York,40.434,-73.641,CRO,3700.0,False,Rep 4
+A-6139,Research Triangle,35.774,-78.425,Academia,2500.0,False,Rep 3
+A-6140,Seattle,47.609,-122.268,CRO,3800.0,False,Rep 1
+A-6141,Bay Area,37.779,-122.416,Pharma,8700.0,False,Rep 1
+A-6142,Research Triangle,35.988,-79.783,Academia,2300.0,False,Rep 3
+A-6143,Bay Area,37.551,-121.524,Core facility,4300.0,False,Rep 1
+A-6144,Denver,40.172,-105.082,Academia,2400.0,False,Rep 2
+A-6145,Los Angeles,34.964,-117.577,Biotech,11900.0,True,Rep 2
+A-6146,Bay Area,38.246,-122.652,Biotech,5300.0,False,Rep 1
+A-6147,San Diego,32.21,-117.664,CRO,2800.0,False,Rep 2
+A-6148,Los Angeles,33.152,-118.821,Biotech,3000.0,False,Rep 1
+A-6149,Minneapolis,44.295,-93.944,Academia,1200.0,False,Rep 2
+A-6150,Bay Area,38.152,-122.286,Academia,3500.0,False,Rep 1
+A-6151,Denver,39.793,-105.217,CGT developer,5600.0,False,Rep 2
+A-6152,San Diego,32.685,-117.183,Pharma,3900.0,False,Rep 2
+A-6153,Boston,42.015,-70.664,Biotech,4600.0,False,Rep 4
+A-6154,San Diego,31.707,-116.253,Pharma,10000.0,True,Rep 2
+A-6155,Research Triangle,35.988,-79.354,CGT developer,3500.0,True,Rep 3
+A-6156,Chicago,41.528,-88.046,Biotech,1700.0,False,Rep 2
+A-6157,Denver,39.018,-106.621,Pharma,3500.0,True,Rep 2
+A-6158,Cleveland,41.745,-82.029,Academia,1200.0,False,Rep 3
+A-6159,Bay Area,37.55,-121.139,Academia,7400.0,False,Rep 1
+A-6160,Bay Area,37.513,-122.853,Pharma,20400.0,False,Rep 1
+A-6161,Chicago,42.325,-87.121,Academia,2100.0,True,Rep 3
+A-6162,Ann Arbor,42.337,-82.836,Academia,1000.0,False,Rep 3
+A-6163,San Diego,32.669,-116.49,Core facility,1300.0,False,Rep 2
+A-6164,Denver,40.792,-104.414,Academia,2100.0,False,Rep 2
+A-6165,San Diego,32.729,-117.488,Academia,2200.0,False,Rep 2
+A-6166,Boston,43.071,-71.441,Biotech,3800.0,False,Rep 4
+A-6167,San Diego,32.49,-117.622,CRO,11700.0,False,Rep 2
+A-6168,San Diego,33.088,-117.056,Academia,2000.0,False,Rep 2
+A-6169,Boston,41.084,-70.773,Academia,10000.0,True,Rep 4
+A-6170,Baltimore-DC,38.92,-77.934,Academia,1100.0,False,Rep 3
+A-6171,Houston,29.842,-93.29,CRO,3000.0,False,Rep 2
+A-6172,Research Triangle,35.62,-78.421,CGT developer,1800.0,False,Rep 3
+A-6173,San Diego,33.647,-116.192,Academia,2900.0,False,Rep 2
+A-6174,Research Triangle,35.185,-77.916,Biotech,1900.0,False,Rep 3
+A-6175,Seattle,47.043,-123.306,Academia,2000.0,False,Rep 1
+A-6176,Baltimore-DC,38.659,-77.514,CGT developer,13900.0,False,Rep 3
+A-6177,Baltimore-DC,38.931,-77.706,Biotech,2800.0,True,Rep 3
+A-6178,Los Angeles,33.722,-118.675,Biotech,3000.0,False,Rep 1
+A-6179,Boston,41.931,-71.234,Biotech,5000.0,True,Rep 4
+A-6180,Cleveland,41.239,-81.34,Academia,1700.0,False,Rep 3
+A-6181,Los Angeles,34.206,-117.54,CGT developer,5200.0,False,Rep 2
+A-6182,Research Triangle,35.904,-78.931,Pharma,6800.0,False,Rep 3
+A-6183,Boston,43.242,-70.667,Academia,3700.0,False,Rep 4
+A-6184,Chicago,42.301,-87.325,CRO,1500.0,False,Rep 3
+A-6185,Minneapolis,44.578,-93.884,Biotech,4500.0,False,Rep 2
+A-6186,Los Angeles,34.436,-117.743,Academia,2400.0,True,Rep 2
+A-6187,Minneapolis,45.851,-93.033,Core facility,3400.0,False,Rep 2
+A-6188,Philadelphia,38.49,-74.957,Academia,1700.0,False,Rep 3
+A-6189,Boston,43.228,-71.3,Core facility,1000.0,False,Rep 4
+A-6190,Boston,42.035,-70.258,CGT developer,7800.0,False,Rep 4
+A-6191,New York,40.007,-73.235,CGT developer,9000.0,False,Rep 4
+A-6192,Philadelphia,40.105,-74.937,CRO,9800.0,False,Rep 3
+A-6193,San Diego,33.737,-117.575,Pharma,4900.0,False,Rep 2
+A-6194,San Diego,32.339,-116.831,Academia,1200.0,False,Rep 2
+A-6195,Bay Area,36.725,-122.93,Biotech,5100.0,False,Rep 1
+A-6196,Cleveland,40.437,-80.722,Academia,1600.0,False,Rep 3
+A-6197,Bay Area,36.743,-123.276,Biotech,4000.0,False,Rep 1
+A-6198,Los Angeles,34.475,-118.127,CGT developer,6700.0,False,Rep 2
+A-6199,Baltimore-DC,38.403,-76.605,Academia,2300.0,False,Rep 3

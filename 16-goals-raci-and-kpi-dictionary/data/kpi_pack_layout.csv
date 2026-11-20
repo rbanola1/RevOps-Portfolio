@@ -1,0 +1,8 @@
+page,visual,source
+Cumulative revenue by month and quarter,Line,Accounting
+Revenue by month,Column,Accounting
+"Revenue by customer, region, product",Table,Accounting
+Orders by month,Column,Order system
+Opportunities by month,Column,CRM
+Sales funnel by stage,Funnel,CRM
+"Contacts, website visitors, followers",Trend,"CRM, web, social"

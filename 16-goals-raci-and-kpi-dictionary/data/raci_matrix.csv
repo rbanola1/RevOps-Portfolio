@@ -1,0 +1,13 @@
+process,Commercial ops,Sales,Marketing,Support,Finance,Product,Operations,CEO
+Lead capture and routing,R,C,A,I,-,-,-,-
+Lead scoring and lifecycle rules,A,C,R,-,-,-,-,I
+Quote to order,A,R,-,C,C,-,C,-
+Order to cash and invoicing,R,I,-,C,A,-,C,-
+Pricing and discount approval,R,C,-,-,C,C,-,A
+Channel partner onboarding,A,R,C,-,C,I,C,I
+Forecast and budget,R,C,C,-,A,-,C,I
+KPI pack and weekly report,A,C,C,C,C,-,C,I
+Support ticket handling,C,I,-,A,-,C,C,-
+Voice of customer to product,R,C,C,C,-,A,-,I
+Event planning and return,C,C,A,-,C,-,R,I
+Territory and quota,R,C,-,-,C,-,-,A

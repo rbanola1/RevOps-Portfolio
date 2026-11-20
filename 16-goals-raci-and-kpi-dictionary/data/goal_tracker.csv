@@ -1,0 +1,23 @@
+goal,type,priority,lead,due,status,year
+Reach annual revenue goal,Company goal,1,CEO,Q4,On track,2026
+"Generate 1,600 leads at 1% conversion",Company goal,1,Commercial ops,Q4,On track,2026
+Set up distributor network,Company goal,1,Business development,Q3,Completed,2026
+Launch product line A,Company goal,1,Product,Q2,Completed,2026
+Launch product line B,Company goal,1,Product,Q3,Completed,2026
+Launch product line C,Company goal,1,Product,Q3,Under review,2026
+Launch product line D,Company goal,2,Product,Q4,Not started,2026
+Relaunch two existing products,Department goal,1,R&D,Q4,Not started,2026
+Hire technical account manager,Department goal,1,CEO,Q4,Completed,2026
+Partnering financial model and forecast,Department goal,1,Business development,Q3,Not started,2026
+Weekly sales report,Commercial system,1,Commercial ops,Q3,Completed,2026
+Sales performance dashboard,Commercial system,1,Commercial ops,Q4,Completed,2026
+CRM and accounting integration,Commercial system,1,Commercial ops,Q3,Completed,2026
+Billing and BI integration,Commercial system,1,Commercial ops,Q3,Cancelled,2026
+Service Hub and ticketing,Commercial system,1,Support lead,Q3,Completed,2026
+Roles and responsibilities matrix,Commercial system,3,Commercial ops,Q3,Under review,2026
+Voice of customer organisation,Commercial system,3,Commercial ops,Q4,Completed,2026
+"Shipping cost model, version 2",Commercial system,1,Commercial ops,Q3,Completed,2026
+Packaging redesign,Operations project,2,Operations,Q4,Completed,2026
+Quality management system,Operations goal,1,Operations,Q4,On track,2026
+Inventory management system,Operations goal,1,Operations,Q4,On track,2026
+Stage-gate framework,Company goal,1,Product,Q4,On track,2026

@@ -20,5 +20,7 @@ By [Rishabh Banola](https://github.com/rbanola1) · see the [profile](https://gi
 | 12 | [Trade show budget and return: cost per lead, payback, repeat or drop](12-tradeshow-budget-and-return) |
 | 13 | [CRM migration, backup and data governance](13-crm-migration-and-data-governance) |
 | 14 | [Partner onboarding and pricing governance](14-partner-onboarding-and-pricing-governance) |
+| 15 | [Territory design, quota setting and compensation plan](15-territory-and-quota-design) |
+| 16 | [Commercial operating system: goal tracker, RACI matrix and KPI dictionary](16-goals-raci-and-kpi-dictionary) |
 
 Each project has a README (problem, approach, result), diagrams, synthetic data and a script that regenerates it.

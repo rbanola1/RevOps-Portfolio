@@ -1,0 +1,10 @@
+item,value
+On-target earnings per rep,150000
+Base salary (60%),90000.0
+Target variable (40%),60000.0
+Commission rate at 100% of quota,6.6%
+Accelerator above 100% attainment,"1.5x to 150%, 2x beyond"
+Rate below 50% of quota,0.5x
+"Average cost of sales (pay / revenue), simulated",14.8%
+Share of reps paid above target,55%
+Share of reps paid under 70% of target variable,36%

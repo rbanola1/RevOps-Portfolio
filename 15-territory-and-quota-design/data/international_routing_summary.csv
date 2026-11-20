@@ -1,0 +1,11 @@
+country_group,final_route,accounts,potential
+Canada,Rep 1 or Rep 4 by province group,110,199000.0
+"China, Singapore, Australia",Distributor,90,152800.0
+"Germany, France, Benelux","Direct rep, with distributor informed",2,11400.0
+"Germany, France, Benelux",Distributor,138,289700.0
+Japan and Korea,"Direct rep, with distributor informed",2,11600.0
+Japan and Korea,Distributor,78,153100.0
+Nordics and Switzerland,"Direct rep, with distributor informed",4,25500.0
+Nordics and Switzerland,Distributor,56,141000.0
+Rest of world,"Inside sales queue, quote only",50,52100.0
+United Kingdom and Ireland,Distributor,90,177200.0
