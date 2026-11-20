@@ -17,7 +17,7 @@ Channel growth meant more partners, each with its own forms, price sheets and ca
 | Finding | Evidence |
 |---|---|
 | Government marketplaces take about twice as long | The slowest onboarding is 114 days against 53 to 70 for distributors and commercial marketplaces; agreement review (about 24 days on average) and the catalog sheet (14 days) are the longest steps |
-| The audit takes accuracy from 73% to 100% | 47 of 64 listings matched the master on the first check; the other 17 (price, pack size, SKU or lead time) were corrected, so every listing matched at launch |
+| Every listing is verified before launch | The audit compares each partner listing with the master on SKU, price, pack size and lead time, and corrections are made before go-live, so listings match at launch |
 | Most fixes are simple | Price (7) and pack size (5) account for most corrections, so a standard pricing sheet prevents most of them |
 | One partner stands out | One distributor scores 88 against 34 to 58 for the rest; three partners fall into the review tier |
 | Fixes are targeted | Three partners account for 10 of the 17 corrections, so training and checklists go where they matter most |

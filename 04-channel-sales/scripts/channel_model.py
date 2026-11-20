@@ -73,7 +73,7 @@ funnel.to_csv(DATA / "distributor_funnel.csv", header=["distributors"])
 # =====================================================================
 N_SKU = 36
 master = pd.DataFrame({
-    "sku": [f"AUR-{1000 + i}" for i in range(N_SKU)],
+    "sku": [f"RBT-{1000 + i}" for i in range(N_SKU)],
     "name": [f"RB Tech {k} {i:02d}" for i, k in enumerate(rng.choice(
         ["Progenitor Cells", "Endothelial Cells", "Media Kit", "Small Molecule"], N_SKU))],
     "unit_price": rng.choice([100, 199, 270, 600, 750, 1200], N_SKU).astype(float),
@@ -104,7 +104,7 @@ for p, spec in PLATFORMS.items():
     feeds[p] = f
 
 # inject realistic errors so the checker has something to find
-feeds["LabBazaar"].loc[3, "sku"] = "AUR-1003-B"                 # different SKU for same product
+feeds["LabBazaar"].loc[3, "sku"] = "RBT-1003-B"                 # different SKU for same product
 feeds["GovLab Supply"].loc[10, "list_price"] *= 1.10                 # price drift
 feeds["AssayExchange"].loc[17, "unspsc"] = "99999999"                  # wrong code
 feeds["ProcureLink"].loc[22, "lead_time_weeks"] = 8               # lead time mismatch
@@ -176,13 +176,11 @@ ax[0].bar(tc.index, tc.values, color=[TEAL, GOLD, GREY])
 ax[0].set(title="Distributor candidates by score tier", ylabel="distributors")
 ax[1].barh(funnel.index[::-1], funnel.values[::-1], color=[GREY, RED, TEAL, BLUE, GOLD][::-1][:len(funnel)])
 ax[1].set(title="Distributor pipeline by stage")
-tot_l = sum(len(f) for f in feeds.values())
-ok_first = tot_l - len(disc)
-vals_ = [tot_l, ok_first, tot_l]
-ax[2].bar(["Checked", "Matched first time", "After fixes"], vals_, color=[GREY, GOLD, TEAL])
-for i_, v_ in enumerate(vals_):
-    ax[2].text(i_, v_ + 1, f"{v_} ({v_ / tot_l:.0%})", ha="center", weight="bold")
-ax[2].set(title="Pre-launch audit: every listing verified against the master", ylabel="listings")
+cnt = pd.Series({p_: len(f_) for p_, f_ in feeds.items()}).sort_values()
+ax[2].barh(cnt.index, cnt.values, color=TEAL)
+for y_, v_ in enumerate(cnt.values):
+    ax[2].text(v_ + .5, y_, str(v_), va="center", fontsize=9)
+ax[2].set(title="Products listed per marketplace (all verified against the master)", xlabel="listings")
 ax[3].stackplot(plan.quarter, plan.direct_revenue / 1000, plan.distributor_rev / 1000,
                 plan.marketplace_rev / 1000, labels=["Direct", "Distributor", "Marketplace"],
                 colors=[BLUE, TEAL, GOLD], alpha=.9)

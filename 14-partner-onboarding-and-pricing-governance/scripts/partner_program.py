@@ -95,14 +95,14 @@ tc = {"Grow": TEAL, "Maintain": GOLD, "Review": RED}
 s2 = sc.sort_values("score")
 ax[0, 1].barh(s2.partner, s2.score, color=[tc[t] for t in s2.tier])
 ax[0, 1].set(title="Partner scorecard (0 to 100; green grow, gold maintain, red review)", xlabel="score")
-v3 = [len(cat), len(cat) - len(issues), len(cat)]
-ax[1, 0].bar(["Checked", "Matched first time", "After fixes"], v3, color=[GREY, GOLD, TEAL])
-for i_, v_ in enumerate(v3):
-    ax[1, 0].text(i_, v_ + .8, f"{v_} ({v_ / len(cat):.0%})", ha="center", weight="bold")
-ax[1, 0].set(title="Catalog audit: listings verified against the master", ylabel="listings")
-acc_p = (100 - by_partner).sort_values()
-ax[1, 1].barh(acc_p.index, acc_p.values, color=[TEAL if v >= 75 else GOLD for v in acc_p.values])
-ax[1, 1].set(title="Listings matching the master on first check, by partner", xlabel="%")
+typ = ob.groupby("type").total_days.mean().round(0).sort_values()
+ax[1, 0].barh(typ.index, typ.values, color=BLUE)
+for y_, v_ in enumerate(typ.values):
+    ax[1, 0].text(v_ + 1, y_, f"{v_:.0f} days", va="center")
+ax[1, 0].set(title="Average onboarding time by partner type", xlabel="days")
+rv = sc.sort_values("revenue_12m")
+ax[1, 1].barh(rv.partner, rv.revenue_12m / 1000, color=TEAL)
+ax[1, 1].set(title="Partner revenue, last 12 months ($K)", xlabel="$K")
 fig.tight_layout(rect=[0, 0, 1, .95])
 fig.savefig(CHARTS / "partner_program_dashboard.png", dpi=125)
 print("done")

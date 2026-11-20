@@ -152,10 +152,9 @@ ax[0, 1].set(title="Revenue by rep", xlabel="$K")
 stages = ["Lead", "MQL", "SQL", "Opportunity", "Customer"]
 vals = [n_lead, n_mql, n_sql, n_opp, n_cust]
 ax[0, 2].barh(stages[::-1], vals[::-1], color=[GOLD, GOLD, BLUE, BLUE, BLUE][::-1])
-ax[0, 2].set_xscale("log")
 for y, v in enumerate(vals[::-1]):
-    ax[0, 2].text(v * 1.1, y, f"{v:,}", va="center")
-ax[0, 2].set(title=f"Funnel (log scale) | lead to customer {kpi['lead_to_customer']:.3%}")
+    ax[0, 2].text(v + max(vals) * .01, y, f"{v:,}", va="center")
+ax[0, 2].set(title=f"Funnel from lead to customer | lead to customer {kpi['lead_to_customer']:.3%}")
 
 s = deals.groupby("deal_source").amount.sum().sort_values()
 ax[1, 0].barh(s.index, s.values / 1000, color=GOLD)

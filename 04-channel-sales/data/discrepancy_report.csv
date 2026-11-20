@@ -1,7 +1,7 @@
 platform,sku,issue,platform_value,master_value
-LabBazaar,AUR-1003,SKU differs from master,AUR-1003-B,AUR-1003
-ProcureLink,AUR-1022,Lead time differs from master,8,1
-GovLab Supply,AUR-1010,Price differs from master,218.9,199.0
-AssayExchange,AUR-1017,UNSPSC differs from master,99999999,41106500
-AssayExchange,AUR-1012-DUP,SKU differs from master,AUR-1012-DUP,AUR-1012-DUP
-AssayExchange,"AUR-1012, AUR-1012-DUP",Duplicate listing of the same product,2,1
+LabBazaar,RBT-1003,SKU differs from master,RBT-1003-B,RBT-1003
+ProcureLink,RBT-1022,Lead time differs from master,8,1
+GovLab Supply,RBT-1010,Price differs from master,218.9,199.0
+AssayExchange,RBT-1017,UNSPSC differs from master,99999999,41106500
+AssayExchange,RBT-1012-DUP,SKU differs from master,RBT-1012-DUP,RBT-1012-DUP
+AssayExchange,"RBT-1012, RBT-1012-DUP",Duplicate listing of the same product,2,1

@@ -111,12 +111,11 @@ ax[0].set(title=f"Revenue target by channel (\${TARGET/1000:,.0f}K, {WINS_NEEDED
 f = plan[plan.sql.notna()]
 stages = ["wins", "deals", "sql"]
 x = np.arange(len(f))
-ax[1].barh(f.channel, f.sql, color=GOLD, label="SQL")
-ax[1].barh(f.channel, f.deals, color=TEAL, label="Deals")
-ax[1].barh(f.channel, f.wins, color=BLUE, label="Wins")
-ax[1].set_xscale("log")
-ax[1].legend(fontsize=8)
-ax[1].set(title="Reverse funnel per channel (log scale)", xlabel="count")
+per_win = (f.sql / f.wins.replace(0, np.nan)).round(1)
+ax[1].barh(f.channel, per_win, color=BLUE)
+for y_, v_ in enumerate(per_win):
+    ax[1].text(v_ + .3, y_, f"{v_:g}", va="center", fontsize=8)
+ax[1].set(title="Qualified leads (SQL) needed per win, by channel", xlabel="SQL per win")
 colors = np.where(val.within_capacity, TEAL, RED)
 v = val.sort_values("deal_to_win")
 ax[2].barh(v.channel, v.deal_to_win * 100, color=[TEAL if w else RED for w in v.within_capacity])

@@ -153,8 +153,10 @@ ax[0].text(0.5, TIER_LIMIT * 1.01, f"tier limit {TIER_LIMIT:,}", ha="center")
 ax[0].set(title="Marketing-contact tier", ylabel="contacts")
 a = df.action.value_counts().reindex(["Keep", "Demote to non-marketing", "Promote to marketing"]).fillna(0)
 ax[1].barh(["Keep", "Demote", "Promote"][::-1], a.values[::-1], color=[GREY, RED, TEAL][::-1])
-ax[1].set_xscale("log")
-ax[1].set(title="Cleanup actions (log scale)")
+for y_, v_ in enumerate(a.values[::-1]):
+    ax[1].text(v_ + a.values.max() * .01, y_, f"{int(v_):,}", va="center")
+ax[1].set(title="Cleanup actions (contacts)", xlabel="contacts")
+ax[1].set_xlim(0, a.values.max() * 1.18)
 ax[2].bar(["Industry\nbefore", "Segment\nafter"], [cover_before * 100, cover_after * 100], color=[GOLD, BLUE])
 ax[2].set(title="Classified contacts (%)", ylim=(0, 100))
 for i, v in enumerate([cover_before * 100, cover_after * 100]):
