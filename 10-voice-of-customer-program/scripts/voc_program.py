@@ -96,7 +96,7 @@ fig.suptitle("RB Tech | Voice of customer after trade shows (synthetic data)", f
 cols = plt.cm.tab20(np.linspace(0, 1, len(ev_theme.columns)))
 bottom = np.zeros(len(ev_theme))
 for c, col in zip(ev_theme.columns, cols):
-    ax[0, 0].barh([e[:24] for e in ev_theme.index], ev_theme[c], left=bottom, color=col, label=c)
+    ax[0, 0].barh([e[:30] for e in ev_theme.index], ev_theme[c], left=bottom, color=col, label=c)
     bottom += ev_theme[c].values
 ax[0, 0].legend(fontsize=6, loc="lower right", ncol=1)
 ax[0, 0].set(title="VOC entries by event and theme", xlabel="entries")
@@ -120,7 +120,7 @@ ax[1, 1].set(title="Product requests by product area", xlabel="requests")
 x = np.arange(len(ev_roi))
 ax[1, 2].bar(x - .2, ev_roi.lead_rate * 100, .4, color=GOLD, label="Became a lead")
 ax[1, 2].bar(x + .2, ev_roi.deal_rate * 100, .4, color=TEAL, label="Became a deal")
-ax[1, 2].set_xticks(x, [e[:14] for e in ev_roi.index], rotation=35, ha="right", fontsize=7)
+ax[1, 2].set_xticks(x, [e[:24] for e in ev_roi.index], rotation=35, ha="right", fontsize=7)
 ax[1, 2].legend(fontsize=8)
 ax[1, 2].set(title="Follow-up conversion by event (% of VOC entries)", ylabel="%")
 fig.tight_layout(rect=[0, 0, 1, .95])
