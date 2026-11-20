@@ -26,7 +26,7 @@ TEMPLATES = {
     "Spam": ["unsubscribe me now", "seo services for your website", "congratulations you won a prize",
              "buy followers cheap", "guest post offer", "domain expiry notice"],
     "General inquiry": ["do you ship internationally", "where can I find your catalogue", "general question about products"],
-    "Pre-sale support": ["quote for endothelial cells please", "pricing for 5 vials", "can I get a sample before ordering",
+    "Pre-sale support": ["quote for cell line A please", "pricing for 5 vials", "can I get a sample before ordering",
                          "bulk discount for academic lab"],
     "Order and shipping": ["where is my order", "tracking number not working", "package arrived thawed", "change delivery address"],
     "Technical support": ["cells not attaching after thaw", "protocol question for differentiation", "media storage conditions",

@@ -75,7 +75,7 @@ N_SKU = 36
 master = pd.DataFrame({
     "sku": [f"RBT-{1000 + i}" for i in range(N_SKU)],
     "name": [f"RB Tech {k} {i:02d}" for i, k in enumerate(rng.choice(
-        ["Progenitor Cells", "Endothelial Cells", "Media Kit", "Small Molecule"], N_SKU))],
+        ["Cell Line B", "Cell Line A", "Media Kit", "Compound Set"], N_SKU))],
     "unit_price": rng.choice([100, 199, 270, 600, 750, 1200], N_SKU).astype(float),
     "pack_size": rng.choice(["10 mg", "1x10^6 cells", "1 kit", "5 mg"], N_SKU),
     "lead_time_weeks": rng.choice([1, 2, 4], N_SKU),

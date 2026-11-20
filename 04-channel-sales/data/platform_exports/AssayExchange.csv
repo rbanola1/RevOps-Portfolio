@@ -1,38 +1,38 @@
 sku,name,price,uom,unspsc,lead_time_weeks
-RBT-1000,RB Tech Small Molecule 00,270.0,mg,41106500,1
-RBT-1001,RB Tech Small Molecule 01,270.0,mg,51111800,1
-RBT-1002,RB Tech Progenitor Cells 02,600.0,kit,51111800,2
-RBT-1003,RB Tech Small Molecule 03,270.0,kit,12352200,2
-RBT-1004,RB Tech Endothelial Cells 04,750.0,kit,51111800,1
-RBT-1005,RB Tech Small Molecule 05,199.0,mg,41116000,1
+RBT-1000,RB Tech Compound Set 00,270.0,mg,41106500,1
+RBT-1001,RB Tech Compound Set 01,270.0,mg,51111800,1
+RBT-1002,RB Tech Cell Line B 02,600.0,kit,51111800,2
+RBT-1003,RB Tech Compound Set 03,270.0,kit,12352200,2
+RBT-1004,RB Tech Cell Line A 04,750.0,kit,51111800,1
+RBT-1005,RB Tech Compound Set 05,199.0,mg,41116000,1
 RBT-1006,RB Tech Media Kit 06,270.0,mg,41116000,1
-RBT-1007,RB Tech Small Molecule 07,270.0,mg,41116000,2
+RBT-1007,RB Tech Compound Set 07,270.0,mg,41116000,2
 RBT-1008,RB Tech Media Kit 08,199.0,mg,51111800,1
 RBT-1009,RB Tech Media Kit 09,750.0,kit,12352200,2
 RBT-1010,RB Tech Media Kit 10,199.0,kit,41116000,2
-RBT-1011,RB Tech Small Molecule 11,199.0,mg,12352200,2
+RBT-1011,RB Tech Compound Set 11,199.0,mg,12352200,2
 RBT-1012,RB Tech Media Kit 12,750.0,kit,51111800,4
-RBT-1013,RB Tech Progenitor Cells 13,1200.0,kit,12352200,2
-RBT-1014,RB Tech Small Molecule 14,750.0,kit,12352200,4
+RBT-1013,RB Tech Cell Line B 13,1200.0,kit,12352200,2
+RBT-1014,RB Tech Compound Set 14,750.0,kit,12352200,4
 RBT-1015,RB Tech Media Kit 15,1200.0,mg,41106500,4
-RBT-1016,RB Tech Endothelial Cells 16,1200.0,kit,41116000,4
+RBT-1016,RB Tech Cell Line A 16,1200.0,kit,41116000,4
 RBT-1017,RB Tech Media Kit 17,270.0,mg,99999999,4
-RBT-1018,RB Tech Small Molecule 18,750.0,kit,41106500,2
-RBT-1019,RB Tech Small Molecule 19,199.0,mg,41116000,2
-RBT-1020,RB Tech Small Molecule 20,270.0,mg,51111800,1
-RBT-1021,RB Tech Endothelial Cells 21,600.0,mg,12352200,2
-RBT-1022,RB Tech Small Molecule 22,1200.0,mg,51111800,1
-RBT-1023,RB Tech Endothelial Cells 23,1200.0,mg,12352200,4
+RBT-1018,RB Tech Compound Set 18,750.0,kit,41106500,2
+RBT-1019,RB Tech Compound Set 19,199.0,mg,41116000,2
+RBT-1020,RB Tech Compound Set 20,270.0,mg,51111800,1
+RBT-1021,RB Tech Cell Line A 21,600.0,mg,12352200,2
+RBT-1022,RB Tech Compound Set 22,1200.0,mg,51111800,1
+RBT-1023,RB Tech Cell Line A 23,1200.0,mg,12352200,4
 RBT-1024,RB Tech Media Kit 24,270.0,vial,41106500,4
 RBT-1025,RB Tech Media Kit 25,600.0,kit,51111800,1
-RBT-1026,RB Tech Progenitor Cells 26,199.0,vial,41106500,4
-RBT-1027,RB Tech Endothelial Cells 27,750.0,mg,51111800,1
-RBT-1028,RB Tech Progenitor Cells 28,600.0,mg,41116000,4
-RBT-1029,RB Tech Progenitor Cells 29,600.0,mg,41116000,1
-RBT-1030,RB Tech Endothelial Cells 30,750.0,mg,12352200,2
-RBT-1031,RB Tech Endothelial Cells 31,600.0,mg,41116000,2
-RBT-1032,RB Tech Progenitor Cells 32,100.0,mg,51111800,4
-RBT-1033,RB Tech Endothelial Cells 33,199.0,vial,12352200,2
+RBT-1026,RB Tech Cell Line B 26,199.0,vial,41106500,4
+RBT-1027,RB Tech Cell Line A 27,750.0,mg,51111800,1
+RBT-1028,RB Tech Cell Line B 28,600.0,mg,41116000,4
+RBT-1029,RB Tech Cell Line B 29,600.0,mg,41116000,1
+RBT-1030,RB Tech Cell Line A 30,750.0,mg,12352200,2
+RBT-1031,RB Tech Cell Line A 31,600.0,mg,41116000,2
+RBT-1032,RB Tech Cell Line B 32,100.0,mg,51111800,4
+RBT-1033,RB Tech Cell Line A 33,199.0,vial,12352200,2
 RBT-1034,RB Tech Media Kit 34,199.0,kit,41106500,4
-RBT-1035,RB Tech Progenitor Cells 35,750.0,kit,12352200,4
+RBT-1035,RB Tech Cell Line B 35,750.0,kit,12352200,4
 RBT-1012-DUP,RB Tech Media Kit 12,750.0,kit,51111800,4

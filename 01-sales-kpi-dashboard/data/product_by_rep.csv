@@ -1,7 +1,7 @@
 product,Avery Stone,Casey Lund,Jordan Pike
-Endothelial Cells 1x10^6,1500.0,3000.0,12450.0
-Expansion Medium Kit,945.25,1890.5,2208.8999999999996
-Neural Media Kit,7200.0,0.0,4320.0
-Progenitor Cells 1x10^6,16830.0,3990.0,0.0
-Small Molecule 10mg,0.0,1540.0,280.0
-Vascular Media Kit,0.0,540.0,4765.5
+Cell Line A 1x10^6,1500.0,3000.0,12450.0
+Cell Line B 1x10^6,16830.0,3990.0,0.0
+Compound Set 10mg,0.0,1540.0,280.0
+Growth Medium Kit,945.25,1890.5,2208.8999999999996
+Media Kit C,7200.0,0.0,4320.0
+Media Kit D,0.0,540.0,4765.5

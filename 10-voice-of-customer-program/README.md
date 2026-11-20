@@ -29,9 +29,9 @@ Customer feedback arrived in booth conversations, support tickets, surveys and e
 | Finding | Evidence |
 |---|---|
 | Academia is the loudest voice | Most entries come from academic contacts, with product performance and product requests the top themes |
-| One product area is trusted, one is a problem | Endothelial cells have the best average sentiment; the expansion medium has the worst |
+| One product area is trusted, one is a problem | Cell Line A have the best average sentiment; the growth medium has the worst |
 | One competitor dominates the conversation | One vendor is mentioned about 60% more often than the next |
-| Small molecules lead the requests | Customers ask for new small-molecule products more than for any other area |
+| Compound Sets lead the requests | Customers ask for new small-molecule products more than for any other area |
 | One in three entries is negative | 34% carry negative sentiment, mostly documentation, pricing and evidence objections |
 | Events differ widely in follow-up value | The stem cell summit turned 52% of entries into leads and 15% into deals; webinars turned 20% into leads and 3% into deals |
 | Testimonials are available | 57 entries are testimonials, each flagged for a permission request |

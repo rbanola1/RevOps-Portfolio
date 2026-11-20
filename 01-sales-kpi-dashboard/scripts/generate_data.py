@@ -26,9 +26,9 @@ SOURCES = {  # name: (share of deals, relative win rate)
     "Webinars": (0.08, 0.8), "Referral/Other": (0.07, 1.6), "Launch Campaigns": (0.05, 1.3),
 }
 PRODUCTS = {  # name: unit price (USD, invented)
-    "Progenitor Cells 1x10^6": 600, "Endothelial Cells 1x10^6": 750,
-    "Neural Media Kit": 1200, "Vascular Media Kit": 270,
-    "Small Molecule 10mg": 100, "Expansion Medium Kit": 199, "Custom Project": 50000,
+    "Cell Line B 1x10^6": 600, "Cell Line A 1x10^6": 750,
+    "Media Kit C": 1200, "Media Kit D": 270,
+    "Compound Set 10mg": 100, "Growth Medium Kit": 199, "Custom Project": 50000,
 }
 CUSTOMERS = [f"{a} {b}" for a in ["Northbridge", "Lakeshore", "Summit", "Harbor", "Cedar", "Ridgeway",
                                   "Evergreen", "Bluestone", "Meridian", "Granite", "Willow", "Atlas"]

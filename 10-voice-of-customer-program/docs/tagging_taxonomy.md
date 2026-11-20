@@ -17,7 +17,7 @@
 Academia · Biotech · Pharma · CRO · CGT developer · Hospital · Core facility · Nonprofit foundation · Government · Distributor
 
 ## Other tags
-- **Product area:** endothelial cells, progenitor cells, neural media kit, small molecules, expansion medium, custom services.
+- **Product area:** cell line A, cell line B, neural media kit, compound sets, growth medium, custom services.
 - **Competitor:** named vendor or in-house protocol.
 - **Sentiment:** -2 very negative, -1 negative, 0 neutral, +1 positive, +2 very positive.
 - **Source:** booth conversation, support ticket, survey, email, webinar question.

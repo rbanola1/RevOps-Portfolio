@@ -1,7 +1,7 @@
 product,Canada,Europe,United States
-Endothelial Cells 1x10^6,2700.0,0.0,14250.0
-Expansion Medium Kit,189.05,0.0,4855.6
-Neural Media Kit,0.0,0.0,11520.0
-Progenitor Cells 1x10^6,0.0,2850.0,17970.0
-Small Molecule 10mg,0.0,0.0,1820.0
-Vascular Media Kit,0.0,0.0,5305.5
+Cell Line A 1x10^6,2700.0,0.0,14250.0
+Cell Line B 1x10^6,0.0,2850.0,17970.0
+Compound Set 10mg,0.0,0.0,1820.0
+Growth Medium Kit,189.05,0.0,4855.6
+Media Kit C,0.0,0.0,11520.0
+Media Kit D,0.0,0.0,5305.5

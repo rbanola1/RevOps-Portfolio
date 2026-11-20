@@ -32,7 +32,7 @@ SEGMENTS = {"Academia": .38, "Biotech": .17, "Pharma": .09, "CRO": .09, "CGT Dev
 THEMES = {"Product performance": .17, "Documentation": .08, "Pricing and quotes": .14, "Delivery and logistics": .09,
           "Application support": .12, "Competitor information": .10, "Product request": .14, "Testimonial": .08,
           "Objection: evidence or data": .08}
-PRODUCTS = ["Endothelial cells", "Progenitor cells", "Neural media kit", "Small molecules", "Expansion medium", "Custom services"]
+PRODUCTS = ["Cell Line A", "Cell Line B", "Media Kit C", "Compound Sets", "Growth Medium", "Custom services"]
 COMPETITORS = ["Vendor Alpha", "Vendor Beta", "Vendor Gamma", "Vendor Delta", "In-house protocol"]
 SOURCES = {"Booth conversation": .55, "Support ticket": .17, "Customer survey": .13, "Email": .10, "Webinar question": .05}
 

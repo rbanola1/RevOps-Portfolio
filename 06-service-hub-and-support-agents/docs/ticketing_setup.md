@@ -55,7 +55,7 @@ If we reply but still owe a follow-up, switch the ticket back to "waiting on us"
 Scripted question lists guide technical support so answers are consistent.
 
 ## Naming convention
-`<customer> - <product> - <order or lot number> <type>`, for example "Northbridge Lab - Endothelial Cells - #1243 Refund".
+`<customer> - <product> - <order or lot number> <type>`, for example "Northbridge Lab - Cell Line A - #1243 Refund".
 
 ## Measurement
 Ticket volume by category (excluding spam), first-response SLA met, time to close, backlog by status, customer effort score from the survey sent on closure, tickets per product group for voice-of-customer review.

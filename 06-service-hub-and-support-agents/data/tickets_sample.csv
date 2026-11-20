@@ -39,7 +39,7 @@ T41660,General inquiry,general question about products,2026-02-19 11:00:00,Insid
 T40199,Spam,buy followers cheap,2026-02-06 13:00:00,Auto-closed,1.7225093806809637,1.2139437309962966,1,False,,Spam,0.75,True,True
 T41231,Order and shipping,change delivery address,2026-07-24 18:00:00,Inside sales,6.736260877305408,1.36738399791995,8,True,6.0,Order and shipping,0.75,True,True
 T41302,Spam,guest post offer,2026-03-19 21:00:00,Auto-closed,0.37491987703897867,0.6557882162329359,1,True,,Spam,0.75,True,True
-T41589,Pre-sale support,quote for endothelial cells please,2026-03-21 21:00:00,Outside rep,6.635490595167045,3.1586998763089524,4,False,4.7,Pre-sale support,0.75,True,True
+T41589,Pre-sale support,quote for cell line A please,2026-03-21 21:00:00,Outside rep,6.635490595167045,3.1586998763089524,4,False,4.7,Pre-sale support,0.75,True,True
 T40316,Spam,guest post offer,2026-07-22 03:00:00,Auto-closed,1.5489906978457604,0.06890954612790677,1,False,,Spam,0.75,True,True
 T41519,Spam,unsubscribe me now,2026-03-01 21:00:00,Auto-closed,2.502646927487363,1.0572983442816235,1,False,,Spam,0.75,True,True
 T40101,Spam,unsubscribe me now,2026-10-05 19:00:00,Auto-closed,0.06503493600700927,0.19027208182106742,1,True,,Spam,0.75,True,True
@@ -67,7 +67,7 @@ T42216,Spam,guest post offer,2026-03-29 21:00:00,Auto-closed,0.5093034696155807,
 T42244,Spam,buy followers cheap,2026-07-17 16:00:00,Auto-closed,0.17142269915379355,0.13987988276645227,1,True,,Spam,0.75,True,True
 T40349,Pre-sale support,can I get a sample before ordering,2026-07-12 05:00:00,Outside rep,1.9705614194857433,2.208934303836048,4,True,5.6,Pre-sale support,0.6,False,True
 T42079,Spam,guest post offer,2026-05-30 17:00:00,Auto-closed,0.5940598958159052,1.5567611155841894,1,True,,Spam,0.75,True,True
-T40770,Pre-sale support,quote for endothelial cells please,2026-07-11 12:00:00,Outside rep,1.7969807655213514,2.280385027858858,4,True,4.6,Pre-sale support,0.75,True,True
+T40770,Pre-sale support,quote for cell line A please,2026-07-11 12:00:00,Outside rep,1.7969807655213514,2.280385027858858,4,True,4.6,Pre-sale support,0.75,True,True
 T41133,Spam,congratulations you won a prize,2026-10-11 19:00:00,Auto-closed,0.4263012107529343,0.27356610301283857,1,True,,Spam,0.75,True,True
 T42130,Order and shipping,change delivery address,2026-10-06 14:00:00,Inside sales,3.8398006873028345,1.8918179131324098,8,True,5.2,Order and shipping,0.75,True,True
 T42234,Spam,guest post offer,2026-08-16 12:00:00,Auto-closed,0.4377864008853966,0.16443946764443204,1,True,,Spam,0.75,True,True
@@ -85,7 +85,7 @@ T42093,Technical support,media storage conditions,2026-06-27 01:00:00,Technical 
 T40537,Spam,domain expiry notice,2026-01-24 04:00:00,Auto-closed,0.8153652539013885,0.67719072169629,1,True,,Spam,0.75,True,True
 T42160,Spam,buy followers cheap,2026-05-30 10:00:00,Auto-closed,0.45746153933615885,0.4418510967682531,1,True,,Spam,0.75,True,True
 T42276,Spam,buy followers cheap,2026-03-30 08:00:00,Auto-closed,2.0798762221259732,0.40907569641927743,1,False,,Spam,0.75,True,True
-T42279,Pre-sale support,quote for endothelial cells please,2026-01-14 13:00:00,Outside rep,3.112763685972466,5.408878172475132,4,True,6.0,Pre-sale support,0.75,True,True
+T42279,Pre-sale support,quote for cell line A please,2026-01-14 13:00:00,Outside rep,3.112763685972466,5.408878172475132,4,True,6.0,Pre-sale support,0.75,True,True
 T40501,Spam,buy followers cheap,2026-03-18 00:00:00,Auto-closed,1.2913484453737147,0.6132095155427774,1,False,,Spam,0.75,True,True
 T41764,Collaboration inquiry,partnership opportunity,2026-09-17 05:00:00,Business development,12.258784695045778,0.9423697650440386,48,True,5.8,Collaboration inquiry,0.6,False,True
 T40568,Spam,congratulations you won a prize,2026-08-23 01:00:00,Auto-closed,0.6776319284977157,0.12747919888408502,1,True,,Documentation request,0.5304164844178944,False,False
@@ -99,12 +99,12 @@ T40721,Order and shipping,package arrived thawed,2026-07-30 07:00:00,Inside sale
 T40329,Spam,seo services for your website,2026-06-27 16:00:00,Auto-closed,0.49262850954855936,0.0489693319338525,1,True,,Spam,0.75,True,True
 T40564,General inquiry,general question about products,2026-01-09 00:00:00,Inside sales,48.63558006648463,2.9011210211331346,24,False,5.7,General inquiry,0.75,True,True
 T40642,Order and shipping,change delivery address,2026-06-15 10:00:00,Inside sales,3.851643320733776,0.4789559096994466,8,True,3.8,Order and shipping,0.75,True,True
-T41939,Pre-sale support,quote for endothelial cells please,2026-10-01 08:00:00,Outside rep,2.916935184549956,1.3814715660367487,4,True,6.5,Pre-sale support,0.75,True,True
+T41939,Pre-sale support,quote for cell line A please,2026-10-01 08:00:00,Outside rep,2.916935184549956,1.3814715660367487,4,True,6.5,Pre-sale support,0.75,True,True
 T40598,Spam,congratulations you won a prize,2026-11-19 15:00:00,Auto-closed,0.4347470447720473,0.5572855494704647,1,True,,Spam,0.75,True,True
 T41718,General inquiry,where can I find your catalogue,2026-01-28 13:00:00,Inside sales,12.187922251782062,3.0048071211841116,24,True,4.8,General inquiry,0.75,True,True
 T40503,Spam,domain expiry notice,2026-01-10 13:00:00,Auto-closed,1.7041628611012145,2.709311022744025,1,False,,Spam,0.75,True,True
 T42269,Spam,domain expiry notice,2026-02-14 22:00:00,Auto-closed,2.044448037576962,1.046187847839749,1,False,,Spam,0.75,True,True
-T41044,Pre-sale support,quote for endothelial cells please,2026-04-16 16:00:00,Outside rep,1.0963867244550136,2.588276649006753,4,True,6.7,Pre-sale support,0.75,True,True
+T41044,Pre-sale support,quote for cell line A please,2026-04-16 16:00:00,Outside rep,1.0963867244550136,2.588276649006753,4,True,6.7,Pre-sale support,0.75,True,True
 T40069,Pre-sale support,can I get a sample before ordering,2026-07-08 14:00:00,Outside rep,1.9785968197520813,1.9067254116501202,4,True,6.7,Pre-sale support,0.6,False,True
 T41683,General inquiry,general question about products,2026-10-11 11:00:00,Inside sales,8.94134802809873,0.3804273204714257,24,True,5.4,General inquiry,0.75,True,True
 T41609,Spam,domain expiry notice,2026-06-07 03:00:00,Auto-closed,0.0769743716625702,0.1989839768867234,1,True,,Spam,0.75,True,True
@@ -126,7 +126,7 @@ T40795,Order and shipping,change delivery address,2026-04-06 11:00:00,Inside sal
 T42237,Spam,seo services for your website,2026-09-09 10:00:00,Auto-closed,0.6029994448949816,0.28149824984036315,1,True,,Spam,0.75,True,True
 T41206,General inquiry,general question about products,2026-11-19 22:00:00,Inside sales,5.027237582117113,2.299422811300018,24,True,6.9,Spam,0.5532737770339464,False,False
 T40110,Collaboration inquiry,partnership opportunity,2026-08-13 06:00:00,Business development,13.627467759934676,1.3341431264444439,48,True,6.1,Collaboration inquiry,0.6,False,True
-T40347,Pre-sale support,quote for endothelial cells please,2026-09-06 13:00:00,Outside rep,1.4002709870288024,1.901542569105688,4,True,6.0,Pre-sale support,0.6427667532177381,False,True
+T40347,Pre-sale support,quote for cell line A please,2026-09-06 13:00:00,Outside rep,1.4002709870288024,1.901542569105688,4,True,6.0,Pre-sale support,0.6427667532177381,False,True
 T41303,Technical support,cells not attaching after thaw,2026-04-23 02:00:00,Technical specialist,30.820194611343915,4.122061482804553,12,False,5.1,Technical support,0.9500000000000001,True,True
 T40368,Spam,seo services for your website,2026-10-04 09:00:00,Auto-closed,0.2358957914031685,0.016689188087672092,1,True,,Spam,0.75,True,True
 T41305,Documentation request,user manual download,2026-01-13 04:00:00,Operations,23.077949836618977,3.7306754291997857,24,True,5.6,Documentation request,0.9500000000000001,True,True
@@ -141,10 +141,10 @@ T41490,General inquiry,where can I find your catalogue,2026-11-19 16:00:00,Insid
 T41426,Spam,congratulations you won a prize,2026-11-09 22:00:00,Auto-closed,0.6244836900026625,0.05458455751127688,1,True,,Spam,0.75,True,True
 T41555,Spam,buy followers cheap,2026-01-17 23:00:00,Auto-closed,1.3871509379061435,0.5824152325886649,1,False,,Spam,0.75,True,True
 T40903,Spam,buy followers cheap,2026-09-03 14:00:00,Auto-closed,0.06900877330260906,0.12074425601782082,1,True,,Spam,0.75,True,True
-T40082,Pre-sale support,quote for endothelial cells please,2026-03-16 08:00:00,Outside rep,1.913945467798044,5.108101627332547,4,True,5.2,Pre-sale support,0.75,True,True
+T40082,Pre-sale support,quote for cell line A please,2026-03-16 08:00:00,Outside rep,1.913945467798044,5.108101627332547,4,True,5.2,Pre-sale support,0.75,True,True
 T41079,Custom project request,need new cell line developed,2026-09-19 22:00:00,Business development,10.25502861414016,0.4596330582788787,24,True,7.0,Custom project request,0.75,True,True
 T40426,Spam,domain expiry notice,2026-01-19 19:00:00,Auto-closed,1.123450946148182,2.6147877394523062,1,False,,Spam,0.75,True,True
-T41174,Pre-sale support,quote for endothelial cells please,2026-07-24 04:00:00,Outside rep,1.5012285146195579,2.5989700992493963,4,True,5.8,Pre-sale support,0.75,True,True
+T41174,Pre-sale support,quote for cell line A please,2026-07-24 04:00:00,Outside rep,1.5012285146195579,2.5989700992493963,4,True,5.8,Pre-sale support,0.75,True,True
 T40665,Spam,buy followers cheap,2026-03-27 14:00:00,Auto-closed,0.8123920959298152,1.743937963704342,1,True,,Spam,0.75,True,True
 T41492,Spam,domain expiry notice,2026-04-16 02:00:00,Auto-closed,1.6575809097058587,0.3968061150426665,1,False,,Spam,0.75,True,True
 T41732,Spam,seo services for your website,2026-02-28 16:00:00,Auto-closed,0.4038169677587136,0.45125749152292594,1,True,,Spam,0.75,True,True
@@ -209,13 +209,13 @@ T41632,Documentation request,user manual download,2026-07-10 16:00:00,Operations
 T41311,Spam,buy followers cheap,2026-05-07 04:00:00,Auto-closed,1.29409058301486,2.408306257548207,1,False,,Spam,0.75,True,True
 T40459,Technical support,cells not attaching after thaw,2026-05-02 23:00:00,Technical specialist,5.172048876476981,6.818858466925484,12,True,4.7,Technical support,0.9500000000000001,True,True
 T40184,Custom project request,custom service quote,2026-08-08 05:00:00,Business development,14.039604058503603,1.4406573049522036,24,True,6.6,Pre-sale support,0.6,False,False
-T41101,Pre-sale support,quote for endothelial cells please,2026-06-14 03:00:00,Outside rep,1.352106647932589,1.420629284126268,4,True,5.9,Pre-sale support,0.75,True,True
+T41101,Pre-sale support,quote for cell line A please,2026-06-14 03:00:00,Outside rep,1.352106647932589,1.420629284126268,4,True,5.9,Pre-sale support,0.75,True,True
 T40856,Spam,buy followers cheap,2026-09-14 18:00:00,Auto-closed,0.02576594739352317,0.2942606504982289,1,True,,Spam,0.75,True,True
 T40837,General inquiry,where can I find your catalogue,2026-09-27 00:00:00,Inside sales,13.622056227856891,3.189369430993033,24,True,5.8,General inquiry,0.75,True,True
 T42278,Spam,seo services for your website,2026-07-19 08:00:00,Auto-closed,0.5419842619213716,0.3837600297343616,1,True,,Spam,0.75,True,True
 T40157,General inquiry,where can I find your catalogue,2026-05-03 11:00:00,Inside sales,22.081609130894726,2.348385954738614,24,True,6.7,General inquiry,0.75,True,True
 T42088,General inquiry,where can I find your catalogue,2026-03-09 21:00:00,Inside sales,36.17754087324115,7.188626128985546,24,False,4.5,General inquiry,0.75,True,True
-T41733,Pre-sale support,quote for endothelial cells please,2026-05-12 03:00:00,Outside rep,11.188029716380042,0.36278886743410443,4,False,6.0,Pre-sale support,0.75,True,True
+T41733,Pre-sale support,quote for cell line A please,2026-05-12 03:00:00,Outside rep,11.188029716380042,0.36278886743410443,4,False,6.0,Pre-sale support,0.75,True,True
 T42240,Spam,seo services for your website,2026-01-28 00:00:00,Auto-closed,1.4638173284109555,0.935018625224077,1,False,,Spam,0.75,True,True
 T40739,General inquiry,do you ship internationally,2026-04-22 19:00:00,Inside sales,26.451296679976053,4.283255459977899,24,False,4.5,General inquiry,0.75,True,True
 T40652,Spam,guest post offer,2026-08-24 03:00:00,Auto-closed,0.6396679782796941,0.48133000421459493,1,True,,Spam,0.75,True,True
@@ -276,11 +276,11 @@ T41104,Spam,buy followers cheap,2026-07-08 23:00:00,Auto-closed,0.19647032248387
 T41928,Custom project request,custom service quote,2026-06-09 02:00:00,Business development,1.2612772886930592,0.636055097261138,24,True,5.9,Pre-sale support,0.6,False,False
 T41741,General inquiry,general question about products,2026-10-10 01:00:00,Inside sales,8.174955837317825,1.420516950204715,24,True,4.5,General inquiry,0.75,True,True
 T40828,Spam,seo services for your website,2026-09-19 08:00:00,Auto-closed,0.03967086141989115,0.02818854029276427,1,True,,Spam,0.75,True,True
-T42364,Pre-sale support,quote for endothelial cells please,2026-05-06 18:00:00,Outside rep,5.935232585400691,3.770848664277837,4,False,3.8,Pre-sale support,0.75,True,True
+T42364,Pre-sale support,quote for cell line A please,2026-05-06 18:00:00,Outside rep,5.935232585400691,3.770848664277837,4,False,3.8,Pre-sale support,0.75,True,True
 T40576,Spam,seo services for your website,2026-01-18 11:00:00,Auto-closed,0.4034814320516177,2.888238641312688,1,True,,Spam,0.75,True,True
 T41308,Spam,seo services for your website,2026-01-10 01:00:00,Auto-closed,1.3430668886717472,0.0031762187891537434,1,False,,Spam,0.75,True,True
 T42207,General inquiry,general question about products,2026-02-28 14:00:00,Inside sales,13.456032799519194,3.0521696896405954,24,True,5.0,General inquiry,0.75,True,True
-T41496,Pre-sale support,quote for endothelial cells please,2026-06-14 04:00:00,Outside rep,2.9846402657942535,2.4221535015149867,4,True,5.7,Pre-sale support,0.75,True,True
+T41496,Pre-sale support,quote for cell line A please,2026-06-14 04:00:00,Outside rep,2.9846402657942535,2.4221535015149867,4,True,5.7,Pre-sale support,0.75,True,True
 T41836,Spam,seo services for your website,2026-09-20 02:00:00,Auto-closed,0.48387659508123526,0.6159583923633036,1,True,,Spam,0.75,True,True
 T41294,Spam,seo services for your website,2026-10-04 20:00:00,Auto-closed,0.2841767318652064,0.020892511349105178,1,True,,Spam,0.75,True,True
 T40551,Order and shipping,where is my order,2026-01-31 03:00:00,Inside sales,7.906019008439428,3.280733367720907,8,True,6.3,Order and shipping,0.75,True,True
@@ -305,10 +305,10 @@ T42302,Pre-sale support,bulk discount for academic lab,2026-11-20 04:00:00,Outsi
 T40663,Spam,buy followers cheap,2026-03-26 09:00:00,Auto-closed,4.205353875152797,0.33966920965052116,1,False,,Spam,0.75,True,True
 T40310,Order and shipping,change delivery address,2026-10-25 14:00:00,Inside sales,9.383777985783734,2.393594957986318,8,False,6.4,Order and shipping,0.75,True,True
 T41103,Spam,guest post offer,2026-08-27 21:00:00,Auto-closed,0.6988683434834301,0.0787784896630113,1,True,,Spam,0.75,True,True
-T41398,Pre-sale support,quote for endothelial cells please,2026-01-17 21:00:00,Outside rep,1.6304943834590264,6.060262637486825,4,True,6.5,Pre-sale support,0.75,True,True
+T41398,Pre-sale support,quote for cell line A please,2026-01-17 21:00:00,Outside rep,1.6304943834590264,6.060262637486825,4,True,6.5,Pre-sale support,0.75,True,True
 T41056,Spam,domain expiry notice,2026-04-18 21:00:00,Auto-closed,2.3623750632588227,0.5267959587586417,1,False,,Spam,0.75,True,True
 T40784,Spam,buy followers cheap,2026-08-10 09:00:00,Auto-closed,0.10016504146656305,0.06088453203442321,1,True,,Spam,0.75,True,True
-T40557,Pre-sale support,quote for endothelial cells please,2026-11-04 08:00:00,Outside rep,0.3153064992146366,1.079873564549188,4,True,4.8,Pre-sale support,0.75,True,True
+T40557,Pre-sale support,quote for cell line A please,2026-11-04 08:00:00,Outside rep,0.3153064992146366,1.079873564549188,4,True,4.8,Pre-sale support,0.75,True,True
 T40036,Order and shipping,where is my order,2026-07-16 19:00:00,Inside sales,4.772410177699108,0.7743559824695373,8,True,5.7,Order and shipping,0.5940283360708776,False,True
 T40787,Spam,congratulations you won a prize,2026-04-20 08:00:00,Auto-closed,1.599117797915172,2.4003303615069247,1,False,,Spam,0.75,True,True
 T40323,Spam,congratulations you won a prize,2026-07-13 15:00:00,Auto-closed,0.38610602292649243,0.10063329875944171,1,True,,Spam,0.75,True,True
@@ -323,7 +323,7 @@ T42122,Spam,guest post offer,2026-05-15 09:00:00,Auto-closed,1.877138854306184,1
 T40888,Spam,guest post offer,2026-06-03 10:00:00,Auto-closed,0.6135427077726738,0.09001057185994515,1,True,,Spam,0.75,True,True
 T42002,Spam,unsubscribe me now,2026-05-22 10:00:00,Auto-closed,0.9907311483691126,0.06035119576126034,1,True,,Spam,0.75,True,True
 T40432,Custom project request,custom differentiation project proposal,2026-08-11 20:00:00,Business development,21.763133419255826,2.0256316564202606,24,True,6.0,Custom project request,0.9500000000000001,True,True
-T41177,Pre-sale support,quote for endothelial cells please,2026-07-20 03:00:00,Outside rep,0.9794057044664306,1.0399807467880298,4,True,6.6,Pre-sale support,0.75,True,True
+T41177,Pre-sale support,quote for cell line A please,2026-07-20 03:00:00,Outside rep,0.9794057044664306,1.0399807467880298,4,True,6.6,Pre-sale support,0.75,True,True
 T42344,General inquiry,where can I find your catalogue,2026-03-06 10:00:00,Inside sales,53.06570575797173,5.172171322579356,24,False,3.7,General inquiry,0.75,True,True
 T41977,General inquiry,general question about products,2026-08-27 20:00:00,Inside sales,8.075584596400732,2.2613633467623173,24,True,4.4,General inquiry,0.75,True,True
 T41237,Spam,seo services for your website,2026-03-20 10:00:00,Auto-closed,0.8282733354384395,0.8264697628568245,1,True,,Spam,0.75,True,True
@@ -355,7 +355,7 @@ T41287,Technical support,cells not attaching after thaw,2026-03-07 19:00:00,Tech
 T40215,Pre-sale support,pricing for 5 vials,2026-04-15 04:00:00,Outside rep,35.88989109803702,2.526005880057292,4,False,4.7,Pre-sale support,0.75,True,True
 T40103,Collaboration inquiry,therapeutics collaboration proposal,2026-02-04 05:00:00,Business development,28.276421144699572,1.7174656674508542,48,True,5.5,Collaboration inquiry,0.9500000000000001,True,True
 T41621,Spam,seo services for your website,2026-04-26 10:00:00,Auto-closed,0.49263828704964846,0.9587422724746721,1,True,,Spam,0.75,True,True
-T41747,Pre-sale support,quote for endothelial cells please,2026-05-07 06:00:00,Outside rep,2.266099901447217,3.8296019634650245,4,True,4.4,Pre-sale support,0.75,True,True
+T41747,Pre-sale support,quote for cell line A please,2026-05-07 06:00:00,Outside rep,2.266099901447217,3.8296019634650245,4,True,4.4,Pre-sale support,0.75,True,True
 T40265,Spam,buy followers cheap,2026-02-13 03:00:00,Auto-closed,1.8458127167975944,0.11112801498227161,1,False,,Spam,0.75,True,True
 T41215,Spam,buy followers cheap,2026-08-03 06:00:00,Auto-closed,0.5490141687202549,0.3151412158469842,1,True,,Spam,0.75,True,True
 T41863,Spam,unsubscribe me now,2026-08-03 16:00:00,Auto-closed,0.13926762896868694,0.2345284111086909,1,True,,Spam,0.75,True,True
@@ -363,7 +363,7 @@ T41837,Spam,buy followers cheap,2026-06-24 21:00:00,Auto-closed,1.50770692047845
 T42228,Spam,unsubscribe me now,2026-10-12 05:00:00,Auto-closed,0.8602164429903639,0.3618954050281353,1,True,,Spam,0.75,True,True
 T42375,Custom project request,custom differentiation project proposal,2026-06-19 14:00:00,Business development,10.795858956666315,0.37135563658481546,24,True,4.5,Custom project request,0.9500000000000001,True,True
 T41933,Spam,domain expiry notice,2026-09-28 01:00:00,Auto-closed,1.717447687561349,0.06078422803245345,1,False,,Spam,0.75,True,True
-T40256,Pre-sale support,quote for endothelial cells please,2026-06-05 01:00:00,Outside rep,2.590662773794271,2.2387747866739174,4,True,5.5,Pre-sale support,0.75,True,True
+T40256,Pre-sale support,quote for cell line A please,2026-06-05 01:00:00,Outside rep,2.590662773794271,2.2387747866739174,4,True,5.5,Pre-sale support,0.75,True,True
 T42061,Spam,congratulations you won a prize,2026-02-06 11:00:00,Auto-closed,1.7585709459253502,0.12538459584403816,1,False,,Spam,0.75,True,True
 T40080,Technical support,viability low after revival,2026-07-09 18:00:00,Technical specialist,3.336381100452823,2.5736953645947493,12,True,5.2,Technical support,0.75,True,True
 T40111,Spam,seo services for your website,2026-07-27 19:00:00,Auto-closed,0.6304339807544751,0.14900424874991056,1,True,,Spam,0.75,True,True
@@ -420,7 +420,7 @@ T41950,Spam,seo services for your website,2026-03-08 06:00:00,Auto-closed,2.6536
 T41760,Order and shipping,change delivery address,2026-02-20 06:00:00,Inside sales,19.756434468837455,0.9697094747359264,8,False,5.2,Order and shipping,0.75,True,True
 T40372,Spam,guest post offer,2026-11-09 18:00:00,Auto-closed,2.448983233333229,0.10632068077333874,1,False,,Spam,0.75,True,True
 T40997,Order and shipping,change delivery address,2026-06-07 04:00:00,Inside sales,1.5815673233742407,1.6077927368091125,8,True,6.2,Order and shipping,0.75,True,True
-T40711,Pre-sale support,quote for endothelial cells please,2026-02-26 11:00:00,Outside rep,4.722356244744849,2.6311636016178324,4,False,6.2,Pre-sale support,0.75,True,True
+T40711,Pre-sale support,quote for cell line A please,2026-02-26 11:00:00,Outside rep,4.722356244744849,2.6311636016178324,4,False,6.2,Pre-sale support,0.75,True,True
 T41435,Spam,seo services for your website,2026-03-23 00:00:00,Auto-closed,0.26160358387430305,1.0290732010172257,1,True,,Spam,0.75,True,True
 T40728,Accounting,payment sent please confirm,2026-09-02 10:00:00,Finance,10.609901310517248,0.6189031978065425,24,True,6.8,Accounting,0.75,True,True
 T40355,Pre-sale support,pricing for 5 vials,2026-07-27 21:00:00,Outside rep,1.4793399900749165,0.6843640390718181,4,True,5.8,Pre-sale support,0.75,True,True
@@ -541,7 +541,7 @@ T40587,General inquiry,general question about products,2026-09-22 19:00:00,Insid
 T41161,Accounting,invoice copy needed,2026-10-19 17:00:00,Finance,10.631681377328716,1.1082851314804338,24,True,6.4,Accounting,0.75,True,True
 T41872,Custom project request,need new cell line developed,2026-06-12 04:00:00,Business development,14.44947403378029,2.765665755592811,24,True,6.1,Custom project request,0.75,True,True
 T41878,Spam,buy followers cheap,2026-01-28 08:00:00,Auto-closed,2.5298472679585116,1.4611442987944054,1,False,,Spam,0.75,True,True
-T40499,Pre-sale support,quote for endothelial cells please,2026-07-31 22:00:00,Outside rep,7.798357737400048,0.47251992360810713,4,False,7.0,Pre-sale support,0.75,True,True
+T40499,Pre-sale support,quote for cell line A please,2026-07-31 22:00:00,Outside rep,7.798357737400048,0.47251992360810713,4,False,7.0,Pre-sale support,0.75,True,True
 T40158,General inquiry,where can I find your catalogue,2026-07-29 06:00:00,Inside sales,18.651039585000387,1.2739878363048422,24,True,5.1,General inquiry,0.75,True,True
 T41123,Custom project request,custom differentiation project proposal,2026-06-13 11:00:00,Business development,6.76371803005633,1.7932474482965932,24,True,4.9,Custom project request,0.9500000000000001,True,True
 T40404,Spam,guest post offer,2026-10-10 21:00:00,Auto-closed,0.9688594274759629,0.10901300255826461,1,True,,Spam,0.75,True,True
@@ -660,7 +660,7 @@ T42338,Spam,seo services for your website,2026-01-08 22:00:00,Auto-closed,1.6650
 T40195,Spam,seo services for your website,2026-11-05 07:00:00,Auto-closed,0.6105592070983733,0.30980226724032245,1,True,,Spam,0.75,True,True
 T42303,Spam,congratulations you won a prize,2026-08-19 01:00:00,Auto-closed,0.6247777130960989,0.16185115495212818,1,True,,Spam,0.75,True,True
 T40644,Spam,seo services for your website,2026-08-21 02:00:00,Auto-closed,0.24478664311455625,0.001191991907850853,1,True,,Spam,0.75,True,True
-T40065,Pre-sale support,quote for endothelial cells please,2026-08-01 10:00:00,Outside rep,1.6228091751901872,2.2449607867606844,4,True,5.1,Pre-sale support,0.75,True,True
+T40065,Pre-sale support,quote for cell line A please,2026-08-01 10:00:00,Outside rep,1.6228091751901872,2.2449607867606844,4,True,5.1,Pre-sale support,0.75,True,True
 T42070,Spam,guest post offer,2026-10-14 04:00:00,Auto-closed,0.4697214770558981,0.11319853629850213,1,True,,Spam,0.75,True,True
 T42106,Spam,buy followers cheap,2026-10-11 23:00:00,Auto-closed,1.0640465699000259,0.1449884694115707,1,False,,General inquiry,0.6290444989863095,False,False
 T40398,Spam,unsubscribe me now,2026-03-22 17:00:00,Auto-closed,0.7580798290220223,1.0908295557406067,1,True,,Spam,0.75,True,True
@@ -705,7 +705,7 @@ T41293,General inquiry,general question about products,2026-10-07 16:00:00,Insid
 T40119,Pre-sale support,can I get a sample before ordering,2026-04-15 14:00:00,Outside rep,8.261098404898176,5.245094826173942,4,False,5.9,Pre-sale support,0.6,False,True
 T40786,Spam,congratulations you won a prize,2026-04-21 20:00:00,Auto-closed,0.546845711177496,0.5953233201722341,1,True,,Spam,0.75,True,True
 T40581,Spam,seo services for your website,2026-06-29 17:00:00,Auto-closed,0.8039259781724921,0.14902631392240215,1,True,,Spam,0.75,True,True
-T42218,Pre-sale support,quote for endothelial cells please,2026-10-14 21:00:00,Outside rep,3.3844269979603783,0.6311112113464625,4,True,5.5,Pre-sale support,0.75,True,True
+T42218,Pre-sale support,quote for cell line A please,2026-10-14 21:00:00,Outside rep,3.3844269979603783,0.6311112113464625,4,True,5.5,Pre-sale support,0.75,True,True
 T41111,General inquiry,general question about products,2026-03-14 15:00:00,Inside sales,38.06783422485589,0.18382016081777006,24,False,5.6,General inquiry,0.75,True,True
 T41343,Spam,buy followers cheap,2026-04-01 19:00:00,Auto-closed,1.0960510461059008,1.2375514156966063,1,False,,Spam,0.75,True,True
 T40275,Spam,unsubscribe me now,2026-03-20 21:00:00,Auto-closed,1.644605520285154,1.071581704159373,1,False,,Spam,0.75,True,True
@@ -808,7 +808,7 @@ T41315,Pre-sale support,bulk discount for academic lab,2026-11-13 05:00:00,Outsi
 T40538,Custom project request,need new cell line developed,2026-10-13 22:00:00,Business development,9.967261091891178,1.0307550286363296,24,True,5.4,Custom project request,0.75,True,True
 T42274,Custom project request,custom differentiation project proposal,2026-04-09 08:00:00,Business development,8.669933968602635,1.3945633122088867,24,True,4.3,Custom project request,0.9500000000000001,True,True
 T41809,Spam,congratulations you won a prize,2026-04-21 22:00:00,Auto-closed,3.31810892974791,1.3497103748780612,1,False,,Spam,0.75,True,True
-T41130,Pre-sale support,quote for endothelial cells please,2026-10-25 20:00:00,Outside rep,3.176407110398921,6.412257664053,4,True,6.1,Pre-sale support,0.75,True,True
+T41130,Pre-sale support,quote for cell line A please,2026-10-25 20:00:00,Outside rep,3.176407110398921,6.412257664053,4,True,6.1,Pre-sale support,0.75,True,True
 T40194,General inquiry,do you ship internationally,2026-06-27 09:00:00,Inside sales,10.115585840290581,1.950167034449898,24,True,7.0,General inquiry,0.75,True,True
 T40217,Documentation request,certificate of analysis for lot,2026-02-13 10:00:00,Operations,75.66399316698387,1.3662683103583404,24,False,5.9,Documentation request,0.75,True,True
 T41569,Pre-sale support,can I get a sample before ordering,2026-09-01 06:00:00,Outside rep,0.5287879180276707,1.3202044962796693,4,True,5.4,Pre-sale support,0.6,False,True
@@ -844,7 +844,7 @@ T41187,Documentation request,certificate of analysis for lot,2026-06-23 13:00:00
 T41754,Spam,guest post offer,2026-09-07 09:00:00,Auto-closed,0.8109544037604138,0.12302894464725433,1,True,,Spam,0.75,True,True
 T41841,Spam,domain expiry notice,2026-05-22 05:00:00,Auto-closed,0.4150850398853349,0.5105216872427933,1,True,,Spam,0.75,True,True
 T41176,Spam,guest post offer,2026-08-30 06:00:00,Auto-closed,0.5630804523387156,0.04577493388696749,1,True,,Spam,0.75,True,True
-T40141,Pre-sale support,quote for endothelial cells please,2026-11-15 11:00:00,Outside rep,4.629981814053999,2.8776098950550653,4,False,4.4,Pre-sale support,0.75,True,True
+T40141,Pre-sale support,quote for cell line A please,2026-11-15 11:00:00,Outside rep,4.629981814053999,2.8776098950550653,4,False,4.4,Pre-sale support,0.75,True,True
 T41090,General inquiry,do you ship internationally,2026-03-18 03:00:00,Inside sales,14.886538734587031,12.72223052658167,24,True,2.8,General inquiry,0.75,True,True
 T40732,Spam,unsubscribe me now,2026-02-28 00:00:00,Auto-closed,0.8872682447379895,0.24556914032574034,1,True,,Spam,0.75,True,True
 T40815,Order and shipping,tracking number not working,2026-04-02 10:00:00,Inside sales,9.148973510416464,2.1570855353172242,8,False,3.6,Order and shipping,0.75,True,True
@@ -981,7 +981,7 @@ T40272,Spam,domain expiry notice,2026-03-05 06:00:00,Auto-closed,1.4349589543258
 T40185,Spam,domain expiry notice,2026-11-05 14:00:00,Auto-closed,0.03716136125436724,0.3987780482808551,1,True,,Spam,0.75,True,True
 T42182,Spam,seo services for your website,2026-04-17 23:00:00,Auto-closed,2.056553788713688,2.212766402466498,1,False,,Spam,0.75,True,True
 T41871,Spam,buy followers cheap,2026-02-27 04:00:00,Auto-closed,0.8262247513580444,0.11309061979149503,1,True,,Spam,0.75,True,True
-T41964,Pre-sale support,quote for endothelial cells please,2026-08-06 18:00:00,Outside rep,4.742336697785745,0.5919381246819322,4,False,5.4,Order and shipping,0.7429389849257293,True,False
+T41964,Pre-sale support,quote for cell line A please,2026-08-06 18:00:00,Outside rep,4.742336697785745,0.5919381246819322,4,False,5.4,Order and shipping,0.7429389849257293,True,False
 T42176,General inquiry,do you ship internationally,2026-02-03 13:00:00,Inside sales,44.318461903718365,1.20831345320061,24,False,4.6,General inquiry,0.75,True,True
 T41617,Spam,domain expiry notice,2026-03-08 08:00:00,Auto-closed,0.9977816757439693,0.2121457223123551,1,True,,Spam,0.75,True,True
 T41394,Technical support,viability low after revival,2026-07-14 01:00:00,Technical specialist,0.9086439278029113,3.6934347700667582,12,True,5.4,Technical support,0.75,True,True
@@ -1009,7 +1009,7 @@ T40104,Spam,congratulations you won a prize,2026-09-22 04:00:00,Auto-closed,0.47
 T40234,Spam,buy followers cheap,2026-09-17 16:00:00,Auto-closed,0.7020363224510158,0.01417027832865851,1,True,,Spam,0.75,True,True
 T40694,Spam,buy followers cheap,2026-09-05 10:00:00,Auto-closed,0.2613702034551791,0.05638031242680441,1,True,,Spam,0.75,True,True
 T40193,General inquiry,general question about products,2026-11-08 12:00:00,Inside sales,7.452759217068042,1.7712568528789963,24,True,6.3,General inquiry,0.75,True,True
-T41780,Pre-sale support,quote for endothelial cells please,2026-03-03 12:00:00,Outside rep,1.4387880829228776,5.875566502238164,4,True,5.7,Pre-sale support,0.75,True,True
+T41780,Pre-sale support,quote for cell line A please,2026-03-03 12:00:00,Outside rep,1.4387880829228776,5.875566502238164,4,True,5.7,Pre-sale support,0.75,True,True
 T40831,General inquiry,do you ship internationally,2026-07-31 10:00:00,Inside sales,8.354804668931434,4.016316973333193,24,True,6.4,Technical support,0.55929297903909,False,False
 T40616,Pre-sale support,can I get a sample before ordering,2026-04-14 02:00:00,Outside rep,8.133665903702227,5.20954985331754,4,False,4.2,Pre-sale support,0.6,False,True
 T42372,General inquiry,where can I find your catalogue,2026-10-05 16:00:00,Inside sales,3.850857856407154,3.5334245666165494,24,True,7.0,General inquiry,0.75,True,True
@@ -1055,7 +1055,7 @@ T42272,Technical support,protocol question for differentiation,2026-04-20 10:00:
 T41236,Order and shipping,where is my order,2026-09-08 11:00:00,Inside sales,5.526065804470703,1.214682637689094,8,True,5.6,Order and shipping,0.75,True,True
 T40086,General inquiry,general question about products,2026-08-15 05:00:00,Inside sales,2.849225775804896,2.170036866830302,24,True,4.0,General inquiry,0.75,True,True
 T41441,Spam,congratulations you won a prize,2026-04-13 01:00:00,Auto-closed,0.31586401365835853,0.20171244206904065,1,True,,Documentation request,0.7030205501757628,True,False
-T41935,Pre-sale support,quote for endothelial cells please,2026-06-04 06:00:00,Outside rep,6.038758744073485,1.8796896639767324,4,False,5.9,Pre-sale support,0.75,True,True
+T41935,Pre-sale support,quote for cell line A please,2026-06-04 06:00:00,Outside rep,6.038758744073485,1.8796896639767324,4,False,5.9,Pre-sale support,0.75,True,True
 T40462,Technical support,media storage conditions,2026-03-08 13:00:00,Technical specialist,12.916022700592801,3.896377547601095,12,False,4.9,Technical support,0.75,True,True
 T40814,Spam,congratulations you won a prize,2026-03-10 15:00:00,Auto-closed,4.29228943261488,0.008118204486546519,1,False,,Spam,0.75,True,True
 T40853,Spam,unsubscribe me now,2026-08-30 09:00:00,Auto-closed,1.2834620551995741,0.15907952430945685,1,False,,Spam,0.75,True,True
@@ -1079,7 +1079,7 @@ T41999,Spam,seo services for your website,2026-09-23 18:00:00,Auto-closed,0.2535
 T40582,Spam,seo services for your website,2026-05-17 09:00:00,Auto-closed,2.1978802964797866,0.03685396220202933,1,False,,Spam,0.75,True,True
 T40577,Spam,seo services for your website,2026-11-13 16:00:00,Auto-closed,1.0183758283332869,0.1404533300196867,1,False,,Spam,0.75,True,True
 T40747,Spam,domain expiry notice,2026-11-20 13:00:00,Auto-closed,0.2873974439580895,0.0821478825114594,1,True,,Spam,0.75,True,True
-T42125,Pre-sale support,quote for endothelial cells please,2026-06-02 06:00:00,Outside rep,2.1049554664630756,3.2788724998555825,4,True,4.6,Pre-sale support,0.75,True,True
+T42125,Pre-sale support,quote for cell line A please,2026-06-02 06:00:00,Outside rep,2.1049554664630756,3.2788724998555825,4,True,4.6,Pre-sale support,0.75,True,True
 T41855,Spam,congratulations you won a prize,2026-08-29 11:00:00,Auto-closed,1.2247839847804873,0.04357581407235862,1,False,,Spam,0.75,True,True
 T41992,Spam,buy followers cheap,2026-08-22 12:00:00,Auto-closed,0.39839656008613444,0.047967149846445754,1,True,,Spam,0.75,True,True
 T41955,Spam,guest post offer,2026-03-31 04:00:00,Auto-closed,2.3833804253000594,5.024200780855057,1,False,,Spam,0.75,True,True
@@ -1168,18 +1168,18 @@ T42076,Pre-sale support,can I get a sample before ordering,2026-06-07 23:00:00,O
 T41267,Technical support,cells not attaching after thaw,2026-05-04 04:00:00,Technical specialist,17.564934117598288,13.478296687630532,12,False,4.2,Pre-sale support,0.5842410440166053,False,False
 T40661,Spam,unsubscribe me now,2026-08-21 15:00:00,Auto-closed,0.3703374664341566,0.36908646989924326,1,True,,Spam,0.4237989115498285,False,True
 T42236,Spam,unsubscribe me now,2026-09-26 09:00:00,Auto-closed,0.257186629781617,0.13506352476032785,1,True,,Spam,0.75,True,True
-T42242,Pre-sale support,quote for endothelial cells please,2026-01-09 02:00:00,Outside rep,7.616056533670922,2.197853588946275,4,False,6.3,Pre-sale support,0.75,True,True
+T42242,Pre-sale support,quote for cell line A please,2026-01-09 02:00:00,Outside rep,7.616056533670922,2.197853588946275,4,False,6.3,Pre-sale support,0.75,True,True
 T40737,Spam,guest post offer,2026-09-06 02:00:00,Auto-closed,0.12320880699289125,0.10866889783760139,1,True,,Spam,0.75,True,True
 T41603,Spam,unsubscribe me now,2026-10-06 23:00:00,Auto-closed,0.6576508598653913,0.2613348503283761,1,True,,Spam,0.75,True,True
 T42281,Spam,domain expiry notice,2026-03-26 15:00:00,Auto-closed,0.8095466603008207,1.5792641130556309,1,True,,Custom project request,0.7010166820524601,True,False
-T41912,Pre-sale support,quote for endothelial cells please,2026-10-18 04:00:00,Outside rep,3.5678316169389195,1.753172836236882,4,True,6.1,Pre-sale support,0.75,True,True
+T41912,Pre-sale support,quote for cell line A please,2026-10-18 04:00:00,Outside rep,3.5678316169389195,1.753172836236882,4,True,6.1,Pre-sale support,0.75,True,True
 T42204,General inquiry,where can I find your catalogue,2026-06-11 00:00:00,Inside sales,9.226868396264422,0.35002917714858134,24,True,5.0,General inquiry,0.75,True,True
 T40678,Spam,domain expiry notice,2026-04-05 17:00:00,Auto-closed,4.093629196105716,0.16378783695137997,1,False,,Spam,0.75,True,True
 T40821,Technical support,protocol question for differentiation,2026-02-03 16:00:00,Technical specialist,11.458019364781885,3.7738776743299693,12,True,4.7,Technical support,0.9500000000000001,True,True
 T41512,Spam,congratulations you won a prize,2026-05-24 19:00:00,Auto-closed,1.6660804124545188,3.2493896859595526,1,False,,Spam,0.75,True,True
 T40041,General inquiry,do you ship internationally,2026-06-10 02:00:00,Inside sales,1.128708551369112,2.5286780219271745,24,True,5.4,General inquiry,0.75,True,True
 T40212,Spam,unsubscribe me now,2026-09-01 02:00:00,Auto-closed,0.2446172602564572,0.031077158618551412,1,True,,Spam,0.75,True,True
-T40771,Pre-sale support,quote for endothelial cells please,2026-05-17 00:00:00,Outside rep,3.2914531997842382,7.42856924321815,4,True,6.0,Pre-sale support,0.75,True,True
+T40771,Pre-sale support,quote for cell line A please,2026-05-17 00:00:00,Outside rep,3.2914531997842382,7.42856924321815,4,True,6.0,Pre-sale support,0.75,True,True
 T40322,Order and shipping,where is my order,2026-09-28 08:00:00,Inside sales,6.383311402912308,1.1311704422318027,8,True,5.7,Order and shipping,0.75,True,True
 T41463,General inquiry,where can I find your catalogue,2026-07-25 23:00:00,Inside sales,11.289613599903657,4.195027802055762,24,True,5.3,General inquiry,0.75,True,True
 T41782,Spam,buy followers cheap,2026-11-05 10:00:00,Auto-closed,0.29426204206672535,0.009358346349726668,1,True,,Spam,0.75,True,True
@@ -1233,7 +1233,7 @@ T40047,Spam,seo services for your website,2026-06-06 03:00:00,Auto-closed,0.6078
 T40159,General inquiry,general question about products,2026-10-11 16:00:00,Inside sales,1.2389819644426956,1.9336477782308668,24,True,4.4,General inquiry,0.75,True,True
 T42261,Technical support,cells not attaching after thaw,2026-10-29 01:00:00,Technical specialist,5.432129260157041,2.389514101705241,12,True,5.8,Technical support,0.9500000000000001,True,True
 T41848,Order and shipping,tracking number not working,2026-08-09 19:00:00,Inside sales,6.2735568582084795,1.5881617988165564,8,True,6.5,Order and shipping,0.75,True,True
-T41195,Pre-sale support,quote for endothelial cells please,2026-08-23 13:00:00,Outside rep,3.4717753178146453,0.16850830937269057,4,True,5.9,Pre-sale support,0.75,True,True
+T41195,Pre-sale support,quote for cell line A please,2026-08-23 13:00:00,Outside rep,3.4717753178146453,0.16850830937269057,4,True,5.9,Pre-sale support,0.75,True,True
 T41810,Technical support,media storage conditions,2026-04-18 20:00:00,Technical specialist,2.3110706946651427,4.925934392761032,12,True,4.5,Technical support,0.75,True,True
 T40067,Documentation request,user manual download,2026-06-05 10:00:00,Operations,10.95948969781644,3.351538984828263,24,True,7.0,Documentation request,0.9500000000000001,True,True
 T42277,Custom project request,need new cell line developed,2026-10-18 14:00:00,Business development,15.287463964381944,1.5068151222946935,24,True,7.0,Custom project request,0.75,True,True
@@ -1263,7 +1263,7 @@ T40905,Spam,congratulations you won a prize,2026-01-08 10:00:00,Auto-closed,1.38
 T40525,Spam,unsubscribe me now,2026-08-24 15:00:00,Auto-closed,0.18698067068346616,0.4083581788451598,1,True,,Spam,0.75,True,True
 T41193,General inquiry,do you ship internationally,2026-09-12 04:00:00,Inside sales,18.541279222386656,0.42802808320763075,24,True,4.9,General inquiry,0.75,True,True
 T41575,Collaboration inquiry,licensing discussion,2026-01-09 20:00:00,Business development,61.39391018953489,4.24047001622498,48,False,5.0,Collaboration inquiry,0.75,True,True
-T40544,Pre-sale support,quote for endothelial cells please,2026-04-05 08:00:00,Outside rep,6.424210497898233,0.688685324366005,4,False,4.9,Pre-sale support,0.75,True,True
+T40544,Pre-sale support,quote for cell line A please,2026-04-05 08:00:00,Outside rep,6.424210497898233,0.688685324366005,4,False,4.9,Pre-sale support,0.75,True,True
 T42373,Spam,congratulations you won a prize,2026-03-04 05:00:00,Auto-closed,0.5900069413861245,3.4153830705612322,1,True,,Spam,0.75,True,True
 T42267,Spam,buy followers cheap,2026-04-16 10:00:00,Auto-closed,2.0770173575559268,1.0321627199178307,1,False,,Spam,0.75,True,True
 T41726,General inquiry,general question about products,2026-05-14 16:00:00,Inside sales,49.79888499917391,8.004244560681311,24,False,4.5,General inquiry,0.75,True,True
@@ -1274,7 +1274,7 @@ T41224,Spam,seo services for your website,2026-08-05 00:00:00,Auto-closed,0.1846
 T40672,Spam,congratulations you won a prize,2026-03-13 10:00:00,Auto-closed,2.6123769079863357,0.11204241763635577,1,False,,Spam,0.75,True,True
 T40761,Spam,guest post offer,2026-08-24 08:00:00,Auto-closed,1.3639631686092462,0.10657127991516438,1,False,,Spam,0.75,True,True
 T40377,Technical support,viability low after revival,2026-07-13 16:00:00,Technical specialist,10.553995164766325,0.34124571563580375,12,True,7.0,Technical support,0.75,True,True
-T42249,Pre-sale support,quote for endothelial cells please,2026-04-07 02:00:00,Outside rep,4.31747705199007,2.515668375867686,4,False,5.4,Pre-sale support,0.75,True,True
+T42249,Pre-sale support,quote for cell line A please,2026-04-07 02:00:00,Outside rep,4.31747705199007,2.515668375867686,4,False,5.4,Pre-sale support,0.75,True,True
 T40743,General inquiry,general question about products,2026-09-05 23:00:00,Inside sales,2.3453367085853887,1.3904344829755524,24,True,6.0,General inquiry,0.75,True,True
 T41067,Spam,congratulations you won a prize,2026-09-13 07:00:00,Auto-closed,0.8714241431059134,0.4462623786627889,1,True,,Spam,0.75,True,True
 T40653,General inquiry,where can I find your catalogue,2026-05-05 12:00:00,Inside sales,33.63544673427172,5.655705684002225,24,False,6.1,General inquiry,0.75,True,True
@@ -1324,7 +1324,7 @@ T42351,Spam,seo services for your website,2026-01-21 18:00:00,Auto-closed,1.0386
 T40182,Pre-sale support,pricing for 5 vials,2026-05-12 07:00:00,Outside rep,17.17056007236916,2.933376481163968,4,False,4.4,Pre-sale support,0.75,True,True
 T40374,Spam,guest post offer,2026-07-23 11:00:00,Auto-closed,0.6727551407764035,0.44926847401806136,1,True,,Spam,0.75,True,True
 T40855,Spam,seo services for your website,2026-02-17 21:00:00,Auto-closed,0.8719397381935402,0.43470259417401297,1,True,,Spam,0.75,True,True
-T41917,Pre-sale support,quote for endothelial cells please,2026-08-31 12:00:00,Outside rep,0.4642823435777665,1.4813023408271304,4,True,5.2,Pre-sale support,0.75,True,True
+T41917,Pre-sale support,quote for cell line A please,2026-08-31 12:00:00,Outside rep,0.4642823435777665,1.4813023408271304,4,True,5.2,Pre-sale support,0.75,True,True
 T41332,General inquiry,do you ship internationally,2026-11-12 11:00:00,Inside sales,11.565633253259477,2.550838041583214,24,True,6.2,General inquiry,0.75,True,True
 T42038,Pre-sale support,bulk discount for academic lab,2026-02-21 22:00:00,Outside rep,2.28912924398789,1.3483900190131264,4,True,4.2,Pre-sale support,0.9500000000000001,True,True
 T41423,Spam,unsubscribe me now,2026-08-26 23:00:00,Auto-closed,0.9066844040225152,0.16551500030682184,1,True,,Spam,0.75,True,True
@@ -1334,7 +1334,7 @@ T41936,Spam,seo services for your website,2026-02-21 08:00:00,Auto-closed,0.5986
 T40941,Spam,unsubscribe me now,2026-02-16 22:00:00,Auto-closed,2.345211055418587,0.7683200235928985,1,False,,Spam,0.75,True,True
 T40172,Spam,seo services for your website,2026-04-09 13:00:00,Auto-closed,1.1794081518280342,0.19519119171329744,1,False,,Spam,0.75,True,True
 T41932,General inquiry,general question about products,2026-01-28 10:00:00,Inside sales,77.57391618039897,4.736147725392239,24,False,4.1,General inquiry,0.75,True,True
-T40330,Pre-sale support,quote for endothelial cells please,2026-05-23 21:00:00,Outside rep,7.3060766823410574,5.875560102636145,4,False,4.5,Pre-sale support,0.75,True,True
+T40330,Pre-sale support,quote for cell line A please,2026-05-23 21:00:00,Outside rep,7.3060766823410574,5.875560102636145,4,False,4.5,Pre-sale support,0.75,True,True
 T40951,Spam,unsubscribe me now,2026-09-19 06:00:00,Auto-closed,0.8175166119280884,0.18088668754105808,1,True,,Spam,0.75,True,True
 T40487,Order and shipping,where is my order,2026-07-11 15:00:00,Inside sales,4.792104200819881,1.5394730418020337,8,True,5.6,Order and shipping,0.75,True,True
 T40796,Collaboration inquiry,licensing discussion,2026-10-30 22:00:00,Business development,72.15974751900723,0.8542792262519936,48,False,6.2,Collaboration inquiry,0.75,True,True
@@ -1458,7 +1458,7 @@ T40394,General inquiry,do you ship internationally,2026-01-10 00:00:00,Inside sa
 T41541,Spam,congratulations you won a prize,2026-05-03 17:00:00,Auto-closed,0.3867983015243431,1.5053921865083428,1,True,,Pre-sale support,0.45180654362863654,False,False
 T41974,Spam,buy followers cheap,2026-11-12 02:00:00,Auto-closed,0.6594581904321327,0.07786380424078396,1,True,,Spam,0.75,True,True
 T41320,Pre-sale support,can I get a sample before ordering,2026-02-19 23:00:00,Outside rep,2.6935370820085427,3.230442578552162,4,True,5.3,Pre-sale support,0.6,False,True
-T40788,Pre-sale support,quote for endothelial cells please,2026-09-01 14:00:00,Outside rep,0.45093918401018435,1.3378427899420906,4,True,4.1,Pre-sale support,0.75,True,True
+T40788,Pre-sale support,quote for cell line A please,2026-09-01 14:00:00,Outside rep,0.45093918401018435,1.3378427899420906,4,True,4.1,Pre-sale support,0.75,True,True
 T42196,General inquiry,where can I find your catalogue,2026-05-10 07:00:00,Inside sales,85.18368800257582,3.7839379667491397,24,False,3.9,General inquiry,0.75,True,True
 T40254,Spam,unsubscribe me now,2026-08-10 20:00:00,Auto-closed,0.16121990740254183,0.22606791874254017,1,True,,Spam,0.75,True,True
 T41646,Order and shipping,where is my order,2026-10-12 18:00:00,Inside sales,3.7189050334188805,0.9190020572403302,8,True,5.6,Order and shipping,0.75,True,True
@@ -1498,4 +1498,4 @@ T41523,Order and shipping,where is my order,2026-09-25 06:00:00,Inside sales,7.7
 T41295,Pre-sale support,can I get a sample before ordering,2026-06-04 12:00:00,Outside rep,5.727622438279197,1.0813141679834986,4,False,3.7,Pre-sale support,0.6,False,True
 T41537,Pre-sale support,bulk discount for academic lab,2026-04-12 15:00:00,Outside rep,8.637370533864225,3.0325839976271585,4,False,5.4,Pre-sale support,0.9500000000000001,True,True
 T40655,Custom project request,custom differentiation project proposal,2026-05-18 13:00:00,Business development,36.047217418078766,2.85712633383306,24,False,5.1,Custom project request,0.9500000000000001,True,True
-T40626,Pre-sale support,quote for endothelial cells please,2026-02-23 15:00:00,Outside rep,2.2464898044203467,12.3996890269658,4,True,5.8,Pre-sale support,0.75,True,True
+T40626,Pre-sale support,quote for cell line A please,2026-02-23 15:00:00,Outside rep,2.2464898044203467,12.3996890269658,4,True,5.8,Pre-sale support,0.75,True,True

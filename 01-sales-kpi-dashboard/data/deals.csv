@@ -1,131 +1,131 @@
 deal_id,deal_name,owner,pipeline,product,quantity,amount,deal_source,stage,forecast_category,create_date,close_date,sales_cycle_days,region,weighted_amount
-D5000,Northbridge Research Labs - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,1,600.0,Field Sales Prospecting,Closed Lost,LOST,2026-04-13,2026-05-09,26,United States,0.0
-D5001,Willow Biologics - Vascular Media Kit,Casey Lund,Sales,Vascular Media Kit,7,1890.0,Field Sales Prospecting,Closed Lost,LOST,2026-06-22,2026-07-24,32,United States,0.0
-D5002,Cedar Research Labs - Progenitor Cells 1x10^6,Jordan Pike,Sales,Progenitor Cells 1x10^6,6,3600.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-06-22,2026-07-06,14,Europe,1080.0
-D5003,Northbridge Institute - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,6,570.0,Field Sales Prospecting,Closed Lost,LOST,2026-03-06,2026-03-26,20,United States,0.0
-D5004,Harbor Institute - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,5,2850.0,Inbound Organic,Closed Won,CLOSED,2026-08-01,2026-08-24,23,Europe,2850.0
-D5005,Summit Biologics - Endothelial Cells 1x10^6,Casey Lund,Non-Revenue (Free Sample),,2,0.0,Inbound Organic,Closed Won,CLOSED,2026-10-12,2026-10-18,6,United States,0.0
+D5000,Northbridge Research Labs - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,1,600.0,Field Sales Prospecting,Closed Lost,LOST,2026-04-13,2026-05-09,26,United States,0.0
+D5001,Willow Biologics - Media Kit D,Casey Lund,Sales,Media Kit D,7,1890.0,Field Sales Prospecting,Closed Lost,LOST,2026-06-22,2026-07-24,32,United States,0.0
+D5002,Cedar Research Labs - Cell Line B 1x10^6,Jordan Pike,Sales,Cell Line B 1x10^6,6,3600.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-06-22,2026-07-06,14,Europe,1080.0
+D5003,Northbridge Institute - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,6,570.0,Field Sales Prospecting,Closed Lost,LOST,2026-03-06,2026-03-26,20,United States,0.0
+D5004,Harbor Institute - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,5,2850.0,Inbound Organic,Closed Won,CLOSED,2026-08-01,2026-08-24,23,Europe,2850.0
+D5005,Summit Biologics - Cell Line A 1x10^6,Casey Lund,Non-Revenue (Free Sample),,2,0.0,Inbound Organic,Closed Won,CLOSED,2026-10-12,2026-10-18,6,United States,0.0
 D5006,Northbridge University - Custom Project,Casey Lund,Custom Project,Custom Project,1,200000.0,Inside Sales,Closed Lost,LOST,2026-07-21,2026-08-07,17,United States,0.0
-D5007,Lakeshore Institute - Expansion Medium Kit,Casey Lund,Sales,Expansion Medium Kit,7,1253.7,Large Conferences,Verbal Commit,COMMIT,2026-06-15,2026-07-20,35,United States,752.22
-D5008,Lakeshore Institute - Vascular Media Kit,Avery Stone,Non-Revenue (Free Sample),Vascular Media Kit,6,0.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-21,2026-07-07,16,United States,0.0
+D5007,Lakeshore Institute - Growth Medium Kit,Casey Lund,Sales,Growth Medium Kit,7,1253.7,Large Conferences,Verbal Commit,COMMIT,2026-06-15,2026-07-20,35,United States,752.22
+D5008,Lakeshore Institute - Media Kit D,Avery Stone,Non-Revenue (Free Sample),Media Kit D,6,0.0,Field Sales Prospecting,Closed Won,CLOSED,2026-06-21,2026-07-07,16,United States,0.0
 D5009,Granite Therapeutics - Custom Project,Jordan Pike,Custom Project,Custom Project,1,150000.0,Large Conferences,Closed Lost,LOST,2026-01-11,2026-02-08,28,United States,0.0
-D5010,Bluestone Research Labs - Progenitor Cells 1x10^6,Jordan Pike,Sales,Progenitor Cells 1x10^6,5,2850.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-02-08,2026-03-31,51,Europe,427.5
-D5011,Meridian University - Progenitor Cells 1x10^6,Casey Lund,Sales,Progenitor Cells 1x10^6,2,1140.0,Large Conferences,Closed Lost,LOST,2026-01-17,2026-04-02,75,Canada,0.0
-D5012,Meridian University - Progenitor Cells 1x10^6,Casey Lund,Non-Revenue (Free Sample),Progenitor Cells 1x10^6,3,0.0,Field Sales Prospecting,Closed Lost,LOST,2026-10-31,2026-11-19,19,United States,0.0
-D5013,Northbridge Biologics - Progenitor Cells 1x10^6,Jordan Pike,Sales,Progenitor Cells 1x10^6,3,1620.0,Large Conferences,Closed Lost,LOST,2026-07-31,2026-08-25,25,United States,0.0
-D5014,Harbor University - Endothelial Cells 1x10^6,Avery Stone,Sales,Endothelial Cells 1x10^6,4,2700.0,Inside Sales,Discovery and Scoping,PIPELINE,2026-07-17,2026-09-12,57,Canada,405.0
-D5015,Ridgeway Therapeutics - Neural Media Kit,Jordan Pike,Sales,Neural Media Kit,4,4320.0,Webinars,Closed Won,CLOSED,2026-03-16,2026-04-13,28,United States,4320.0
-D5016,Summit Biologics - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,5,500.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-10-31,2026-11-13,13,United States,75.0
-D5017,Cedar Biologics - Endothelial Cells 1x10^6,Casey Lund,Sales,Endothelial Cells 1x10^6,3,2025.0,Webinars,Discovery and Scoping,PIPELINE,2026-10-10,2026-11-21,42,Asia,303.75
-D5018,Summit Therapeutics - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,7,3780.0,Inside Sales,Closed Won,CLOSED,2026-09-30,2026-11-12,43,United States,3780.0
-D5019,Willow Therapeutics - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,2,1080.0,Webinars,Verbal Commit,COMMIT,2026-04-25,2026-05-21,26,United States,648.0
-D5020,Granite Institute - Endothelial Cells 1x10^6,Avery Stone,Sales,Endothelial Cells 1x10^6,2,1500.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-13,2026-07-03,51,United States,1500.0
-D5021,Granite Biologics - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,6,1620.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-04-11,2026-05-19,38,United States,486.0
+D5010,Bluestone Research Labs - Cell Line B 1x10^6,Jordan Pike,Sales,Cell Line B 1x10^6,5,2850.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-02-08,2026-03-31,51,Europe,427.5
+D5011,Meridian University - Cell Line B 1x10^6,Casey Lund,Sales,Cell Line B 1x10^6,2,1140.0,Large Conferences,Closed Lost,LOST,2026-01-17,2026-04-02,75,Canada,0.0
+D5012,Meridian University - Cell Line B 1x10^6,Casey Lund,Non-Revenue (Free Sample),Cell Line B 1x10^6,3,0.0,Field Sales Prospecting,Closed Lost,LOST,2026-10-31,2026-11-19,19,United States,0.0
+D5013,Northbridge Biologics - Cell Line B 1x10^6,Jordan Pike,Sales,Cell Line B 1x10^6,3,1620.0,Large Conferences,Closed Lost,LOST,2026-07-31,2026-08-25,25,United States,0.0
+D5014,Harbor University - Cell Line A 1x10^6,Avery Stone,Sales,Cell Line A 1x10^6,4,2700.0,Inside Sales,Discovery and Scoping,PIPELINE,2026-07-17,2026-09-12,57,Canada,405.0
+D5015,Ridgeway Therapeutics - Media Kit C,Jordan Pike,Sales,Media Kit C,4,4320.0,Webinars,Closed Won,CLOSED,2026-03-16,2026-04-13,28,United States,4320.0
+D5016,Summit Biologics - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,5,500.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-10-31,2026-11-13,13,United States,75.0
+D5017,Cedar Biologics - Cell Line A 1x10^6,Casey Lund,Sales,Cell Line A 1x10^6,3,2025.0,Webinars,Discovery and Scoping,PIPELINE,2026-10-10,2026-11-21,42,Asia,303.75
+D5018,Summit Therapeutics - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,7,3780.0,Inside Sales,Closed Won,CLOSED,2026-09-30,2026-11-12,43,United States,3780.0
+D5019,Willow Therapeutics - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,2,1080.0,Webinars,Verbal Commit,COMMIT,2026-04-25,2026-05-21,26,United States,648.0
+D5020,Granite Institute - Cell Line A 1x10^6,Avery Stone,Sales,Cell Line A 1x10^6,2,1500.0,Field Sales Prospecting,Closed Won,CLOSED,2026-05-13,2026-07-03,51,United States,1500.0
+D5021,Granite Biologics - Media Kit D,Jordan Pike,Sales,Media Kit D,6,1620.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-04-11,2026-05-19,38,United States,486.0
 D5022,Summit Institute - Custom Project,Casey Lund,Custom Project,Custom Project,1,250000.0,Launch Campaigns,Discovery and Scoping,PIPELINE,2026-04-16,2026-05-15,29,United States,37500.0
-D5023,Willow Therapeutics - Expansion Medium Kit,Casey Lund,Sales,Expansion Medium Kit,5,945.25,Field Sales Prospecting,Closed Won,CLOSED,2026-07-05,2026-07-31,26,United States,945.25
-D5024,Bluestone University - Expansion Medium Kit,Casey Lund,Sales,Expansion Medium Kit,1,189.05,Inbound Organic,Closed Lost,LOST,2026-10-02,2026-10-29,27,United States,0.0
-D5025,Northbridge Institute - Neural Media Kit,Jordan Pike,Sales,Neural Media Kit,6,6840.0,Field Sales Prospecting,Closed Lost,LOST,2026-09-05,2026-10-05,30,United States,0.0
-D5026,Northbridge Biologics - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,2,1425.0,Large Conferences,Closed Lost,LOST,2026-04-20,2026-05-16,26,Asia,0.0
-D5027,Northbridge Institute - Progenitor Cells 1x10^6,Avery Stone,Non-Revenue (Free Sample),Progenitor Cells 1x10^6,5,0.0,Referral/Other,Closed Won,CLOSED,2026-09-09,2026-10-18,39,Asia,0.0
-D5028,Evergreen University - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,6,570.0,Webinars,Closed Won,CLOSED,2026-08-19,2026-09-25,37,United States,570.0
-D5029,Meridian Institute - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,1,189.05,Inbound Organic,Verbal Commit,COMMIT,2026-06-09,2026-07-14,35,United States,113.43
-D5030,Harbor Biologics - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,4,400.0,Large Conferences,Closed Lost,LOST,2026-05-31,2026-07-08,38,Canada,0.0
-D5031,Cedar Research Labs - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,6,3240.0,Field Sales Prospecting,Closed Lost,LOST,2026-02-22,2026-03-25,31,United States,0.0
-D5032,Evergreen Research Labs - Expansion Medium Kit,Avery Stone,Sales,Expansion Medium Kit,8,1592.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-09-24,2026-10-21,27,United States,238.79999999999998
-D5033,Ridgeway Institute - Expansion Medium Kit,Avery Stone,Sales,Expansion Medium Kit,1,189.05,Large Conferences,Closed Won,CLOSED,2026-05-17,2026-06-26,40,Canada,189.05
-D5034,Atlas Therapeutics - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-24,2026-11-03,10,United States,3600.0
-D5035,Evergreen Research Labs - Neural Media Kit,Avery Stone,Sales,Neural Media Kit,6,7200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-15,2026-09-10,26,United States,7200.0
-D5036,Evergreen Biologics - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,5,1350.0,Inbound Organic,Closed Won,CLOSED,2026-04-05,2026-05-16,41,United States,1350.0
-D5037,Meridian University - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,5,995.0,Large Conferences,Closed Lost,LOST,2026-07-01,2026-08-14,44,United States,0.0
-D5038,Atlas Institute - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,5,995.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-05-10,2026-06-28,49,United States,149.25
-D5039,Willow Biologics - Neural Media Kit,Avery Stone,Sales,Neural Media Kit,3,3420.0,Referral/Other,Closed Lost,LOST,2026-01-09,2026-02-12,34,United States,0.0
-D5040,Bluestone Institute - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,3,810.0,Referral/Other,Closed Won,CLOSED,2026-03-17,2026-04-15,29,United States,810.0
-D5041,Atlas University - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,4,2700.0,Large Conferences,Closed Won,CLOSED,2026-10-03,2026-10-31,28,Canada,2700.0
-D5042,Summit Institute - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,3,270.0,Webinars,Closed Won,CLOSED,2026-08-03,2026-09-05,33,United States,270.0
-D5043,Northbridge Research Labs - Neural Media Kit,Avery Stone,Sales,Neural Media Kit,5,5700.0,Webinars,Closed Lost,LOST,2026-08-01,2026-09-22,52,Canada,0.0
-D5044,Meridian University - Expansion Medium Kit,Avery Stone,Non-Revenue (Free Sample),Expansion Medium Kit,7,0.0,Inbound Organic,Closed Lost,LOST,2026-10-12,2026-11-01,20,United States,0.0
-D5045,Lakeshore Therapeutics - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,6,4275.0,Large Conferences,Verbal Commit,COMMIT,2026-05-08,2026-06-25,48,United States,2565.0
-D5046,Willow Therapeutics - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,5,3750.0,Field Sales Prospecting,Closed Lost,LOST,2026-01-29,2026-03-18,48,United States,0.0
-D5047,Ridgeway Institute - Neural Media Kit,Avery Stone,Sales,Neural Media Kit,8,9600.0,Large Conferences,Verbal Commit,COMMIT,2026-03-20,2026-04-23,34,United States,5760.0
+D5023,Willow Therapeutics - Growth Medium Kit,Casey Lund,Sales,Growth Medium Kit,5,945.25,Field Sales Prospecting,Closed Won,CLOSED,2026-07-05,2026-07-31,26,United States,945.25
+D5024,Bluestone University - Growth Medium Kit,Casey Lund,Sales,Growth Medium Kit,1,189.05,Inbound Organic,Closed Lost,LOST,2026-10-02,2026-10-29,27,United States,0.0
+D5025,Northbridge Institute - Media Kit C,Jordan Pike,Sales,Media Kit C,6,6840.0,Field Sales Prospecting,Closed Lost,LOST,2026-09-05,2026-10-05,30,United States,0.0
+D5026,Northbridge Biologics - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,2,1425.0,Large Conferences,Closed Lost,LOST,2026-04-20,2026-05-16,26,Asia,0.0
+D5027,Northbridge Institute - Cell Line B 1x10^6,Avery Stone,Non-Revenue (Free Sample),Cell Line B 1x10^6,5,0.0,Referral/Other,Closed Won,CLOSED,2026-09-09,2026-10-18,39,Asia,0.0
+D5028,Evergreen University - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,6,570.0,Webinars,Closed Won,CLOSED,2026-08-19,2026-09-25,37,United States,570.0
+D5029,Meridian Institute - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,1,189.05,Inbound Organic,Verbal Commit,COMMIT,2026-06-09,2026-07-14,35,United States,113.43
+D5030,Harbor Biologics - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,4,400.0,Large Conferences,Closed Lost,LOST,2026-05-31,2026-07-08,38,Canada,0.0
+D5031,Cedar Research Labs - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,6,3240.0,Field Sales Prospecting,Closed Lost,LOST,2026-02-22,2026-03-25,31,United States,0.0
+D5032,Evergreen Research Labs - Growth Medium Kit,Avery Stone,Sales,Growth Medium Kit,8,1592.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-09-24,2026-10-21,27,United States,238.79999999999998
+D5033,Ridgeway Institute - Growth Medium Kit,Avery Stone,Sales,Growth Medium Kit,1,189.05,Large Conferences,Closed Won,CLOSED,2026-05-17,2026-06-26,40,Canada,189.05
+D5034,Atlas Therapeutics - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,6,3600.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-24,2026-11-03,10,United States,3600.0
+D5035,Evergreen Research Labs - Media Kit C,Avery Stone,Sales,Media Kit C,6,7200.0,Field Sales Prospecting,Closed Won,CLOSED,2026-08-15,2026-09-10,26,United States,7200.0
+D5036,Evergreen Biologics - Media Kit D,Jordan Pike,Sales,Media Kit D,5,1350.0,Inbound Organic,Closed Won,CLOSED,2026-04-05,2026-05-16,41,United States,1350.0
+D5037,Meridian University - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,5,995.0,Large Conferences,Closed Lost,LOST,2026-07-01,2026-08-14,44,United States,0.0
+D5038,Atlas Institute - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,5,995.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-05-10,2026-06-28,49,United States,149.25
+D5039,Willow Biologics - Media Kit C,Avery Stone,Sales,Media Kit C,3,3420.0,Referral/Other,Closed Lost,LOST,2026-01-09,2026-02-12,34,United States,0.0
+D5040,Bluestone Institute - Media Kit D,Jordan Pike,Sales,Media Kit D,3,810.0,Referral/Other,Closed Won,CLOSED,2026-03-17,2026-04-15,29,United States,810.0
+D5041,Atlas University - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,4,2700.0,Large Conferences,Closed Won,CLOSED,2026-10-03,2026-10-31,28,Canada,2700.0
+D5042,Summit Institute - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,3,270.0,Webinars,Closed Won,CLOSED,2026-08-03,2026-09-05,33,United States,270.0
+D5043,Northbridge Research Labs - Media Kit C,Avery Stone,Sales,Media Kit C,5,5700.0,Webinars,Closed Lost,LOST,2026-08-01,2026-09-22,52,Canada,0.0
+D5044,Meridian University - Growth Medium Kit,Avery Stone,Non-Revenue (Free Sample),Growth Medium Kit,7,0.0,Inbound Organic,Closed Lost,LOST,2026-10-12,2026-11-01,20,United States,0.0
+D5045,Lakeshore Therapeutics - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,6,4275.0,Large Conferences,Verbal Commit,COMMIT,2026-05-08,2026-06-25,48,United States,2565.0
+D5046,Willow Therapeutics - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,5,3750.0,Field Sales Prospecting,Closed Lost,LOST,2026-01-29,2026-03-18,48,United States,0.0
+D5047,Ridgeway Institute - Media Kit C,Avery Stone,Sales,Media Kit C,8,9600.0,Large Conferences,Verbal Commit,COMMIT,2026-03-20,2026-04-23,34,United States,5760.0
 D5048,Willow Institute - Custom Project,Avery Stone,Custom Project,Custom Project,1,150000.0,Field Sales Prospecting,Proposal/Quote Sent,BEST_CASE,2026-08-07,2026-08-26,19,United States,45000.0
-D5049,Meridian Therapeutics - Progenitor Cells 1x10^6,Jordan Pike,Sales,Progenitor Cells 1x10^6,3,1800.0,Inside Sales,Closed Lost,LOST,2026-10-04,2026-10-24,20,United States,0.0
+D5049,Meridian Therapeutics - Cell Line B 1x10^6,Jordan Pike,Sales,Cell Line B 1x10^6,3,1800.0,Inside Sales,Closed Lost,LOST,2026-10-04,2026-10-24,20,United States,0.0
 D5050,Summit Institute - Custom Project,Avery Stone,Custom Project,Custom Project,1,150000.0,Launch Campaigns,Discovery and Scoping,PIPELINE,2026-08-30,2026-10-04,35,United States,22500.0
-D5051,Ridgeway Therapeutics - Progenitor Cells 1x10^6,Casey Lund,Sales,Progenitor Cells 1x10^6,4,2400.0,Webinars,Closed Lost,LOST,2026-05-07,2026-06-22,46,Asia,0.0
-D5052,Granite Biologics - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,4,796.0,Field Sales Prospecting,Closed Lost,LOST,2026-07-24,2026-08-22,29,United States,0.0
-D5053,Harbor University - Vascular Media Kit,Casey Lund,Sales,Vascular Media Kit,2,540.0,Inbound Organic,Closed Won,CLOSED,2026-06-18,2026-06-26,8,United States,540.0
-D5054,Lakeshore Institute - Neural Media Kit,Jordan Pike,Sales,Neural Media Kit,1,1200.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-25,2026-03-04,7,Asia,360.0
-D5055,Atlas University - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,6,3240.0,Inside Sales,Closed Lost,LOST,2026-07-03,2026-07-18,15,United States,0.0
-D5056,Ridgeway University - Endothelial Cells 1x10^6,Jordan Pike,Sales,,2,1500.0,Inbound Organic,Proposal/Quote Sent,BEST_CASE,2026-07-24,2026-09-02,40,United States,450.0
-D5057,Evergreen Biologics - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,2,200.0,Inside Sales,Closed Lost,LOST,2026-04-15,2026-05-09,24,United States,0.0
-D5058,Meridian Institute - Expansion Medium Kit,Casey Lund,Non-Revenue (Free Sample),Expansion Medium Kit,6,0.0,Field Sales Prospecting,Discovery and Scoping,PIPELINE,2026-09-16,2026-10-26,40,United States,0.0
-D5059,Harbor Research Labs - Progenitor Cells 1x10^6,Casey Lund,Non-Revenue (Free Sample),Progenitor Cells 1x10^6,1,0.0,Inside Sales,Closed Won,CLOSED,2026-06-23,2026-07-23,30,United States,0.0
-D5060,Northbridge University - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,7,5250.0,Inside Sales,Closed Won,CLOSED,2026-06-10,2026-07-22,42,United States,5250.0
-D5061,Lakeshore Research Labs - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,2,200.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-04-28,2026-05-27,29,United States,60.0
+D5051,Ridgeway Therapeutics - Cell Line B 1x10^6,Casey Lund,Sales,Cell Line B 1x10^6,4,2400.0,Webinars,Closed Lost,LOST,2026-05-07,2026-06-22,46,Asia,0.0
+D5052,Granite Biologics - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,4,796.0,Field Sales Prospecting,Closed Lost,LOST,2026-07-24,2026-08-22,29,United States,0.0
+D5053,Harbor University - Media Kit D,Casey Lund,Sales,Media Kit D,2,540.0,Inbound Organic,Closed Won,CLOSED,2026-06-18,2026-06-26,8,United States,540.0
+D5054,Lakeshore Institute - Media Kit C,Jordan Pike,Sales,Media Kit C,1,1200.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-25,2026-03-04,7,Asia,360.0
+D5055,Atlas University - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,6,3240.0,Inside Sales,Closed Lost,LOST,2026-07-03,2026-07-18,15,United States,0.0
+D5056,Ridgeway University - Cell Line A 1x10^6,Jordan Pike,Sales,,2,1500.0,Inbound Organic,Proposal/Quote Sent,BEST_CASE,2026-07-24,2026-09-02,40,United States,450.0
+D5057,Evergreen Biologics - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,2,200.0,Inside Sales,Closed Lost,LOST,2026-04-15,2026-05-09,24,United States,0.0
+D5058,Meridian Institute - Growth Medium Kit,Casey Lund,Non-Revenue (Free Sample),Growth Medium Kit,6,0.0,Field Sales Prospecting,Discovery and Scoping,PIPELINE,2026-09-16,2026-10-26,40,United States,0.0
+D5059,Harbor Research Labs - Cell Line B 1x10^6,Casey Lund,Non-Revenue (Free Sample),Cell Line B 1x10^6,1,0.0,Inside Sales,Closed Won,CLOSED,2026-06-23,2026-07-23,30,United States,0.0
+D5060,Northbridge University - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,7,5250.0,Inside Sales,Closed Won,CLOSED,2026-06-10,2026-07-22,42,United States,5250.0
+D5061,Lakeshore Research Labs - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,2,200.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-04-28,2026-05-27,29,United States,60.0
 D5062,Harbor Biologics - Custom Project,Jordan Pike,Custom Project,Custom Project,1,200000.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-03-30,2026-04-30,31,United States,60000.0
-D5063,Bluestone University - Vascular Media Kit,Casey Lund,Sales,Vascular Media Kit,5,1350.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-23,2026-03-31,36,United States,405.0
-D5064,Cedar Research Labs - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,6,1134.3,Large Conferences,Closed Won,CLOSED,2026-09-12,2026-09-25,13,United States,1134.3
-D5065,Harbor University - Vascular Media Kit,Jordan Pike,Non-Revenue (Free Sample),Vascular Media Kit,5,0.0,Webinars,Closed Won,CLOSED,2026-03-30,2026-04-26,27,United States,0.0
-D5066,Bluestone Research Labs - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,1,100.0,Inside Sales,Closed Won,CLOSED,2026-01-08,2026-01-25,17,United States,100.0
-D5067,Summit Biologics - Vascular Media Kit,Avery Stone,Sales,Vascular Media Kit,2,540.0,Inbound Organic,Proposal/Quote Sent,BEST_CASE,2026-10-22,2026-12-08,47,United States,162.0
+D5063,Bluestone University - Media Kit D,Casey Lund,Sales,Media Kit D,5,1350.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-23,2026-03-31,36,United States,405.0
+D5064,Cedar Research Labs - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,6,1134.3,Large Conferences,Closed Won,CLOSED,2026-09-12,2026-09-25,13,United States,1134.3
+D5065,Harbor University - Media Kit D,Jordan Pike,Non-Revenue (Free Sample),Media Kit D,5,0.0,Webinars,Closed Won,CLOSED,2026-03-30,2026-04-26,27,United States,0.0
+D5066,Bluestone Research Labs - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,1,100.0,Inside Sales,Closed Won,CLOSED,2026-01-08,2026-01-25,17,United States,100.0
+D5067,Summit Biologics - Media Kit D,Avery Stone,Sales,Media Kit D,2,540.0,Inbound Organic,Proposal/Quote Sent,BEST_CASE,2026-10-22,2026-12-08,47,United States,162.0
 D5068,Summit Biologics - Custom Project,Jordan Pike,Custom Project,,1,150000.0,Field Sales Prospecting,Closed Lost,LOST,2026-07-21,2026-08-11,21,Canada,0.0
-D5069,Evergreen University - Vascular Media Kit,Avery Stone,Sales,Vascular Media Kit,8,2052.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-03-05,2026-04-11,37,United States,307.8
-D5070,Atlas Biologics - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,5,450.0,Field Sales Prospecting,Closed Lost,LOST,2026-06-15,2026-07-23,38,Canada,0.0
-D5071,Bluestone Therapeutics - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,5,500.0,Inside Sales,Closed Lost,LOST,2026-08-09,2026-09-15,37,United States,0.0
-D5072,Northbridge Institute - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,4,400.0,Inbound Organic,Closed Lost,LOST,2026-06-25,2026-08-06,42,United States,0.0
+D5069,Evergreen University - Media Kit D,Avery Stone,Sales,Media Kit D,8,2052.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-03-05,2026-04-11,37,United States,307.8
+D5070,Atlas Biologics - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,5,450.0,Field Sales Prospecting,Closed Lost,LOST,2026-06-15,2026-07-23,38,Canada,0.0
+D5071,Bluestone Therapeutics - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,5,500.0,Inside Sales,Closed Lost,LOST,2026-08-09,2026-09-15,37,United States,0.0
+D5072,Northbridge Institute - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,4,400.0,Inbound Organic,Closed Lost,LOST,2026-06-25,2026-08-06,42,United States,0.0
 D5073,Granite University - Custom Project,Jordan Pike,Custom Project,Custom Project,1,200000.0,Field Sales Prospecting,Verbal Commit,COMMIT,2026-03-29,2026-04-28,30,United States,120000.0
-D5074,Meridian University - Progenitor Cells 1x10^6,Jordan Pike,Sales,,6,3420.0,Large Conferences,Closed Lost,LOST,2026-04-06,2026-05-14,38,Europe,0.0
-D5075,Bluestone Biologics - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,3,270.0,Webinars,Closed Lost,LOST,2026-08-22,2026-10-01,40,Europe,0.0
+D5074,Meridian University - Cell Line B 1x10^6,Jordan Pike,Sales,,6,3420.0,Large Conferences,Closed Lost,LOST,2026-04-06,2026-05-14,38,Europe,0.0
+D5075,Bluestone Biologics - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,3,270.0,Webinars,Closed Lost,LOST,2026-08-22,2026-10-01,40,Europe,0.0
 D5076,Lakeshore University - Custom Project,Jordan Pike,Custom Project,Custom Project,1,150000.0,Field Sales Prospecting,Closed Lost,LOST,2026-09-14,2026-09-18,4,Asia,0.0
-D5077,Cedar Research Labs - Neural Media Kit,Jordan Pike,Non-Revenue (Free Sample),Neural Media Kit,7,0.0,Field Sales Prospecting,Closed Lost,LOST,2026-09-30,2026-10-13,13,Europe,0.0
-D5078,Bluestone University - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,3,810.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-28,2026-11-22,25,United States,810.0
+D5077,Cedar Research Labs - Media Kit C,Jordan Pike,Non-Revenue (Free Sample),Media Kit C,7,0.0,Field Sales Prospecting,Closed Lost,LOST,2026-09-30,2026-10-13,13,Europe,0.0
+D5078,Bluestone University - Media Kit D,Jordan Pike,Sales,Media Kit D,3,810.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-28,2026-11-22,25,United States,810.0
 D5079,Northbridge Institute - Custom Project,Avery Stone,Custom Project,Custom Project,1,150000.0,Field Sales Prospecting,Closed Lost,LOST,2026-07-05,2026-07-27,22,United States,0.0
-D5080,Lakeshore Institute - Neural Media Kit,Avery Stone,Sales,Neural Media Kit,3,3600.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-08,2026-03-22,42,United States,1080.0
+D5080,Lakeshore Institute - Media Kit C,Avery Stone,Sales,Media Kit C,3,3600.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-08,2026-03-22,42,United States,1080.0
 D5081,Meridian Institute - Custom Project,Avery Stone,Custom Project,Custom Project,1,200000.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-02-10,2026-03-06,24,United States,60000.0
-D5082,Granite University - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,4,400.0,Inbound Organic,Closed Lost,LOST,2026-03-04,2026-03-22,18,United States,0.0
-D5083,Evergreen Therapeutics - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,6,600.0,Large Conferences,Closed Lost,LOST,2026-02-26,2026-04-06,39,Canada,0.0
-D5084,Cedar Institute - Expansion Medium Kit,Casey Lund,Sales,Expansion Medium Kit,5,945.25,Webinars,Closed Won,CLOSED,2026-01-31,2026-02-21,21,United States,945.25
-D5085,Ridgeway Biologics - Vascular Media Kit,Avery Stone,Non-Revenue (Free Sample),Vascular Media Kit,6,0.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-19,2026-08-05,17,Europe,0.0
-D5086,Atlas Biologics - Progenitor Cells 1x10^6,Jordan Pike,Non-Revenue (Free Sample),Progenitor Cells 1x10^6,7,0.0,Launch Campaigns,Discovery and Scoping,PIPELINE,2026-10-16,2026-11-20,35,United States,0.0
+D5082,Granite University - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,4,400.0,Inbound Organic,Closed Lost,LOST,2026-03-04,2026-03-22,18,United States,0.0
+D5083,Evergreen Therapeutics - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,6,600.0,Large Conferences,Closed Lost,LOST,2026-02-26,2026-04-06,39,Canada,0.0
+D5084,Cedar Institute - Growth Medium Kit,Casey Lund,Sales,Growth Medium Kit,5,945.25,Webinars,Closed Won,CLOSED,2026-01-31,2026-02-21,21,United States,945.25
+D5085,Ridgeway Biologics - Media Kit D,Avery Stone,Non-Revenue (Free Sample),Media Kit D,6,0.0,Field Sales Prospecting,Closed Won,CLOSED,2026-07-19,2026-08-05,17,Europe,0.0
+D5086,Atlas Biologics - Cell Line B 1x10^6,Jordan Pike,Non-Revenue (Free Sample),Cell Line B 1x10^6,7,0.0,Launch Campaigns,Discovery and Scoping,PIPELINE,2026-10-16,2026-11-20,35,United States,0.0
 D5087,Northbridge Therapeutics - Custom Project,Avery Stone,Custom Project,Custom Project,1,150000.0,Field Sales Prospecting,Proposal/Quote Sent,BEST_CASE,2026-07-27,2026-08-20,24,Europe,45000.0
-D5088,Cedar University - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,7,4200.0,Large Conferences,Closed Won,CLOSED,2026-07-03,2026-07-26,23,United States,4200.0
-D5089,Meridian Research Labs - Vascular Media Kit,Avery Stone,Sales,Vascular Media Kit,6,1458.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-04-21,2026-05-27,36,United States,218.7
+D5088,Cedar University - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,7,4200.0,Large Conferences,Closed Won,CLOSED,2026-07-03,2026-07-26,23,United States,4200.0
+D5089,Meridian Research Labs - Media Kit D,Avery Stone,Sales,Media Kit D,6,1458.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-04-21,2026-05-27,36,United States,218.7
 D5090,Granite Research Labs - Custom Project,Casey Lund,Custom Project,Custom Project,1,150000.0,Launch Campaigns,Proposal/Quote Sent,BEST_CASE,2026-10-21,2026-11-13,23,United States,45000.0
-D5091,Harbor Research Labs - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,4,2400.0,Referral/Other,Closed Won,CLOSED,2026-04-12,2026-05-21,39,United States,2400.0
-D5092,Cedar University - Progenitor Cells 1x10^6,Avery Stone,Non-Revenue (Free Sample),Progenitor Cells 1x10^6,6,0.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-22,2026-10-25,3,United States,0.0
-D5093,Ridgeway Institute - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,1,100.0,Webinars,Closed Lost,LOST,2026-08-13,2026-09-08,26,United States,0.0
-D5094,Meridian Research Labs - Endothelial Cells 1x10^6,Avery Stone,Sales,Endothelial Cells 1x10^6,7,4987.5,Field Sales Prospecting,Closed Lost,LOST,2026-05-14,2026-06-06,23,United States,0.0
+D5091,Harbor Research Labs - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,4,2400.0,Referral/Other,Closed Won,CLOSED,2026-04-12,2026-05-21,39,United States,2400.0
+D5092,Cedar University - Cell Line B 1x10^6,Avery Stone,Non-Revenue (Free Sample),Cell Line B 1x10^6,6,0.0,Field Sales Prospecting,Closed Won,CLOSED,2026-10-22,2026-10-25,3,United States,0.0
+D5093,Ridgeway Institute - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,1,100.0,Webinars,Closed Lost,LOST,2026-08-13,2026-09-08,26,United States,0.0
+D5094,Meridian Research Labs - Cell Line A 1x10^6,Avery Stone,Sales,Cell Line A 1x10^6,7,4987.5,Field Sales Prospecting,Closed Lost,LOST,2026-05-14,2026-06-06,23,United States,0.0
 D5095,Atlas University - Custom Project,Jordan Pike,Custom Project,Custom Project,1,200000.0,Large Conferences,Verbal Commit,COMMIT,2026-03-06,2026-03-30,24,United States,120000.0
 D5096,Willow Institute - Custom Project,Jordan Pike,Custom Project,Custom Project,1,200000.0,Inbound Organic,Discovery and Scoping,PIPELINE,2026-07-01,2026-07-07,6,Europe,30000.0
-D5097,Bluestone University - Endothelial Cells 1x10^6,Casey Lund,Sales,Endothelial Cells 1x10^6,2,1350.0,Field Sales Prospecting,Closed Lost,LOST,2026-06-25,2026-07-22,27,United States,0.0
-D5098,Harbor Institute - Vascular Media Kit,Avery Stone,Sales,Vascular Media Kit,6,1620.0,Field Sales Prospecting,Closed Lost,LOST,2026-03-18,2026-05-13,56,United States,0.0
+D5097,Bluestone University - Cell Line A 1x10^6,Casey Lund,Sales,Cell Line A 1x10^6,2,1350.0,Field Sales Prospecting,Closed Lost,LOST,2026-06-25,2026-07-22,27,United States,0.0
+D5098,Harbor Institute - Media Kit D,Avery Stone,Sales,Media Kit D,6,1620.0,Field Sales Prospecting,Closed Lost,LOST,2026-03-18,2026-05-13,56,United States,0.0
 D5099,Lakeshore Therapeutics - Custom Project,Casey Lund,Custom Project,Custom Project,1,250000.0,Inbound Organic,Verbal Commit,COMMIT,2026-10-18,2026-11-21,34,Europe,150000.0
-D5100,Atlas Therapeutics - Expansion Medium Kit,Avery Stone,Sales,Expansion Medium Kit,4,756.2,Webinars,Closed Won,CLOSED,2026-08-02,2026-08-09,7,United States,756.2
-D5101,Willow Therapeutics - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,8,1432.8,Field Sales Prospecting,Closed Lost,LOST,2026-05-02,2026-06-16,45,United States,0.0
-D5102,Northbridge Institute - Progenitor Cells 1x10^6,Casey Lund,Sales,Progenitor Cells 1x10^6,7,3990.0,Inbound Organic,Closed Won,CLOSED,2026-01-23,2026-02-13,21,United States,3990.0
-D5103,Summit Research Labs - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,6,4500.0,Large Conferences,Closed Won,CLOSED,2026-07-21,2026-08-13,23,United States,4500.0
-D5104,Willow University - Progenitor Cells 1x10^6,Jordan Pike,Sales,Progenitor Cells 1x10^6,2,1200.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-03-30,2026-05-08,39,United States,360.0
-D5105,Harbor Therapeutics - Endothelial Cells 1x10^6,Casey Lund,Sales,Endothelial Cells 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-06,2026-02-14,39,United States,3000.0
-D5106,Willow Biologics - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,6,3240.0,Field Sales Prospecting,Closed Lost,LOST,2026-04-09,2026-05-07,28,United States,0.0
-D5107,Willow Therapeutics - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,7,700.0,Large Conferences,Closed Won,CLOSED,2026-07-24,2026-08-28,35,United States,700.0
-D5108,Northbridge Research Labs - Progenitor Cells 1x10^6,Casey Lund,Sales,Progenitor Cells 1x10^6,2,1200.0,Field Sales Prospecting,Closed Lost,LOST,2026-05-30,2026-07-10,41,United States,0.0
-D5109,Northbridge University - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,4,400.0,Referral/Other,Closed Lost,LOST,2026-01-12,2026-01-31,19,United States,0.0
-D5110,Atlas University - Small Molecule 10mg,Jordan Pike,Sales,Small Molecule 10mg,2,180.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-20,2026-10-18,28,United States,180.0
-D5111,Willow Research Labs - Neural Media Kit,Avery Stone,Non-Revenue (Free Sample),Neural Media Kit,6,0.0,Referral/Other,Closed Won,CLOSED,2026-08-10,2026-08-14,4,United States,0.0
-D5112,Harbor Research Labs - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,6,1074.6,Inbound Organic,Closed Won,CLOSED,2026-07-27,2026-08-29,33,United States,1074.6
-D5113,Northbridge Research Labs - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,7,1795.5,Webinars,Closed Won,CLOSED,2026-08-15,2026-09-25,41,United States,1795.5
-D5114,Evergreen Therapeutics - Endothelial Cells 1x10^6,Casey Lund,Sales,Endothelial Cells 1x10^6,3,2250.0,Field Sales Prospecting,Closed Lost,LOST,2026-10-28,2026-11-14,17,Europe,0.0
-D5115,Bluestone Therapeutics - Endothelial Cells 1x10^6,Jordan Pike,Sales,Endothelial Cells 1x10^6,6,4500.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-10-27,2026-11-28,32,United States,1350.0
-D5116,Harbor Biologics - Vascular Media Kit,Jordan Pike,Sales,Vascular Media Kit,3,810.0,Inside Sales,Closed Lost,LOST,2026-01-24,2026-02-28,35,United States,0.0
-D5117,Lakeshore Institute - Small Molecule 10mg,Casey Lund,Sales,Small Molecule 10mg,3,285.0,Inside Sales,Verbal Commit,COMMIT,2026-01-26,2026-03-05,38,Europe,171.0
-D5118,Meridian Institute - Neural Media Kit,Avery Stone,Non-Revenue (Free Sample),Neural Media Kit,8,0.0,Inside Sales,Verbal Commit,COMMIT,2026-05-22,2026-05-25,3,United States,0.0
-D5119,Cedar Research Labs - Expansion Medium Kit,Avery Stone,Sales,Expansion Medium Kit,3,567.15,Large Conferences,Discovery and Scoping,PIPELINE,2026-04-27,2026-06-13,47,United States,85.07249999999999
-D5120,Granite Therapeutics - Small Molecule 10mg,Avery Stone,Sales,Small Molecule 10mg,6,540.0,Inside Sales,Verbal Commit,COMMIT,2026-05-26,2026-06-28,33,United States,324.0
-D5121,Willow Research Labs - Progenitor Cells 1x10^6,Avery Stone,Sales,Progenitor Cells 1x10^6,6,3240.0,Referral/Other,Closed Lost,LOST,2026-07-23,2026-09-01,40,Europe,0.0
+D5100,Atlas Therapeutics - Growth Medium Kit,Avery Stone,Sales,Growth Medium Kit,4,756.2,Webinars,Closed Won,CLOSED,2026-08-02,2026-08-09,7,United States,756.2
+D5101,Willow Therapeutics - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,8,1432.8,Field Sales Prospecting,Closed Lost,LOST,2026-05-02,2026-06-16,45,United States,0.0
+D5102,Northbridge Institute - Cell Line B 1x10^6,Casey Lund,Sales,Cell Line B 1x10^6,7,3990.0,Inbound Organic,Closed Won,CLOSED,2026-01-23,2026-02-13,21,United States,3990.0
+D5103,Summit Research Labs - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,6,4500.0,Large Conferences,Closed Won,CLOSED,2026-07-21,2026-08-13,23,United States,4500.0
+D5104,Willow University - Cell Line B 1x10^6,Jordan Pike,Sales,Cell Line B 1x10^6,2,1200.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-03-30,2026-05-08,39,United States,360.0
+D5105,Harbor Therapeutics - Cell Line A 1x10^6,Casey Lund,Sales,Cell Line A 1x10^6,4,3000.0,Field Sales Prospecting,Closed Won,CLOSED,2026-01-06,2026-02-14,39,United States,3000.0
+D5106,Willow Biologics - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,6,3240.0,Field Sales Prospecting,Closed Lost,LOST,2026-04-09,2026-05-07,28,United States,0.0
+D5107,Willow Therapeutics - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,7,700.0,Large Conferences,Closed Won,CLOSED,2026-07-24,2026-08-28,35,United States,700.0
+D5108,Northbridge Research Labs - Cell Line B 1x10^6,Casey Lund,Sales,Cell Line B 1x10^6,2,1200.0,Field Sales Prospecting,Closed Lost,LOST,2026-05-30,2026-07-10,41,United States,0.0
+D5109,Northbridge University - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,4,400.0,Referral/Other,Closed Lost,LOST,2026-01-12,2026-01-31,19,United States,0.0
+D5110,Atlas University - Compound Set 10mg,Jordan Pike,Sales,Compound Set 10mg,2,180.0,Field Sales Prospecting,Closed Won,CLOSED,2026-09-20,2026-10-18,28,United States,180.0
+D5111,Willow Research Labs - Media Kit C,Avery Stone,Non-Revenue (Free Sample),Media Kit C,6,0.0,Referral/Other,Closed Won,CLOSED,2026-08-10,2026-08-14,4,United States,0.0
+D5112,Harbor Research Labs - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,6,1074.6,Inbound Organic,Closed Won,CLOSED,2026-07-27,2026-08-29,33,United States,1074.6
+D5113,Northbridge Research Labs - Media Kit D,Jordan Pike,Sales,Media Kit D,7,1795.5,Webinars,Closed Won,CLOSED,2026-08-15,2026-09-25,41,United States,1795.5
+D5114,Evergreen Therapeutics - Cell Line A 1x10^6,Casey Lund,Sales,Cell Line A 1x10^6,3,2250.0,Field Sales Prospecting,Closed Lost,LOST,2026-10-28,2026-11-14,17,Europe,0.0
+D5115,Bluestone Therapeutics - Cell Line A 1x10^6,Jordan Pike,Sales,Cell Line A 1x10^6,6,4500.0,Large Conferences,Proposal/Quote Sent,BEST_CASE,2026-10-27,2026-11-28,32,United States,1350.0
+D5116,Harbor Biologics - Media Kit D,Jordan Pike,Sales,Media Kit D,3,810.0,Inside Sales,Closed Lost,LOST,2026-01-24,2026-02-28,35,United States,0.0
+D5117,Lakeshore Institute - Compound Set 10mg,Casey Lund,Sales,Compound Set 10mg,3,285.0,Inside Sales,Verbal Commit,COMMIT,2026-01-26,2026-03-05,38,Europe,171.0
+D5118,Meridian Institute - Media Kit C,Avery Stone,Non-Revenue (Free Sample),Media Kit C,8,0.0,Inside Sales,Verbal Commit,COMMIT,2026-05-22,2026-05-25,3,United States,0.0
+D5119,Cedar Research Labs - Growth Medium Kit,Avery Stone,Sales,Growth Medium Kit,3,567.15,Large Conferences,Discovery and Scoping,PIPELINE,2026-04-27,2026-06-13,47,United States,85.07249999999999
+D5120,Granite Therapeutics - Compound Set 10mg,Avery Stone,Sales,Compound Set 10mg,6,540.0,Inside Sales,Verbal Commit,COMMIT,2026-05-26,2026-06-28,33,United States,324.0
+D5121,Willow Research Labs - Cell Line B 1x10^6,Avery Stone,Sales,Cell Line B 1x10^6,6,3240.0,Referral/Other,Closed Lost,LOST,2026-07-23,2026-09-01,40,Europe,0.0
 D5122,Evergreen Research Labs - Custom Project,Casey Lund,Custom Project,Custom Project,1,250000.0,Large Conferences,Verbal Commit,COMMIT,2026-03-30,2026-04-02,3,United States,150000.0
-D5123,Harbor University - Vascular Media Kit,Casey Lund,Sales,Vascular Media Kit,5,1350.0,Large Conferences,Closed Lost,LOST,2026-08-04,2026-09-04,31,United States,0.0
-D5124,Willow University - Neural Media Kit,Jordan Pike,Sales,Neural Media Kit,5,6000.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-09-12,2026-09-30,18,United States,900.0
+D5123,Harbor University - Media Kit D,Casey Lund,Sales,Media Kit D,5,1350.0,Large Conferences,Closed Lost,LOST,2026-08-04,2026-09-04,31,United States,0.0
+D5124,Willow University - Media Kit C,Jordan Pike,Sales,Media Kit C,5,6000.0,Large Conferences,Discovery and Scoping,PIPELINE,2026-09-12,2026-09-30,18,United States,900.0
 D5125,Willow Research Labs - Custom Project,Casey Lund,Custom Project,Custom Project,1,250000.0,Webinars,Closed Lost,LOST,2026-01-14,2026-01-25,11,United States,0.0
-D5126,Summit Institute - Expansion Medium Kit,Jordan Pike,Sales,Expansion Medium Kit,6,1074.6,Webinars,Closed Lost,LOST,2026-09-08,2026-10-02,24,Asia,0.0
-D5127,Bluestone Therapeutics - Vascular Media Kit,Avery Stone,Sales,Vascular Media Kit,4,1026.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-06-23,2026-08-15,53,United States,307.8
-D5128,Bluestone Institute - Vascular Media Kit,Jordan Pike,Non-Revenue (Free Sample),Vascular Media Kit,1,0.0,Inbound Organic,Proposal/Quote Sent,BEST_CASE,2026-07-15,2026-08-02,18,United States,0.0
-D5129,Summit University - Endothelial Cells 1x10^6,Avery Stone,Sales,Endothelial Cells 1x10^6,5,3562.5,Inbound Organic,Closed Lost,LOST,2026-05-30,2026-06-27,28,Canada,0.0
+D5126,Summit Institute - Growth Medium Kit,Jordan Pike,Sales,Growth Medium Kit,6,1074.6,Webinars,Closed Lost,LOST,2026-09-08,2026-10-02,24,Asia,0.0
+D5127,Bluestone Therapeutics - Media Kit D,Avery Stone,Sales,Media Kit D,4,1026.0,Inside Sales,Proposal/Quote Sent,BEST_CASE,2026-06-23,2026-08-15,53,United States,307.8
+D5128,Bluestone Institute - Media Kit D,Jordan Pike,Non-Revenue (Free Sample),Media Kit D,1,0.0,Inbound Organic,Proposal/Quote Sent,BEST_CASE,2026-07-15,2026-08-02,18,United States,0.0
+D5129,Summit University - Cell Line A 1x10^6,Avery Stone,Sales,Cell Line A 1x10^6,5,3562.5,Inbound Organic,Closed Lost,LOST,2026-05-30,2026-06-27,28,Canada,0.0

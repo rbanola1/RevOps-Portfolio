@@ -1,5 +1,5 @@
 product,stock_on_hand,avg_monthly_demand_next_6,months_of_cover,action
-Endothelial cells,70,9.3,8,OK
-Progenitor cells,40,8.5,4,Reorder soon
-Neural media kit,36,3.3,11,OK
-Small molecules,420,58.2,7,OK
+Cell Line A,70,9.3,8,OK
+Cell Line B,40,8.5,4,Reorder soon
+Media Kit C,36,3.3,11,OK
+Compound Sets,420,58.2,7,OK

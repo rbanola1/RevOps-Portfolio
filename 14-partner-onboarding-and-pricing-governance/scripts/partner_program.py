@@ -50,10 +50,10 @@ sc = sc.sort_values("score", ascending=False)
 sc.to_csv(DATA / "partner_scorecard.csv", index=False)
 
 # ---------- 3. catalog audit: same product, different data across partners ----------
-PRODUCTS = [("Endothelial cells, 1 vial", "EC-1001", 620, "1 vial", 5), ("Endothelial medium, 500 mL", "EM-2010", 185, "500 mL", 3),
-            ("Progenitor cells, 1 vial", "PC-1100", 540, "1 vial", 5), ("Neural media kit", "NM-3000", 410, "1 kit", 7),
-            ("Small molecule A, 10 mg", "SM-4101", 95, "10 mg", 4), ("Small molecule B, 50 mg", "SM-4102", 260, "50 mg", 4),
-            ("Expansion medium, 100 mL", "XM-5200", 120, "100 mL", 3), ("Cryopreservation medium, 50 mL", "CM-6001", 78, "50 mL", 3)]
+PRODUCTS = [("Cell Line A, 1 vial", "EC-1001", 620, "1 vial", 5), ("Growth Medium A, 500 mL", "EM-2010", 185, "500 mL", 3),
+            ("Cell Line B, 1 vial", "PC-1100", 540, "1 vial", 5), ("Media Kit C", "NM-3000", 410, "1 kit", 7),
+            ("Compound A, 10 mg", "SM-4101", 95, "10 mg", 4), ("Compound B, 50 mg", "SM-4102", 260, "50 mg", 4),
+            ("Growth Medium, 100 mL", "XM-5200", 120, "100 mL", 3), ("Cryopreservation medium, 50 mL", "CM-6001", 78, "50 mL", 3)]
 cat = []
 for name, sku, price, pack, lead in PRODUCTS:
     for pn, kind, _ in PARTNERS:

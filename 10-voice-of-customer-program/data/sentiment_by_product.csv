@@ -1,7 +1,7 @@
 product,avg_sentiment
-Expansion medium,-0.2
-Progenitor cells,-0.1
+Growth Medium,-0.2
+Cell Line B,-0.1
 Custom services,0.02
-Small molecules,0.09
-Neural media kit,0.1
-Endothelial cells,0.3
+Compound Sets,0.09
+Media Kit C,0.1
+Cell Line A,0.3

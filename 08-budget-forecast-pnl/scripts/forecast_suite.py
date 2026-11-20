@@ -54,21 +54,21 @@ rr["cumulative_deferred"] = rr.gap.cumsum()
 rr.to_csv(DATA / "forecast_revenue_recognition.csv", index=False)
 
 # ---------- 4. product forecast (revenue by product, with a launch ramp) ----------
-PROD = {"Endothelial cells": (6200, .010), "Progenitor cells": (5400, .008), "Neural media kit": (3000, .015), "Small molecules": (2200, .006)}
+PROD = {"Cell Line A": (6200, .010), "Cell Line B": (5400, .008), "Media Kit C": (3000, .015), "Compound Sets": (2200, .006)}
 pf = pd.DataFrame({"month": MN})
 for p, (base, g) in PROD.items():
     pf[p] = (base * SEAS * (1 + g * np.arange(12))).round()
 launch = np.array([0, 0, 0, 0, 0, 0, 800, 2000, 3600, 4800, 5600, 6200.0])        # new product from July: ramps up over six months
-pf["New expansion medium (launch July)"] = launch
+pf["New growth medium (launch July)"] = launch
 pf["total"] = pf.drop(columns="month").sum(axis=1)
 pf.to_csv(DATA / "forecast_product_revenue.csv", index=False)
 
 # ---------- 5. demand forecast (units) and stock cover ----------
-UNITS = {"Endothelial cells": 9, "Progenitor cells": 8, "Neural media kit": 3, "Small molecules": 55}
+UNITS = {"Cell Line A": 9, "Cell Line B": 8, "Media Kit C": 3, "Compound Sets": 55}
 dm = pd.DataFrame({"month": MN})
 for p, u in UNITS.items():
     dm[p] = (u * SEAS * (1 + .012 * np.arange(12)) * rng.uniform(.95, 1.05, 12)).round()
-stock = {"Endothelial cells": 70, "Progenitor cells": 40, "Neural media kit": 36, "Small molecules": 420}
+stock = {"Cell Line A": 70, "Cell Line B": 40, "Media Kit C": 36, "Compound Sets": 420}
 cover = {}
 for p in UNITS:
     cum = dm[p].cumsum()
@@ -123,10 +123,10 @@ ax[1, 0].set(title="4  Which products will drive revenue?", ylabel="$K per month
 ax[1, 0].text(.01, -.2, "Product revenue = base x seasonality x growth; a new product follows a six-month ramp", transform=ax[1, 0].transAxes, fontsize=8, color="#444")
 
 for p, c_ in zip(UNITS, [BLUE, TEAL, GOLD, GREY]):
-    if p != "Small molecules":
+    if p != "Compound Sets":
         ax[1, 1].plot(MN, dm[p], marker="o", ms=3, color=c_, label=p)
 ax[1, 1].legend(fontsize=8)
-ax[1, 1].set(title="5  How many units will customers order?", ylabel="units per month (small molecules not shown)")
+ax[1, 1].set(title="5  How many units will customers order?", ylabel="units per month (compound sets not shown)")
 ax[1, 1].text(.01, -.2, "Demand = recent average x seasonality x growth; compared with stock on hand to set reorders", transform=ax[1, 1].transAxes, fontsize=8, color="#444")
 
 ax[1, 2].axis("off")
