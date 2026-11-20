@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** The pipeline report showed one total, hiding idle deals and a CRM full of records nobody worked.
+- **Task:** Show whether deals and records are moving, define the sales funnel and its factors, and check whether next quarter's quota is covered.
+- **Action:** Used the Six Sigma DMAIC method: defined the funnel stages and what drives each one, measured conversion, speed and touches, found the root causes, built conversion, ageing, coverage and stalled-deal views, and set weekly controls.
+- **Result:** Coverage is 2.4x against a 3x target; 85% of records have three or fewer touches, and average touches climb from about 2 (idle) to 16 (deal) to 31 (won).
+
 ## The problem
 The pipeline report showed one number: total open value. It said nothing about whether deals were moving, which sources produced wins, or whether next quarter's quota was actually covered. Leadership saw a healthy total while several deals had not been touched for weeks.
 
@@ -27,6 +34,12 @@ A weekly pipeline-health view from CRM deal data with six measures:
 4. **Time in stage versus benchmark** for each stage.
 5. **Win rate by lead source**, to show where effort pays back.
 6. **A stalled-deal list**: no activity for 21 days, or more than twice the benchmark time in stage, sorted by value for the weekly review.
+
+## The sales funnel, its factors and Six Sigma
+The funnel is Lead, MQL, SQL, Opportunity, Customer. Each step has its own factors (fit, intent, engagement, touches, speed, ownership, data quality, quote speed), and the improvement used the Six Sigma DMAIC method: define the measures, measure the baseline, analyse the vital few causes, improve scoring, routing and send discipline, then control with weekly reviews and alerts.
+- Funnel, factors and DMAIC steps: [docs/sales_funnel_and_factors.md](docs/sales_funnel_and_factors.md)
+- Diagrams: [diagrams/sales_funnel_factors.md](diagrams/sales_funnel_factors.md)
+- The same method is used in the Green Belt project: [SixSigma_Green_Belt](https://github.com/rbanola1/SixSigma_Green_Belt)
 
 ## Sales pipeline structure (how the CRM is set up)
 The weekly view sits on a defined lifecycle and four deal pipelines, written down in [docs/lifecycle_and_pipelines.md](docs/lifecycle_and_pipelines.md) and drawn in [diagrams/lifecycle_and_pipelines.md](diagrams/lifecycle_and_pipelines.md):
@@ -65,7 +78,7 @@ The fix was operational: every station gets an owner, a time limit and a touch t
 4. **Weighted value is a planning number**, never a promise; the forecast uses it with a range.
 
 ## Documents and diagrams
-- [docs/lifecycle_and_pipelines.md](docs/lifecycle_and_pipelines.md) · [docs/stage_definitions.md](docs/stage_definitions.md) · [docs/weekly_review_routine.md](docs/weekly_review_routine.md)
+- [docs/sales_funnel_and_factors.md](docs/sales_funnel_and_factors.md) · [docs/lifecycle_and_pipelines.md](docs/lifecycle_and_pipelines.md) · [docs/stage_definitions.md](docs/stage_definitions.md) · [docs/weekly_review_routine.md](docs/weekly_review_routine.md)
 - [diagrams/lifecycle_and_pipelines.md](diagrams/lifecycle_and_pipelines.md) · [diagrams/pipeline_review_flow.md](diagrams/pipeline_review_flow.md) · [diagrams/crm_factory.md](diagrams/crm_factory.md)
 
 ## Reproduce

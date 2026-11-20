@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** The company was moving to a new CRM with years of duplicates and missing owners, and no tested backup.
+- **Task:** Migrate cleanly, keep the data clean, and make recovery certain.
+- **Action:** Cleaned in staging, reconciled counts twice, set field and ownership rules, scored data quality, tested backups and wrote password and email-logging rules.
+- **Result:** Data quality rose from 69% to 92%, and 58 records lost silently in the first load were found and reloaded.
+
 ## The problem
 The company was moving from a legacy CRM to a new one, and the old system held years of records with duplicates, missing owners and inconsistent fields. A straight copy would have moved the mess to a more expensive home. There was also no tested backup: if the new system lost data, nobody knew how long recovery would take.
 

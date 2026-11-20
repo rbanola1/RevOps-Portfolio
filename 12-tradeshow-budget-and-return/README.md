@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Trade shows were the largest marketing line, but cost and return were never linked.
+- **Task:** Judge each show on full cost and return.
+- **Action:** Modelled every cost line, linked events to leads, deals and gross profit, scored shows as repeat, change or drop, and tested a budget reallocation.
+- **Result:** The best shows return $1.7 to $2.0 per $1 against $0.4 to $0.7 for the weakest; reallocating lifts expected gross profit from $76K to $83K.
+
 ## The problem
 Trade shows were the largest marketing line and the hardest to judge. Costs sat in several places (registration, booth, shipping, travel, staff time) and results sat in the CRM. Nobody could say, for a given show, what it cost per qualified lead or whether it paid back, so shows were repeated out of habit.
 

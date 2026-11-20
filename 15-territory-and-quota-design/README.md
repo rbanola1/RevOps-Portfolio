@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Territories were drawn by geography, quotas came from the revenue target, and there was no pay plan.
+- **Task:** Create fair territories, realistic quotas and a pay plan.
+- **Action:** Balanced territories by buying potential, routed international leads by country group, blended top-down and bottom-up quotas, simulated attainment and designed the pay plan.
+- **Result:** The gap between the richest and poorest territory fell from 40% to under 1%, and the share of reps reaching quota rose from 49% to 55%.
+
 ## The problem
 Reps had territories drawn by geography alone, quotas handed down from the revenue target, and no written pay plan. One rep's patch held far more buying potential than another's, the company target was higher than the reps' own pipeline supported, and international leads from web forms and trade shows had no clear owner.
 

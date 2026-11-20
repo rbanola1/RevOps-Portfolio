@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Customer feedback stayed in booth conversations, inboxes and memory.
+- **Task:** Capture feedback consistently and turn it into action after each event.
+- **Action:** Wrote a capture standard and a nine-theme tagging taxonomy, built a post-event dashboard, and set up an action loop with an owner per theme.
+- **Result:** 480 entries across six events are ranked by theme, product and competitor; follow-up value differs widely by event (52% against 20% became leads).
+
 ## The problem
 Customer feedback arrived in booth conversations, support tickets, surveys and emails, and stayed in people's heads and inboxes. After each trade show the team had a stack of business cards and anecdotes but no shared record, so product management could not see what customers asked for, marketing could not see which objections kept coming up, and nobody could say which events produced useful intelligence as well as leads.
 

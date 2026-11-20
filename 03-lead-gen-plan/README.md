@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** The business had a revenue number for the year but no plan for the leads needed to reach it.
+- **Task:** Work backwards from a $240K target to the leads each channel must produce, and test whether the team could deliver.
+- **Action:** Divided the target by order size, split it by channel, worked back through deals, SQLs and MQLs, added a capacity ceiling, repeat purchasers, monthly plan-versus-actual and stress tests.
+- **Result:** 48 wins and about 40 new customers needed; 9 of 11 channels within capacity; a 15% lower close rate would leave a gap of about $36K.
+
 ## The problem
 The business wanted a revenue number for the year and needed to know what lead generation it would take to hit it. Typical plans start from marketing activity ("we will run N events and send M emails") and hope it adds up. I planned the other way round: start from the revenue target and work backwards to the leads, meetings and activities each channel must produce, then test whether the plan is believable.
 

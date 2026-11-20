@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** More partners meant different forms, price sheets and mismatched product listings, and onboarding took months.
+- **Task:** Make onboarding repeatable and keep every catalog consistent.
+- **Action:** Wrote an eight-stage distributor journey and a faster marketplace track, built a partner scorecard and one master price sheet, and checked listings across partners.
+- **Result:** Marketplace onboarding takes about 70 days against about 135 for distributors; every listing is verified before launch.
+
 ## The problem
 Channel growth meant more partners, each with its own forms, price sheets and catalog data. Onboarding took months with no view of where time went, and the same product appeared with different SKUs, prices, pack sizes and lead times on different partners' sites. Buyers saw the mismatch before the company did.
 

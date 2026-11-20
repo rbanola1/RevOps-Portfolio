@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Revenue was almost all direct, while international and procurement-platform buyers were hard to serve.
+- **Task:** Build a second route to market so about a fifth of revenue flows through partners.
+- **Action:** Scored 40 distributor candidates, ran them through a pipeline, built one product master that feeds four marketplace formats, and verified every listing before go-live.
+- **Result:** 1 distributor signed and 10 in discussion; 36 products listed consistently on 4 platforms; channel share planned from 2% to 21%.
+
 ## The problem
 Revenue came almost entirely from direct sales. International customers were hard to serve (cold-chain shipping and import rules), and university and government buyers increasingly purchase through procurement platforms instead of buying from individual suppliers. The goal was to build a second route to market so that about a fifth of revenue flows through channel partners within roughly six quarters.
 

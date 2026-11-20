@@ -18,6 +18,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Reps were contacting the same customers and arguing over who owned trade-show leads.
+- **Task:** Create clear lanes and clear ownership.
+- **Action:** Wrote lane criteria, a research-first rule, mandatory owners with association labels, parent and child accounts, and ticket routing.
+- **Result:** Accounts touched by two or more reps in 30 days fell from 210 to 50, and responses within the time limit rose from 76% to 94%.
+
 ## The problem
 As the commercial team grew in a niche market, reps started contacting the same customers: two reps emailing the same lab, different reps quoting the same project, a new division of an existing customer with no clear owner, duplicate company records, and disputes over who owned a trade-show lead. Customers got a confusing experience and the CRM could not say who owned what.
 

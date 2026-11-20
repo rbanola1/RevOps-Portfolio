@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Goals, owners and KPI definitions lived in different places.
+- **Task:** Create one operating system for the commercial team.
+- **Action:** Built a goal-to-project tracker, a RACI matrix with one accountable role per process, a KPI dictionary and an executive KPI pack layout.
+- **Result:** 12 of 12 processes have one owner, every KPI has one source of truth, and 6 of 8 commercial system projects are complete.
+
 ## The problem
 Company goals, department goals and commercial projects lived in different lists, so nobody could see which projects served which goal or what was late. Ownership of processes such as pricing approval or lead routing was unclear, and the same KPI (revenue, orders, opportunities) was calculated differently in the CRM, the accounting system and the reports. Executives were handed numbers that did not agree.
 

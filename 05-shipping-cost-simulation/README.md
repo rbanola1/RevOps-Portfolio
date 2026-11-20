@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from a small history (about 180 past shipments) plus stated assumptions where the data was thin; the simulation is re-run as new shipments arrive.
+- **Situation:** Overnight dry-ice orders cost far more to ship than the flat charge customers paid, and nobody knew by how much.
+- **Task:** Find the true shipping cost and recommend a charge that protects margin.
+- **Action:** Estimated cost four ways (expert view, history, Monte Carlo simulation, statistical model) and tested a flat charge against zone-based tiers.
+- **Result:** All four methods agree at about $211 against a $100 charge; zone tiers cut below-cost shipments from 55% to 33%.
+
 ## The problem
 Temperature-controlled orders shipped overnight with dry ice cost far more to deliver than the flat shipping charge customers paid. Nobody knew by how much, because cost depended on destination zone and service level, and the data was thin. Raising the charge risked competitiveness; leaving it risked margin on every order.
 

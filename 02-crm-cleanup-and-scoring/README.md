@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** The CRM had grown through bulk imports: the marketing tier was 94% full, three in four contacts never opened an email, and half had no industry.
+- **Task:** Free up tier capacity, give every contact a clean segment, and fix the starting lead score.
+- **Action:** Audited the tier, demoted 4,306 inactive contacts without deleting anyone, promoted engaged ones, created one 10-value Segment field, and wrote the entry rules.
+- **Result:** Tier usage fell from 94% to 57%, classified contacts rose from 55% to 88%, and every change is reversible.
+
 ## The problem
 The CRM had grown through bulk list imports. The marketing-contact tier was close to its paid limit, three out of four contacts had never opened a marketing email, nearly half had no industry, and the industry field held many overlapping values with no way to report by market. Lead score measured engagement only, so it could not tell a real buyer from a curious bystander. There was no room to nurture good leads because the tier was full of dead weight.
 

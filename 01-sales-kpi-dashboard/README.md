@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Executives and the team wanted different views, and CRM, ERP and accounting numbers disagreed.
+- **Task:** Give leaders one trusted set of reports, with a forecast, that keeps working when the reporting tool is down.
+- **Action:** Built two BI reports on one set of KPI definitions, labelled the two revenue views (CRM closed-won and invoiced), cleaned the queries, grew the report from 1 page to 5, and added two CRM failover dashboards plus commit, best-case and pipeline scenarios.
+- **Result:** One version of every number, a forecast leaders can read in seconds, and reporting that continues during an outage.
+
 ## The problem
 Leadership and the commercial team each wanted a different view: executives wanted revenue, pipeline and forecast on one page; the team wanted weekly activity, data-quality flags and follow-up gaps. Numbers lived in the CRM, the ERP and accounting, so reports disagreed.
 

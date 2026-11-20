@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** The commercial stack had grown one tool at a time, nobody could draw the whole picture, and orders were retyped two or three times.
+- **Task:** Map lead-to-cash end to end and connect it with one owner and one direction per link.
+- **Action:** Drew a six-layer map, wrote an integration register with a match key per connection, linked the CRM and accounting, and documented the CRM-to-reporting runbook.
+- **Result:** Deal-won to invoice fell from 7.8 to 4.5 days and orders with an exception fell from 16% to 3%.
+
 ## The problem
 The commercial stack had grown one tool at a time: lead sources, a CRM, a web store, an inventory system, accounting software, marketplace platforms, distributors and dashboards. Nobody could draw the whole picture. Products existed in several places with different IDs, someone re-typed each order two or three times, tax-exempt customers were billed tax, duplicate customers appeared, channel orders arrived by email and had no clear path into fulfilment, and revenue in the CRM never matched the invoices.
 

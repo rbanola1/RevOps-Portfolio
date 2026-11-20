@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Support requests arrived through shared inboxes, a web form and phone calls, half of the email was spam, and nobody owned response times.
+- **Task:** Build one service desk with clear owners, response targets, phone routing and safe automation.
+- **Action:** Set up ticket pipelines, categories, owners and SLAs, a phone menu, eleven workflow automations with loop guards after an email-loop incident, and an AI triage step.
+- **Result:** First-response SLA met rose from 27% to 89%, average days to close fell from 3.6 to 1.8, and the loop guard cut a runaway loop to 1 ticket.
+
 ## The problem
 Customer questions arrived through shared inboxes, a website form, and phone calls, with no single place to see them, no owner per request type, no response-time targets, and no consistent way to handle product complaints, refunds and replacements. Half of inbound email was spam. A support request could sit unanswered for days, and a product issue might never reach the people who needed to know.
 

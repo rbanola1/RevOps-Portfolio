@@ -14,6 +14,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** One person processed every order, and a system outage lost settings.
+- **Task:** Document the order process, add a trained backup and prepare for outages.
+- **Action:** Wrote the email-intake and PO procedure, linked the web store to the ERP, recorded training, trained a second operator and documented outage recovery.
+- **Result:** Two people can run an order end to end, with a written procedure and a recovery checklist.
+
 ## The problem
 Orders reached the company by email, purchase order and web store, and one person knew how to turn them into shipments. Orders were keyed by hand into spreadsheets, stock and customer data were not in one place, and when that person was away the process slowed or stopped.
 

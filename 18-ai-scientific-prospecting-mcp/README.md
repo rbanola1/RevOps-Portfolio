@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Prospecting used keyword exports in which about six in ten contacts were already in the CRM.
+- **Task:** Find net-new researchers with a reason to contact them now.
+- **Action:** Connected a lead database to an AI assistant, ran signal searches, checked the CRM first, tiered leads, filled email gaps and kept a person in charge of every send.
+- **Result:** 2,400 candidates became 1,526 net-new leads and 1,213 verified, deliverable contacts.
+
 ## The problem
 Prospecting for a research-cell product line ran on keyword list exports from a scientific lead database. About six in ten exported contacts were already in the CRM, because reps and marketing email blasts had worked them before. Many leads had no email, the emails that came back were matched to the master files by hand, and nothing explained why a researcher was worth contacting *now*. Sales wanted net-new leads with a reason to buy, not longer lists.
 

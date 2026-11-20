@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Leadership could not see plan against actual: CRM and accounting disagreed and forecasts were extrapolated from last month.
+- **Task:** Give one view of budget, forecast and cash.
+- **Action:** Built the budget by sales route, tracked monthly variance, built a pipeline-based forecast, reconciled CRM to invoices, and added simple scenario and product demand forecasts.
+- **Result:** The year is forecast at $203K against a $245K budget, the cause (a slow distributor ramp) is visible, and operations gets reorder flags.
+
 ## The problem
 Leadership needed one view of how the year was going against budget, a forecast they could trust, and cash visibility. Three things made that hard: sales numbers from the CRM did not match accounting invoices, the budget lived in spreadsheets with no variance tracking, and forecasts were extrapolated from last month rather than built from the pipeline.
 
