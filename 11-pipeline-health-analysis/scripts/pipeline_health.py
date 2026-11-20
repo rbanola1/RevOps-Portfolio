@@ -1,6 +1,6 @@
 """Pipeline health analysis for RB Tech (fictional): stage conversion, ageing, coverage, stalled deals.
 
-Builds ~700 synthetic deals over the past year, then produces the weekly pipeline-health view:
+Builds ~110 synthetic deals over the past year, then produces the weekly pipeline-health view:
 stage conversion, deal ageing against benchmark, coverage versus quota, stalled-deal list, win rate by source,
 and weighted versus unweighted pipeline.  All data is invented.
 Run: python scripts/pipeline_health.py     Needs: pandas, numpy, matplotlib
@@ -24,15 +24,15 @@ STAGE_PROB = {"Qualified": .10, "Needs confirmed": .25, "Quote sent": .50, "Nego
 BENCH_DAYS = {"Qualified": 14, "Needs confirmed": 21, "Quote sent": 18, "Negotiation": 14}   # healthy time in each stage
 SOURCES = {"Inbound web": .22, "Trade show": .25, "Outbound sequence": .20, "Distributor referral": .18, "Existing customer": .15}
 SEG = {"Academia": .38, "Biotech": .22, "Pharma": .12, "CRO": .12, "CGT developer": .10, "Core facility": .06}
-CONT = {"Inbound web": .62, "Trade show": .70, "Outbound sequence": .50, "Distributor referral": .76, "Existing customer": .88}  # chance of moving up a stage
+CONT = {"Inbound web": .62, "Trade show": .70, "Outbound sequence": .60, "Distributor referral": .76, "Existing customer": .88}  # chance of moving up a stage
 TODAY = pd.Timestamp("2026-10-31")
 
 rows = []
-for i in range(700):
+for i in range(110):
     src = rng.choice(list(SOURCES), p=list(SOURCES.values()))
     seg = rng.choice(list(SEG), p=list(SEG.values()))
     created = TODAY - pd.Timedelta(days=int(rng.integers(5, 330)))
-    amount = float(np.round(np.exp(rng.normal(9.6, .7)) / 50) * 50)
+    amount = float(np.round(np.exp(rng.normal(8.5, .6)) / 50) * 50)
     status, reached, t = "Open", 0, created
     days_in_stage = 0
     for k in range(4):
@@ -137,7 +137,7 @@ print("done")
 # ---------- CRM as a factory: raw material in, how much was actually worked? ----------
 # 4,000 synthetic records enter the CRM in a year. Nothing is "wasted" (no bad data); the loss is material that was never used.
 rng2 = np.random.default_rng(1102)
-N = 4000
+N = 1600
 lead_src = rng2.choice(list(SOURCES), size=N, p=list(SOURCES.values()))
 touch_p = {"Inbound web": .80, "Trade show": .55, "Outbound sequence": .70, "Distributor referral": .85, "Existing customer": .95}
 touched = np.array([rng2.random() < touch_p[s] for s in lead_src])
@@ -145,7 +145,9 @@ worked = touched & (rng2.random(N) < .55)            # more than one real attemp
 qualified = worked & (rng2.random(N) < .30)
 deal = qualified & (rng2.random(N) < .62)
 won = deal & (rng2.random(N) < .29)
-lu = pd.DataFrame({"source": lead_src, "touched": touched, "worked": worked, "qualified": qualified, "deal": deal, "won": won})
+touches = np.where(~touched, 0, np.where(~worked, 1, 2 + rng2.poisson(1.6, N)))
+touches = touches + np.where(qualified, 2 + rng2.poisson(1.5, N), 0) + np.where(deal, 2, 0) + np.where(won, 1, 0)
+lu = pd.DataFrame({"touches": touches, "source": lead_src, "touched": touched, "worked": worked, "qualified": qualified, "deal": deal, "won": won})
 station = pd.DataFrame({"station": ["Records in CRM", "Touched at least once", "Worked (follow-up attempts)", "Qualified", "Deal created", "Won"],
                         "records": [N, int(touched.sum()), int(worked.sum()), int(qualified.sum()), int(deal.sum()), int(won.sum())]})
 station["share_of_input"] = (station.records / N).round(3)
@@ -162,9 +164,13 @@ a2[0].barh(station.station[::-1], station.records[::-1], color=[TEAL, GOLD, GOLD
 for y, (n, s) in enumerate(zip(station.records[::-1], station.share_of_input[::-1])):
     a2[0].text(n + 40, y, f"{n:,}  ({s:.0%})", va="center", fontsize=8.5)
 a2[0].set(title="Records reaching each station of the line", xlabel="records"); a2[0].set_xlim(0, N * 1.2)
-ii = idle.sort_values("idle_share")
-a2[1].barh(ii.index, ii.never_touched, color=RED, label="Never touched")
-a2[1].barh(ii.index, ii.touched_not_worked, left=ii.never_touched, color=GOLD, label="Touched once, not worked")
-a2[1].legend(); a2[1].set(title="Idle inventory by source (records)", xlabel="records")
+bins = ["0", "1", "2", "3", "4", "5", "6+"]
+cnt = [int((touches == k).sum()) for k in range(6)] + [int((touches >= 6).sum())]
+cols_ = [RED, RED, GOLD, GOLD, GOLD, GOLD, TEAL]
+a2[1].bar(bins, cnt, color=cols_)
+for i_, v_ in enumerate(cnt):
+    a2[1].text(i_, v_ + max(cnt) * .01, f"{v_} ({v_ / N:.0%})", ha="center", fontsize=8)
+a2[1].set(title=f"Touches per record: average {touches.mean():.1f}, most records sit on the floor (red)", xlabel="number of touches (calls, emails, meetings)", ylabel="records")
+pd.DataFrame({"touches": bins, "records": cnt}).to_csv(DATA / "crm_factory_touches.csv", index=False)
 fig2.tight_layout(rect=[0, 0, 1, .93]); fig2.savefig(CHARTS / "crm_factory_utilization.png", dpi=125)
 print("done factory")

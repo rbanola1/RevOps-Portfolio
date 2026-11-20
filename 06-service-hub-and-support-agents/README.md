@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["Support requests scattered, with spam and email loops"] --> B["Ticketing, phone menu, SLAs, AI triage, guardrails"] --> C["First-response SLA met 29% to 88%"]
+    A["Support requests scattered, with spam and email loops"] --> B["Ticketing, phone menu, SLAs, AI triage, guardrails"] --> C["First-response SLA met 27% to 89%"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -26,6 +26,7 @@ A service desk on the CRM's service hub, covering every channel, with rules, SLA
 |---|---|---|
 | **Ticket intake** | Email, website form, phone calls and manual entry all create a ticket in one support pipeline | [docs/ticketing_setup.md](docs/ticketing_setup.md) |
 | **Categories and owners** | Each inquiry type has a team inbox, an owner team, a tag and an alert | [docs/ticketing_setup.md](docs/ticketing_setup.md) |
+| **Workflow automations** | Eight workflows: acknowledgement email with loop guards, reply-once reset, two round-robins, spam auto-close, HR and investor routing, status changes, closed-ticket survey, plus a weekly read-only triage report | [docs/service_hub_workflows.md](docs/service_hub_workflows.md) |
 | **Statuses and SLAs** | Statuses change automatically as the conversation moves; reply within 24 hours, close within 72 | [docs/ticketing_setup.md](docs/ticketing_setup.md) |
 | **Refund and replacement process** | Investigate first, replace before refunding, management approval, tickets attached to the existing deal | [docs/refund_replacement_process.md](docs/refund_replacement_process.md) |
 | **Phone system** | One main line with a menu that routes to reception, sales, customer service and technical support; availability synced to calendars | [docs/phone_ivr_setup.md](docs/phone_ivr_setup.md) |
@@ -34,15 +35,15 @@ A service desk on the CRM's service hub, covering every channel, with rules, SLA
 | **Loop guardrails** | Stop an auto-reply loop between our acknowledgement email and an external helpdesk robot | [docs/incident_and_guardrails.md](docs/incident_and_guardrails.md) |
 | **Satisfaction survey** | A customer effort survey sent when a support ticket closes | [docs/ticketing_setup.md](docs/ticketing_setup.md) |
 
-## Results on the synthetic run (2,400 tickets)
+## Results on the synthetic run (600 tickets)
 | Metric | Before routing and guardrails | After |
 |---|---|---|
-| First-response SLA met (real tickets) | 29% | 88% |
-| Average days to close | 4.0 | 1.8 |
-| Customer effort score (1-7) | 5.0 | 5.8 |
-| Tickets handled by the AI agent without a human | | 92% at 99% accuracy |
-| Spam caught by the agent | | 96% |
-| Tickets created by a simulated auto-reply loop over 48 hours | about 2,200 without guardrails | 1 with guardrails |
+| First-response SLA met (real tickets) | 27% | 89% |
+| Average days to close | 3.6 | 1.8 |
+| Customer effort score (1-7) | 4.9 | 5.7 |
+| Tickets handled by the AI agent without a human | | 93% at 99% accuracy |
+| Spam caught by the agent | | 97% |
+| Tickets created by a simulated auto-reply loop over 48 hours | about 640 without guardrails | 1 with guardrails |
 
 The numbers are simulated; the setup and rules reflect how a support desk like this is built.
 

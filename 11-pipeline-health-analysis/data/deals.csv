@@ -1,701 +1,111 @@
 deal_id,created,source,segment,amount,stage,status,days_in_stage,last_activity,furthest_stage
-D-1000,2026-05-29,Existing customer,Academia,11950.0,Won,Won,0,2026-08-16,Won
-D-1001,2026-02-04,Outbound sequence,Academia,4650.0,Qualified,Lost,22,2026-02-26,Qualified
-D-1002,2026-09-30,Trade show,Academia,12850.0,Needs confirmed,Open,13,2026-10-18,Needs confirmed
-D-1003,2026-09-11,Distributor referral,Pharma,10400.0,Quote sent,Open,1,2026-10-28,Quote sent
-D-1004,2026-04-28,Outbound sequence,Core facility,29200.0,Qualified,Lost,28,2026-05-26,Qualified
-D-1005,2026-03-07,Existing customer,CGT developer,23100.0,Won,Won,0,2026-07-13,Won
-D-1006,2026-10-10,Inbound web,Academia,19400.0,Needs confirmed,Open,10,2026-10-24,Needs confirmed
-D-1007,2026-08-22,Existing customer,Pharma,14400.0,Negotiation,Open,3,2026-10-18,Negotiation
-D-1008,2026-09-30,Trade show,Core facility,17100.0,Quote sent,Open,9,2026-10-14,Quote sent
-D-1009,2026-01-22,Inbound web,Academia,19050.0,Needs confirmed,Lost,13,2026-02-13,Needs confirmed
-D-1010,2026-04-30,Outbound sequence,CRO,5950.0,Needs confirmed,Lost,30,2026-06-04,Needs confirmed
-D-1011,2026-03-27,Existing customer,Academia,16400.0,Won,Won,0,2026-06-10,Won
-D-1012,2026-05-09,Distributor referral,Academia,19900.0,Needs confirmed,Lost,18,2026-06-17,Needs confirmed
-D-1013,2025-12-24,Outbound sequence,Biotech,25150.0,Qualified,Lost,31,2026-01-24,Qualified
-D-1014,2026-05-04,Trade show,Academia,31000.0,Qualified,Lost,11,2026-05-15,Qualified
-D-1015,2026-04-27,Trade show,Academia,11400.0,Needs confirmed,Lost,39,2026-06-10,Needs confirmed
-D-1016,2026-10-24,Existing customer,Pharma,11900.0,Qualified,Open,7,2026-10-22,Qualified
-D-1017,2026-10-03,Trade show,Core facility,11250.0,Qualified,Lost,16,2026-10-19,Qualified
-D-1018,2026-09-11,Distributor referral,Academia,12900.0,Needs confirmed,Open,28,2026-10-27,Needs confirmed
-D-1019,2026-10-12,Outbound sequence,Academia,7400.0,Needs confirmed,Lost,6,2026-10-28,Needs confirmed
-D-1020,2026-07-12,Distributor referral,CGT developer,29650.0,Negotiation,Lost,37,2026-10-21,Negotiation
-D-1021,2026-05-07,Trade show,Biotech,39450.0,Qualified,Lost,36,2026-06-12,Qualified
-D-1022,2026-07-21,Distributor referral,Pharma,50450.0,Won,Won,0,2026-10-22,Won
-D-1023,2025-12-08,Inbound web,Biotech,6550.0,Needs confirmed,Lost,16,2025-12-31,Needs confirmed
-D-1024,2026-08-08,Trade show,CGT developer,42050.0,Needs confirmed,Lost,16,2026-09-14,Needs confirmed
-D-1025,2026-03-08,Inbound web,Pharma,28550.0,Won,Won,0,2026-07-04,Won
-D-1026,2026-01-14,Inbound web,Pharma,15550.0,Qualified,Lost,16,2026-01-30,Qualified
-D-1027,2026-10-07,Outbound sequence,Academia,20950.0,Needs confirmed,Open,12,2026-10-30,Needs confirmed
-D-1028,2026-06-01,Trade show,Academia,6450.0,Quote sent,Lost,26,2026-09-12,Quote sent
-D-1029,2026-01-05,Outbound sequence,Biotech,22350.0,Needs confirmed,Lost,38,2026-03-17,Needs confirmed
-D-1030,2026-08-18,Outbound sequence,CGT developer,59750.0,Qualified,Lost,12,2026-08-30,Qualified
-D-1031,2026-02-09,Existing customer,Biotech,22000.0,Won,Won,0,2026-05-09,Won
-D-1032,2026-09-05,Outbound sequence,Pharma,29500.0,Needs confirmed,Lost,22,2026-10-08,Needs confirmed
-D-1033,2026-02-24,Inbound web,Academia,20500.0,Quote sent,Lost,19,2026-05-08,Quote sent
-D-1034,2026-02-11,Trade show,Academia,27800.0,Qualified,Lost,6,2026-02-17,Qualified
-D-1035,2026-06-11,Inbound web,Academia,8200.0,Qualified,Lost,7,2026-06-18,Qualified
-D-1036,2026-03-09,Trade show,Academia,12550.0,Won,Won,0,2026-05-14,Won
-D-1037,2026-07-12,Distributor referral,Biotech,16950.0,Quote sent,Lost,10,2026-09-05,Quote sent
-D-1038,2026-08-01,Trade show,Academia,50300.0,Negotiation,Open,9,2026-10-30,Negotiation
-D-1039,2026-09-27,Inbound web,Academia,5400.0,Quote sent,Open,13,2026-10-21,Quote sent
-D-1040,2026-03-24,Existing customer,Pharma,18200.0,Won,Won,0,2026-07-31,Won
-D-1041,2026-07-02,Existing customer,Academia,5400.0,Won,Won,0,2026-08-11,Won
-D-1042,2026-01-02,Distributor referral,Biotech,24400.0,Qualified,Lost,3,2026-01-05,Qualified
-D-1043,2026-02-08,Inbound web,Biotech,19750.0,Needs confirmed,Lost,30,2026-03-19,Needs confirmed
-D-1044,2026-03-19,Trade show,Pharma,32550.0,Won,Won,0,2026-05-31,Won
-D-1045,2026-09-01,Trade show,Biotech,8950.0,Quote sent,Lost,28,2026-10-12,Quote sent
-D-1046,2026-07-10,Outbound sequence,Biotech,15750.0,Qualified,Lost,10,2026-07-20,Qualified
-D-1047,2026-01-31,Distributor referral,Academia,6450.0,Won,Won,0,2026-03-29,Won
-D-1048,2026-07-02,Outbound sequence,Academia,21800.0,Needs confirmed,Lost,3,2026-07-18,Needs confirmed
-D-1049,2026-03-11,Inbound web,Core facility,13800.0,Won,Won,0,2026-05-13,Won
-D-1050,2026-07-17,Existing customer,Pharma,6700.0,Won,Won,0,2026-09-09,Won
-D-1051,2026-07-16,Existing customer,Biotech,21200.0,Qualified,Lost,14,2026-07-30,Qualified
-D-1052,2026-06-04,Outbound sequence,Biotech,4850.0,Quote sent,Lost,5,2026-08-17,Quote sent
-D-1053,2026-02-13,Trade show,Biotech,15200.0,Won,Won,0,2026-04-10,Won
-D-1054,2025-12-19,Outbound sequence,Biotech,12750.0,Needs confirmed,Lost,39,2026-01-30,Needs confirmed
-D-1055,2026-09-20,Existing customer,CRO,8950.0,Needs confirmed,Lost,19,2026-10-18,Needs confirmed
-D-1056,2026-04-09,Outbound sequence,Academia,36800.0,Needs confirmed,Lost,16,2026-05-21,Needs confirmed
-D-1057,2026-08-09,Existing customer,Core facility,24800.0,Won,Won,0,2026-09-28,Won
-D-1058,2026-07-15,Outbound sequence,Pharma,4300.0,Qualified,Lost,14,2026-07-29,Qualified
-D-1059,2026-03-23,Distributor referral,Biotech,20500.0,Quote sent,Lost,3,2026-04-16,Quote sent
-D-1060,2026-03-25,Distributor referral,Core facility,7400.0,Quote sent,Lost,13,2026-06-29,Quote sent
-D-1061,2026-02-13,Distributor referral,Academia,37350.0,Negotiation,Lost,14,2026-04-16,Negotiation
-D-1062,2026-02-23,Inbound web,CGT developer,24600.0,Quote sent,Lost,6,2026-06-06,Quote sent
-D-1063,2026-03-27,Distributor referral,Academia,24550.0,Won,Won,0,2026-05-18,Won
-D-1064,2026-06-26,Inbound web,Academia,15400.0,Qualified,Lost,33,2026-07-29,Qualified
-D-1065,2025-12-08,Inbound web,CGT developer,26950.0,Needs confirmed,Lost,21,2026-01-12,Needs confirmed
-D-1066,2026-08-23,Trade show,Pharma,26250.0,Won,Won,0,2026-10-01,Won
-D-1067,2026-01-21,Distributor referral,Core facility,11750.0,Qualified,Lost,39,2026-03-01,Qualified
-D-1068,2026-04-07,Distributor referral,Core facility,24850.0,Qualified,Lost,26,2026-05-03,Qualified
-D-1069,2026-02-26,Outbound sequence,Academia,40850.0,Qualified,Lost,11,2026-03-09,Qualified
-D-1070,2025-12-11,Outbound sequence,Biotech,18050.0,Qualified,Lost,8,2025-12-19,Qualified
-D-1071,2026-02-04,Distributor referral,Pharma,24550.0,Won,Won,0,2026-06-09,Won
-D-1072,2026-04-02,Distributor referral,Academia,50100.0,Won,Won,0,2026-05-11,Won
-D-1073,2026-02-13,Distributor referral,Biotech,7350.0,Won,Won,0,2026-06-05,Won
-D-1074,2026-04-06,Existing customer,Biotech,25350.0,Negotiation,Lost,15,2026-06-07,Negotiation
-D-1075,2026-03-25,Trade show,Biotech,23100.0,Won,Won,0,2026-05-01,Won
-D-1076,2026-07-11,Existing customer,Biotech,27250.0,Won,Won,0,2026-10-09,Won
-D-1077,2026-01-02,Distributor referral,Biotech,13450.0,Won,Won,0,2026-03-06,Won
-D-1078,2026-03-13,Inbound web,Biotech,43850.0,Qualified,Lost,3,2026-03-16,Qualified
-D-1079,2025-12-25,Inbound web,Biotech,16850.0,Negotiation,Lost,19,2026-03-04,Negotiation
-D-1080,2026-02-26,Outbound sequence,Pharma,16750.0,Qualified,Lost,8,2026-03-06,Qualified
-D-1081,2026-02-18,Existing customer,Biotech,9650.0,Won,Won,0,2026-04-04,Won
-D-1082,2026-05-09,Trade show,Biotech,29350.0,Qualified,Lost,12,2026-05-21,Qualified
-D-1083,2026-01-24,Outbound sequence,CRO,13550.0,Quote sent,Lost,38,2026-03-31,Quote sent
-D-1084,2025-12-22,Trade show,Academia,12250.0,Won,Won,0,2026-03-17,Won
-D-1085,2026-02-03,Inbound web,Academia,19100.0,Quote sent,Lost,12,2026-02-26,Quote sent
-D-1086,2026-08-26,Trade show,Pharma,6800.0,Qualified,Lost,3,2026-08-29,Qualified
-D-1087,2026-03-21,Outbound sequence,Academia,15200.0,Qualified,Lost,17,2026-04-07,Qualified
-D-1088,2025-12-22,Inbound web,Academia,36050.0,Needs confirmed,Lost,24,2026-01-21,Needs confirmed
-D-1089,2026-06-20,Inbound web,Academia,9350.0,Quote sent,Lost,20,2026-07-25,Quote sent
-D-1090,2026-06-05,Distributor referral,CGT developer,10200.0,Needs confirmed,Lost,31,2026-08-01,Needs confirmed
-D-1091,2026-01-07,Outbound sequence,CGT developer,5500.0,Quote sent,Lost,14,2026-02-25,Quote sent
-D-1092,2026-08-16,Distributor referral,Academia,7300.0,Needs confirmed,Lost,9,2026-09-05,Needs confirmed
-D-1093,2026-05-09,Existing customer,Pharma,4400.0,Qualified,Lost,34,2026-06-12,Qualified
-D-1094,2026-08-02,Trade show,CRO,10100.0,Qualified,Lost,15,2026-08-17,Qualified
-D-1095,2026-09-16,Trade show,CGT developer,26100.0,Needs confirmed,Lost,26,2026-10-14,Needs confirmed
-D-1096,2026-10-02,Distributor referral,Biotech,19050.0,Needs confirmed,Open,5,2026-10-25,Needs confirmed
-D-1097,2026-03-06,Outbound sequence,Pharma,19100.0,Qualified,Lost,22,2026-03-28,Qualified
-D-1098,2026-04-01,Trade show,Academia,13800.0,Won,Won,0,2026-05-26,Won
-D-1099,2026-04-30,Inbound web,Academia,12200.0,Qualified,Lost,27,2026-05-27,Qualified
-D-1100,2026-09-06,Trade show,Biotech,33650.0,Negotiation,Open,1,2026-10-29,Negotiation
-D-1101,2026-01-14,Trade show,Biotech,8000.0,Won,Won,0,2026-04-17,Won
-D-1102,2026-10-08,Distributor referral,Core facility,22850.0,Needs confirmed,Open,21,2026-10-27,Needs confirmed
-D-1103,2026-03-11,Existing customer,Academia,12200.0,Won,Won,0,2026-05-14,Won
-D-1104,2026-10-07,Inbound web,Academia,37000.0,Qualified,Lost,15,2026-10-22,Qualified
-D-1105,2025-12-09,Trade show,CRO,16150.0,Won,Won,0,2026-03-31,Won
-D-1106,2025-12-16,Inbound web,CRO,13700.0,Qualified,Lost,5,2025-12-21,Qualified
-D-1107,2026-04-09,Outbound sequence,Academia,15250.0,Quote sent,Lost,6,2026-06-06,Quote sent
-D-1108,2026-09-09,Inbound web,Pharma,11900.0,Needs confirmed,Open,44,2026-10-17,Needs confirmed
-D-1109,2026-08-06,Outbound sequence,Biotech,17200.0,Qualified,Lost,8,2026-08-14,Qualified
-D-1110,2026-06-12,Inbound web,Academia,42450.0,Needs confirmed,Lost,19,2026-07-06,Needs confirmed
-D-1111,2026-09-07,Inbound web,Academia,2450.0,Qualified,Lost,11,2026-09-18,Qualified
-D-1112,2026-09-24,Trade show,Academia,21550.0,Qualified,Lost,17,2026-10-11,Qualified
-D-1113,2026-06-29,Outbound sequence,Biotech,5350.0,Needs confirmed,Lost,22,2026-08-05,Needs confirmed
-D-1114,2026-09-30,Inbound web,Academia,10650.0,Qualified,Lost,9,2026-10-09,Qualified
-D-1115,2026-09-02,Existing customer,CRO,43750.0,Qualified,Lost,22,2026-09-24,Qualified
-D-1116,2026-06-15,Trade show,Academia,9150.0,Qualified,Lost,23,2026-07-08,Qualified
-D-1117,2026-08-31,Distributor referral,Biotech,14600.0,Won,Won,0,2026-10-01,Won
-D-1118,2026-01-15,Trade show,Academia,10450.0,Quote sent,Lost,8,2026-02-07,Quote sent
-D-1119,2026-06-01,Trade show,Academia,8600.0,Qualified,Lost,7,2026-06-08,Qualified
-D-1120,2026-05-03,Trade show,CGT developer,14250.0,Qualified,Lost,28,2026-05-31,Qualified
-D-1121,2026-08-09,Distributor referral,CRO,18050.0,Negotiation,Open,9,2026-10-20,Negotiation
-D-1122,2026-08-30,Trade show,Biotech,11850.0,Negotiation,Open,6,2026-10-29,Negotiation
-D-1123,2026-07-12,Distributor referral,Pharma,10050.0,Negotiation,Open,27,2026-10-18,Negotiation
-D-1124,2026-02-07,Outbound sequence,Academia,23750.0,Qualified,Lost,25,2026-03-04,Qualified
-D-1125,2026-02-07,Distributor referral,Biotech,13100.0,Won,Won,0,2026-04-20,Won
-D-1126,2026-04-18,Trade show,CGT developer,42950.0,Won,Won,0,2026-06-11,Won
-D-1127,2026-07-09,Outbound sequence,Academia,47850.0,Qualified,Lost,21,2026-07-30,Qualified
-D-1128,2026-06-03,Trade show,Biotech,15300.0,Needs confirmed,Lost,27,2026-07-10,Needs confirmed
-D-1129,2026-07-16,Distributor referral,Biotech,3400.0,Qualified,Lost,14,2026-07-30,Qualified
-D-1130,2026-07-26,Distributor referral,Biotech,11700.0,Needs confirmed,Open,35,2026-10-13,Needs confirmed
-D-1131,2026-01-14,Outbound sequence,Academia,19850.0,Qualified,Lost,47,2026-03-02,Qualified
-D-1132,2026-06-12,Trade show,CGT developer,5800.0,Quote sent,Lost,9,2026-07-26,Quote sent
-D-1133,2026-06-01,Outbound sequence,Biotech,13500.0,Qualified,Lost,28,2026-06-29,Qualified
-D-1134,2026-09-07,Outbound sequence,Academia,39300.0,Qualified,Lost,18,2026-09-25,Qualified
-D-1135,2026-07-20,Trade show,CGT developer,25200.0,Quote sent,Lost,19,2026-08-15,Quote sent
-D-1136,2026-03-23,Existing customer,Academia,14800.0,Negotiation,Lost,14,2026-05-15,Negotiation
-D-1137,2026-02-17,Distributor referral,CRO,4750.0,Won,Won,0,2026-04-18,Won
-D-1138,2026-02-28,Trade show,Biotech,10400.0,Negotiation,Lost,6,2026-06-04,Negotiation
-D-1139,2026-09-18,Outbound sequence,Core facility,24250.0,Qualified,Lost,11,2026-09-29,Qualified
-D-1140,2026-03-10,Trade show,Academia,14350.0,Qualified,Lost,4,2026-03-14,Qualified
-D-1141,2026-08-04,Inbound web,Biotech,16500.0,Qualified,Lost,38,2026-09-11,Qualified
-D-1142,2026-09-19,Trade show,Pharma,9700.0,Quote sent,Open,15,2026-10-18,Quote sent
-D-1143,2026-07-01,Trade show,Academia,20050.0,Needs confirmed,Lost,2,2026-07-12,Needs confirmed
-D-1144,2025-12-28,Trade show,Academia,9900.0,Qualified,Lost,15,2026-01-12,Qualified
-D-1145,2026-04-10,Outbound sequence,CGT developer,3850.0,Quote sent,Lost,20,2026-06-14,Quote sent
-D-1146,2026-10-05,Inbound web,Biotech,23550.0,Qualified,Open,26,2026-10-31,Qualified
-D-1147,2026-10-25,Existing customer,CRO,16100.0,Qualified,Open,6,2026-10-25,Qualified
-D-1148,2026-02-20,Inbound web,Academia,26250.0,Needs confirmed,Lost,18,2026-03-28,Needs confirmed
-D-1149,2026-06-26,Existing customer,Biotech,15800.0,Won,Won,0,2026-09-06,Won
-D-1150,2025-12-18,Inbound web,CGT developer,51500.0,Needs confirmed,Lost,11,2026-02-06,Needs confirmed
-D-1151,2026-04-19,Inbound web,CGT developer,7800.0,Qualified,Lost,15,2026-05-04,Qualified
-D-1152,2026-06-10,Inbound web,Academia,15350.0,Won,Won,0,2026-08-19,Won
-D-1153,2026-06-16,Inbound web,Core facility,22950.0,Qualified,Lost,22,2026-07-08,Qualified
-D-1154,2026-01-23,Existing customer,CGT developer,7050.0,Won,Won,0,2026-08-19,Won
-D-1155,2026-08-19,Existing customer,Academia,4750.0,Won,Won,0,2026-10-15,Won
-D-1156,2026-04-24,Distributor referral,Biotech,15450.0,Qualified,Lost,6,2026-04-30,Qualified
-D-1157,2026-09-12,Existing customer,CGT developer,13450.0,Negotiation,Open,7,2026-10-02,Negotiation
-D-1158,2026-05-17,Distributor referral,CRO,7800.0,Won,Won,0,2026-06-30,Won
-D-1159,2026-08-28,Distributor referral,CRO,22450.0,Quote sent,Lost,13,2026-10-03,Quote sent
-D-1160,2025-12-22,Trade show,CRO,9900.0,Negotiation,Lost,9,2026-02-06,Negotiation
-D-1161,2026-05-01,Inbound web,Biotech,85650.0,Won,Won,0,2026-06-20,Won
-D-1162,2026-08-31,Trade show,Biotech,16200.0,Needs confirmed,Lost,5,2026-09-17,Needs confirmed
-D-1163,2026-04-21,Outbound sequence,Academia,17850.0,Qualified,Lost,16,2026-05-07,Qualified
-D-1164,2026-04-19,Distributor referral,Pharma,24450.0,Won,Won,0,2026-08-06,Won
-D-1165,2025-12-19,Distributor referral,Academia,7250.0,Negotiation,Lost,2,2026-03-27,Negotiation
-D-1166,2026-09-24,Inbound web,CRO,10400.0,Needs confirmed,Open,11,2026-10-21,Needs confirmed
-D-1167,2026-04-03,Trade show,Biotech,98500.0,Won,Won,0,2026-06-03,Won
-D-1168,2025-12-11,Distributor referral,CRO,8850.0,Needs confirmed,Lost,11,2026-01-13,Needs confirmed
-D-1169,2026-04-05,Trade show,CRO,7850.0,Qualified,Lost,9,2026-04-14,Qualified
-D-1170,2026-03-02,Inbound web,Academia,11900.0,Won,Won,0,2026-05-30,Won
-D-1171,2026-05-16,Trade show,CGT developer,8250.0,Needs confirmed,Lost,56,2026-07-29,Needs confirmed
-D-1172,2026-07-07,Outbound sequence,Academia,27350.0,Qualified,Lost,12,2026-07-19,Qualified
-D-1173,2026-03-04,Inbound web,Academia,6900.0,Needs confirmed,Lost,37,2026-04-18,Needs confirmed
-D-1174,2026-05-28,Trade show,Biotech,12250.0,Qualified,Lost,23,2026-06-20,Qualified
-D-1175,2025-12-19,Outbound sequence,CRO,14350.0,Quote sent,Lost,40,2026-03-09,Quote sent
-D-1176,2026-03-04,Existing customer,Pharma,27550.0,Won,Won,0,2026-05-12,Won
-D-1177,2026-09-20,Outbound sequence,CGT developer,21950.0,Qualified,Lost,40,2026-10-30,Qualified
-D-1178,2026-05-17,Existing customer,CGT developer,13700.0,Won,Won,0,2026-10-17,Won
-D-1179,2026-02-10,Trade show,Academia,8200.0,Won,Won,0,2026-04-13,Won
-D-1180,2025-12-06,Outbound sequence,CRO,30800.0,Qualified,Lost,20,2025-12-26,Qualified
-D-1181,2026-10-11,Trade show,Academia,12700.0,Qualified,Lost,6,2026-10-17,Qualified
-D-1182,2026-09-29,Inbound web,CGT developer,7800.0,Qualified,Open,32,2026-10-30,Qualified
-D-1183,2026-05-25,Inbound web,Academia,40500.0,Needs confirmed,Lost,39,2026-07-07,Needs confirmed
-D-1184,2026-06-25,Distributor referral,Academia,12650.0,Won,Won,0,2026-08-29,Won
-D-1185,2026-04-07,Existing customer,CRO,12150.0,Qualified,Lost,69,2026-06-15,Qualified
-D-1186,2026-10-12,Inbound web,Academia,39700.0,Needs confirmed,Lost,13,2026-10-27,Needs confirmed
-D-1187,2026-08-03,Distributor referral,Academia,31750.0,Won,Won,0,2026-10-16,Won
-D-1188,2026-03-04,Trade show,CGT developer,10650.0,Needs confirmed,Lost,46,2026-05-25,Needs confirmed
-D-1189,2026-04-13,Existing customer,Academia,12200.0,Won,Won,0,2026-06-29,Won
-D-1190,2026-03-04,Distributor referral,Academia,48650.0,Quote sent,Lost,22,2026-04-24,Quote sent
-D-1191,2026-10-08,Existing customer,Core facility,32900.0,Needs confirmed,Open,15,2026-10-15,Needs confirmed
-D-1192,2026-02-19,Outbound sequence,Academia,3350.0,Qualified,Lost,4,2026-02-23,Qualified
-D-1193,2026-06-22,Outbound sequence,Academia,20550.0,Quote sent,Lost,6,2026-08-04,Quote sent
-D-1194,2026-01-10,Existing customer,Academia,4050.0,Won,Won,0,2026-04-19,Won
-D-1195,2026-10-15,Trade show,Pharma,9050.0,Qualified,Lost,12,2026-10-27,Qualified
-D-1196,2025-12-08,Outbound sequence,Pharma,32650.0,Qualified,Lost,11,2025-12-19,Qualified
-D-1197,2026-08-18,Outbound sequence,CGT developer,21950.0,Quote sent,Open,9,2026-10-31,Quote sent
-D-1198,2026-07-12,Trade show,Biotech,12600.0,Won,Won,0,2026-10-17,Won
-D-1199,2026-08-10,Inbound web,Academia,23200.0,Won,Won,0,2026-10-26,Won
-D-1200,2026-03-01,Distributor referral,Pharma,7400.0,Negotiation,Lost,9,2026-07-06,Negotiation
-D-1201,2026-05-30,Distributor referral,Pharma,8700.0,Won,Won,0,2026-08-10,Won
-D-1202,2026-04-19,Trade show,CRO,60950.0,Needs confirmed,Lost,8,2026-05-04,Needs confirmed
-D-1203,2026-06-21,Trade show,Biotech,4150.0,Quote sent,Lost,16,2026-08-15,Quote sent
-D-1204,2026-02-04,Inbound web,Academia,12200.0,Qualified,Lost,19,2026-02-23,Qualified
-D-1205,2026-07-06,Existing customer,Biotech,29950.0,Needs confirmed,Lost,50,2026-09-08,Needs confirmed
-D-1206,2026-04-04,Distributor referral,Biotech,82750.0,Qualified,Lost,12,2026-04-16,Qualified
-D-1207,2026-05-14,Distributor referral,CRO,23700.0,Won,Won,0,2026-08-13,Won
-D-1208,2026-06-10,Outbound sequence,Academia,16750.0,Quote sent,Lost,46,2026-09-01,Quote sent
-D-1209,2026-04-17,Distributor referral,Pharma,10350.0,Needs confirmed,Lost,48,2026-06-27,Needs confirmed
-D-1210,2026-05-31,Trade show,Core facility,11750.0,Needs confirmed,Lost,4,2026-06-13,Needs confirmed
-D-1211,2025-12-06,Outbound sequence,Academia,4250.0,Qualified,Lost,8,2025-12-14,Qualified
-D-1212,2026-06-30,Trade show,Biotech,55100.0,Won,Won,0,2026-10-04,Won
-D-1213,2025-12-28,Outbound sequence,Biotech,24700.0,Needs confirmed,Lost,27,2026-01-29,Needs confirmed
-D-1214,2026-03-02,Inbound web,Academia,10150.0,Qualified,Lost,9,2026-03-11,Qualified
-D-1215,2026-01-05,Inbound web,Biotech,9350.0,Qualified,Lost,2,2026-01-07,Qualified
-D-1216,2025-12-16,Outbound sequence,Pharma,7350.0,Needs confirmed,Lost,5,2026-01-22,Needs confirmed
-D-1217,2025-12-26,Trade show,Pharma,7800.0,Negotiation,Lost,13,2026-03-04,Negotiation
-D-1218,2026-03-27,Distributor referral,Academia,21050.0,Qualified,Lost,4,2026-03-31,Qualified
-D-1219,2026-02-08,Trade show,Academia,14400.0,Needs confirmed,Lost,37,2026-04-02,Needs confirmed
-D-1220,2026-01-23,Outbound sequence,Biotech,12900.0,Needs confirmed,Lost,26,2026-03-14,Needs confirmed
-D-1221,2026-02-15,Existing customer,Pharma,9800.0,Won,Won,0,2026-05-06,Won
-D-1222,2026-01-22,Trade show,Academia,6600.0,Needs confirmed,Lost,39,2026-03-13,Needs confirmed
-D-1223,2026-02-09,Inbound web,Pharma,24000.0,Quote sent,Lost,8,2026-02-28,Quote sent
-D-1224,2026-04-02,Inbound web,CRO,16100.0,Qualified,Lost,61,2026-06-02,Qualified
-D-1225,2026-06-02,Inbound web,Academia,3900.0,Won,Won,0,2026-09-05,Won
-D-1226,2026-01-07,Outbound sequence,CRO,27250.0,Qualified,Lost,17,2026-01-24,Qualified
-D-1227,2025-12-27,Inbound web,Biotech,16000.0,Needs confirmed,Lost,19,2026-02-03,Needs confirmed
-D-1228,2026-10-26,Existing customer,CGT developer,5400.0,Qualified,Open,5,2026-09-24,Qualified
-D-1229,2026-02-01,Distributor referral,CRO,35250.0,Won,Won,0,2026-05-04,Won
-D-1230,2025-12-19,Distributor referral,Pharma,35350.0,Won,Won,0,2026-04-26,Won
-D-1231,2026-07-07,Trade show,Academia,12450.0,Qualified,Lost,8,2026-07-15,Qualified
-D-1232,2026-09-07,Inbound web,Academia,15600.0,Needs confirmed,Lost,11,2026-10-03,Needs confirmed
-D-1233,2025-12-15,Outbound sequence,Academia,43550.0,Qualified,Lost,7,2025-12-22,Qualified
-D-1234,2026-06-17,Inbound web,Academia,12650.0,Negotiation,Lost,21,2026-09-20,Negotiation
-D-1235,2026-05-26,Distributor referral,Academia,23050.0,Won,Won,0,2026-07-01,Won
-D-1236,2026-02-03,Inbound web,Biotech,4000.0,Needs confirmed,Lost,15,2026-02-28,Needs confirmed
-D-1237,2026-05-23,Trade show,Academia,20900.0,Needs confirmed,Lost,10,2026-06-23,Needs confirmed
-D-1238,2026-02-19,Inbound web,Core facility,25550.0,Quote sent,Lost,18,2026-04-08,Quote sent
-D-1239,2026-07-15,Outbound sequence,CRO,18250.0,Needs confirmed,Lost,13,2026-08-24,Needs confirmed
-D-1240,2026-05-10,Existing customer,Academia,9250.0,Won,Won,0,2026-08-20,Won
-D-1241,2026-05-03,Inbound web,Biotech,12350.0,Qualified,Lost,29,2026-06-01,Qualified
-D-1242,2025-12-19,Outbound sequence,Biotech,13850.0,Negotiation,Lost,25,2026-03-12,Negotiation
-D-1243,2026-08-24,Outbound sequence,Biotech,4550.0,Qualified,Lost,10,2026-09-03,Qualified
-D-1244,2025-12-18,Distributor referral,Academia,16800.0,Won,Won,0,2026-03-06,Won
-D-1245,2026-07-19,Distributor referral,Biotech,8650.0,Qualified,Lost,5,2026-07-24,Qualified
-D-1246,2026-01-15,Trade show,Academia,11200.0,Qualified,Lost,7,2026-01-22,Qualified
-D-1247,2026-01-29,Distributor referral,CRO,20450.0,Qualified,Lost,9,2026-02-07,Qualified
-D-1248,2026-08-08,Inbound web,Academia,3500.0,Quote sent,Open,24,2026-10-25,Quote sent
-D-1249,2026-08-10,Distributor referral,Pharma,12400.0,Negotiation,Open,15,2026-10-29,Negotiation
-D-1250,2026-07-12,Distributor referral,Pharma,4050.0,Quote sent,Lost,52,2026-10-06,Quote sent
-D-1251,2026-04-28,Inbound web,CGT developer,5250.0,Qualified,Lost,3,2026-05-01,Qualified
-D-1252,2026-07-08,Trade show,Academia,16600.0,Qualified,Lost,14,2026-07-22,Qualified
-D-1253,2026-04-11,Distributor referral,Academia,6900.0,Needs confirmed,Lost,7,2026-05-15,Needs confirmed
-D-1254,2026-02-02,Outbound sequence,CRO,23000.0,Qualified,Lost,18,2026-02-20,Qualified
-D-1255,2026-02-08,Trade show,CGT developer,24900.0,Qualified,Lost,23,2026-03-03,Qualified
-D-1256,2026-06-01,Outbound sequence,Academia,13600.0,Qualified,Lost,2,2026-06-03,Qualified
-D-1257,2026-08-11,Distributor referral,Academia,10100.0,Quote sent,Lost,14,2026-10-30,Quote sent
-D-1258,2026-09-23,Existing customer,Pharma,73050.0,Needs confirmed,Open,24,2026-10-15,Needs confirmed
-D-1259,2026-04-22,Existing customer,CGT developer,20100.0,Won,Won,0,2026-10-03,Won
-D-1260,2026-08-23,Trade show,Academia,35250.0,Qualified,Lost,12,2026-09-04,Qualified
-D-1261,2026-06-04,Existing customer,CRO,8350.0,Needs confirmed,Lost,28,2026-07-06,Needs confirmed
-D-1262,2026-10-18,Inbound web,CRO,13900.0,Needs confirmed,Open,0,2026-10-29,Needs confirmed
-D-1263,2025-12-16,Distributor referral,Academia,4550.0,Quote sent,Lost,25,2026-02-11,Quote sent
-D-1264,2026-09-29,Distributor referral,Academia,51600.0,Needs confirmed,Lost,10,2026-10-17,Needs confirmed
-D-1265,2026-08-21,Existing customer,CRO,35400.0,Won,Won,0,2026-10-06,Won
-D-1266,2026-02-28,Inbound web,Biotech,8250.0,Qualified,Lost,13,2026-03-13,Qualified
-D-1267,2026-05-08,Inbound web,Academia,24950.0,Qualified,Lost,18,2026-05-26,Qualified
-D-1268,2026-03-25,Inbound web,Biotech,15500.0,Qualified,Lost,20,2026-04-14,Qualified
-D-1269,2026-04-14,Outbound sequence,Biotech,17550.0,Needs confirmed,Lost,13,2026-05-02,Needs confirmed
-D-1270,2026-07-18,Inbound web,CGT developer,3950.0,Qualified,Lost,6,2026-07-24,Qualified
-D-1271,2025-12-21,Outbound sequence,Academia,14050.0,Qualified,Lost,6,2025-12-27,Qualified
-D-1272,2026-08-18,Distributor referral,Pharma,19800.0,Quote sent,Open,3,2026-10-30,Quote sent
-D-1273,2026-01-28,Trade show,Academia,9400.0,Qualified,Lost,17,2026-02-14,Qualified
-D-1274,2025-12-17,Existing customer,CGT developer,8600.0,Won,Won,0,2026-03-16,Won
-D-1275,2026-05-25,Existing customer,Academia,27100.0,Won,Won,0,2026-07-07,Won
-D-1276,2026-03-29,Trade show,Pharma,37650.0,Qualified,Lost,20,2026-04-18,Qualified
-D-1277,2026-07-27,Inbound web,Academia,18100.0,Needs confirmed,Lost,24,2026-08-28,Needs confirmed
-D-1278,2025-12-26,Outbound sequence,CRO,11850.0,Needs confirmed,Lost,21,2026-01-22,Needs confirmed
-D-1279,2026-09-07,Distributor referral,Academia,23500.0,Quote sent,Open,9,2026-10-21,Quote sent
-D-1280,2025-12-18,Distributor referral,CRO,29650.0,Qualified,Lost,16,2026-01-03,Qualified
-D-1281,2026-10-15,Outbound sequence,Biotech,23650.0,Qualified,Lost,11,2026-10-26,Qualified
-D-1282,2026-05-15,Outbound sequence,Academia,21000.0,Qualified,Lost,7,2026-05-22,Qualified
-D-1283,2026-08-24,Existing customer,CGT developer,45400.0,Negotiation,Open,11,2026-10-13,Negotiation
-D-1284,2026-08-08,Trade show,Academia,25950.0,Won,Won,0,2026-09-08,Won
-D-1285,2026-02-20,Outbound sequence,Biotech,7100.0,Qualified,Lost,9,2026-03-01,Qualified
-D-1286,2026-08-30,Outbound sequence,Academia,16850.0,Qualified,Lost,14,2026-09-13,Qualified
-D-1287,2026-05-17,Distributor referral,CRO,14700.0,Qualified,Lost,14,2026-05-31,Qualified
-D-1288,2026-03-19,Existing customer,Academia,21750.0,Won,Won,0,2026-06-23,Won
-D-1289,2026-06-23,Trade show,CRO,30700.0,Won,Won,0,2026-08-11,Won
-D-1290,2026-01-23,Inbound web,Biotech,13550.0,Negotiation,Lost,26,2026-03-17,Negotiation
-D-1291,2026-01-25,Outbound sequence,Pharma,4150.0,Qualified,Lost,45,2026-03-11,Qualified
-D-1292,2026-04-11,Trade show,Academia,7500.0,Quote sent,Lost,18,2026-06-24,Quote sent
-D-1293,2026-07-16,Trade show,CGT developer,5050.0,Qualified,Lost,8,2026-07-24,Qualified
-D-1294,2026-02-01,Trade show,Academia,3200.0,Won,Won,0,2026-04-26,Won
-D-1295,2026-01-14,Inbound web,Academia,9500.0,Won,Won,0,2026-04-02,Won
-D-1296,2026-09-26,Distributor referral,Academia,5950.0,Needs confirmed,Open,11,2026-10-27,Needs confirmed
-D-1297,2026-09-21,Distributor referral,Biotech,17300.0,Won,Won,0,2026-10-29,Won
-D-1298,2026-01-21,Outbound sequence,Academia,14650.0,Qualified,Lost,6,2026-01-27,Qualified
-D-1299,2026-01-27,Distributor referral,Academia,13400.0,Qualified,Lost,14,2026-02-10,Qualified
-D-1300,2026-07-27,Trade show,Biotech,14700.0,Negotiation,Lost,5,2026-09-21,Negotiation
-D-1301,2026-09-10,Existing customer,Biotech,13100.0,Qualified,Lost,11,2026-09-21,Qualified
-D-1302,2026-04-26,Trade show,Biotech,5650.0,Negotiation,Lost,17,2026-07-16,Negotiation
-D-1303,2026-02-07,Distributor referral,Academia,23800.0,Needs confirmed,Lost,38,2026-03-19,Needs confirmed
-D-1304,2026-01-21,Inbound web,Academia,9850.0,Needs confirmed,Lost,4,2026-03-05,Needs confirmed
-D-1305,2026-10-24,Trade show,CRO,39350.0,Qualified,Open,7,2026-10-27,Qualified
-D-1306,2026-02-25,Outbound sequence,Academia,20350.0,Quote sent,Lost,25,2026-04-06,Quote sent
-D-1307,2026-02-22,Outbound sequence,Biotech,14550.0,Qualified,Lost,30,2026-03-24,Qualified
-D-1308,2026-08-23,Inbound web,CGT developer,10900.0,Qualified,Lost,8,2026-08-31,Qualified
-D-1309,2026-03-28,Inbound web,Academia,2850.0,Won,Won,0,2026-06-11,Won
-D-1310,2026-04-10,Outbound sequence,CGT developer,17950.0,Negotiation,Lost,26,2026-06-28,Negotiation
-D-1311,2026-06-06,Existing customer,Academia,13900.0,Won,Won,0,2026-07-22,Won
-D-1312,2026-01-22,Outbound sequence,Pharma,8100.0,Qualified,Lost,6,2026-01-28,Qualified
-D-1313,2026-03-20,Inbound web,CGT developer,12750.0,Qualified,Lost,33,2026-04-22,Qualified
-D-1314,2026-09-13,Distributor referral,Biotech,15050.0,Needs confirmed,Open,33,2026-10-30,Needs confirmed
-D-1315,2026-10-26,Trade show,Pharma,4650.0,Needs confirmed,Open,3,2026-10-21,Needs confirmed
-D-1316,2026-01-13,Inbound web,Academia,8750.0,Qualified,Lost,12,2026-01-25,Qualified
-D-1317,2026-07-25,Existing customer,CRO,7950.0,Won,Won,0,2026-09-15,Won
-D-1318,2026-01-11,Inbound web,Academia,3550.0,Quote sent,Lost,23,2026-04-23,Quote sent
-D-1319,2026-08-04,Inbound web,CGT developer,14000.0,Qualified,Lost,23,2026-08-27,Qualified
-D-1320,2026-03-24,Distributor referral,Biotech,39350.0,Qualified,Lost,18,2026-04-11,Qualified
-D-1321,2025-12-13,Trade show,Academia,49800.0,Won,Won,0,2026-02-02,Won
-D-1322,2026-03-24,Outbound sequence,CRO,16400.0,Qualified,Lost,11,2026-04-04,Qualified
-D-1323,2026-03-26,Inbound web,Biotech,10800.0,Quote sent,Lost,4,2026-04-21,Quote sent
-D-1324,2026-03-13,Trade show,CGT developer,12150.0,Needs confirmed,Lost,12,2026-03-27,Needs confirmed
-D-1325,2026-09-15,Existing customer,Academia,63650.0,Needs confirmed,Open,36,2026-10-14,Needs confirmed
-D-1326,2026-05-06,Existing customer,Academia,15600.0,Needs confirmed,Lost,13,2026-05-21,Needs confirmed
-D-1327,2026-04-12,Distributor referral,Academia,7800.0,Won,Won,0,2026-06-23,Won
-D-1328,2026-02-15,Existing customer,Pharma,19650.0,Won,Won,0,2026-05-20,Won
-D-1329,2026-03-28,Outbound sequence,Academia,3400.0,Qualified,Lost,10,2026-04-07,Qualified
-D-1330,2026-01-31,Distributor referral,Academia,20050.0,Won,Won,0,2026-04-03,Won
-D-1331,2026-01-12,Inbound web,Biotech,13200.0,Qualified,Lost,17,2026-01-29,Qualified
-D-1332,2026-09-21,Outbound sequence,Academia,10450.0,Qualified,Lost,22,2026-10-13,Qualified
-D-1333,2026-07-31,Existing customer,Pharma,12200.0,Negotiation,Open,5,2026-10-29,Negotiation
-D-1334,2026-08-04,Outbound sequence,Academia,60900.0,Quote sent,Open,12,2026-10-27,Quote sent
-D-1335,2025-12-27,Existing customer,CRO,38450.0,Won,Won,0,2026-03-28,Won
-D-1336,2026-02-05,Outbound sequence,Biotech,7900.0,Won,Won,0,2026-04-28,Won
-D-1337,2026-02-13,Trade show,Pharma,9150.0,Won,Won,0,2026-05-23,Won
-D-1338,2026-05-21,Outbound sequence,Academia,49850.0,Needs confirmed,Lost,16,2026-06-30,Needs confirmed
-D-1339,2025-12-31,Outbound sequence,Biotech,8650.0,Qualified,Lost,14,2026-01-14,Qualified
-D-1340,2026-04-24,Outbound sequence,CRO,16600.0,Quote sent,Lost,20,2026-06-09,Quote sent
-D-1341,2026-10-05,Inbound web,Biotech,28150.0,Needs confirmed,Open,16,2026-10-29,Needs confirmed
-D-1342,2026-02-12,Trade show,Biotech,4500.0,Qualified,Lost,7,2026-02-19,Qualified
-D-1343,2025-12-12,Inbound web,Pharma,13550.0,Won,Won,0,2026-04-01,Won
-D-1344,2026-03-03,Inbound web,Academia,20600.0,Quote sent,Lost,27,2026-04-29,Quote sent
-D-1345,2026-05-04,Trade show,CRO,7800.0,Qualified,Lost,3,2026-05-07,Qualified
-D-1346,2026-05-28,Outbound sequence,Academia,17750.0,Qualified,Lost,8,2026-06-05,Qualified
-D-1347,2026-07-07,Inbound web,Pharma,34650.0,Won,Won,0,2026-08-26,Won
-D-1348,2026-06-10,Inbound web,Academia,14650.0,Quote sent,Lost,2,2026-07-09,Quote sent
-D-1349,2025-12-10,Inbound web,Academia,7700.0,Won,Won,0,2026-02-24,Won
-D-1350,2026-09-27,Distributor referral,Academia,14200.0,Needs confirmed,Open,7,2026-10-23,Needs confirmed
-D-1351,2026-02-26,Trade show,Pharma,13250.0,Won,Won,0,2026-06-01,Won
-D-1352,2026-07-03,Inbound web,Academia,12700.0,Negotiation,Lost,25,2026-10-13,Negotiation
-D-1353,2026-03-03,Trade show,Core facility,58450.0,Negotiation,Lost,8,2026-05-06,Negotiation
-D-1354,2026-03-31,Existing customer,Academia,11750.0,Qualified,Lost,11,2026-04-11,Qualified
-D-1355,2026-05-04,Trade show,Academia,5650.0,Quote sent,Lost,37,2026-07-11,Quote sent
-D-1356,2026-06-18,Trade show,Academia,16700.0,Won,Won,0,2026-08-18,Won
-D-1357,2026-04-07,Outbound sequence,CGT developer,12200.0,Won,Won,0,2026-06-22,Won
-D-1358,2026-04-30,Existing customer,CRO,14800.0,Won,Won,0,2026-07-14,Won
-D-1359,2026-02-02,Distributor referral,Biotech,26850.0,Quote sent,Lost,9,2026-03-15,Quote sent
-D-1360,2026-06-05,Trade show,CRO,10950.0,Won,Won,0,2026-06-24,Won
-D-1361,2025-12-29,Distributor referral,Biotech,48100.0,Won,Won,0,2026-02-25,Won
-D-1362,2026-04-03,Inbound web,Biotech,15050.0,Needs confirmed,Lost,6,2026-04-16,Needs confirmed
-D-1363,2026-09-14,Inbound web,CRO,13800.0,Qualified,Lost,16,2026-09-30,Qualified
-D-1364,2026-04-18,Existing customer,Pharma,19700.0,Won,Won,0,2026-06-23,Won
-D-1365,2025-12-16,Existing customer,Academia,16750.0,Won,Won,0,2026-03-07,Won
-D-1366,2026-08-30,Outbound sequence,Biotech,6550.0,Quote sent,Open,8,2026-10-19,Quote sent
-D-1367,2026-01-14,Inbound web,Academia,33000.0,Negotiation,Lost,14,2026-03-31,Negotiation
-D-1368,2026-06-06,Trade show,Academia,8800.0,Won,Won,0,2026-08-24,Won
-D-1369,2026-09-24,Existing customer,Core facility,19000.0,Needs confirmed,Open,22,2026-10-29,Needs confirmed
-D-1370,2026-08-14,Trade show,Academia,27350.0,Needs confirmed,Lost,10,2026-09-03,Needs confirmed
-D-1371,2026-10-15,Distributor referral,Academia,15700.0,Qualified,Lost,13,2026-10-28,Qualified
-D-1372,2026-08-16,Inbound web,Biotech,15000.0,Won,Won,0,2026-10-31,Won
-D-1373,2026-04-12,Outbound sequence,Academia,47500.0,Quote sent,Lost,17,2026-06-09,Quote sent
-D-1374,2026-07-22,Trade show,Core facility,10700.0,Won,Won,0,2026-10-09,Won
-D-1375,2026-02-18,Outbound sequence,Academia,18900.0,Qualified,Lost,23,2026-03-13,Qualified
-D-1376,2026-10-05,Inbound web,CRO,7450.0,Needs confirmed,Lost,9,2026-10-28,Needs confirmed
-D-1377,2026-08-31,Existing customer,CGT developer,37100.0,Needs confirmed,Lost,26,2026-10-29,Needs confirmed
-D-1378,2026-02-10,Inbound web,Academia,2500.0,Won,Won,0,2026-04-22,Won
-D-1379,2026-10-06,Outbound sequence,Academia,7450.0,Needs confirmed,Open,20,2026-10-14,Needs confirmed
-D-1380,2026-04-05,Existing customer,CRO,8200.0,Won,Won,0,2026-06-30,Won
-D-1381,2026-06-09,Trade show,CRO,5150.0,Needs confirmed,Lost,15,2026-07-06,Needs confirmed
-D-1382,2025-12-20,Inbound web,CGT developer,46050.0,Qualified,Lost,32,2026-01-21,Qualified
-D-1383,2026-07-09,Existing customer,Academia,6450.0,Won,Won,0,2026-08-26,Won
-D-1384,2026-03-27,Distributor referral,Pharma,48200.0,Negotiation,Lost,7,2026-06-01,Negotiation
-D-1385,2026-07-16,Outbound sequence,Core facility,33950.0,Needs confirmed,Lost,25,2026-08-30,Needs confirmed
-D-1386,2026-08-02,Existing customer,Pharma,76550.0,Needs confirmed,Open,69,2026-10-28,Needs confirmed
-D-1387,2026-08-01,Outbound sequence,Biotech,7200.0,Qualified,Lost,18,2026-08-19,Qualified
-D-1388,2026-10-10,Inbound web,Academia,58250.0,Needs confirmed,Open,8,2026-10-25,Needs confirmed
-D-1389,2026-02-22,Trade show,Core facility,32350.0,Qualified,Lost,32,2026-03-26,Qualified
-D-1390,2026-03-21,Outbound sequence,Biotech,23200.0,Qualified,Lost,32,2026-04-22,Qualified
-D-1391,2026-08-16,Distributor referral,Biotech,8100.0,Qualified,Lost,7,2026-08-23,Qualified
-D-1392,2026-03-22,Outbound sequence,Academia,12000.0,Negotiation,Lost,9,2026-05-24,Negotiation
-D-1393,2026-01-09,Trade show,Academia,42700.0,Qualified,Lost,26,2026-02-04,Qualified
-D-1394,2025-12-25,Distributor referral,Academia,15900.0,Qualified,Lost,23,2026-01-17,Qualified
-D-1395,2026-08-08,Distributor referral,Academia,5350.0,Negotiation,Lost,12,2026-10-17,Negotiation
-D-1396,2026-04-21,Inbound web,Biotech,7800.0,Qualified,Lost,8,2026-04-29,Qualified
-D-1397,2026-07-17,Inbound web,Academia,8750.0,Quote sent,Lost,19,2026-09-10,Quote sent
-D-1398,2026-10-23,Trade show,Core facility,14050.0,Qualified,Open,8,2026-10-31,Qualified
-D-1399,2026-05-13,Distributor referral,Academia,13200.0,Won,Won,0,2026-08-20,Won
-D-1400,2026-05-01,Existing customer,Academia,24800.0,Won,Won,0,2026-07-23,Won
-D-1401,2026-04-15,Existing customer,Biotech,75700.0,Won,Won,0,2026-07-27,Won
-D-1402,2025-12-22,Distributor referral,CGT developer,15200.0,Won,Won,0,2026-05-12,Won
-D-1403,2026-10-16,Outbound sequence,Academia,16550.0,Qualified,Lost,8,2026-10-24,Qualified
-D-1404,2025-12-15,Inbound web,Academia,6900.0,Needs confirmed,Lost,21,2026-01-09,Needs confirmed
-D-1405,2026-07-26,Trade show,Academia,15500.0,Needs confirmed,Lost,46,2026-10-10,Needs confirmed
-D-1406,2026-08-02,Inbound web,Core facility,8550.0,Won,Won,0,2026-10-20,Won
-D-1407,2026-07-17,Inbound web,Academia,14100.0,Needs confirmed,Lost,13,2026-08-16,Needs confirmed
-D-1408,2025-12-21,Distributor referral,CGT developer,3100.0,Quote sent,Lost,17,2026-02-13,Quote sent
-D-1409,2026-09-20,Existing customer,Academia,17550.0,Qualified,Open,41,2026-10-31,Qualified
-D-1410,2026-01-20,Inbound web,Core facility,9350.0,Qualified,Lost,8,2026-01-28,Qualified
-D-1411,2026-07-31,Outbound sequence,Biotech,8750.0,Qualified,Lost,3,2026-08-03,Qualified
-D-1412,2026-09-17,Inbound web,CGT developer,15400.0,Needs confirmed,Lost,13,2026-10-09,Needs confirmed
-D-1413,2026-03-28,Trade show,Biotech,8050.0,Negotiation,Lost,22,2026-08-07,Negotiation
-D-1414,2026-10-13,Distributor referral,Academia,8700.0,Needs confirmed,Open,13,2026-10-04,Needs confirmed
-D-1415,2026-05-29,Outbound sequence,Academia,2750.0,Needs confirmed,Lost,6,2026-06-15,Needs confirmed
-D-1416,2026-07-06,Inbound web,Academia,16450.0,Needs confirmed,Lost,21,2026-08-05,Needs confirmed
-D-1417,2026-03-15,Inbound web,CRO,29550.0,Needs confirmed,Lost,34,2026-05-18,Needs confirmed
-D-1418,2026-01-08,Outbound sequence,Academia,39350.0,Quote sent,Lost,21,2026-02-21,Quote sent
-D-1419,2026-02-26,Outbound sequence,Pharma,25900.0,Qualified,Lost,13,2026-03-11,Qualified
-D-1420,2026-05-22,Trade show,Pharma,19800.0,Qualified,Lost,24,2026-06-15,Qualified
-D-1421,2026-10-22,Trade show,Academia,21100.0,Qualified,Lost,2,2026-10-24,Qualified
-D-1422,2026-04-20,Inbound web,CGT developer,14050.0,Won,Won,0,2026-07-07,Won
-D-1423,2026-05-26,Trade show,CGT developer,9800.0,Won,Won,0,2026-10-01,Won
-D-1424,2026-07-24,Inbound web,Core facility,5900.0,Qualified,Lost,10,2026-08-03,Qualified
-D-1425,2026-05-23,Inbound web,Biotech,12650.0,Won,Won,0,2026-09-12,Won
-D-1426,2026-10-06,Outbound sequence,Biotech,4900.0,Qualified,Open,25,2026-10-13,Qualified
-D-1427,2026-04-21,Existing customer,Biotech,11950.0,Quote sent,Lost,10,2026-05-27,Quote sent
-D-1428,2026-06-06,Trade show,Academia,8750.0,Won,Won,0,2026-08-14,Won
-D-1429,2026-05-05,Trade show,Pharma,30700.0,Won,Won,0,2026-07-06,Won
-D-1430,2025-12-28,Trade show,CRO,35400.0,Won,Won,0,2026-01-23,Won
-D-1431,2026-02-25,Inbound web,Biotech,11300.0,Qualified,Lost,12,2026-03-09,Qualified
-D-1432,2026-10-11,Existing customer,Academia,4650.0,Quote sent,Open,0,2026-10-22,Quote sent
-D-1433,2026-07-14,Inbound web,Core facility,24750.0,Qualified,Lost,7,2026-07-21,Qualified
-D-1434,2026-03-29,Trade show,Academia,10450.0,Needs confirmed,Lost,20,2026-04-29,Needs confirmed
-D-1435,2026-04-06,Trade show,CRO,8800.0,Won,Won,0,2026-06-28,Won
-D-1436,2026-02-10,Trade show,Core facility,27650.0,Won,Won,0,2026-05-18,Won
-D-1437,2026-08-22,Inbound web,Biotech,29050.0,Needs confirmed,Lost,35,2026-10-19,Needs confirmed
-D-1438,2026-10-25,Outbound sequence,Academia,11450.0,Qualified,Open,6,2026-10-29,Qualified
-D-1439,2026-09-21,Trade show,Academia,9800.0,Quote sent,Lost,6,2026-10-25,Quote sent
-D-1440,2026-08-02,Outbound sequence,CRO,15000.0,Needs confirmed,Lost,19,2026-09-03,Needs confirmed
-D-1441,2026-07-16,Distributor referral,Biotech,6200.0,Won,Won,0,2026-10-06,Won
-D-1442,2026-06-22,Existing customer,Academia,26400.0,Won,Won,0,2026-09-05,Won
-D-1443,2026-05-16,Distributor referral,CGT developer,21300.0,Needs confirmed,Lost,16,2026-06-11,Needs confirmed
-D-1444,2025-12-26,Distributor referral,Academia,7700.0,Won,Won,0,2026-03-04,Won
-D-1445,2026-01-15,Outbound sequence,CRO,21400.0,Won,Won,0,2026-03-05,Won
-D-1446,2026-01-13,Inbound web,Academia,6350.0,Needs confirmed,Lost,23,2026-03-04,Needs confirmed
-D-1447,2026-01-24,Existing customer,Academia,13450.0,Won,Won,0,2026-04-04,Won
-D-1448,2026-04-18,Distributor referral,CRO,6800.0,Quote sent,Lost,38,2026-06-11,Quote sent
-D-1449,2026-03-30,Inbound web,Core facility,12850.0,Needs confirmed,Lost,11,2026-04-21,Needs confirmed
-D-1450,2026-01-01,Trade show,Biotech,14950.0,Won,Won,0,2026-02-09,Won
-D-1451,2026-08-25,Inbound web,CRO,9250.0,Won,Won,0,2026-10-08,Won
-D-1452,2026-02-25,Inbound web,CRO,20250.0,Qualified,Lost,8,2026-03-05,Qualified
-D-1453,2026-03-26,Distributor referral,Biotech,10850.0,Needs confirmed,Lost,12,2026-04-21,Needs confirmed
-D-1454,2026-07-28,Trade show,Pharma,17350.0,Negotiation,Open,7,2026-10-29,Negotiation
-D-1455,2026-08-12,Inbound web,Pharma,26300.0,Won,Won,0,2026-10-02,Won
-D-1456,2026-01-14,Outbound sequence,Academia,28300.0,Qualified,Lost,2,2026-01-16,Qualified
-D-1457,2026-05-14,Existing customer,Pharma,10000.0,Won,Won,0,2026-08-18,Won
-D-1458,2026-06-17,Distributor referral,CRO,7600.0,Qualified,Lost,10,2026-06-27,Qualified
-D-1459,2026-02-12,Trade show,CRO,18350.0,Won,Won,0,2026-04-23,Won
-D-1460,2026-09-19,Inbound web,Biotech,3250.0,Quote sent,Open,20,2026-10-26,Quote sent
-D-1461,2025-12-20,Trade show,Academia,4950.0,Negotiation,Lost,27,2026-03-05,Negotiation
-D-1462,2025-12-20,Outbound sequence,Pharma,22000.0,Qualified,Lost,59,2026-02-17,Qualified
-D-1463,2026-03-01,Existing customer,Pharma,31850.0,Qualified,Lost,15,2026-03-16,Qualified
-D-1464,2026-06-19,Existing customer,CRO,6100.0,Won,Won,0,2026-09-05,Won
-D-1465,2026-06-19,Distributor referral,Academia,44800.0,Negotiation,Open,34,2026-10-30,Negotiation
-D-1466,2026-10-03,Existing customer,CGT developer,5550.0,Needs confirmed,Open,26,2026-10-18,Needs confirmed
-D-1467,2026-04-06,Trade show,Academia,20850.0,Won,Won,0,2026-06-21,Won
-D-1468,2026-02-16,Outbound sequence,Biotech,5550.0,Qualified,Lost,9,2026-02-25,Qualified
-D-1469,2026-01-28,Trade show,Academia,25650.0,Negotiation,Lost,14,2026-04-13,Negotiation
-D-1470,2026-08-05,Outbound sequence,Biotech,23800.0,Qualified,Lost,16,2026-08-21,Qualified
-D-1471,2026-06-13,Trade show,Biotech,33550.0,Qualified,Lost,17,2026-06-30,Qualified
-D-1472,2026-02-18,Inbound web,Pharma,6750.0,Won,Won,0,2026-05-19,Won
-D-1473,2026-04-21,Distributor referral,Biotech,9200.0,Quote sent,Lost,27,2026-06-01,Quote sent
-D-1474,2026-08-25,Existing customer,Core facility,18600.0,Won,Won,0,2026-09-30,Won
-D-1475,2026-05-24,Existing customer,CRO,5000.0,Won,Won,0,2026-09-29,Won
-D-1476,2026-08-26,Distributor referral,Pharma,18700.0,Needs confirmed,Lost,48,2026-10-15,Needs confirmed
-D-1477,2026-07-13,Trade show,Academia,19450.0,Qualified,Lost,10,2026-07-23,Qualified
-D-1478,2025-12-26,Distributor referral,Academia,10700.0,Qualified,Lost,16,2026-01-11,Qualified
-D-1479,2026-07-16,Trade show,Academia,7300.0,Needs confirmed,Lost,11,2026-08-09,Needs confirmed
-D-1480,2026-03-29,Outbound sequence,Biotech,11000.0,Qualified,Lost,19,2026-04-17,Qualified
-D-1481,2026-01-04,Existing customer,Academia,9600.0,Qualified,Lost,5,2026-01-09,Qualified
-D-1482,2026-05-10,Trade show,Academia,4400.0,Won,Won,0,2026-07-19,Won
-D-1483,2026-02-12,Inbound web,Academia,14150.0,Needs confirmed,Lost,29,2026-04-28,Needs confirmed
-D-1484,2026-03-27,Inbound web,CGT developer,5850.0,Quote sent,Lost,28,2026-05-14,Quote sent
-D-1485,2026-05-27,Inbound web,Academia,29250.0,Qualified,Lost,7,2026-06-03,Qualified
-D-1486,2026-09-15,Inbound web,Academia,61650.0,Qualified,Lost,24,2026-10-09,Qualified
-D-1487,2026-07-19,Inbound web,Biotech,30200.0,Needs confirmed,Lost,17,2026-08-25,Needs confirmed
-D-1488,2026-09-14,Trade show,Academia,23800.0,Negotiation,Open,3,2026-10-23,Negotiation
-D-1489,2026-07-07,Distributor referral,Biotech,13900.0,Won,Won,0,2026-09-07,Won
-D-1490,2026-05-02,Distributor referral,CGT developer,8450.0,Won,Won,0,2026-09-18,Won
-D-1491,2026-03-22,Trade show,CGT developer,12250.0,Won,Won,0,2026-05-02,Won
-D-1492,2026-01-16,Outbound sequence,Academia,3750.0,Needs confirmed,Lost,39,2026-03-05,Needs confirmed
-D-1493,2026-05-07,Trade show,CRO,25250.0,Quote sent,Lost,21,2026-07-15,Quote sent
-D-1494,2026-04-01,Existing customer,CRO,10650.0,Won,Won,0,2026-06-12,Won
-D-1495,2026-02-25,Distributor referral,Academia,16050.0,Won,Won,0,2026-05-22,Won
-D-1496,2026-01-12,Trade show,Biotech,17550.0,Quote sent,Lost,20,2026-03-01,Quote sent
-D-1497,2026-04-30,Trade show,CGT developer,25350.0,Needs confirmed,Lost,60,2026-09-01,Needs confirmed
-D-1498,2026-06-19,Outbound sequence,Academia,21500.0,Qualified,Lost,2,2026-06-21,Qualified
-D-1499,2026-10-11,Existing customer,CGT developer,32100.0,Qualified,Open,20,2026-10-28,Qualified
-D-1500,2026-07-25,Trade show,Core facility,7550.0,Quote sent,Lost,9,2026-10-03,Quote sent
-D-1501,2026-07-08,Trade show,Biotech,20900.0,Needs confirmed,Lost,23,2026-08-24,Needs confirmed
-D-1502,2026-02-02,Distributor referral,CRO,13700.0,Negotiation,Lost,9,2026-03-24,Negotiation
-D-1503,2026-08-14,Existing customer,Academia,8600.0,Negotiation,Open,11,2026-10-23,Negotiation
-D-1504,2026-09-15,Existing customer,Academia,6150.0,Quote sent,Open,9,2026-10-27,Quote sent
-D-1505,2026-04-22,Outbound sequence,Academia,5100.0,Qualified,Lost,3,2026-04-25,Qualified
-D-1506,2026-02-13,Distributor referral,Academia,41350.0,Needs confirmed,Lost,49,2026-04-12,Needs confirmed
-D-1507,2026-08-22,Inbound web,Pharma,27900.0,Needs confirmed,Lost,23,2026-10-01,Needs confirmed
-D-1508,2026-03-24,Existing customer,CRO,12700.0,Won,Won,0,2026-05-24,Won
-D-1509,2026-01-18,Trade show,Academia,15400.0,Qualified,Lost,11,2026-01-29,Qualified
-D-1510,2026-03-24,Existing customer,CGT developer,11950.0,Won,Won,0,2026-08-04,Won
-D-1511,2026-06-13,Trade show,Biotech,13700.0,Negotiation,Lost,35,2026-08-31,Negotiation
-D-1512,2026-09-13,Outbound sequence,CRO,12950.0,Qualified,Lost,26,2026-10-09,Qualified
-D-1513,2026-03-06,Trade show,Pharma,4750.0,Negotiation,Lost,7,2026-07-16,Negotiation
-D-1514,2026-06-27,Trade show,Academia,22450.0,Negotiation,Lost,28,2026-08-15,Negotiation
-D-1515,2026-05-23,Outbound sequence,Core facility,21150.0,Qualified,Lost,5,2026-05-28,Qualified
-D-1516,2026-10-09,Inbound web,CRO,7700.0,Qualified,Open,22,2026-10-24,Qualified
-D-1517,2026-09-02,Trade show,Academia,17350.0,Needs confirmed,Lost,23,2026-10-11,Needs confirmed
-D-1518,2026-07-23,Inbound web,CGT developer,4900.0,Qualified,Lost,23,2026-08-15,Qualified
-D-1519,2026-07-19,Trade show,Academia,10900.0,Won,Won,0,2026-09-06,Won
-D-1520,2026-08-29,Existing customer,Academia,7350.0,Negotiation,Open,4,2026-10-28,Negotiation
-D-1521,2026-06-17,Existing customer,Academia,42600.0,Qualified,Lost,40,2026-07-27,Qualified
-D-1522,2026-09-01,Inbound web,Academia,23300.0,Negotiation,Open,19,2026-10-28,Negotiation
-D-1523,2026-07-31,Outbound sequence,Academia,5850.0,Quote sent,Lost,8,2026-09-13,Quote sent
-D-1524,2026-09-04,Distributor referral,Academia,20400.0,Qualified,Lost,8,2026-09-12,Qualified
-D-1525,2026-01-30,Inbound web,Academia,18350.0,Won,Won,0,2026-05-12,Won
-D-1526,2026-03-11,Trade show,CGT developer,1350.0,Won,Won,0,2026-06-29,Won
-D-1527,2025-12-24,Trade show,Biotech,36800.0,Needs confirmed,Lost,51,2026-03-04,Needs confirmed
-D-1528,2026-07-04,Inbound web,CRO,5000.0,Qualified,Lost,6,2026-07-10,Qualified
-D-1529,2026-05-19,Outbound sequence,Pharma,7250.0,Needs confirmed,Lost,69,2026-08-22,Needs confirmed
-D-1530,2026-03-28,Existing customer,Core facility,6900.0,Won,Won,0,2026-06-03,Won
-D-1531,2026-02-23,Distributor referral,Academia,16250.0,Negotiation,Lost,8,2026-04-20,Negotiation
-D-1532,2026-04-26,Outbound sequence,Academia,20400.0,Qualified,Lost,5,2026-05-01,Qualified
-D-1533,2026-08-30,Inbound web,Academia,30500.0,Qualified,Lost,4,2026-09-03,Qualified
-D-1534,2026-05-31,Outbound sequence,CRO,10050.0,Needs confirmed,Lost,42,2026-07-23,Needs confirmed
-D-1535,2026-06-08,Trade show,CGT developer,19950.0,Qualified,Lost,5,2026-06-13,Qualified
-D-1536,2026-08-01,Distributor referral,Core facility,7300.0,Qualified,Lost,33,2026-09-03,Qualified
-D-1537,2026-07-17,Trade show,Academia,2800.0,Needs confirmed,Lost,15,2026-08-09,Needs confirmed
-D-1538,2025-12-30,Inbound web,Academia,27850.0,Needs confirmed,Lost,6,2026-01-13,Needs confirmed
-D-1539,2026-01-29,Inbound web,Academia,38900.0,Won,Won,0,2026-03-12,Won
-D-1540,2026-07-16,Trade show,Academia,18500.0,Quote sent,Lost,24,2026-10-12,Quote sent
-D-1541,2026-09-07,Trade show,Academia,6500.0,Quote sent,Open,28,2026-10-29,Quote sent
-D-1542,2026-04-29,Trade show,Pharma,10150.0,Needs confirmed,Lost,17,2026-06-01,Needs confirmed
-D-1543,2026-07-20,Existing customer,Biotech,8050.0,Won,Won,0,2026-09-22,Won
-D-1544,2026-04-25,Existing customer,Pharma,12600.0,Qualified,Lost,23,2026-05-18,Qualified
-D-1545,2026-07-09,Distributor referral,Academia,50150.0,Negotiation,Open,2,2026-10-29,Negotiation
-D-1546,2026-09-10,Inbound web,Biotech,60300.0,Qualified,Lost,13,2026-09-23,Qualified
-D-1547,2026-04-18,Existing customer,Academia,11900.0,Qualified,Lost,43,2026-05-31,Qualified
-D-1548,2026-02-19,Trade show,Pharma,18100.0,Needs confirmed,Lost,10,2026-03-05,Needs confirmed
-D-1549,2026-09-03,Outbound sequence,Pharma,11400.0,Quote sent,Open,5,2026-10-23,Quote sent
-D-1550,2026-06-29,Inbound web,Pharma,19300.0,Won,Won,0,2026-08-23,Won
-D-1551,2026-06-21,Distributor referral,CRO,8000.0,Won,Won,0,2026-08-24,Won
-D-1552,2026-07-26,Outbound sequence,CRO,5300.0,Qualified,Lost,5,2026-07-31,Qualified
-D-1553,2026-04-10,Distributor referral,Core facility,19950.0,Needs confirmed,Lost,5,2026-04-25,Needs confirmed
-D-1554,2026-03-07,Trade show,Pharma,71000.0,Qualified,Lost,15,2026-03-22,Qualified
-D-1555,2026-03-10,Inbound web,Biotech,14550.0,Needs confirmed,Lost,40,2026-05-02,Needs confirmed
-D-1556,2026-01-24,Outbound sequence,CGT developer,23550.0,Qualified,Lost,11,2026-02-04,Qualified
-D-1557,2026-02-18,Trade show,Academia,16050.0,Qualified,Lost,8,2026-02-26,Qualified
-D-1558,2026-10-15,Distributor referral,Academia,17600.0,Qualified,Open,16,2026-10-30,Qualified
-D-1559,2026-03-13,Trade show,Academia,25100.0,Won,Won,0,2026-04-15,Won
-D-1560,2026-04-11,Existing customer,CGT developer,24150.0,Won,Won,0,2026-06-27,Won
-D-1561,2026-08-10,Distributor referral,Biotech,53950.0,Quote sent,Lost,29,2026-09-30,Quote sent
-D-1562,2026-05-08,Existing customer,Pharma,23650.0,Won,Won,0,2026-08-20,Won
-D-1563,2026-02-07,Outbound sequence,Academia,19150.0,Qualified,Lost,7,2026-02-14,Qualified
-D-1564,2026-01-08,Outbound sequence,CRO,19100.0,Quote sent,Lost,4,2026-02-10,Quote sent
-D-1565,2026-09-21,Trade show,Biotech,18450.0,Needs confirmed,Open,17,2026-10-24,Needs confirmed
-D-1566,2026-02-01,Distributor referral,Pharma,49450.0,Won,Won,0,2026-04-18,Won
-D-1567,2026-01-18,Outbound sequence,CRO,15050.0,Qualified,Lost,11,2026-01-29,Qualified
-D-1568,2026-02-08,Inbound web,CGT developer,16700.0,Won,Won,0,2026-04-04,Won
-D-1569,2026-09-22,Inbound web,Academia,18900.0,Quote sent,Lost,19,2026-10-20,Quote sent
-D-1570,2026-04-10,Inbound web,CRO,12450.0,Needs confirmed,Lost,17,2026-05-06,Needs confirmed
-D-1571,2026-01-22,Distributor referral,Pharma,12900.0,Won,Won,0,2026-04-21,Won
-D-1572,2026-08-04,Existing customer,Academia,26300.0,Won,Won,0,2026-10-25,Won
-D-1573,2026-08-02,Distributor referral,Biotech,6200.0,Negotiation,Open,6,2026-10-12,Negotiation
-D-1574,2025-12-24,Existing customer,Academia,12350.0,Won,Won,0,2026-02-14,Won
-D-1575,2026-05-11,Distributor referral,CRO,28700.0,Negotiation,Lost,37,2026-09-08,Negotiation
-D-1576,2026-07-01,Inbound web,Biotech,26350.0,Qualified,Lost,14,2026-07-15,Qualified
-D-1577,2026-04-01,Distributor referral,Academia,13300.0,Quote sent,Lost,30,2026-06-04,Quote sent
-D-1578,2026-08-05,Distributor referral,Academia,16250.0,Won,Won,0,2026-09-17,Won
-D-1579,2026-08-23,Inbound web,Pharma,49700.0,Qualified,Lost,12,2026-09-04,Qualified
-D-1580,2026-06-11,Outbound sequence,Core facility,8250.0,Won,Won,0,2026-07-26,Won
-D-1581,2026-07-21,Trade show,CRO,16500.0,Negotiation,Open,34,2026-10-24,Negotiation
-D-1582,2026-09-11,Existing customer,Core facility,53800.0,Quote sent,Open,1,2026-10-25,Quote sent
-D-1583,2026-02-10,Outbound sequence,Pharma,12650.0,Qualified,Lost,10,2026-02-20,Qualified
-D-1584,2026-04-17,Inbound web,Academia,6800.0,Needs confirmed,Lost,5,2026-05-03,Needs confirmed
-D-1585,2026-07-15,Distributor referral,Biotech,14050.0,Qualified,Lost,3,2026-07-18,Qualified
-D-1586,2026-03-16,Trade show,Academia,8250.0,Needs confirmed,Lost,21,2026-04-09,Needs confirmed
-D-1587,2025-12-15,Outbound sequence,Academia,19600.0,Qualified,Lost,16,2025-12-31,Qualified
-D-1588,2025-12-30,Trade show,Academia,11100.0,Qualified,Lost,58,2026-02-26,Qualified
-D-1589,2026-08-14,Outbound sequence,Academia,52350.0,Qualified,Lost,19,2026-09-02,Qualified
-D-1590,2025-12-17,Inbound web,Academia,22950.0,Quote sent,Lost,23,2026-02-06,Quote sent
-D-1591,2026-08-06,Existing customer,Academia,24050.0,Qualified,Lost,23,2026-08-29,Qualified
-D-1592,2026-07-30,Trade show,Biotech,8600.0,Needs confirmed,Lost,15,2026-09-09,Needs confirmed
-D-1593,2026-02-04,Inbound web,Biotech,16750.0,Needs confirmed,Lost,13,2026-02-23,Needs confirmed
-D-1594,2026-06-11,Trade show,Academia,26300.0,Quote sent,Lost,35,2026-08-15,Quote sent
-D-1595,2026-01-25,Inbound web,Biotech,18450.0,Quote sent,Lost,13,2026-03-29,Quote sent
-D-1596,2026-01-05,Distributor referral,Academia,9200.0,Quote sent,Lost,19,2026-03-08,Quote sent
-D-1597,2026-07-05,Inbound web,CGT developer,4500.0,Negotiation,Lost,8,2026-10-10,Negotiation
-D-1598,2026-03-11,Distributor referral,Biotech,14700.0,Qualified,Lost,2,2026-03-13,Qualified
-D-1599,2026-08-26,Inbound web,CGT developer,6850.0,Quote sent,Open,9,2026-10-19,Quote sent
-D-1600,2026-06-30,Outbound sequence,Academia,9550.0,Needs confirmed,Lost,16,2026-07-23,Needs confirmed
-D-1601,2026-05-24,Inbound web,Core facility,21250.0,Qualified,Lost,20,2026-06-13,Qualified
-D-1602,2026-02-03,Outbound sequence,Biotech,17150.0,Qualified,Lost,39,2026-03-14,Qualified
-D-1603,2026-06-17,Trade show,Academia,9900.0,Quote sent,Lost,9,2026-08-21,Quote sent
-D-1604,2026-10-17,Distributor referral,Biotech,4200.0,Qualified,Lost,11,2026-10-28,Qualified
-D-1605,2026-09-04,Inbound web,Biotech,45900.0,Needs confirmed,Open,37,2026-10-30,Needs confirmed
-D-1606,2026-09-08,Trade show,CRO,4200.0,Needs confirmed,Open,36,2026-10-12,Needs confirmed
-D-1607,2026-04-19,Trade show,Biotech,33850.0,Won,Won,0,2026-08-05,Won
-D-1608,2026-02-16,Existing customer,Academia,7400.0,Won,Won,0,2026-03-26,Won
-D-1609,2026-05-02,Trade show,CGT developer,16800.0,Quote sent,Lost,28,2026-07-14,Quote sent
-D-1610,2026-03-20,Existing customer,Biotech,22400.0,Won,Won,0,2026-05-17,Won
-D-1611,2026-01-23,Trade show,Biotech,69500.0,Qualified,Lost,5,2026-01-28,Qualified
-D-1612,2026-06-06,Trade show,Academia,13400.0,Needs confirmed,Lost,24,2026-07-02,Needs confirmed
-D-1613,2026-08-11,Existing customer,Biotech,12900.0,Won,Won,0,2026-10-29,Won
-D-1614,2026-08-15,Outbound sequence,Academia,13200.0,Qualified,Lost,13,2026-08-28,Qualified
-D-1615,2026-02-06,Inbound web,Core facility,6700.0,Qualified,Lost,6,2026-02-12,Qualified
-D-1616,2026-01-23,Outbound sequence,Academia,7500.0,Qualified,Lost,5,2026-01-28,Qualified
-D-1617,2026-05-08,Trade show,CRO,14700.0,Won,Won,0,2026-08-08,Won
-D-1618,2026-09-18,Inbound web,Biotech,58900.0,Quote sent,Open,23,2026-10-27,Quote sent
-D-1619,2026-09-17,Inbound web,Academia,50050.0,Needs confirmed,Open,15,2026-10-22,Needs confirmed
-D-1620,2026-08-03,Distributor referral,Pharma,19100.0,Quote sent,Open,54,2026-10-29,Quote sent
-D-1621,2025-12-30,Distributor referral,Biotech,5750.0,Needs confirmed,Lost,20,2026-02-02,Needs confirmed
-D-1622,2026-10-16,Trade show,CGT developer,2650.0,Qualified,Lost,10,2026-10-26,Qualified
-D-1623,2026-10-08,Existing customer,CRO,16000.0,Needs confirmed,Lost,17,2026-10-29,Needs confirmed
-D-1624,2026-01-20,Distributor referral,CRO,8550.0,Quote sent,Lost,27,2026-04-05,Quote sent
-D-1625,2026-07-28,Distributor referral,Academia,15450.0,Qualified,Lost,6,2026-08-03,Qualified
-D-1626,2025-12-11,Trade show,Biotech,6100.0,Qualified,Lost,7,2025-12-18,Qualified
-D-1627,2026-03-22,Distributor referral,Academia,17300.0,Won,Won,0,2026-05-23,Won
-D-1628,2026-07-04,Distributor referral,CGT developer,16650.0,Needs confirmed,Lost,10,2026-08-17,Needs confirmed
-D-1629,2026-01-09,Trade show,Academia,61750.0,Quote sent,Lost,20,2026-03-16,Quote sent
-D-1630,2026-09-11,Inbound web,Biotech,60150.0,Qualified,Lost,22,2026-10-03,Qualified
-D-1631,2026-03-18,Trade show,Academia,18500.0,Negotiation,Lost,23,2026-06-01,Negotiation
-D-1632,2026-05-16,Distributor referral,Academia,15950.0,Qualified,Lost,10,2026-05-26,Qualified
-D-1633,2026-06-15,Outbound sequence,Biotech,22250.0,Qualified,Lost,16,2026-07-01,Qualified
-D-1634,2026-03-04,Inbound web,CGT developer,18200.0,Needs confirmed,Lost,41,2026-04-26,Needs confirmed
-D-1635,2026-09-19,Trade show,CGT developer,9700.0,Needs confirmed,Open,11,2026-10-27,Needs confirmed
-D-1636,2026-09-12,Inbound web,CGT developer,15250.0,Quote sent,Open,5,2026-10-25,Quote sent
-D-1637,2026-10-16,Trade show,Core facility,3750.0,Qualified,Open,15,2026-10-30,Qualified
-D-1638,2026-05-12,Inbound web,Academia,48050.0,Quote sent,Lost,6,2026-06-14,Quote sent
-D-1639,2026-05-21,Distributor referral,Academia,31200.0,Qualified,Lost,26,2026-06-16,Qualified
-D-1640,2026-03-10,Existing customer,Biotech,9400.0,Won,Won,0,2026-06-02,Won
-D-1641,2026-08-14,Inbound web,Pharma,12000.0,Needs confirmed,Open,40,2026-10-30,Needs confirmed
-D-1642,2026-08-21,Inbound web,Academia,10150.0,Qualified,Lost,14,2026-09-04,Qualified
-D-1643,2026-03-09,Inbound web,Core facility,4900.0,Needs confirmed,Lost,23,2026-04-03,Needs confirmed
-D-1644,2026-02-15,Distributor referral,Academia,11400.0,Won,Won,0,2026-06-07,Won
-D-1645,2026-06-10,Existing customer,Academia,17350.0,Won,Won,0,2026-10-02,Won
-D-1646,2026-05-07,Existing customer,Biotech,21400.0,Won,Won,0,2026-07-24,Won
-D-1647,2026-05-01,Outbound sequence,CRO,7700.0,Won,Won,0,2026-07-06,Won
-D-1648,2026-01-30,Outbound sequence,Academia,3600.0,Qualified,Lost,27,2026-02-26,Qualified
-D-1649,2026-02-27,Inbound web,Academia,13600.0,Qualified,Lost,10,2026-03-09,Qualified
-D-1650,2025-12-11,Trade show,CRO,14250.0,Needs confirmed,Lost,7,2026-01-03,Needs confirmed
-D-1651,2026-06-03,Distributor referral,Academia,21550.0,Won,Won,0,2026-07-22,Won
-D-1652,2026-09-04,Existing customer,CGT developer,20750.0,Won,Won,0,2026-10-28,Won
-D-1653,2026-05-14,Inbound web,Academia,120650.0,Needs confirmed,Lost,27,2026-06-28,Needs confirmed
-D-1654,2026-05-04,Outbound sequence,Pharma,5450.0,Quote sent,Lost,35,2026-08-26,Quote sent
-D-1655,2026-08-28,Inbound web,Academia,30850.0,Qualified,Lost,13,2026-09-10,Qualified
-D-1656,2026-03-25,Distributor referral,Pharma,16000.0,Needs confirmed,Lost,43,2026-05-29,Needs confirmed
-D-1657,2026-06-17,Inbound web,Core facility,10050.0,Qualified,Lost,18,2026-07-05,Qualified
-D-1658,2026-05-18,Trade show,CGT developer,9600.0,Won,Won,0,2026-09-02,Won
-D-1659,2026-08-27,Trade show,Academia,38200.0,Negotiation,Open,13,2026-10-19,Negotiation
-D-1660,2026-02-13,Existing customer,Core facility,18900.0,Won,Won,0,2026-04-09,Won
-D-1661,2026-04-20,Existing customer,Biotech,8500.0,Qualified,Lost,6,2026-04-26,Qualified
-D-1662,2025-12-12,Outbound sequence,Biotech,22300.0,Needs confirmed,Lost,44,2026-03-10,Needs confirmed
-D-1663,2026-06-25,Distributor referral,Academia,19600.0,Qualified,Lost,18,2026-07-13,Qualified
-D-1664,2026-02-27,Trade show,Academia,21100.0,Quote sent,Lost,12,2026-04-02,Quote sent
-D-1665,2026-09-03,Distributor referral,Biotech,15800.0,Quote sent,Open,17,2026-10-15,Quote sent
-D-1666,2026-02-14,Inbound web,Academia,19650.0,Qualified,Lost,19,2026-03-05,Qualified
-D-1667,2025-12-29,Distributor referral,CGT developer,26650.0,Needs confirmed,Lost,11,2026-01-23,Needs confirmed
-D-1668,2026-09-20,Existing customer,CGT developer,23300.0,Qualified,Lost,11,2026-10-01,Qualified
-D-1669,2026-05-16,Outbound sequence,Academia,10950.0,Won,Won,0,2026-07-19,Won
-D-1670,2026-07-24,Inbound web,Academia,9850.0,Needs confirmed,Lost,20,2026-08-23,Needs confirmed
-D-1671,2026-03-11,Distributor referral,CRO,7100.0,Qualified,Lost,9,2026-03-20,Qualified
-D-1672,2026-07-02,Distributor referral,Biotech,16100.0,Quote sent,Lost,8,2026-08-28,Quote sent
-D-1673,2026-07-10,Inbound web,Academia,9100.0,Needs confirmed,Lost,43,2026-09-09,Needs confirmed
-D-1674,2026-08-12,Distributor referral,CGT developer,6700.0,Needs confirmed,Lost,22,2026-09-11,Needs confirmed
-D-1675,2026-06-25,Trade show,Biotech,15950.0,Negotiation,Lost,16,2026-08-19,Negotiation
-D-1676,2026-04-04,Existing customer,CGT developer,12750.0,Qualified,Lost,56,2026-05-30,Qualified
-D-1677,2026-03-05,Inbound web,Biotech,4650.0,Won,Won,0,2026-06-23,Won
-D-1678,2026-03-21,Trade show,Academia,6850.0,Qualified,Lost,18,2026-04-08,Qualified
-D-1679,2026-01-22,Existing customer,CRO,6850.0,Won,Won,0,2026-03-12,Won
-D-1680,2026-08-14,Distributor referral,CRO,24250.0,Won,Won,0,2026-10-04,Won
-D-1681,2026-07-01,Trade show,Biotech,13000.0,Won,Won,0,2026-09-10,Won
-D-1682,2025-12-08,Distributor referral,Biotech,21100.0,Won,Won,0,2026-02-09,Won
-D-1683,2026-03-01,Distributor referral,Pharma,8050.0,Needs confirmed,Lost,13,2026-03-22,Needs confirmed
-D-1684,2026-04-14,Trade show,Academia,30650.0,Won,Won,0,2026-07-01,Won
-D-1685,2026-05-03,Inbound web,Academia,8700.0,Qualified,Lost,8,2026-05-11,Qualified
-D-1686,2026-09-05,Inbound web,Biotech,12950.0,Qualified,Lost,13,2026-09-18,Qualified
-D-1687,2026-04-23,Trade show,CRO,6550.0,Won,Won,0,2026-07-02,Won
-D-1688,2026-06-26,Existing customer,Academia,12050.0,Won,Won,0,2026-08-27,Won
-D-1689,2026-07-30,Existing customer,Pharma,50400.0,Quote sent,Open,4,2026-10-28,Quote sent
-D-1690,2026-08-31,Distributor referral,CGT developer,27100.0,Negotiation,Open,2,2026-10-13,Negotiation
-D-1691,2026-08-25,Outbound sequence,Pharma,8750.0,Qualified,Lost,36,2026-09-30,Qualified
-D-1692,2026-05-15,Existing customer,Biotech,27300.0,Quote sent,Lost,15,2026-07-02,Quote sent
-D-1693,2026-06-17,Outbound sequence,Academia,36650.0,Qualified,Lost,42,2026-07-29,Qualified
-D-1694,2026-01-22,Existing customer,Academia,10400.0,Won,Won,0,2026-04-18,Won
-D-1695,2026-06-14,Distributor referral,Academia,31750.0,Won,Won,0,2026-08-01,Won
-D-1696,2026-05-07,Trade show,Academia,7450.0,Quote sent,Lost,19,2026-07-10,Quote sent
-D-1697,2026-08-10,Distributor referral,Biotech,25500.0,Quote sent,Lost,13,2026-09-11,Quote sent
-D-1698,2026-03-28,Distributor referral,Academia,13000.0,Negotiation,Lost,23,2026-06-25,Negotiation
-D-1699,2025-12-09,Outbound sequence,Academia,11150.0,Won,Won,0,2026-03-23,Won
+D-1000,2026-05-29,Existing customer,Academia,4100.0,Won,Won,0,2026-08-16,Won
+D-1001,2026-02-04,Outbound sequence,Academia,1800.0,Qualified,Lost,22,2026-02-26,Qualified
+D-1002,2026-09-30,Trade show,Academia,4350.0,Needs confirmed,Open,13,2026-10-18,Needs confirmed
+D-1003,2026-09-11,Distributor referral,Pharma,3650.0,Quote sent,Open,1,2026-10-28,Quote sent
+D-1004,2026-04-28,Outbound sequence,Core facility,8800.0,Qualified,Lost,28,2026-05-26,Qualified
+D-1005,2026-03-07,Existing customer,CGT developer,7200.0,Won,Won,0,2026-07-13,Won
+D-1006,2026-10-10,Inbound web,Academia,6200.0,Needs confirmed,Open,10,2026-10-24,Needs confirmed
+D-1007,2026-08-22,Existing customer,Pharma,4800.0,Negotiation,Open,3,2026-10-18,Negotiation
+D-1008,2026-09-30,Trade show,Core facility,5600.0,Quote sent,Open,9,2026-10-14,Quote sent
+D-1009,2026-01-22,Inbound web,Academia,6100.0,Needs confirmed,Lost,13,2026-02-13,Needs confirmed
+D-1010,2026-04-30,Outbound sequence,CRO,2250.0,Quote sent,Lost,9,2026-06-13,Quote sent
+D-1011,2026-03-27,Distributor referral,Biotech,2850.0,Negotiation,Lost,4,2026-05-13,Negotiation
+D-1012,2025-12-15,Inbound web,Pharma,3650.0,Qualified,Lost,15,2025-12-30,Qualified
+D-1013,2026-07-11,Outbound sequence,Biotech,7750.0,Qualified,Lost,31,2026-08-11,Qualified
+D-1014,2026-05-04,Trade show,Academia,9300.0,Qualified,Lost,11,2026-05-15,Qualified
+D-1015,2026-04-27,Trade show,Academia,3950.0,Needs confirmed,Lost,39,2026-06-10,Needs confirmed
+D-1016,2026-10-24,Existing customer,Pharma,4100.0,Qualified,Open,7,2026-10-22,Qualified
+D-1017,2026-10-03,Trade show,Core facility,3900.0,Qualified,Lost,16,2026-10-19,Qualified
+D-1018,2026-09-11,Distributor referral,Academia,4400.0,Needs confirmed,Open,28,2026-10-27,Needs confirmed
+D-1019,2026-10-12,Outbound sequence,Academia,2700.0,Needs confirmed,Lost,6,2026-10-28,Needs confirmed
+D-1020,2026-07-12,Distributor referral,CGT developer,8950.0,Negotiation,Lost,37,2026-10-21,Negotiation
+D-1021,2026-05-07,Trade show,Biotech,11400.0,Qualified,Lost,36,2026-06-12,Qualified
+D-1022,2026-07-21,Distributor referral,Pharma,14100.0,Won,Won,0,2026-10-22,Won
+D-1023,2025-12-08,Inbound web,Biotech,2450.0,Needs confirmed,Lost,16,2025-12-31,Needs confirmed
+D-1024,2026-08-08,Trade show,CGT developer,12050.0,Needs confirmed,Lost,16,2026-09-14,Needs confirmed
+D-1025,2026-03-08,Inbound web,Pharma,8650.0,Won,Won,0,2026-07-04,Won
+D-1026,2026-01-14,Inbound web,Pharma,5150.0,Qualified,Lost,16,2026-01-30,Qualified
+D-1027,2026-10-07,Outbound sequence,Academia,6650.0,Needs confirmed,Open,12,2026-10-30,Needs confirmed
+D-1028,2026-06-01,Trade show,Academia,2400.0,Quote sent,Lost,26,2026-09-12,Quote sent
+D-1029,2026-01-05,Outbound sequence,Biotech,7000.0,Needs confirmed,Lost,38,2026-03-17,Needs confirmed
+D-1030,2026-08-18,Outbound sequence,CGT developer,16300.0,Qualified,Lost,12,2026-08-30,Qualified
+D-1031,2026-02-09,Existing customer,Biotech,6900.0,Won,Won,0,2026-05-09,Won
+D-1032,2026-09-05,Outbound sequence,Pharma,8900.0,Quote sent,Open,23,2026-10-29,Quote sent
+D-1033,2026-02-24,Outbound sequence,CGT developer,12600.0,Needs confirmed,Lost,29,2026-04-23,Needs confirmed
+D-1034,2026-02-11,Trade show,Academia,8450.0,Qualified,Lost,6,2026-02-17,Qualified
+D-1035,2026-06-11,Inbound web,Academia,2950.0,Qualified,Lost,7,2026-06-18,Qualified
+D-1036,2026-03-09,Trade show,Academia,4300.0,Won,Won,0,2026-05-14,Won
+D-1037,2026-07-12,Distributor referral,Biotech,5550.0,Quote sent,Lost,10,2026-09-05,Quote sent
+D-1038,2026-08-01,Trade show,Academia,14050.0,Negotiation,Open,9,2026-10-30,Negotiation
+D-1039,2026-09-27,Inbound web,Academia,2050.0,Quote sent,Open,13,2026-10-21,Quote sent
+D-1040,2026-03-24,Existing customer,Pharma,5900.0,Won,Won,0,2026-07-31,Won
+D-1041,2026-07-02,Existing customer,Academia,2100.0,Won,Won,0,2026-08-11,Won
+D-1042,2026-01-02,Distributor referral,Biotech,7550.0,Qualified,Lost,3,2026-01-05,Qualified
+D-1043,2026-02-08,Inbound web,Biotech,6300.0,Needs confirmed,Lost,30,2026-03-19,Needs confirmed
+D-1044,2026-03-19,Trade show,Pharma,9700.0,Won,Won,0,2026-05-31,Won
+D-1045,2026-09-01,Trade show,Biotech,3200.0,Quote sent,Lost,28,2026-10-12,Quote sent
+D-1046,2026-07-10,Outbound sequence,Biotech,5200.0,Quote sent,Lost,11,2026-08-30,Quote sent
+D-1047,2026-01-31,Trade show,Academia,3050.0,Needs confirmed,Lost,35,2026-03-31,Needs confirmed
+D-1048,2026-09-28,Outbound sequence,Academia,7150.0,Needs confirmed,Lost,20,2026-10-23,Needs confirmed
+D-1049,2026-04-13,Outbound sequence,Biotech,6350.0,Won,Won,0,2026-06-12,Won
+D-1050,2026-09-10,Trade show,Academia,3100.0,Won,Won,0,2026-10-23,Won
+D-1051,2026-01-18,Distributor referral,CGT developer,14200.0,Quote sent,Lost,29,2026-03-15,Quote sent
+D-1052,2026-03-05,Existing customer,Biotech,6350.0,Won,Won,0,2026-05-25,Won
+D-1053,2026-09-22,Trade show,CGT developer,5150.0,Quote sent,Open,16,2026-10-31,Quote sent
+D-1054,2026-05-06,Outbound sequence,Academia,9450.0,Qualified,Lost,13,2026-05-19,Qualified
+D-1055,2026-06-03,Distributor referral,Pharma,3700.0,Quote sent,Lost,33,2026-08-12,Quote sent
+D-1056,2026-04-10,Inbound web,Academia,4350.0,Qualified,Lost,15,2026-04-25,Qualified
+D-1057,2026-07-25,Existing customer,Pharma,8150.0,Won,Won,0,2026-08-28,Won
+D-1058,2026-08-18,Distributor referral,Pharma,4950.0,Negotiation,Lost,28,2026-10-31,Negotiation
+D-1059,2026-06-27,Outbound sequence,Core facility,5450.0,Qualified,Lost,13,2026-07-10,Qualified
+D-1060,2026-06-28,Distributor referral,CGT developer,3750.0,Needs confirmed,Lost,21,2026-08-20,Needs confirmed
+D-1061,2026-09-21,Existing customer,Pharma,2400.0,Needs confirmed,Open,3,2026-10-30,Needs confirmed
+D-1062,2026-06-16,Inbound web,Academia,5400.0,Qualified,Lost,14,2026-06-30,Qualified
+D-1063,2026-10-01,Inbound web,CGT developer,6150.0,Needs confirmed,Open,4,2026-10-29,Needs confirmed
+D-1064,2026-10-20,Outbound sequence,CRO,9000.0,Qualified,Lost,5,2026-10-25,Qualified
+D-1065,2026-04-26,Outbound sequence,Academia,25300.0,Negotiation,Lost,11,2026-06-14,Negotiation
+D-1066,2026-09-06,Trade show,Academia,2800.0,Quote sent,Lost,14,2026-10-13,Quote sent
+D-1067,2026-09-11,Trade show,Pharma,13750.0,Needs confirmed,Open,22,2026-08-22,Needs confirmed
+D-1068,2026-04-19,Inbound web,Pharma,1900.0,Qualified,Lost,19,2026-05-08,Qualified
+D-1069,2026-07-02,Existing customer,Biotech,14950.0,Needs confirmed,Lost,35,2026-09-08,Needs confirmed
+D-1070,2025-12-10,Trade show,Pharma,4950.0,Quote sent,Lost,10,2026-01-20,Quote sent
+D-1071,2026-02-14,Outbound sequence,Biotech,3450.0,Won,Won,0,2026-04-27,Won
+D-1072,2026-01-06,Existing customer,CGT developer,1600.0,Won,Won,0,2026-02-28,Won
+D-1073,2026-03-08,Trade show,Academia,1550.0,Needs confirmed,Lost,12,2026-04-13,Needs confirmed
+D-1074,2026-07-01,Existing customer,Biotech,7900.0,Won,Won,0,2026-09-20,Won
+D-1075,2026-06-22,Inbound web,Biotech,6750.0,Qualified,Lost,2,2026-06-24,Qualified
+D-1076,2026-08-07,Outbound sequence,Biotech,4900.0,Qualified,Lost,16,2026-08-23,Qualified
+D-1077,2025-12-10,Trade show,Pharma,5200.0,Needs confirmed,Lost,42,2026-02-10,Needs confirmed
+D-1078,2026-10-20,Inbound web,Biotech,7000.0,Qualified,Open,11,2026-10-28,Qualified
+D-1079,2025-12-12,Inbound web,CRO,13800.0,Needs confirmed,Lost,22,2026-01-21,Needs confirmed
+D-1080,2026-04-24,Inbound web,CRO,4550.0,Needs confirmed,Lost,21,2026-06-04,Needs confirmed
+D-1081,2026-05-20,Trade show,CGT developer,6500.0,Qualified,Lost,6,2026-05-26,Qualified
+D-1082,2026-03-13,Inbound web,Biotech,12500.0,Qualified,Lost,3,2026-03-16,Qualified
+D-1083,2025-12-25,Inbound web,Biotech,5500.0,Negotiation,Lost,19,2026-03-04,Negotiation
+D-1084,2026-02-26,Outbound sequence,Pharma,5450.0,Qualified,Lost,8,2026-03-06,Qualified
+D-1085,2026-02-18,Existing customer,Biotech,3400.0,Won,Won,0,2026-04-04,Won
+D-1086,2026-05-09,Trade show,Biotech,8850.0,Qualified,Lost,12,2026-05-21,Qualified
+D-1087,2026-01-24,Outbound sequence,CRO,4550.0,Won,Won,0,2026-04-15,Won
+D-1088,2026-09-16,Inbound web,Biotech,11900.0,Needs confirmed,Open,24,2026-10-30,Needs confirmed
+D-1089,2026-06-03,Distributor referral,Academia,5200.0,Won,Won,0,2026-08-22,Won
+D-1090,2026-07-17,Outbound sequence,Pharma,1750.0,Qualified,Lost,9,2026-07-26,Qualified
+D-1091,2026-09-17,Existing customer,Biotech,2800.0,Needs confirmed,Open,34,2026-10-19,Needs confirmed
+D-1092,2026-02-12,Trade show,Pharma,3500.0,Negotiation,Lost,19,2026-04-10,Negotiation
+D-1093,2026-06-15,Distributor referral,CGT developer,4050.0,Qualified,Lost,10,2026-06-25,Qualified
+D-1094,2026-07-22,Outbound sequence,Biotech,2550.0,Negotiation,Lost,8,2026-09-14,Negotiation
+D-1095,2026-05-23,Distributor referral,Academia,6650.0,Won,Won,0,2026-08-15,Won
+D-1096,2026-04-06,Distributor referral,Academia,5700.0,Won,Won,0,2026-06-04,Won
+D-1097,2026-08-18,Trade show,CRO,6100.0,Quote sent,Open,8,2026-10-14,Quote sent
+D-1098,2026-02-14,Distributor referral,Core facility,7650.0,Won,Won,0,2026-04-14,Won
+D-1099,2026-03-26,Trade show,Biotech,9450.0,Qualified,Lost,8,2026-04-03,Qualified
+D-1100,2026-02-14,Existing customer,Academia,4700.0,Won,Won,0,2026-05-01,Won
+D-1101,2026-02-12,Existing customer,CRO,500.0,Qualified,Lost,6,2026-02-18,Qualified
+D-1102,2026-06-25,Trade show,Biotech,1500.0,Won,Won,0,2026-08-25,Won
+D-1103,2026-10-06,Inbound web,Pharma,5650.0,Needs confirmed,Lost,19,2026-10-30,Needs confirmed
+D-1104,2026-07-19,Outbound sequence,Core facility,4000.0,Qualified,Lost,11,2026-07-30,Qualified
+D-1105,2026-07-15,Inbound web,Biotech,19850.0,Qualified,Lost,4,2026-07-19,Qualified
+D-1106,2026-10-21,Outbound sequence,Academia,8000.0,Qualified,Open,10,2026-10-28,Qualified
+D-1107,2026-02-13,Inbound web,Pharma,1950.0,Won,Won,0,2026-07-10,Won
+D-1108,2026-05-10,Distributor referral,CGT developer,7000.0,Won,Won,0,2026-09-11,Won
+D-1109,2025-12-10,Inbound web,Pharma,4950.0,Negotiation,Lost,19,2026-02-19,Negotiation

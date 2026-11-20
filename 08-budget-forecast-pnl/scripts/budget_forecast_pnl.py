@@ -25,7 +25,7 @@ ROUTES = ["Direct", "Distributor", "Marketplace"]
 # ---------------- 1. budget ----------------
 season = np.array([.7, .8, .9, 1.0, 1.0, .9, 1.0, 1.1, 1.1, 1.2, 1.1, 1.2])
 season = season / season.mean()
-BUDGET_REV = 820_000
+BUDGET_REV = 240_000
 share = {"Direct": .78, "Distributor": .12, "Marketplace": .10}
 ramp = {"Direct": np.ones(12), "Distributor": np.array([0, 0, 0, 0, 0, .4, .8, 1.2, 1.4, 1.6, 1.8, 1.8]),
         "Marketplace": np.array([.2, .4, .6, .8, 1, 1.1, 1.2, 1.2, 1.3, 1.3, 1.4, 1.5])}
@@ -36,8 +36,8 @@ for r in ROUTES:
 budget["revenue"] = budget[[f"rev_{r}" for r in ROUTES]].sum(axis=1)
 GM = {"Direct": .62, "Distributor": .42, "Marketplace": .55}
 budget["cogs"] = sum(budget[f"rev_{r}"] * (1 - GM[r]) for r in ROUTES)
-OPEX = {"Salaries and benefits": 21_000, "Marketing and events": 6_500, "Software and systems": 2_200,
-        "Shipping and fulfilment": 3_100, "Travel": 1_300, "Professional services": 1_500, "Other": 900}
+OPEX = {"Salaries and benefits": 9_500, "Marketing and events": 2_800, "Software and systems": 900,
+        "Shipping and fulfilment": 900, "Travel": 600, "Professional services": 700, "Other": 400}
 for k, v in OPEX.items():
     budget[k] = v * (season if k in ("Marketing and events", "Travel", "Shipping and fulfilment") else 1.0)
 
@@ -52,7 +52,7 @@ for k in OPEX:
     actual[k] = budget[k] * rng.normal(1.0, .06, 12) * (1.18 if k == "Shipping and fulfilment" else 1.0)
 # forecast: driver-based from open pipeline for Oct-Dec; actuals cannot exist yet
 fc = actual.copy()
-pipeline_weighted = {"Direct": 125_000, "Distributor": 19_000, "Marketplace": 28_000}   # weighted pipeline, next 3 months
+pipeline_weighted = {"Direct": 36_000, "Distributor": 5_500, "Marketplace": 8_000}   # weighted pipeline, next 3 months
 for r in ROUTES:
     run_rate = actual[f"rev_{r}"].iloc[:ACTUAL_THROUGH].tail(3).mean()
     conv = pipeline_weighted[r] / 3
@@ -106,7 +106,7 @@ for r in ROUTES:
     cash["cash_in"] += fc[f"rev_{r}"].shift(lag).fillna(fc[f"rev_{r}"].iloc[0])
 cash["cash_out"] = fc.cogs + fc[list(OPEX)].sum(axis=1)
 cash["net_cash"] = cash.cash_in - cash.cash_out
-cash["closing_cash"] = 180_000 + cash.net_cash.cumsum()
+cash["closing_cash"] = 60_000 + cash.net_cash.cumsum()
 cash.round(0).to_csv(DATA / "cash_flow.csv")
 
 # ---------------- 5. scenarios ----------------

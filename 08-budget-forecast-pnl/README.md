@@ -30,18 +30,20 @@ Leadership needed one view of how the year was going against budget, a forecast 
 | **Scenarios** | Pipeline converts lower or higher, shipping and COGS up, extra hiring, each with full-year revenue and operating profit |
 
 ## Results on the synthetic run (actuals Jan to Sep, forecast Oct to Dec)
+Scale: a small company with a revenue plan of about $245K for the year, so the P&L is a loss-making start-up profile.
+
 | Metric | Budget | Actual / forecast |
 |---|---|---|
-| YTD revenue | $550K | $494K (-10%) |
-| YTD gross profit | $328K | $293K (-11%) |
-| YTD operating expenses | $323K | $324K (on budget) |
-| YTD operating profit | +$5K | -$31K |
-| Full-year revenue | $836K | $694K forecast (-17%) |
-| Full-year operating profit | +$52K | -$28K forecast |
+| YTD revenue | $161K | $145K (-10%) |
+| YTD gross profit | $96K | $86K (-11%) |
+| YTD operating expenses | $140K | $140K (on budget) |
+| YTD operating profit | -$44K | -$54K |
+| Full-year revenue | $245K | $203K forecast (-17%) |
+| Full-year operating profit | -$46K | -$69K forecast |
 
 **Why the gap:** the distributor channel ramps slower than budgeted, so revenue lags while costs stay on plan. The budget assumed the channel would contribute from midyear.
-**Won to invoiced:** invoices exceed CRM closed-won by about 3.7% because shipping and tax are billed but not in deal amounts, partly offset by orders won but not yet shipped.
-**Scenarios:** if the pipeline converts 15% worse, full-year operating profit drops to about -$46K; a 10% hiring increase costs about $11K more.
+**Won to invoiced:** invoices differ from CRM closed-won because shipping and tax are billed but not in deal amounts, partly offset by orders won but not yet shipped; the bridge in the chart reconciles the two.
+**Scenarios:** if the pipeline converts 15% worse, full-year operating profit drops to about -$75K; a 10% hiring increase costs about $5K more.
 
 ## Forecast suite: five forecasts, five questions
 ![Forecast suite](charts/forecast_suite.png)

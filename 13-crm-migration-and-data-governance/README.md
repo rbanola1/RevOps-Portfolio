@@ -31,7 +31,7 @@ The company was moving from a legacy CRM to a new one, and the old system held y
 | Finding | Evidence |
 |---|---|
 | Cleanup before load pays off | About 4% of companies and contacts were duplicates and 1% to 5% of each object was junk; both were removed before the final load |
-| Reconciliation catches silent loss | 250 records went missing in the first load across objects and were found by count checks and reloaded |
+| Reconciliation catches silent loss | 58 records went missing in the first load across objects and were found by count checks and reloaded |
 | Quality score rises from 69% to 92% | Biggest gains in ownership (77% to 99%), validity (72% to 96%) and completeness (68% to 94%) |
 | Freshness stays the weak spot | Only 71% of records were touched in 12 months even after cleanup, which feeds the "idle inventory" work in [project 11](../11-pipeline-health-analysis) |
 | Recovery is tested, not assumed | A quarterly restore test proves a backup can rebuild the CRM |

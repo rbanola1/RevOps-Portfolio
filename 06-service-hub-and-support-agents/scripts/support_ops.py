@@ -36,7 +36,7 @@ TEMPLATES = {
     "Accounting": ["invoice copy needed", "payment sent please confirm", "tax exempt certificate attached"],
     "Collaboration inquiry": ["therapeutics collaboration proposal", "partnership opportunity", "licensing discussion"],
 }
-N = 2400
+N = 600
 truth = rng.choice(list(CAT), N, p=list(CAT.values()))
 text = [rng.choice(TEMPLATES[c]) for c in truth]
 tickets = pd.DataFrame({"ticket_id": [f"T{40000 + i}" for i in range(N)], "category": truth, "text": text,
@@ -116,7 +116,7 @@ agent = pd.Series({"tickets": N, "auto_routed_share": round(len(auto) / N, 3),
 agent.to_csv(DATA / "agent_performance.csv", header=["value"])
 cm = pd.crosstab(tickets.category, tickets.agent_category)
 cm.to_csv(DATA / "agent_confusion_matrix.csv")
-tickets.drop(columns=["manual_phase"]).sample(1500, random_state=2).to_csv(DATA / "tickets_sample.csv", index=False)
+tickets.drop(columns=["manual_phase"]).sample(300, random_state=2).to_csv(DATA / "tickets_sample.csv", index=False)
 
 # ---------------- 5. auto-reply loop with and without guardrails ----------------
 def loop(guard, hours=48):

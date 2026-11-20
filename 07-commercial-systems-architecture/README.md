@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["Tools disconnected and orders handled by hand"] --> B["Six-layer map with one owner per integration"] --> C["Deal won to invoice 7.8 to 4.4 days"]
+    A["Tools disconnected and orders handled by hand"] --> B["Six-layer map with one owner per integration"] --> C["Deal won to invoice 7.8 to 4.5 days"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -87,13 +87,13 @@ Tools behind the roles (examples): a scientific lead database queried by an AI a
 6. **GTM tools never write to the CRM directly.** Imports are reviewed, tagged by source, and checked against existing records first. All outbound email is sent from the CRM.
 7. **Monitor exceptions, not only successes.** A monthly three-way reconciliation compares CRM, ERP and invoice totals and lists every mismatch.
 
-## Results on the synthetic run (1,500 orders, go-live mid-June)
+## Results on the synthetic run (300 orders, go-live mid-June)
 | Metric | Manual | Integrated |
 |---|---|---|
-| Days from deal won to invoice | 7.8 | 4.4 (-43%) |
-| Orders with an integration exception | 18.9% | 5.1% |
+| Days from deal won to invoice | 7.8 | 4.5 (-43%) |
+| Orders with an integration exception | 16.1% | 2.6% |
 | Most common exception | Product ID missing or mismatched | Product ID missing or mismatched |
-| Tax-exempt flag errors | 35 orders | 4 orders |
+| Tax-exempt flag errors | 4 orders | 2 orders |
 
 The numbers are simulated; the structure is the point.
 

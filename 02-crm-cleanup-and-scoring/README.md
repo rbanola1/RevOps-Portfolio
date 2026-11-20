@@ -7,7 +7,7 @@
 ## At a glance
 ```mermaid
 flowchart LR
-    A["Full marketing tier, messy industry field, engagement-only score"] --> B["Audit, demote, promote and one clean segment field"] --> C["Tier 94% to 58%, classified contacts 55% to 88%"]
+    A["Full marketing tier, messy industry field, engagement-only score"] --> B["Audit, demote, promote and one clean segment field"] --> C["Tier 94% to 57%, classified contacts 55% to 88%"]
     classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
     classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
@@ -29,13 +29,13 @@ Four connected pieces, each with written rules so the work is repeatable and exp
 | **Segment field** | Replaces a messy industry picklist with one clean Segment field using 10 market segments, filled from a mapping table and then job-title rules |
 | **Engagement score with decay** | The starting point: scores replies, sales clicks and opens, decaying 20% per quarter so old activity stops counting. Its limits, and the replacement that adds fit and intent, are covered in [GTM-Strategy 02](https://github.com/rbanola1/GTM-Strategy/tree/main/02-lead-scoring-redesign) |
 
-## Results on the synthetic CRM (60,000 contacts)
+## Results on the synthetic CRM (14,000 contacts)
 | Metric | Before | After |
 |---|---|---|
-| Marketing-contact tier (limit 50,000) | 47,190 (94%) | 28,913 (58%) |
-| Contacts demoted to non-marketing | | 18,337 |
-| Engaged contacts promoted | | 60 (plus 21 held for EU/UK/CH consent check) |
-| Duplicates merged | | 77 |
+| Marketing-contact tier (limit 11,600) | 10,951 (94%) | 6,663 (57%) |
+| Contacts demoted to non-marketing | | 4,306 |
+| Engaged contacts promoted | | 18 (plus 7 held for EU/UK/CH consent check) |
+| Duplicates merged | | 22 |
 | Contacts with a usable industry or segment | 55% | 88% |
 | Distinct industry values | 18 | 10 segments |
 
@@ -64,7 +64,7 @@ python scripts/crm_cleanup.py     # writes data/*.csv and charts/cleanup_overvie
 
 | File | What it is |
 |---|---|
-| `data/contacts_sample.csv` | 1,000-contact sample with action, segment, segment source, score (the script writes the full 60,000 to `contacts_cleaned.csv`) |
+| `data/contacts_sample.csv` | 1,000-contact sample with action, segment, segment source, score (the script writes the full 14,000 to `contacts_cleaned.csv`) |
 | `data/change_log_sample.csv` | 500-row sample of the change log (the full log is `change_log.csv`) |
 | `data/industry_to_segment_map.csv` | The mapping table |
 | `data/kpi_summary.csv` | Headline numbers above |

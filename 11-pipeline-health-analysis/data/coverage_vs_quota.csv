@@ -1,7 +1,7 @@
 measure,value
-Open pipeline value,1838450.0
-Weighted pipeline,777895.0
-Quota next quarter,766020.83
+Open pipeline value,128000.0
+Weighted pipeline,46422.5
+Quota next quarter,53333.33
 Coverage (open / quota),2.4
-Coverage after removing stalled,2.11
-Open value needed for 3x coverage,2298062.5
+Coverage after removing stalled,2.14
+Open value needed for 3x coverage,160000.0

@@ -1,7 +1,7 @@
 station,records,share_of_input
-Records in CRM,4000,1.0
-Touched at least once,2952,0.738
-Worked (follow-up attempts),1597,0.399
-Qualified,447,0.112
-Deal created,276,0.069
-Won,88,0.022
+Records in CRM,1600,1.0
+Touched at least once,1193,0.746
+Worked (follow-up attempts),635,0.397
+Qualified,180,0.112
+Deal created,99,0.062
+Won,25,0.016

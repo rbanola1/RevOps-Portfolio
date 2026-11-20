@@ -1,10 +1,10 @@
 category,Accounting,Collaboration inquiry,Custom project request,Documentation request,General inquiry,Order and shipping,Pre-sale support,Spam,Technical support
-Accounting,44,0,0,1,1,0,1,0,0
-Collaboration inquiry,0,41,0,1,0,0,0,1,1
-Custom project request,2,0,61,0,0,0,30,0,1
-Documentation request,2,1,0,64,0,1,0,0,0
-General inquiry,1,0,3,1,370,1,3,2,4
-Order and shipping,1,1,0,3,1,166,0,1,2
-Pre-sale support,2,1,2,1,0,2,218,2,1
-Spam,4,7,7,7,10,7,6,1173,4
-Technical support,2,0,0,0,3,0,3,0,125
+Accounting,11,0,0,0,0,0,0,0,0
+Collaboration inquiry,0,13,0,0,0,0,0,0,0
+Custom project request,0,0,9,0,0,0,9,0,0
+Documentation request,0,0,0,15,0,0,0,0,0
+General inquiry,1,0,0,0,82,0,0,2,0
+Order and shipping,0,0,0,0,0,52,0,0,1
+Pre-sale support,0,0,0,0,2,0,46,2,0
+Spam,1,0,0,2,1,3,0,300,3
+Technical support,0,0,0,0,0,0,0,0,45

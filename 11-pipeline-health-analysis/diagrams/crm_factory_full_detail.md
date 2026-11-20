@@ -12,14 +12,14 @@ flowchart LR
         S3[Outbound lists]
         S4[Distributor referrals]
     end
-    IN --> A[CRM intake: 4,000 records]
-    A --> B[Touched once: 74%]
+    IN --> A[CRM intake: 1,600 records]
+    A --> B[Touched at least once: 75%]
     B --> C[Worked with follow-up: 40%]
     C --> D[Qualified: 11%]
-    D --> E[Deal created: 7%]
+    D --> E[Deal created: 6%]
     E --> F[Won: 2%]
-    A -.-> W1[(Never touched: 26%)]
-    B -.-> W2[(Touched once, then idle: 34%)]
+    A -.-> W1[(Never touched: 25%)]
+    B -.-> W2[(Touched once, then idle: 35%)]
     W1 --- Z[Idle inventory: nobody owns it, nobody sees it]
     W2 --- Z
 ```

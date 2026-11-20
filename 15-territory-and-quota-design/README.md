@@ -19,6 +19,8 @@ flowchart LR
 ## The problem
 Reps had territories drawn by geography alone, quotas handed down from the revenue target, and no written pay plan. One rep's patch held far more buying potential than another's, the company target was higher than the reps' own pipeline supported, and international leads from web forms and trade shows had no clear owner.
 
+**Planning scale:** the quotas and pay figures below describe a growth-plan year, after distributors and OEM partners are live, not the current year's revenue. They show how the method scales.
+
 ## What I did
 1. **Divided territory by potential, not by map.** I scored every target account by segment and research-hub density, then cut territories west to east so each rep holds the same total potential and whole metro areas stay together ([docs/territory_design.md](docs/territory_design.md)).
 2. **Routed international leads by country group.** I used an AI assistant to classify international leads by country and rank them by potential, then applied one written rule set: Canada to the nearest rep, Europe and Asia-Pacific to distributors, large accounts to a direct rep with the distributor informed, and the rest to an inside-sales queue for quotes ([docs/territory_design.md](docs/territory_design.md)).

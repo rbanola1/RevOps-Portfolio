@@ -26,14 +26,14 @@ Trade shows were the largest marketing line and the hardest to judge. Costs sat 
 4. **A budget reallocation** that moves spend from the two weakest shows to the strongest, with a 30% haircut on the extra return for diminishing returns.
 5. **A tie to the voice-of-customer program** ([project 10](../10-voice-of-customer-program)): the intelligence an event produces counts alongside leads when a close call comes up.
 
-## What the synthetic data shows (eight events, $316K total)
+## What the synthetic data shows (eight events, about $57K in total)
 | Finding | Evidence |
 |---|---|
 | Audience fit predicts return | The three best-fit shows return $1.7 to $2.0 of gross profit per $1 spent; the weakest-fit shows return $0.4 to $0.7 |
-| The cheapest show is not the best | The $15K and $25K shows have the worst cost per qualified lead ($2,205 and $2,750) |
-| The big show earns its cost | The largest booth returns $1.69 per $1 and the most deals |
-| Registration and staff time dominate | Registration is 45% of spend and staff time is 18%, which a travel-only budget would miss |
-| Reallocating helps | Moving the budget of the two weakest shows to the best three lifts expected gross profit from $426K to $459K on the same spend |
+| Cost per lead alone misleads | One expo has a cost per qualified lead near $500, among the lowest, yet returns only $0.4 per $1 because its leads rarely become deals |
+| Three lines make up most of the cost | Registration (32%), travel (27%) and staff time (23%); a travel-only budget would miss a quarter of the cost |
+| The big show earns its cost | The largest booth returns $1.69 per $1 and brings the most deals |
+| Reallocating helps | Moving the budget of the two weakest shows to the best three lifts expected gross profit from $76K to $83K on the same spend |
 
 ## How the data is used
 - **Annual events plan:** shows are chosen from the ranking before registration deadlines.

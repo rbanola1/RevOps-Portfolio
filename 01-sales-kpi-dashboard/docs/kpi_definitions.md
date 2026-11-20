@@ -4,8 +4,8 @@
 | Stage | Level | Rule |
 |---|---|---|
 | Lead | Contact | Contact exists in the CRM |
-| MQL | Contact | Lead score >= 15 (engaged with email or content) |
-| SQL | Contact | Lead score >= 30 (high intent: meeting booked, replied, clicked) |
+| MQL | Contact | Combined fit, intent and engagement score at or above the MQL cut-off (45 in the synthetic back-test), and not excluded by hard rules |
+| SQL | Contact | Combined score at or above the SQL cut-off (65), or a hand-raise from a contact scoring 50 or more |
 | Opportunity | Deal | A deal is created in any pipeline |
 | Customer | Deal | Deal closed won, including free-sample pipeline if reported separately |
 

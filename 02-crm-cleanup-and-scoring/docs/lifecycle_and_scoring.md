@@ -4,8 +4,8 @@
 | Stage | Level | Rule |
 |---|---|---|
 | Lead | Contact | In the CRM |
-| MQL | Contact | Score 15 or more |
-| SQL | Contact | Score 30 or more, or rep-qualified |
+| MQL | Contact | Engagement-only score of 15 or more (starting point; replaced by the combined score in GTM-Strategy 02) |
+| SQL | Contact | Engagement-only score of 30 or more, or rep-qualified (starting point; replaced by the combined score) |
 | Opportunity | Deal | Deal created |
 | Customer | Deal | Closed won |
 

@@ -20,7 +20,7 @@ DATA, CHARTS = ROOT / "data", ROOT / "charts"
 DATA.mkdir(exist_ok=True)
 CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(11)
-N, TIER_LIMIT = 60000, 50000
+N, TIER_LIMIT = 14000, 11600
 TODAY = pd.Timestamp("2026-11-01")
 
 # ---------------- 1. build a messy CRM ----------------

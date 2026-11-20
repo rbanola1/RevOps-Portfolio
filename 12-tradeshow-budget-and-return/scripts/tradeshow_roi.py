@@ -23,15 +23,17 @@ EVENTS = [("Neuroscience Annual Meeting", .85, "20x20", 4, 5), ("Stem Cell Resea
           ("Toxicology Congress", .70, "10x20", 3, 4), ("Lab Automation Expo", .45, "10x10", 2, 3),
           ("Regional Biotech Showcase", .65, "10x10", 2, 2), ("Drug Discovery Conference", .60, "10x20", 3, 4),
           ("Cell Therapy Forum", .90, "10x10", 2, 3), ("Core Facilities Meeting", .55, "tabletop", 2, 3)]
-BOOTH_COST = {"20x20": 42000, "10x20": 21000, "10x10": 11000, "tabletop": 3500}
+BOOTH_COST = {"20x20": 10500, "10x20": 5300, "10x10": 2800, "tabletop": 900}
 rows = []
 for name, fit, booth, trav, days in EVENTS:
     reg = BOOTH_COST[booth] * rng.uniform(.95, 1.1)
-    build = {"20x20": 9000, "10x20": 5500, "10x10": 2500, "tabletop": 600}[booth] * rng.uniform(.9, 1.2)
-    ship = {"20x20": 4200, "10x20": 2600, "10x10": 1300, "tabletop": 400}[booth] * rng.uniform(.9, 1.3)
-    travel = trav * (days * 330 + 650) * rng.uniform(.9, 1.2)       # hotel + meals + flights
-    marketing = 1500 + 2500 * fit * rng.uniform(.6, 1.2)
-    staff_time = trav * (days + 2) * 480                            # loaded daily cost of staff time
+    build = {"20x20": 2300, "10x20": 1400, "10x10": 650, "tabletop": 150}[booth] * rng.uniform(.9, 1.2)
+    ship = {"20x20": 1000, "10x20": 650, "10x10": 330, "tabletop": 100}[booth] * rng.uniform(.9, 1.3)
+    travel = trav * (days * 250 + 500) * rng.uniform(.9, 1.2)       # hotel + meals + flights
+    marketing = 500 + 700 * fit * rng.uniform(.6, 1.2)
+    staff_time = trav * (days + 2) * 220                            # loaded daily cost of staff time
+    SC = .5                                                         # small-company scale
+    reg, build, ship, travel, marketing, staff_time = (x * SC for x in (reg, build, ship, travel, marketing, staff_time))
     cost = reg + build + ship + travel + marketing + staff_time
     # first-year revenue scales with audience fit (the main driver of event value), then leads and scans are derived from it
     revenue = cost * (.55 + 5.3 * (fit - .45)) * rng.uniform(.88, 1.12)

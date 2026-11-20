@@ -19,7 +19,7 @@ DATA.mkdir(exist_ok=True)
 CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(99)
 
-N = 1500
+N = 300
 start = pd.Timestamp("2026-01-05")
 orders = pd.DataFrame({
     "order_id": [f"SO-{20000 + i}" for i in range(N)],

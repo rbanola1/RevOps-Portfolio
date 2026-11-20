@@ -1,24 +1,26 @@
 # The CRM as a factory
 
-The problem was not bad material. Records were accurate and plentiful, but most were never worked, so the plant looked busy and shipped little.
+The problem was not bad material. The CRM held plenty of good records, but most of them were lying on the floor: never touched, or touched once, and then left. Few ever reached the conveyor.
 
-## Before: material piles up unused
+## Before: material on the floor
 ```mermaid
 flowchart LR
-    A["4,000 records in"] --> B["74% touched once"] --> C["40% worked"] --> D["7% became deals"] --> E["2% won"]
-    A -.-> W["Idle inventory: no owner, no alert"]
+    IN["1,600 records in"] --> FL["On the floor<br>60% have 0 or 1 touch<br>average 2.3 touches"]
+    IN --> W["Worked<br>40%"]
+    W --> Q["Qualified 11%"] --> D["Deals 6%"] --> X["Won 2%"]
+    FL -.->|"no owner, no alert, no touch target"| LOST["Bought, never used"]
     classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222
     classDef g fill:#CFE9E3,stroke:#2A9D8F,color:#222
-    classDef y fill:#FBE5B6,stroke:#E9A23B,color:#222
-    class A,B,C,D a
-    class E g
-    class W y
+    classDef r fill:#F4C7CE,stroke:#D1495B,color:#222
+    class IN,W,Q,D a
+    class X g
+    class FL,LOST r
 ```
 
-## After: every station has an owner and a clock
+## After: nothing stays on the floor
 ```mermaid
 flowchart LR
-    A["Record in with an owner"] --> R["Routed by fit and intent"] --> W["Worked within a set time"] --> D["Deal with next step"] --> X["Won"]
+    A["Record in with an owner"] --> R["Routed by fit and intent"] --> W["Touch plan: 6 or more touches in a set time"] --> D["Deal with next step"] --> X["Won"]
     W -.->|"idle too long"| AL["Alert to owner"]
     AL -.-> W
     classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222

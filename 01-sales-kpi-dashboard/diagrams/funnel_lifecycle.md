@@ -2,8 +2,8 @@
 
 ```mermaid
 flowchart LR
-    L[Lead<br/>contact added] -->|score >= 15| M[MQL<br/>engaged]
-    M -->|score >= 30 or rep qualifies| S[SQL<br/>high intent]
+    L[Lead<br/>contact added] -->|combined score at MQL cut-off| M[MQL<br/>good fit, some interest]
+    M -->|score at SQL cut-off or fit-checked hand-raise| S[SQL<br/>high fit and intent]
     S -->|deal created| O[Opportunity]
     O -->|closed won| C[Customer]
     O -->|closed lost| X[Lost]
