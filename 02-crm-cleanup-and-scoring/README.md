@@ -52,6 +52,7 @@ The numbers are simulated. The design is the point: rules first, a reversible ch
 - [docs/cleanup_rules.md](docs/cleanup_rules.md): demote, promote, protect and entry rules
 - [docs/segmentation_model.md](docs/segmentation_model.md): the 10 segments, mapping table and title fallbacks
 - [docs/lifecycle_and_scoring.md](docs/lifecycle_and_scoring.md): lifecycle stages, score weights and decay
+- [docs/crm_entry_standards.md](docs/crm_entry_standards.md): entry order, lifecycle and lead status, associations, data upkeep checklist, new user onboarding
 - [diagrams/cleanup_process.md](diagrams/cleanup_process.md): audit to change log
 - [diagrams/segmentation_flow.md](diagrams/segmentation_flow.md): messy industry to clean segment
 - [diagrams/governance.md](diagrams/governance.md): who may enter and leave the marketing tier
