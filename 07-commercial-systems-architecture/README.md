@@ -51,7 +51,7 @@ flowchart TB
     CRM -->|read only| BI
 ```
 
-Tools behind the roles (examples): scientific lead database = SciLeads, AI assistant = Claude connected over MCP ([project 18](../18-ai-scientific-prospecting-mcp)), CRM = HubSpot, online store = WooCommerce, ERP = Fishbowl, accounting = QuickBooks Online, BI = Power BI. The product data hub is an internal system; marketplace names are fictional.
+Tools behind the roles (examples): a scientific lead database queried by an AI assistant (Claude) over MCP ([project 18](../18-ai-scientific-prospecting-mcp)), CRM = HubSpot, online store = WooCommerce, ERP = Fishbowl, accounting = QuickBooks Online, BI = Power BI. The product data hub is an internal system; marketplace names are fictional.
 
 ## Layers
 | Layer | What it holds | Detail |
