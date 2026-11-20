@@ -15,6 +15,18 @@ Two Power BI reports fed from the CRM, with one shared set of definitions:
 | Sales Performance & Ops KPIs | Commercial team and executives | Weekly | This-week orders and revenue by rep, new deals, YTD revenue by customer and rep, deal flow by pipeline, forecast by category, support tickets, expired deals and tasks, contact lifecycle and funnel |
 | Sales Reporting Dashboard | Executives | Monthly | Closed-won vs invoiced revenue, revenue by month, quarter, region and product, opportunity generation, contact growth |
 
+## Forecast and product views (page 2)
+![Forecast and product performance](charts/dashboard_forecast_and_products.png)
+
+| View | What it answers |
+|---|---|
+| Monthly revenue, actual and forecast with a low-to-high range | What have we closed, and what range should leadership expect for the rest of the year |
+| Year-end outlook (cumulative) | Where the year lands under low, base and high cases |
+| Weighted open pipeline by forecast category | How much of the forecast is commit, best case or early pipeline |
+| Product by region, by quarter and by rep (heatmaps) | Which products sell where, when and through whom, so gaps and concentration are visible |
+
+**Forecast method:** base = weighted open pipeline (category probabilities) plus 80% of the recent three-month run rate for deals not yet created; low = 65% of base (deals slip); high = 135% of base (best-case deals close faster). Overdue open deals roll into the next month and are flagged for the owner.
+
 ## Design decisions
 1. **One definition per metric** (see [docs/kpi_definitions.md](docs/kpi_definitions.md)). Every visual states its data source and filter.
 2. **Two revenue views, labelled.** CRM closed-won shows the sales view; accounting invoices show the billed view (adds shipping and tax). A note on the page explains why they differ.

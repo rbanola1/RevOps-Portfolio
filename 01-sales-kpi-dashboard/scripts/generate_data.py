@@ -171,4 +171,66 @@ ax[1, 2].set(title="Avg days to close support ticket", xlabel="days")
 
 fig.tight_layout(rect=[0, 0, 1, 0.95])
 fig.savefig(CHARTS / "dashboard_overview.png", dpi=130)
+
+# ---------- page 2: forecast and product heatmaps ----------
+AS_OF = pd.Timestamp("2026-10-31")
+won["m"] = pd.to_datetime(won.close_date).dt.to_period("M")
+actual = won.groupby("m").amount.sum()
+actual = actual.reindex(pd.period_range("2026-01", pd.Period(AS_OF, "M"), freq="M"), fill_value=0)
+months_ahead = pd.period_range(pd.Period(AS_OF, "M") + 1, periods=2, freq="M")
+open_ = deals[~deals.stage.isin(["Closed Won", "Closed Lost"]) & (deals.pipeline != "Non-Revenue (Free Sample)") & (deals.pipeline != "Custom Project")].copy()
+open_["m"] = pd.to_datetime(open_.close_date).dt.to_period("M").clip(lower=months_ahead[0])   # overdue deals roll into next month
+open_ = open_[open_.m <= months_ahead[-1]]
+w_by_cat = open_.pivot_table(index="m", columns="forecast_category", values="weighted_amount", aggfunc="sum", fill_value=0).reindex(months_ahead, fill_value=0)
+run_rate = actual.tail(3).mean()
+base = (w_by_cat.sum(axis=1) + run_rate * .8).rename("base")                    # weighted pipeline plus 80% of the recent run rate for deals not yet created
+low = base * .65                                                                # cautious: best-case and pipeline deals slip
+high = base * 1.35                                                              # upside: best-case deals close faster
+fc = pd.DataFrame({"low": low, "base": base, "high": high}).round(0)
+fc.to_csv(DATA / "forecast_range.csv")
+cum_actual = actual.cumsum()
+heat_region = won.pivot_table(index="product", columns="region", values="amount", aggfunc="sum", fill_value=0)
+heat_qtr = won.pivot_table(index="product", columns="close_quarter", values="amount", aggfunc="sum", fill_value=0)
+heat_rep = won.pivot_table(index="product", columns="owner", values="amount", aggfunc="sum", fill_value=0)
+heat_region.to_csv(DATA / "product_by_region.csv"); heat_qtr.to_csv(DATA / "product_by_quarter.csv"); heat_rep.to_csv(DATA / "product_by_rep.csv")
+
+fig2, a = plt.subplots(2, 3, figsize=(16, 8.8))
+fig2.suptitle("RB Tech | Forecast and product performance (synthetic data)", fontsize=14, weight="bold")
+xs = [str(x)[-5:] for x in list(actual.index) + list(months_ahead)]
+a[0, 0].bar(xs[:len(actual)], actual.values / 1000, color=BLUE, label="Actual closed-won")
+a[0, 0].bar(xs[len(actual):], fc.base.values / 1000, color=GOLD, label="Base forecast")
+a[0, 0].errorbar(xs[len(actual):], fc.base.values / 1000, yerr=[(fc.base - fc.low) / 1000, (fc.high - fc.base) / 1000], fmt="none", ecolor="k", capsize=4, label="Low to high range")
+a[0, 0].tick_params(axis="x", rotation=45)
+a[0, 0].legend(fontsize=7)
+a[0, 0].set(title="Monthly revenue: actual and forecast with range", ylabel="$K")
+tot_a = actual.sum()
+a[0, 1].plot(range(len(cum_actual)), cum_actual.values / 1000, color=BLUE, lw=2.2, label="Actual (cumulative)")
+for col_, c_, lab in [("low", GREY, "Low"), ("base", GOLD, "Base"), ("high", TEAL, "High")]:
+    path = [cum_actual.iloc[-1]] + list(cum_actual.iloc[-1] + fc[col_].cumsum())
+    a[0, 1].plot(range(len(cum_actual) - 1, len(cum_actual) + len(fc)), np.array(path) / 1000, color=c_, ls="--", marker="o", ms=3, label=f"{lab}: ${path[-1]/1000:,.0f}K")
+a[0, 1].set_xticks(range(len(xs)), xs, rotation=45)
+a[0, 1].legend(fontsize=7, loc="upper left")
+a[0, 1].set(title="Year-end outlook (cumulative)", ylabel="$K")
+bot = np.zeros(len(w_by_cat))
+for col_, c_ in [("COMMIT", TEAL), ("BEST_CASE", GOLD), ("PIPELINE", GREY)]:
+    if col_ in w_by_cat:
+        a[0, 2].bar([str(m)[-5:] for m in w_by_cat.index], w_by_cat[col_] / 1000, bottom=bot, color=c_, label=col_.replace("_", " ").title())
+        bot += w_by_cat[col_].values / 1000
+a[0, 2].legend(fontsize=7)
+a[0, 2].set(title="Weighted open pipeline by forecast category", ylabel="$K")
+def heat(ax, df, title):
+    im = ax.imshow(df.values / 1000, cmap="Blues", aspect="auto")
+    ax.set_xticks(range(df.shape[1]), [c.replace("United States", "US") for c in df.columns], rotation=30, ha="right", fontsize=8)
+    ax.set_yticks(range(df.shape[0]), [i.replace(" 1x10^6", "") for i in df.index], fontsize=8)
+    for i in range(df.shape[0]):
+        for j in range(df.shape[1]):
+            v = df.values[i, j] / 1000
+            ax.text(j, i, f"{v:.1f}", ha="center", va="center", fontsize=7, color="white" if v > df.values.max() / 1000 * .55 else "black")
+    ax.set_title(title)
+heat(a[1, 0], heat_region, "Product by region, closed-won ($K)")
+heat(a[1, 1], heat_qtr, "Product by quarter, closed-won ($K)")
+heat(a[1, 2], heat_rep, "Product by rep, closed-won ($K)")
+fig2.tight_layout(rect=[0, 0, 1, .95])
+fig2.savefig(CHARTS / "dashboard_forecast_and_products.png", dpi=130)
+print("forecast", fc.to_dict("list"))
 print("done")
