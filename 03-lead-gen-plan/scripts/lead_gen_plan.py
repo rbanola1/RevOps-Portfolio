@@ -22,7 +22,7 @@ DATA.mkdir(exist_ok=True)
 CHARTS.mkdir(exist_ok=True)
 rng = np.random.default_rng(8)
 
-TARGET, AOV = 420_000, 4_500
+TARGET, AOV = 240_000, 5_000
 WINS_NEEDED = int(np.ceil(TARGET / AOV))
 
 # channel: (share of revenue, deal->win rate, SQL->deal rate, MQL->SQL rate, annual cost $, avg order $)

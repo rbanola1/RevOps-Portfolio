@@ -1,7 +1,7 @@
 ,value
-wins_needed,94.0
-wins_planned,100.8
-repeat_customers_min,22.6
-unique_new_customers_needed,78.2
+wins_needed,48.0
+wins_planned,52.5
+repeat_customers_min,12.9
+unique_new_customers_needed,39.6
 capacity_PxT,0.32000000000000006
-target_revenue,420000.0
+target_revenue,240000.0

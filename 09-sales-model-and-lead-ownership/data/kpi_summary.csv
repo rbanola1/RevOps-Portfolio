@@ -1,8 +1,8 @@
 ,value
-leads,3000.0
-accounts,700.0
-accounts_with_multiple_leads,638.0
-accounts_with_rep_conflict_baseline,417.0
-accounts_with_rep_conflict_rules,128.0
-sla_met_baseline,0.772
+leads,1600.0
+accounts,400.0
+accounts_with_multiple_leads,367.0
+accounts_with_rep_conflict_baseline,210.0
+accounts_with_rep_conflict_rules,50.0
+sla_met_baseline,0.763
 sla_met_rules,0.938

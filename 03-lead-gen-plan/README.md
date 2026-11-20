@@ -20,7 +20,7 @@ flowchart LR
 The business wanted a revenue number for the year and needed to know what lead generation it would take to hit it. Typical plans start from marketing activity ("we will run N events and send M emails") and hope it adds up. I planned the other way round: start from the revenue target and work backwards to the leads, meetings and activities each channel must produce, then test whether the plan is believable.
 
 ## Method
-1. **Target and order size.** Revenue target divided by average order value gives the number of wins needed ($420K at $4,500 is about 94 wins at the standard order size).
+1. **Target and order size.** Revenue target divided by average order value gives the number of wins needed ($240K at $5,000 is 48 wins at the standard order size).
 2. **Allocate by channel.** Each channel gets a share of revenue based on how it has performed: conferences, tabletop and regional shows, field prospecting, webinars, launch campaigns, inbound, distributors, inside sales, paid media, beta programs, and small-product OEM.
 3. **Work backwards per channel.** Wins, divided by the channel's win rate, gives deals; divided by its SQL-to-deal rate gives SQLs; divided by its MQL-to-SQL rate gives MQLs ([docs/method.md](docs/method.md)).
 4. **Validate.** A team can only close so many qualified deals. A capacity ceiling (portfolio multiplier x trust factor, here 0.8 x 0.4 = 32%) caps the close rate any channel is allowed to assume. Any channel above it is flagged.
@@ -31,13 +31,13 @@ The business wanted a revenue number for the year and needed to know what lead g
 ## Results on the synthetic run
 | Item | Value |
 |---|---|
-| Revenue target | $420,000 |
-| Wins needed | 94 at standard order size (about 101 including low-value OEM orders) |
-| Unique new customers needed | about 78 (after repeat purchasers) |
+| Revenue target | $240,000 |
+| Wins needed | 48 at standard order size (about 52 including low-value OEM orders) |
+| Unique new customers needed | about 40 (after repeat purchasers) |
 | Channels within capacity | 9 of 11 (paid media and small-product OEM flagged: their close rates rest on a different, narrow buyer set) |
-| Month 9 actual vs plan to date | $176K vs $315K, a run-rate of about $235K for the year |
-| If close rates run 15% below plan | revenue gap of about $63K |
-| If close rates run 30% below plan | revenue gap of about $126K |
+| Month 9 actual vs plan to date | $101K vs $180K, a run-rate of about $134K for the year |
+| If close rates run 15% below plan | revenue gap of about $36K |
+| If close rates run 30% below plan | revenue gap of about $72K |
 
 Lowest cost per win: small-product OEM, distributors, inbound and field prospecting. Highest: paid media, large conferences and inside sales, each with a clear role (awareness, relationships, warm-up) beyond direct cost.
 

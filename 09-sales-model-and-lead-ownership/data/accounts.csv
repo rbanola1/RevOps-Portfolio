@@ -1,701 +1,401 @@
 account_id,segment,parent_id,owner
-A0000,Mid-size pharma,A0196,Outside B
-A0001,Mid-size pharma,A0145,Outside B
-A0002,Small biotech,,Inside A
-A0003,Academic,,Inside B
-A0004,Academic,,Inside A
-A0005,Academic,,Inside A
+A0000,Mid-size pharma,,Outside A
+A0001,Mid-size pharma,,Outside B
+A0002,Small biotech,,Inside B
+A0003,Academic,,Inside A
+A0004,Academic,,Inside B
+A0005,Academic,,Inside B
 A0006,Academic,,Inside B
-A0007,Academic,,Inside A
-A0008,Academic,,Inside A
-A0009,Big pharma,A0697,BD A
-A0010,Service lab,A0154,Inside B
-A0011,Academic,,Inside B
-A0012,Academic,,Inside B
+A0007,Academic,A0048,Inside A
+A0008,Academic,,Inside B
+A0009,Big pharma,A0184,Outside A
+A0010,Service lab,,Inside B
+A0011,Academic,,Inside A
+A0012,Academic,,Inside A
 A0013,Big pharma,,Outside A
-A0014,Mid-size pharma,,Outside B
+A0014,Mid-size pharma,,Outside A
 A0015,Mid-size pharma,,Outside A
 A0016,Academic,,Inside A
 A0017,Small biotech,,Inside A
 A0018,Service lab,,Inside A
-A0019,Academic,,Inside A
-A0020,Small biotech,A0661,Inside A
-A0021,Academic,A0189,Inside A
-A0022,Mid-size pharma,A0497,Outside B
-A0023,Academic,,Inside A
+A0019,Academic,,Inside B
+A0020,Small biotech,,Inside B
+A0021,Academic,,Inside B
+A0022,Mid-size pharma,,Outside A
+A0023,Academic,,Inside B
 A0024,Service lab,,Inside B
 A0025,Mid-size pharma,,Outside A
-A0026,Academic,,Inside A
-A0027,Mid-size pharma,,Outside A
-A0028,Mid-size pharma,,Outside A
+A0026,Academic,,Inside B
+A0027,Mid-size pharma,A0357,Outside A
+A0028,Mid-size pharma,A0033,Outside B
 A0029,Academic,,Inside A
-A0030,Service lab,A0034,Inside B
+A0030,Service lab,,Inside A
 A0031,Academic,,Inside A
-A0032,Small biotech,A0393,Inside B
-A0033,Academic,,Inside A
-A0034,Academic,,Inside A
-A0035,Academic,,Inside A
-A0036,Mid-size pharma,,Outside B
-A0037,Academic,,Inside A
-A0038,Academic,,Inside B
-A0039,Service lab,,Inside B
+A0032,Small biotech,,Inside B
+A0033,Academic,,Inside B
+A0034,Academic,,Inside B
+A0035,Academic,,Inside B
+A0036,Mid-size pharma,A0371,Outside A
+A0037,Academic,,Inside B
+A0038,Academic,,Inside A
+A0039,Service lab,,Inside A
 A0040,Academic,,Inside B
-A0041,Mid-size pharma,,Outside B
-A0042,Academic,,Inside A
+A0041,Mid-size pharma,,Outside A
+A0042,Academic,,Inside B
 A0043,Academic,,Inside A
-A0044,Mid-size pharma,A0524,Outside B
+A0044,Mid-size pharma,,Outside B
 A0045,Small biotech,,Inside B
-A0046,Small biotech,A0563,Inside A
+A0046,Small biotech,,Inside B
 A0047,Academic,,Inside A
-A0048,Academic,,Inside B
-A0049,Big pharma,,BD A
+A0048,Academic,,Inside A
+A0049,Big pharma,,Outside A
 A0050,Academic,,Inside B
-A0051,Mid-size pharma,,Outside A
+A0051,Mid-size pharma,,Outside B
 A0052,Academic,,Inside A
-A0053,Big pharma,A0663,BD A
-A0054,Academic,,Inside A
-A0055,Big pharma,,Outside A
-A0056,Small biotech,A0375,Inside A
+A0053,Big pharma,,Outside A
+A0054,Academic,,Inside B
+A0055,Big pharma,,BD A
+A0056,Small biotech,,Inside A
 A0057,Academic,,Inside B
 A0058,Service lab,,Inside B
-A0059,Service lab,,Inside B
-A0060,Service lab,,Inside A
+A0059,Service lab,,Inside A
+A0060,Service lab,A0064,Inside A
 A0061,Small biotech,,Inside A
-A0062,Academic,,Inside B
-A0063,Small biotech,,Inside B
-A0064,Academic,,Inside A
+A0062,Academic,,Inside A
+A0063,Small biotech,,Inside A
+A0064,Academic,,Inside B
 A0065,Service lab,,Inside A
-A0066,Small biotech,,Inside B
+A0066,Small biotech,A0014,Inside A
 A0067,Academic,,Inside A
 A0068,Mid-size pharma,,Outside A
-A0069,Academic,A0672,Inside A
-A0070,Academic,,Inside B
-A0071,Mid-size pharma,A0650,Outside B
-A0072,Academic,,Inside A
-A0073,Service lab,,Inside A
-A0074,Small biotech,,Inside A
-A0075,Big pharma,,Outside A
+A0069,Academic,A0072,Inside B
+A0070,Academic,,Inside A
+A0071,Mid-size pharma,,Outside B
+A0072,Academic,A0389,Inside B
+A0073,Service lab,A0111,Inside B
+A0074,Small biotech,A0131,Inside B
+A0075,Big pharma,,BD A
 A0076,Big pharma,,Outside A
-A0077,Service lab,,Inside A
-A0078,Mid-size pharma,,Outside A
+A0077,Service lab,,Inside B
+A0078,Mid-size pharma,,Outside B
 A0079,Academic,,Inside A
-A0080,Service lab,,Inside B
-A0081,Mid-size pharma,,Outside A
-A0082,Academic,A0203,Inside B
-A0083,Small biotech,,Inside B
+A0080,Service lab,,Inside A
+A0081,Mid-size pharma,,Outside B
+A0082,Academic,A0214,Inside B
+A0083,Small biotech,,Inside A
 A0084,Small biotech,,Inside A
-A0085,Big pharma,,BD A
+A0085,Big pharma,,Outside A
 A0086,Academic,,Inside A
 A0087,Academic,,Inside A
-A0088,Academic,A0246,Inside B
+A0088,Academic,,Inside B
 A0089,Academic,,Inside A
-A0090,Small biotech,,Inside A
-A0091,Big pharma,,BD A
+A0090,Small biotech,,Inside B
+A0091,Big pharma,A0300,BD A
 A0092,Big pharma,,BD A
 A0093,Academic,,Inside A
 A0094,Big pharma,,Outside A
-A0095,Academic,,Inside A
+A0095,Academic,,Inside B
 A0096,Mid-size pharma,,Outside B
-A0097,Academic,,Inside B
+A0097,Academic,,Inside A
 A0098,Academic,,Inside A
-A0099,Academic,,Inside A
+A0099,Academic,,Inside B
 A0100,Mid-size pharma,,Outside B
-A0101,Mid-size pharma,,Outside B
+A0101,Mid-size pharma,,Outside A
 A0102,Academic,,Inside B
-A0103,Small biotech,,Inside B
-A0104,Academic,,Inside A
+A0103,Small biotech,,Inside A
+A0104,Academic,,Inside B
 A0105,Small biotech,,Inside B
 A0106,Small biotech,,Inside A
 A0107,Academic,,Inside B
-A0108,Mid-size pharma,,Outside A
-A0109,Academic,A0467,Inside B
-A0110,Academic,,Inside B
-A0111,Academic,A0403,Inside B
+A0108,Mid-size pharma,,Outside B
+A0109,Academic,,Inside A
+A0110,Academic,,Inside A
+A0111,Academic,,Inside B
 A0112,Academic,,Inside A
-A0113,Academic,,Inside A
+A0113,Academic,,Inside B
 A0114,Academic,,Inside B
-A0115,Big pharma,,Outside A
+A0115,Big pharma,,BD A
 A0116,Mid-size pharma,,Outside B
-A0117,Small biotech,,Inside B
+A0117,Small biotech,A0189,Inside A
 A0118,Small biotech,,Inside A
 A0119,Service lab,,Inside A
 A0120,Mid-size pharma,,Outside B
-A0121,Academic,,Inside A
-A0122,Mid-size pharma,,Outside A
-A0123,Academic,,Inside A
-A0124,Small biotech,,Inside A
-A0125,Service lab,,Inside B
+A0121,Academic,,Inside B
+A0122,Mid-size pharma,,Outside B
+A0123,Academic,,Inside B
+A0124,Small biotech,,Inside B
+A0125,Service lab,A0313,Inside A
 A0126,Small biotech,,Inside A
-A0127,Service lab,,Inside B
-A0128,Service lab,,Inside A
-A0129,Academic,A0098,Inside B
-A0130,Academic,,Inside A
-A0131,Academic,A0256,Inside B
-A0132,Academic,A0608,Inside A
+A0127,Service lab,,Inside A
+A0128,Service lab,,Inside B
+A0129,Academic,A0213,Inside A
+A0130,Academic,,Inside B
+A0131,Academic,,Inside B
+A0132,Academic,,Inside B
 A0133,Academic,,Inside B
-A0134,Academic,,Inside A
-A0135,Academic,,Inside B
-A0136,Small biotech,,Inside B
+A0134,Academic,,Inside B
+A0135,Academic,,Inside A
+A0136,Small biotech,A0091,Inside B
 A0137,Mid-size pharma,,Outside B
-A0138,Academic,,Inside B
-A0139,Academic,,Inside B
-A0140,Academic,,Inside B
-A0141,Service lab,,Inside A
-A0142,Mid-size pharma,,Outside A
-A0143,Big pharma,A0413,BD A
-A0144,Academic,A0588,Inside B
-A0145,Service lab,,Inside A
-A0146,Academic,,Inside B
-A0147,Mid-size pharma,A0532,Outside A
-A0148,Academic,,Inside B
-A0149,Mid-size pharma,,Outside B
-A0150,Small biotech,,Inside A
-A0151,Service lab,,Inside B
-A0152,Small biotech,,Inside B
-A0153,Academic,,Inside B
-A0154,Small biotech,,Inside A
+A0138,Academic,,Inside A
+A0139,Academic,,Inside A
+A0140,Academic,A0399,Inside A
+A0141,Service lab,A0041,Inside A
+A0142,Mid-size pharma,,Outside B
+A0143,Big pharma,,Outside A
+A0144,Academic,,Inside B
+A0145,Service lab,A0368,Inside A
+A0146,Academic,,Inside A
+A0147,Mid-size pharma,,Outside A
+A0148,Academic,,Inside A
+A0149,Mid-size pharma,,Outside A
+A0150,Small biotech,A0071,Inside B
+A0151,Service lab,,Inside A
+A0152,Small biotech,,Inside A
+A0153,Academic,,Inside A
+A0154,Small biotech,,Inside B
 A0155,Academic,,Inside A
 A0156,Academic,,Inside B
-A0157,Small biotech,,Inside A
-A0158,Small biotech,,Inside B
+A0157,Small biotech,A0185,Inside A
+A0158,Small biotech,,Inside A
 A0159,Mid-size pharma,,Outside A
 A0160,Academic,,Inside B
-A0161,Small biotech,,Inside A
-A0162,Small biotech,,Inside A
-A0163,Small biotech,,Inside A
+A0161,Small biotech,,Inside B
+A0162,Small biotech,,Inside B
+A0163,Small biotech,,Inside B
 A0164,Service lab,,Inside A
-A0165,Small biotech,,Inside B
-A0166,Small biotech,,Inside B
-A0167,Small biotech,,Inside A
-A0168,Small biotech,,Inside A
-A0169,Academic,,Inside B
-A0170,Small biotech,A0359,Inside B
-A0171,Service lab,,Inside B
-A0172,Academic,,Inside B
-A0173,Big pharma,A0366,BD A
-A0174,Service lab,,Inside B
+A0165,Small biotech,,Inside A
+A0166,Small biotech,A0151,Inside B
+A0167,Small biotech,,Inside B
+A0168,Small biotech,,Inside B
+A0169,Academic,,Inside A
+A0170,Small biotech,,Inside A
+A0171,Service lab,,Inside A
+A0172,Academic,,Inside A
+A0173,Big pharma,,Outside A
+A0174,Service lab,A0217,Inside A
 A0175,Big pharma,,BD A
-A0176,Academic,A0239,Inside B
-A0177,Academic,,Inside A
+A0176,Academic,,Inside A
+A0177,Academic,A0000,Inside B
 A0178,Academic,,Inside B
-A0179,Academic,,Inside B
-A0180,Academic,,Inside B
-A0181,Academic,,Inside A
+A0179,Academic,,Inside A
+A0180,Academic,,Inside A
+A0181,Academic,,Inside B
 A0182,Mid-size pharma,,Outside A
-A0183,Academic,,Inside B
+A0183,Academic,A0184,Inside B
 A0184,Service lab,,Inside A
-A0185,Academic,,Inside B
+A0185,Academic,A0315,Inside A
 A0186,Academic,,Inside A
-A0187,Academic,,Inside A
-A0188,Service lab,A0379,Inside A
-A0189,Small biotech,,Inside A
-A0190,Small biotech,,Inside B
+A0187,Academic,,Inside B
+A0188,Service lab,,Inside B
+A0189,Small biotech,,Inside B
+A0190,Small biotech,,Inside A
 A0191,Small biotech,,Inside B
 A0192,Academic,,Inside B
-A0193,Small biotech,,Inside B
-A0194,Big pharma,,BD A
-A0195,Academic,,Inside A
+A0193,Small biotech,,Inside A
+A0194,Big pharma,,Outside A
+A0195,Academic,,Inside B
 A0196,Service lab,,Inside B
 A0197,Academic,,Inside B
-A0198,Academic,,Inside A
+A0198,Academic,,Inside B
 A0199,Academic,,Inside B
 A0200,Academic,,Inside B
-A0201,Big pharma,,Outside A
-A0202,Academic,,Inside B
+A0201,Big pharma,,BD A
+A0202,Academic,,Inside A
 A0203,Academic,,Inside A
 A0204,Academic,,Inside B
-A0205,Academic,,Inside B
+A0205,Academic,A0313,Inside B
 A0206,Academic,,Inside B
-A0207,Academic,A0511,Inside A
-A0208,Small biotech,,Inside A
-A0209,Big pharma,,Outside A
+A0207,Academic,,Inside A
+A0208,Small biotech,A0051,Inside B
+A0209,Big pharma,,BD A
 A0210,Mid-size pharma,,Outside B
 A0211,Academic,,Inside A
-A0212,Small biotech,,Inside A
+A0212,Small biotech,A0346,Inside B
 A0213,Big pharma,,Outside A
-A0214,Academic,,Inside B
-A0215,Mid-size pharma,,Outside A
+A0214,Academic,A0215,Inside B
+A0215,Mid-size pharma,A0039,Outside A
 A0216,Academic,,Inside B
 A0217,Mid-size pharma,,Outside A
-A0218,Academic,,Inside A
+A0218,Academic,,Inside B
 A0219,Small biotech,,Inside B
 A0220,Small biotech,,Inside A
-A0221,Academic,,Inside B
+A0221,Academic,,Inside A
 A0222,Mid-size pharma,,Outside A
 A0223,Mid-size pharma,,Outside A
-A0224,Small biotech,,Inside A
-A0225,Academic,,Inside B
-A0226,Big pharma,,Outside A
+A0224,Small biotech,,Inside B
+A0225,Academic,,Inside A
+A0226,Big pharma,,BD A
 A0227,Academic,,Inside B
 A0228,Mid-size pharma,,Outside A
-A0229,Academic,,Inside A
-A0230,Academic,,Inside A
+A0229,Academic,,Inside B
+A0230,Academic,A0096,Inside B
 A0231,Academic,,Inside A
-A0232,Academic,,Inside A
-A0233,Academic,,Inside B
+A0232,Academic,A0273,Inside A
+A0233,Academic,,Inside A
 A0234,Academic,,Inside A
-A0235,Academic,,Inside B
+A0235,Academic,,Inside A
 A0236,Small biotech,,Inside B
 A0237,Academic,,Inside B
-A0238,Academic,,Inside B
-A0239,Academic,A0518,Inside A
-A0240,Big pharma,,Outside A
+A0238,Academic,,Inside A
+A0239,Academic,,Inside A
+A0240,Big pharma,,BD A
 A0241,Academic,,Inside A
-A0242,Academic,,Inside B
-A0243,Big pharma,A0119,BD A
-A0244,Academic,A0064,Inside A
-A0245,Academic,,Inside A
-A0246,Mid-size pharma,,Outside A
-A0247,Academic,,Inside A
+A0242,Academic,,Inside A
+A0243,Big pharma,,BD A
+A0244,Academic,,Inside B
+A0245,Academic,,Inside B
+A0246,Mid-size pharma,A0148,Outside B
+A0247,Academic,,Inside B
 A0248,Academic,,Inside B
 A0249,Big pharma,,BD A
-A0250,Service lab,,Inside B
+A0250,Service lab,,Inside A
 A0251,Academic,,Inside A
-A0252,Small biotech,,Inside B
-A0253,Academic,,Inside A
-A0254,Mid-size pharma,,Outside A
+A0252,Small biotech,A0075,Inside A
+A0253,Academic,,Inside B
+A0254,Mid-size pharma,,Outside B
 A0255,Big pharma,,Outside A
-A0256,Academic,,Inside A
-A0257,Small biotech,,Inside B
-A0258,Academic,A0683,Inside A
+A0256,Academic,,Inside B
+A0257,Small biotech,,Inside A
+A0258,Academic,,Inside A
 A0259,Academic,,Inside A
-A0260,Service lab,,Inside A
-A0261,Service lab,,Inside B
+A0260,Service lab,,Inside B
+A0261,Service lab,,Inside A
 A0262,Academic,,Inside A
-A0263,Academic,,Inside B
+A0263,Academic,,Inside A
 A0264,Academic,,Inside A
-A0265,Academic,A0451,Inside A
-A0266,Service lab,,Inside B
-A0267,Mid-size pharma,,Outside A
-A0268,Academic,A0358,Inside B
-A0269,Academic,,Inside A
-A0270,Academic,,Inside A
+A0265,Academic,,Inside B
+A0266,Service lab,,Inside A
+A0267,Mid-size pharma,,Outside B
+A0268,Academic,A0068,Inside A
+A0269,Academic,A0082,Inside A
+A0270,Academic,A0353,Inside A
 A0271,Academic,,Inside A
-A0272,Big pharma,A0256,Outside A
+A0272,Big pharma,,BD A
 A0273,Small biotech,,Inside B
 A0274,Small biotech,,Inside A
 A0275,Small biotech,,Inside A
-A0276,Small biotech,,Inside B
+A0276,Small biotech,,Inside A
 A0277,Mid-size pharma,,Outside A
 A0278,Academic,,Inside B
 A0279,Academic,,Inside A
-A0280,Mid-size pharma,A0610,Outside B
-A0281,Small biotech,,Inside B
-A0282,Big pharma,,Outside A
-A0283,Academic,,Inside A
+A0280,Mid-size pharma,,Outside A
+A0281,Small biotech,A0393,Inside A
+A0282,Big pharma,A0286,BD A
+A0283,Academic,,Inside B
 A0284,Mid-size pharma,,Outside A
-A0285,Small biotech,,Inside A
+A0285,Small biotech,,Inside B
 A0286,Small biotech,,Inside A
-A0287,Mid-size pharma,,Outside B
-A0288,Academic,,Inside A
-A0289,Small biotech,,Inside B
-A0290,Academic,,Inside B
+A0287,Mid-size pharma,A0040,Outside A
+A0288,Academic,,Inside B
+A0289,Small biotech,,Inside A
+A0290,Academic,,Inside A
 A0291,Academic,,Inside B
-A0292,Mid-size pharma,,Outside B
-A0293,Academic,,Inside B
-A0294,Mid-size pharma,,Outside A
+A0292,Mid-size pharma,,Outside A
+A0293,Academic,,Inside A
+A0294,Mid-size pharma,,Outside B
 A0295,Academic,,Inside B
-A0296,Big pharma,A0641,BD A
-A0297,Big pharma,,Outside A
+A0296,Big pharma,,Outside A
+A0297,Big pharma,,BD A
 A0298,Service lab,,Inside A
-A0299,Academic,,Inside B
-A0300,Service lab,,Inside A
-A0301,Academic,A0118,Inside B
-A0302,Academic,,Inside B
-A0303,Academic,A0352,Inside B
+A0299,Academic,,Inside A
+A0300,Service lab,A0197,Inside B
+A0301,Academic,A0076,Inside A
+A0302,Academic,,Inside A
+A0303,Academic,,Inside B
 A0304,Academic,,Inside A
-A0305,Academic,A0625,Inside B
-A0306,Academic,,Inside A
-A0307,Mid-size pharma,,Outside B
-A0308,Academic,A0615,Inside B
-A0309,Mid-size pharma,,Outside A
-A0310,Academic,,Inside A
-A0311,Academic,,Inside B
-A0312,Academic,,Inside A
+A0305,Academic,,Inside A
+A0306,Academic,,Inside B
+A0307,Mid-size pharma,,Outside A
+A0308,Academic,,Inside B
+A0309,Mid-size pharma,A0222,Outside A
+A0310,Academic,A0063,Inside A
+A0311,Academic,,Inside A
+A0312,Academic,,Inside B
 A0313,Big pharma,,BD A
-A0314,Mid-size pharma,,Outside A
+A0314,Mid-size pharma,,Outside B
 A0315,Academic,,Inside B
 A0316,Big pharma,,Outside A
-A0317,Academic,,Inside B
-A0318,Academic,,Inside B
+A0317,Academic,,Inside A
+A0318,Academic,,Inside A
 A0319,Small biotech,,Inside A
-A0320,Academic,,Inside A
-A0321,Big pharma,,BD A
-A0322,Academic,,Inside A
+A0320,Academic,A0379,Inside A
+A0321,Big pharma,A0223,BD A
+A0322,Academic,A0038,Inside B
 A0323,Small biotech,,Inside A
-A0324,Small biotech,,Inside A
+A0324,Small biotech,,Inside B
 A0325,Academic,,Inside A
 A0326,Service lab,,Inside B
-A0327,Big pharma,,BD A
-A0328,Small biotech,,Inside A
-A0329,Academic,,Inside B
-A0330,Mid-size pharma,,Outside B
-A0331,Service lab,,Inside B
-A0332,Small biotech,,Inside B
-A0333,Service lab,,Inside A
-A0334,Academic,,Inside B
+A0327,Big pharma,,Outside A
+A0328,Small biotech,,Inside B
+A0329,Academic,,Inside A
+A0330,Mid-size pharma,A0258,Outside A
+A0331,Service lab,,Inside A
+A0332,Small biotech,A0138,Inside B
+A0333,Service lab,,Inside B
+A0334,Academic,,Inside A
 A0335,Academic,,Inside A
 A0336,Small biotech,,Inside B
-A0337,Academic,,Inside A
-A0338,Small biotech,,Inside A
+A0337,Academic,,Inside B
+A0338,Small biotech,,Inside B
 A0339,Academic,,Inside B
 A0340,Academic,,Inside B
 A0341,Mid-size pharma,,Outside B
 A0342,Small biotech,,Inside B
-A0343,Academic,,Inside B
-A0344,Service lab,,Inside A
-A0345,Big pharma,A0686,Outside A
-A0346,Mid-size pharma,,Outside B
+A0343,Academic,,Inside A
+A0344,Service lab,A0317,Inside B
+A0345,Big pharma,,Outside A
+A0346,Mid-size pharma,A0031,Outside B
 A0347,Mid-size pharma,,Outside B
 A0348,Academic,,Inside B
 A0349,Small biotech,,Inside B
 A0350,Small biotech,,Inside A
-A0351,Academic,,Inside B
+A0351,Academic,,Inside A
 A0352,Service lab,,Inside A
-A0353,Small biotech,,Inside A
+A0353,Small biotech,A0319,Inside A
 A0354,Small biotech,,Inside B
-A0355,Service lab,,Inside B
-A0356,Academic,,Inside B
-A0357,Academic,,Inside B
+A0355,Service lab,,Inside A
+A0356,Academic,A0192,Inside A
+A0357,Academic,,Inside A
 A0358,Big pharma,,Outside A
 A0359,Academic,,Inside A
-A0360,Academic,,Inside B
+A0360,Academic,,Inside A
 A0361,Academic,,Inside B
-A0362,Academic,,Inside B
-A0363,Small biotech,,Inside B
-A0364,Academic,A0308,Inside B
+A0362,Academic,,Inside A
+A0363,Small biotech,,Inside A
+A0364,Academic,,Inside B
 A0365,Academic,,Inside B
-A0366,Academic,,Inside B
-A0367,Academic,A0513,Inside A
+A0366,Academic,,Inside A
+A0367,Academic,,Inside B
 A0368,Mid-size pharma,,Outside A
-A0369,Big pharma,,BD A
-A0370,Big pharma,A0476,Outside A
-A0371,Academic,A0492,Inside A
-A0372,Academic,,Inside A
-A0373,Academic,A0457,Inside B
+A0369,Big pharma,A0094,Outside A
+A0370,Big pharma,,Outside A
+A0371,Academic,A0364,Inside B
+A0372,Academic,,Inside B
+A0373,Academic,,Inside B
 A0374,Small biotech,,Inside B
-A0375,Academic,A0682,Inside B
+A0375,Academic,,Inside B
 A0376,Service lab,,Inside B
-A0377,Service lab,A0132,Inside B
+A0377,Service lab,,Inside A
 A0378,Mid-size pharma,,Outside B
 A0379,Small biotech,,Inside A
-A0380,Academic,,Inside B
-A0381,Big pharma,,Outside A
-A0382,Mid-size pharma,A0362,Outside A
-A0383,Academic,,Inside A
-A0384,Academic,A0274,Inside B
-A0385,Service lab,A0534,Inside A
-A0386,Mid-size pharma,,Outside B
+A0380,Academic,,Inside A
+A0381,Big pharma,,BD A
+A0382,Mid-size pharma,A0178,Outside B
+A0383,Academic,,Inside B
+A0384,Academic,,Inside A
+A0385,Service lab,,Inside B
+A0386,Mid-size pharma,,Outside A
 A0387,Big pharma,,Outside A
-A0388,Academic,,Inside A
+A0388,Academic,A0302,Inside B
 A0389,Academic,,Inside A
-A0390,Academic,,Inside A
+A0390,Academic,,Inside B
 A0391,Small biotech,,Inside B
-A0392,Mid-size pharma,A0007,Outside A
+A0392,Mid-size pharma,,Outside A
 A0393,Small biotech,,Inside A
-A0394,Small biotech,,Inside B
+A0394,Small biotech,,Inside A
 A0395,Academic,,Inside A
 A0396,Service lab,,Inside B
-A0397,Small biotech,,Inside A
-A0398,Big pharma,,BD A
+A0397,Small biotech,,Inside B
+A0398,Big pharma,,Outside A
 A0399,Academic,,Inside A
-A0400,Academic,,Inside B
-A0401,Academic,,Inside B
-A0402,Academic,,Inside A
-A0403,Small biotech,,Inside A
-A0404,Academic,,Inside A
-A0405,Service lab,,Inside A
-A0406,Mid-size pharma,,Outside A
-A0407,Academic,,Inside A
-A0408,Big pharma,,Outside A
-A0409,Academic,,Inside A
-A0410,Academic,,Inside A
-A0411,Small biotech,,Inside A
-A0412,Academic,,Inside B
-A0413,Academic,,Inside B
-A0414,Service lab,,Inside B
-A0415,Mid-size pharma,,Outside B
-A0416,Academic,,Inside B
-A0417,Academic,,Inside A
-A0418,Small biotech,,Inside A
-A0419,Academic,,Inside B
-A0420,Big pharma,A0261,Outside A
-A0421,Mid-size pharma,,Outside B
-A0422,Mid-size pharma,,Outside B
-A0423,Academic,,Inside B
-A0424,Mid-size pharma,,Outside B
-A0425,Academic,,Inside A
-A0426,Small biotech,,Inside B
-A0427,Academic,,Inside A
-A0428,Academic,,Inside B
-A0429,Service lab,A0414,Inside B
-A0430,Academic,,Inside B
-A0431,Big pharma,A0150,Outside A
-A0432,Small biotech,,Inside B
-A0433,Small biotech,,Inside B
-A0434,Mid-size pharma,A0691,Outside B
-A0435,Academic,,Inside B
-A0436,Academic,,Inside A
-A0437,Academic,,Inside A
-A0438,Small biotech,,Inside A
-A0439,Academic,A0437,Inside B
-A0440,Academic,,Inside A
-A0441,Service lab,,Inside A
-A0442,Academic,,Inside A
-A0443,Academic,,Inside A
-A0444,Academic,,Inside B
-A0445,Small biotech,,Inside B
-A0446,Big pharma,,BD A
-A0447,Academic,,Inside B
-A0448,Mid-size pharma,,Outside B
-A0449,Mid-size pharma,,Outside A
-A0450,Small biotech,,Inside A
-A0451,Small biotech,,Inside A
-A0452,Small biotech,,Inside A
-A0453,Academic,,Inside B
-A0454,Small biotech,,Inside B
-A0455,Big pharma,,Outside A
-A0456,Service lab,,Inside B
-A0457,Small biotech,,Inside A
-A0458,Academic,,Inside A
-A0459,Mid-size pharma,,Outside B
-A0460,Academic,A0255,Inside B
-A0461,Academic,,Inside B
-A0462,Big pharma,,Outside A
-A0463,Service lab,A0254,Inside A
-A0464,Mid-size pharma,A0174,Outside B
-A0465,Small biotech,A0288,Inside A
-A0466,Academic,,Inside A
-A0467,Small biotech,A0604,Inside A
-A0468,Small biotech,,Inside B
-A0469,Academic,,Inside B
-A0470,Small biotech,,Inside B
-A0471,Big pharma,A0229,Outside A
-A0472,Academic,,Inside B
-A0473,Academic,,Inside B
-A0474,Academic,,Inside A
-A0475,Service lab,,Inside B
-A0476,Mid-size pharma,,Outside B
-A0477,Academic,,Inside B
-A0478,Mid-size pharma,,Outside A
-A0479,Academic,,Inside A
-A0480,Small biotech,,Inside B
-A0481,Mid-size pharma,,Outside A
-A0482,Academic,,Inside B
-A0483,Small biotech,,Inside A
-A0484,Mid-size pharma,,Outside A
-A0485,Academic,,Inside B
-A0486,Mid-size pharma,,Outside A
-A0487,Small biotech,,Inside A
-A0488,Big pharma,A0328,Outside A
-A0489,Academic,,Inside A
-A0490,Mid-size pharma,,Outside A
-A0491,Academic,,Inside B
-A0492,Academic,,Inside B
-A0493,Academic,,Inside A
-A0494,Academic,,Inside B
-A0495,Academic,,Inside B
-A0496,Academic,,Inside A
-A0497,Academic,,Inside B
-A0498,Service lab,,Inside A
-A0499,Small biotech,,Inside A
-A0500,Academic,,Inside A
-A0501,Service lab,,Inside A
-A0502,Service lab,,Inside B
-A0503,Academic,,Inside A
-A0504,Small biotech,,Inside B
-A0505,Academic,,Inside A
-A0506,Mid-size pharma,A0079,Outside B
-A0507,Academic,A0406,Inside A
-A0508,Academic,,Inside A
-A0509,Big pharma,,BD A
-A0510,Academic,,Inside B
-A0511,Academic,,Inside A
-A0512,Academic,,Inside A
-A0513,Small biotech,,Inside A
-A0514,Small biotech,,Inside A
-A0515,Academic,,Inside A
-A0516,Service lab,,Inside A
-A0517,Academic,,Inside B
-A0518,Big pharma,,Outside A
-A0519,Small biotech,,Inside A
-A0520,Academic,,Inside A
-A0521,Academic,,Inside A
-A0522,Academic,A0102,Inside B
-A0523,Mid-size pharma,,Outside B
-A0524,Small biotech,,Inside A
-A0525,Academic,,Inside A
-A0526,Academic,,Inside A
-A0527,Small biotech,,Inside A
-A0528,Academic,,Inside B
-A0529,Academic,,Inside B
-A0530,Mid-size pharma,,Outside A
-A0531,Academic,,Inside A
-A0532,Service lab,,Inside B
-A0533,Academic,,Inside A
-A0534,Small biotech,,Inside A
-A0535,Service lab,,Inside A
-A0536,Academic,,Inside A
-A0537,Small biotech,,Inside B
-A0538,Small biotech,,Inside A
-A0539,Academic,A0646,Inside A
-A0540,Academic,,Inside B
-A0541,Academic,,Inside A
-A0542,Small biotech,,Inside B
-A0543,Small biotech,,Inside B
-A0544,Academic,,Inside A
-A0545,Academic,,Inside A
-A0546,Academic,,Inside A
-A0547,Service lab,,Inside A
-A0548,Mid-size pharma,,Outside B
-A0549,Mid-size pharma,,Outside B
-A0550,Academic,,Inside B
-A0551,Academic,,Inside B
-A0552,Small biotech,,Inside A
-A0553,Mid-size pharma,,Outside B
-A0554,Small biotech,,Inside B
-A0555,Mid-size pharma,,Outside B
-A0556,Service lab,,Inside B
-A0557,Academic,A0123,Inside B
-A0558,Big pharma,,BD A
-A0559,Small biotech,A0078,Inside B
-A0560,Small biotech,,Inside B
-A0561,Academic,,Inside B
-A0562,Big pharma,,BD A
-A0563,Big pharma,,Outside A
-A0564,Academic,,Inside B
-A0565,Small biotech,,Inside B
-A0566,Academic,,Inside B
-A0567,Mid-size pharma,,Outside B
-A0568,Small biotech,,Inside A
-A0569,Academic,,Inside A
-A0570,Mid-size pharma,A0145,Outside B
-A0571,Small biotech,,Inside B
-A0572,Big pharma,,Outside A
-A0573,Mid-size pharma,,Outside A
-A0574,Academic,,Inside B
-A0575,Academic,,Inside A
-A0576,Mid-size pharma,,Outside B
-A0577,Academic,,Inside B
-A0578,Academic,,Inside A
-A0579,Big pharma,,BD A
-A0580,Mid-size pharma,A0405,Outside B
-A0581,Academic,,Inside A
-A0582,Academic,,Inside A
-A0583,Academic,,Inside B
-A0584,Academic,,Inside B
-A0585,Academic,,Inside A
-A0586,Small biotech,A0468,Inside A
-A0587,Small biotech,,Inside B
-A0588,Academic,,Inside B
-A0589,Mid-size pharma,,Outside A
-A0590,Small biotech,,Inside A
-A0591,Small biotech,,Inside B
-A0592,Service lab,,Inside B
-A0593,Academic,,Inside A
-A0594,Mid-size pharma,,Outside B
-A0595,Academic,,Inside B
-A0596,Small biotech,,Inside A
-A0597,Academic,,Inside B
-A0598,Academic,A0491,Inside A
-A0599,Small biotech,,Inside B
-A0600,Service lab,,Inside B
-A0601,Small biotech,,Inside A
-A0602,Small biotech,,Inside B
-A0603,Mid-size pharma,,Outside B
-A0604,Academic,,Inside A
-A0605,Academic,,Inside B
-A0606,Small biotech,,Inside B
-A0607,Big pharma,,BD A
-A0608,Academic,,Inside A
-A0609,Small biotech,,Inside A
-A0610,Service lab,,Inside B
-A0611,Small biotech,,Inside A
-A0612,Academic,,Inside B
-A0613,Small biotech,,Inside B
-A0614,Academic,,Inside B
-A0615,Academic,,Inside A
-A0616,Academic,,Inside B
-A0617,Academic,,Inside A
-A0618,Small biotech,,Inside B
-A0619,Big pharma,A0368,BD A
-A0620,Academic,,Inside B
-A0621,Big pharma,,BD A
-A0622,Academic,,Inside B
-A0623,Mid-size pharma,,Outside A
-A0624,Small biotech,,Inside A
-A0625,Mid-size pharma,,Outside A
-A0626,Mid-size pharma,,Outside B
-A0627,Mid-size pharma,,Outside B
-A0628,Academic,,Inside B
-A0629,Mid-size pharma,,Outside A
-A0630,Academic,A0447,Inside A
-A0631,Service lab,,Inside A
-A0632,Academic,,Inside B
-A0633,Academic,,Inside A
-A0634,Academic,A0457,Inside A
-A0635,Small biotech,,Inside B
-A0636,Academic,,Inside B
-A0637,Small biotech,,Inside A
-A0638,Academic,A0427,Inside A
-A0639,Academic,,Inside A
-A0640,Big pharma,,Outside A
-A0641,Small biotech,,Inside A
-A0642,Small biotech,,Inside B
-A0643,Service lab,,Inside A
-A0644,Big pharma,,BD A
-A0645,Academic,,Inside B
-A0646,Academic,,Inside A
-A0647,Academic,,Inside B
-A0648,Academic,,Inside A
-A0649,Academic,,Inside B
-A0650,Service lab,,Inside B
-A0651,Mid-size pharma,A0319,Outside B
-A0652,Academic,,Inside A
-A0653,Academic,A0292,Inside B
-A0654,Academic,,Inside B
-A0655,Mid-size pharma,,Outside A
-A0656,Small biotech,,Inside B
-A0657,Small biotech,,Inside A
-A0658,Academic,,Inside A
-A0659,Small biotech,,Inside A
-A0660,Small biotech,,Inside A
-A0661,Academic,,Inside B
-A0662,Small biotech,,Inside A
-A0663,Mid-size pharma,,Outside B
-A0664,Academic,,Inside A
-A0665,Small biotech,,Inside B
-A0666,Academic,,Inside B
-A0667,Academic,A0425,Inside B
-A0668,Academic,,Inside B
-A0669,Academic,A0010,Inside B
-A0670,Academic,,Inside A
-A0671,Mid-size pharma,,Outside B
-A0672,Service lab,,Inside B
-A0673,Small biotech,,Inside A
-A0674,Mid-size pharma,,Outside A
-A0675,Academic,A0624,Inside A
-A0676,Academic,,Inside B
-A0677,Small biotech,,Inside B
-A0678,Mid-size pharma,,Outside B
-A0679,Small biotech,,Inside A
-A0680,Academic,,Inside B
-A0681,Academic,,Inside A
-A0682,Academic,,Inside A
-A0683,Mid-size pharma,,Outside B
-A0684,Mid-size pharma,,Outside A
-A0685,Academic,,Inside B
-A0686,Mid-size pharma,,Outside B
-A0687,Academic,,Inside B
-A0688,Mid-size pharma,,Outside B
-A0689,Service lab,,Inside A
-A0690,Small biotech,,Inside A
-A0691,Small biotech,,Inside A
-A0692,Academic,,Inside A
-A0693,Big pharma,,Outside A
-A0694,Academic,,Inside B
-A0695,Academic,,Inside B
-A0696,Mid-size pharma,,Outside B
-A0697,Small biotech,,Inside A
-A0698,Small biotech,,Inside A
-A0699,Small biotech,,Inside A
